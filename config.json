@@ -33,7 +33,6 @@
       "sources": [
         {"name": "Philosophy East and West", "url": "https://www.jstor.org/rss/journal/phileastwest.xml", "type": "journal"},
         {"name": "Dao Journal", "url": "https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11712", "type": "journal"},
-        {"name": "Frontiers of Philosophy in China", "url": "https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11467", "type": "journal"},
         {"name": "Asian Philosophy", "url": "https://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=casp20", "type": "journal"}
       ]
     }
@@ -53,6 +52,11 @@
     "report_time": "09:00"
   },
   "disabled_sources": {},
+  "disabled_sources": {
+    "asia": [
+      {"name": "Frontiers of Philosophy in China", "reason": "实为物理学期刊，非哲学内容", "url": "https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11467"}
+    ]
+  },
   "alternative_sources": {
     "notes": "潜在替代源 - 需要验证",
     "global": [
