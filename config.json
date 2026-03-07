@@ -1,0 +1,64 @@
+{
+  "project": "Atlas",
+  "description": "全球哲学研讨情报追踪系统",
+  "regions": {
+    "americas": {
+      "name": "美洲",
+      "sources": [
+        {"name": "Daily Nous", "url": "https://dailynous.com/feed/", "type": "blog"},
+        {"name": "PhilPapers", "url": "https://philpapers.org/rss/recent.xml", "type": "academic"},
+        {"name": "Stanford Encyclopedia of Philosophy", "url": "https://plato.stanford.edu/rss/sep.xml", "type": "encyclopedia"},
+        {"name": "Philosophy Now", "url": "https://philosophynow.org/rss", "type": "magazine"}
+      ]
+    },
+    "europe": {
+      "name": "欧洲",
+      "sources": [
+        {"name": "Philosophy Bites", "url": "https://philosophybites.com/atom.xml", "type": "podcast"},
+        {"name": "The Philosophers' Magazine", "url": "https://www.philosophersmag.com/feed/", "type": "magazine"},
+        {"name": "New Philosopher", "url": "https://www.newphilosopher.com/feed/", "type": "magazine"},
+        {"name": "LSE Philosophy Blog", "url": "https://blogs.lse.ac.uk/philosophy/feed/", "type": "academic"}
+      ]
+    },
+    "africa": {
+      "name": "非洲",
+      "sources": [
+        {"name": "African Philosophy", "url": "https://africanphilosophy.net/feed/", "type": "academic"},
+        {"name": "Philosophia Africana", "url": "https://philosophiaafricana.org/feed/", "type": "journal"},
+        {"name": "Thought and Practice", "url": "https://journals.co.za/rss/content/journals/tp/latestarticles.xml", "type": "journal"}
+      ]
+    },
+    "asia": {
+      "name": "亚洲",
+      "sources": [
+        {"name": "Philosophy East and West", "url": "https://www.jstor.org/rss/journal/phileastwest.xml", "type": "journal"},
+        {"name": "Dao Journal", "url": "https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11712", "type": "journal"},
+        {"name": "Frontiers of Philosophy in China", "url": "https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11467", "type": "journal"},
+        {"name": "Asian Philosophy", "url": "https://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=casp20", "type": "journal"}
+      ]
+    }
+  },
+  "keywords": [
+    "philosophy", "seminar", "conference", "symposium", "workshop",
+    "lecture", "colloquium", "forum", "discussion", "debate",
+    "ethics", "metaphysics", "epistemology", "logic", "aesthetics",
+    "political philosophy", "philosophy of mind", "philosophy of science",
+    "continental philosophy", "analytic philosophy", "eastern philosophy",
+    "western philosophy", "ancient philosophy", "modern philosophy",
+    "contemporary philosophy", "philosophical", "thinker", "scholar",
+    "哲学", "研讨会", "讲座", "论坛", "会议", "学术"
+  ],
+  "schedule": {
+    "fetch_time": "08:00",
+    "report_time": "09:00"
+  },
+  "disabled_sources": {},
+  "alternative_sources": {
+    "notes": "潜在替代源 - 需要验证",
+    "global": [
+      {"name": "APA Blog", "url": "https://blog.apaonline.org/feed/", "type": "association"},
+      {"name": "3:AM Magazine", "url": "https://www.3ammagazine.com/3am/feed/", "type": "magazine"},
+      {"name": "Aeon Philosophy", "url": "https://aeon.co/philosophy.rss", "type": "magazine"}
+    ]
+  }
+}

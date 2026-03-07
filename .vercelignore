@@ -1,0 +1,11 @@
+# This tells Vercel to use static output
+# Static site output directory
+web/
+
+# Exclude from deployment
+*.py
+*.sh
+*.db
+*.md
+reports/
+__pycache__/
