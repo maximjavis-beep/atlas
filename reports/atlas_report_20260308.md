@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-03-08  
-**来源**: 全球 3 个地区 · 7 个信源
+**来源**: 全球 3 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 70 条
+- **新增资讯**: 60 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -30,25 +30,6 @@
 
 - **[Commitment in the rational relativist perspective and zhi 志 in early Confucianism: Their roles in moral cultivation](https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2493454?af=R)**
   Volume 36, Issue 1, February 2026, Page 96-112....
-
-### 📰 Frontiers of Philosophy in China
-
-- **[Multi-conditioned controlled growth of CoBi nanostructures on SrTiO<sub>3</sub>](https://link.springer.com/article/10.1007/s11467-024-1423-6)**
-  Cobalt pnictides have been theoretically proposed to be attractive candidates for high-temperature superconductors. Addi...
-  *关键词: logic*
-
-- **[First-principles investigation of two-dimensional iron molybdenum nitride: A double transition-metal cousin of MoSi<sub>2</sub>N<sub>4</sub>(MoN) monolayer with distinctive electronic and topological properties](https://link.springer.com/article/10.1007/s11467-024-1431-6)**
-  As the homologous compounds of MoSi2N4, the MoSi2N4(MoN)n monolayers have been synthesized in a recent experiment. These...
-  *关键词: logic*
-
-- **[Key electronic parameters of 2<i>H</i>-stacking bilayer MoS<sub>2</sub> on sapphire substrate determined by terahertz magneto-optical measurement in Faraday geometry](https://link.springer.com/article/10.1007/s11467-024-1425-4)**
-  Bilayer (BL) transition metal dichalcogenides (TMDs) are important materials in valleytronics and twistronics. Here we s...
-
-- **[Temperature dependence of positive and negative magnetoresistances of tantalum-covered multiwalled carbon nanotubes](https://link.springer.com/article/10.1007/s11467-024-1432-5)**
-  Carbon nanotubes (CNTs) have garnered significant attention due to their remarkable electronic and magnetic properties. ...
-
-- **[Recent advances of light-field modulated operation in laser-induced breakdown spectroscopy](https://link.springer.com/article/10.1007/s11467-024-1436-1)**
-  The simplicity and low-cost way to improve qualitative and quantitative analytical performance has always been a crucial...
 
 ### 📰 Dao Journal
 
@@ -168,5 +149,5 @@ Changes to: Main text, Bibliography]
 
 ---
 
-*报告生成时间: 2026-03-08 01:57*  
+*报告生成时间: 2026-03-08 01:58*  
 *Atlas Intelligence System*
