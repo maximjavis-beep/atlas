@@ -19,7 +19,7 @@ PROJECT_DIR = Path(__file__).parent
 CONFIG_PATH = PROJECT_DIR / "config.json"
 DB_PATH = PROJECT_DIR / "data.db"
 REPORTS_DIR = PROJECT_DIR / "reports"
-WEB_DIR = PROJECT_DIR / "web"
+WEB_DIR = PROJECT_DIR / "atlas_website"
 
 def init_db():
     """初始化数据库"""
