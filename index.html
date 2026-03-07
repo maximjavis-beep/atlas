@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atlas 哲学研讨情报日报</title>
+    <meta name="description" content="全球哲学研讨情报追踪系统 - 覆盖美洲、欧洲、非洲、亚洲的哲学学术动态">
+    <!-- Open Graph 元标签 -->
+    <meta property="og:title" content="🧠 Atlas 哲学研讨情报日报">
+    <meta property="og:description" content="全球哲学研讨情报追踪系统 - 每日更新哲学学术资讯">
+    <meta property="og:image" content="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop">
+    <meta property="og:url" content="https://atlas-philosophy.vercel.app/">
+    <meta property="og:type" content="website">
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="🧠 Atlas 哲学研讨情报日报">
+    <meta name="twitter:description" content="全球哲学研讨情报追踪系统">
+    <meta name="twitter:image" content="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .container { max-width: 1200px; margin: 0 auto; }
+        header {
+            text-align: center;
+            padding: 40px 20px;
+            color: white;
+        }
+        header h1 { font-size: 2.5em; margin-bottom: 10px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); }
+        header p { font-size: 1.1em; opacity: 0.9; }
+        .update-time {
+            background: rgba(255,255,255,0.2);
+            display: inline-block;
+            padding: 8px 20px;
+            border-radius: 20px;
+            margin-top: 15px;
+            font-size: 0.9em;
+        }
+        .card {
+            background: white;
+            border-radius: 16px;
+            padding: 30px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+        }
+        .card h2 {
+            color: #1a1a2e;
+            margin: 30px 0 20px 0;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #0f3460;
+            font-size: 1.5em;
+        }
+        .card h2:first-child { margin-top: 0; }
+        
+        /* 信源区块样式 */
+        .source-section {
+            background: #fafafa;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-left: 4px solid #0f3460;
+        }
+        .source-name {
+            color: #16213e;
+            font-size: 1.2em;
+            margin-bottom: 15px;
+            padding-left: 10px;
+            border-left: 3px solid #16213e;
+        }
+        
+        /* 图片响应式 - 确保在各种设备上都能正常显示 */
+        .card img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin: 10px 0;
+            display: block;
+        }
+
+        /* 信源图片容器 - 自适应屏幕 */
+        .source-image {
+            margin: 15px 0;
+            text-align: center;
+            width: 100%;
+            overflow: hidden;
+            border-radius: 8px;
+            background: #f5f5f5;
+        }
+
+        /* 信源图片 - 保持比例自适应 */
+        .source-image img {
+            width: 100%;
+            max-height: 300px;
+            height: auto;
+            object-fit: contain;
+            display: block;
+            margin: 0 auto;
+        }
+
+        /* 文章内图片 - 响应式 */
+        .article-image {
+            margin: 10px 0;
+            width: 100%;
+            border-radius: 6px;
+            overflow: hidden;
+            background: #f5f5f5;
+        }
+        .article-image img {
+            width: 100%;
+            height: auto;
+            max-height: 250px;
+            object-fit: contain;
+            display: block;
+        }
+        
+        /* 文章列表 */
+        .article-list {
+            list-style: none;
+            padding: 0;
+            margin: 15px 0 0 0;
+        }
+        .article-list li {
+            padding: 10px 0;
+            border-bottom: 1px solid #eee;
+            color: #555;
+            font-size: 0.95em;
+        }
+        .article-list li:last-child {
+            border-bottom: none;
+        }
+        .article-title {
+            color: #0f3460;
+            text-decoration: none;
+            font-weight: 600;
+            display: block;
+            margin-bottom: 5px;
+        }
+        .article-title:hover {
+            color: #16213e;
+            text-decoration: underline;
+        }
+        .article-desc {
+            color: #666;
+            font-size: 0.9em;
+            margin: 5px 0;
+        }
+        
+        hr {
+            border: none;
+            border-top: 2px solid #e0e0e0;
+            margin: 30px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 30px;
+            color: rgba(255,255,255,0.8);
+            font-size: 0.9em;
+        }
+        
+        /* 移动端优化 */
+        @media (max-width: 768px) {
+            body { padding: 10px; }
+            header { padding: 20px 10px; }
+            header h1 { font-size: 1.5em; margin-bottom: 5px; }
+            header p { font-size: 0.9em; }
+            .update-time { padding: 5px 12px; font-size: 0.8em; margin-top: 10px; }
+            .card { padding: 15px; border-radius: 12px; }
+            .card h2 { font-size: 1.2em; margin: 20px 0 15px 0; padding-bottom: 8px; }
+            
+            .source-section { padding: 12px; margin-bottom: 15px; }
+            .source-name { font-size: 1em; margin-bottom: 10px; padding-left: 8px; }
+            
+            /* 移动端图片 - 自适应 */
+            .source-image {
+                margin: 10px 0;
+                border-radius: 6px;
+            }
+            .source-image img {
+                max-height: 200px;
+                width: 100%;
+            }
+            .article-image {
+                margin: 8px 0;
+            }
+            .article-image img {
+                max-height: 180px;
+            }
+            
+            .article-list { margin-top: 10px; }
+            .article-list li { padding: 8px 0; font-size: 0.9em; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🧠 Atlas 哲学研讨情报日报</h1>
+            <p>全球哲学研讨情报追踪系统</p>
+            <div class="update-time">更新时间: 2026年03月08日 01:05</div>
+        </header>
+        
+        <div class="card">
+            <p class="meta-info">日期: 2026-03-08</p>
+<p class="meta-info">来源: 全球 3 个地区 · 7 个信源</p>
+<hr>
+<h2>📊 今日概览</h2>
+<ul class="article-list">
+<li><strong>新增资讯</strong>: 70 条</li>
+<li><strong>重点关键词</strong>: 研讨会、讲座、论坛、学术会议</li>
+</ul>
+<hr>
+<h2>🌍 亚洲</h2>
+<div class="source-section">
+<h3 class="source-name">📰 Asian Philosophy</h3>
+<ul class="article-list">
+<li><a href="https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2506912?af=R" target="_blank" class="article-title">In search for Mingjia thought – name, reference and referent in the Yinwenzi</a></li>
+</ul>
+<p class="article-desc">....</p>
+<ul class="article-list">
+<li><a href="https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2506920?af=R" target="_blank" class="article-title">Intuitions in epistemic thought experiments east and west: What went wrong?</a></li>
+</ul>
+<p class="article-desc">....</p>
+<ul class="article-list">
+<li><a href="https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2500203?af=R" target="_blank" class="article-title">How reductive is Buddhist reductionism in the Nikāya Suttas?</a></li>
+</ul>
+<p class="article-desc">....</p>
+<ul class="article-list">
+<li><a href="https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2500201?af=R" target="_blank" class="article-title">The grounds of Zhuangzi’s hostility to Confucian self-cultivation</a></li>
+</ul>
+<p class="article-desc">Volume 36, Issue 1, February 2026, Page 113-126....</p>
+<ul class="article-list">
+<li><a href="https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2493454?af=R" target="_blank" class="article-title">Commitment in the rational relativist perspective and zhi 志 in early Confucianism: Their roles in moral cultivation</a></li>
+</ul>
+<p class="article-desc">Volume 36, Issue 1, February 2026, Page 96-112....</p>
+</div>
+<div class="source-section">
+<h3 class="source-name">📰 Frontiers of Philosophy in China</h3>
+<ul class="article-list">
+<li><a href="https://link.springer.com/article/10.1007/s11467-024-1423-6" target="_blank" class="article-title">Multi-conditioned controlled growth of CoBi nanostructures on SrTiO<sub>3</sub></a></li>
+</ul>
+<p class="article-desc">Cobalt pnictides have been theoretically proposed to be attractive candidates for high-temperature superconductors. Addi...</p>
+<p class="article-desc">*关键词: logic*</p>
+<ul class="article-list">
+<li><a href="https://link.springer.com/article/10.1007/s11467-024-1431-6" target="_blank" class="article-title">First-principles investigation of two-dimensional iron molybdenum nitride: A double transition-metal cousin of MoSi<sub>2</sub>N<sub>4</sub>(MoN) monolayer with distinctive electronic and topological properties</a></li>
+</ul>
+<p class="article-desc">As the homologous compounds of MoSi2N4, the MoSi2N4(MoN)n monolayers have been synthesized in a recent experiment. These...</p>
+<p class="article-desc">*关键词: logic*</p>
+<ul class="article-list">
+<li><a href="https://link.springer.com/article/10.1007/s11467-024-1425-4" target="_blank" class="article-title">Key electronic parameters of 2<i>H</i>-stacking bilayer MoS<sub>2</sub> on sapphire substrate determined by terahertz magneto-optical measurement in Faraday geometry</a></li>
+</ul>
+<p class="article-desc">Bilayer (BL) transition metal dichalcogenides (TMDs) are important materials in valleytronics and twistronics. Here we s...</p>
+<ul class="article-list">
+<li><a href="https://link.springer.com/article/10.1007/s11467-024-1432-5" target="_blank" class="article-title">Temperature dependence of positive and negative magnetoresistances of tantalum-covered multiwalled carbon nanotubes</a></li>
+</ul>
+<p class="article-desc">Carbon nanotubes (CNTs) have garnered significant attention due to their remarkable electronic and magnetic properties. ...</p>
+<ul class="article-list">
+<li><a href="https://link.springer.com/article/10.1007/s11467-024-1436-1" target="_blank" class="article-title">Recent advances of light-field modulated operation in laser-induced breakdown spectroscopy</a></li>
+</ul>
+<p class="article-desc">The simplicity and low-cost way to improve qualitative and quantitative analytical performance has always been a crucial...</p>
+</div>
+<div class="source-section">
+<h3 class="source-name">📰 Dao Journal</h3>
+<ul class="article-list">
+<li><a href="https://link.springer.com/article/10.1007/s11712-025-10038-3" target="_blank" class="article-title">Vermander, Benoît, <i>Textual Patterns and Cosmic Designs in Early China</i></a></li>
+</ul>
+<p class="article-desc">...</p>
+<ul class="article-list">
+<li><a href="https://link.springer.com/article/10.1007/s11712-025-10035-6" target="_blank" class="article-title">Gong, Zhichong 宮志翀, <i>Humans Are Born from Heaven: A Study of Kang Youwei’s Three Ages Theory </i>人為天生: 康有為三世說研究</a></li>
+</ul>
+<p class="article-desc">...</p>
+<ul class="article-list">
+<li><a href="https://link.springer.com/article/10.1007/s11712-025-10036-5" target="_blank" class="article-title">Marchal, Kai, <i>Im Spiegel der All‑Einheit: Selbst‑ und Weltbezug im chinesischen Mittelalter</i></a></li>
+</ul>
+<p class="article-desc">...</p>
+<ul class="article-list">
+<li><a href="https://link.springer.com/article/10.1007/s11712-025-10027-6" target="_blank" class="article-title">Confucian Virtues for Democratic Leadership</a></li>
+</ul>
+<p class="article-desc">Modern representative democracy is an uneasy compromise between the respect for popular sovereignty and the need for eff...</p>
+<ul class="article-list">
+<li><a href="https://link.springer.com/article/10.1007/s11712-025-10033-8" target="_blank" class="article-title">State of the Field Report XVII: Contemporary Chinese Studies of Confucian Political Meritocracy in Mainland China</a></li>
+</ul>
+<p class="article-desc">This paper provides a systematic review of recent Mainland Chinese scholarship on Confucian political meritocracy, exami...</p>
+<p class="article-desc">*关键词: philosophy, political philosophy, scholar*</p>
+</div>
+<h2>🌍 欧洲</h2>
+<div class="source-section">
+<h3 class="source-name">📰 The Philosophers' Magazine</h3>
+<ul class="article-list">
+<li><a href="https://philosophersmag.com/time-passes/" target="_blank" class="article-title">Time Passes</a></li>
+</ul>
+<p class="article-desc">Matias Slavov argues that, for all that special relativity shows, time passes.</p>
+<p class="article-desc">The post Time Passes first appeared on Th...</p>
+<ul class="article-list">
+<li><a href="https://philosophersmag.com/forfeiture-of-rights/" target="_blank" class="article-title">Forfeiture of Rights</a></li>
+</ul>
+<p class="article-desc">Miroslav Imbrišević pursues Nicola Sturgeon's suggestion that some criminals forfeit their rights.</p>
+<p class="article-desc">The post Forfeiture o...</p>
+<ul class="article-list">
+<li><a href="https://philosophersmag.com/cribs-and-hunters/" target="_blank" class="article-title">Cribs and Hunters</a></li>
+</ul>
+<p class="article-desc">E. E. Sheng considers the meteoric rise of the notion of self-plagiarism.</p>
+<p class="article-desc">The post Cribs and Hunters first appeared on T...</p>
+<ul class="article-list">
+<li><a href="https://philosophersmag.com/45-years-of-french-philosophy/" target="_blank" class="article-title">45 Years of French Philosophy</a></li>
+</ul>
+<p class="article-desc">Vincent Descombes looks back on his history of French philosophy from 1933 to 1978.</p>
+<p class="article-desc">The post 45 Years of French Philosop...</p>
+<p class="article-desc">*关键词: philosophy*</p>
+<ul class="article-list">
+<li><a href="https://philosophersmag.com/a-just-so-story/" target="_blank" class="article-title">A Just-So Story</a></li>
+</ul>
+<p class="article-desc">Pascal Engel critically reviews 'A Social History of Analytic Philosophy' by Christoph Schuringa.</p>
+<p class="article-desc">The post A Just-So Sto...</p>
+<p class="article-desc">*关键词: philosophy, analytic philosophy*</p>
+</div>
+<h2>🌍 美洲</h2>
+<div class="source-section">
+<h3 class="source-name">📰 Philosophy Now</h3>
+<ul class="article-list">
+<li><a href="https://philosophynow.org/issues/172/A_Very_Short_History_of_Critical_Thinking" target="_blank" class="article-title">A Very Short History of Critical Thinking</a></li>
+</ul>
+<p class="article-desc">Luc de Brabandere summarises a long history through key figures of thought....</p>
+<ul class="article-list">
+<li><a href="https://philosophynow.org/issues/172/Gyara_Is_All_There_Is" target="_blank" class="article-title">Gyara Is All There Is</a></li>
+</ul>
+<p class="article-desc">by John Gray...</p>
+<ul class="article-list">
+<li><a href="https://philosophynow.org/issues/172/The_Post_Paralysis_Peace_Paradox" target="_blank" class="article-title">The Post Paralysis Peace Paradox</a></li>
+</ul>
+<p class="article-desc">Cassandra Brandt offers the reflections of a sedentary Stoic....</p>
+<ul class="article-list">
+<li><a href="https://philosophynow.org/issues/172/Ancient_Synergy" target="_blank" class="article-title">Ancient Synergy</a></li>
+</ul>
+<p class="article-desc">Yolanda De Iuliis looks at how Roman Mithraism incorporated Stoic philosophy....</p>
+<p class="article-desc">*关键词: philosophy*</p>
+<ul class="article-list">
+<li><a href="https://philosophynow.org/issues/172/The_Educational_Philosophy_of_Quintilian" target="_blank" class="article-title">The Educational Philosophy of Quintilian</a></li>
+</ul>
+<p class="article-desc">Philip Vassallo learns from a classic of Classical education....</p>
+<p class="article-desc">*关键词: philosophy*</p>
+</div>
+<div class="source-section">
+<h3 class="source-name">📰 Stanford Encyclopedia of Philosophy</h3>
+<ul class="article-list">
+<li><a href="https://plato.stanford.edu/entries/natural-deduction/" target="_blank" class="article-title">Natural Deduction Systems in Logic</a></li>
+</ul>
+<p class="article-desc">[Revised entry by Francis Jeffry Pelletier and Allen Hazen on February 24, 2026.</p>
+<p class="article-desc">Changes to: Main text, Bibliography, f...</p>
+<p class="article-desc">*关键词: logic*</p>
+<ul class="article-list">
+<li><a href="https://plato.stanford.edu/entries/liberalism/" target="_blank" class="article-title">Liberalism</a></li>
+</ul>
+<p class="article-desc">[Revised entry by Shane D. Courtland, Gerald Gaus, and David Schmidtz on February 25, 2026.</p>
+<p class="article-desc">Changes to: Main text, Bibl...</p>
+<p class="article-desc">*关键词: debate*</p>
+<ul class="article-list">
+<li><a href="https://plato.stanford.edu/entries/chinese-painting-calligraphy/" target="_blank" class="article-title">Aesthetics in Chinese Philosophy: Painting and Calligraphy</a></li>
+</ul>
+<p class="article-desc">[New Entry by Yolaine Escande on February 25, 2026.]</p>
+<p class="article-desc">Although there is no word such as "aesthetics" in Chinese philosop...</p>
+<p class="article-desc">*关键词: philosophy, aesthetics*</p>
+<ul class="article-list">
+<li><a href="https://plato.stanford.edu/entries/fine-tuning/" target="_blank" class="article-title">Fine-Tuning</a></li>
+</ul>
+<p class="article-desc">[Revised entry by Simon Friederich on February 26, 2026.</p>
+<p class="article-desc">Changes to: Main text, Bibliography]</p>
+<p class="article-desc">The term fine-tuning ref...</p>
+<ul class="article-list">
+<li><a href="https://plato.stanford.edu/entries/disability-well-being/" target="_blank" class="article-title">Disability and Well-Being</a></li>
+</ul>
+<p class="article-desc">[New Entry by Stephen M. Campbell, Joseph A. Stramondo, and David Wasserman on February 27, 2026.]</p>
+<p class="article-desc">Until recently, disa...</p>
+</div>
+<div class="source-section">
+<h3 class="source-name">📰 Daily Nous</h3>
+<ul class="article-list">
+<li><a href="https://dailynous.com/2026/03/02/online-philosophy-resources-weekly-update-425/" target="_blank" class="article-title">Online Philosophy Resources Weekly Update</a></li>
+</ul>
+<p class="article-desc">This is the weekly report on new and revised entries at online philosophy resources, new reviews of philosophy books, ne...</p>
+<p class="article-desc">*关键词: philosophy, epistemology, logic*</p>
+<ul class="article-list">
+<li><a href="https://dailynous.com/2026/03/02/dagfinn-follesdal-1932-2026/" target="_blank" class="article-title">Dagfinn Føllesdal (1932-2026)</a></li>
+</ul>
+<p class="article-desc">Dagfinn Føllesdal, professor of philosophy emeritus at Stanford University and the University of Oslo, has died. Profess...</p>
+<p class="article-desc">*关键词: philosophy, lecture, debate*</p>
+<ul class="article-list">
+<li><a href="https://dailynous.com/2026/03/02/discussion-arcs-for-topics-and-philosophers-guest-post/" target="_blank" class="article-title">Discussion Arcs for Topics and Philosophers (guest post)</a></li>
+</ul>
+<p class="article-desc">When over the past 85 years have certain terms and persons been more or less frequently discussed in the philosophical l...</p>
+<p class="article-desc">*关键词: philosophy, discussion, ethics*</p>
+<ul class="article-list">
+<li><a href="https://dailynous.com/2026/03/03/elizabeth-v-spelman-1945-2025/" target="_blank" class="article-title">Elizabeth V. Spelman (1945-2025)</a></li>
+</ul>
+<p class="article-desc">Elizabeth &#8220;Vicky&#8221; Spelman, professor of philosophy at Smith College, died this past December. Professor Spel...</p>
+<p class="article-desc">*关键词: philosophy, ethics, philosophical*</p>
+<ul class="article-list">
+<li><a href="https://dailynous.com/2026/03/03/mini-heap-705/" target="_blank" class="article-title">Mini-Heap</a></li>
+</ul>
+<p class="article-desc">Items of interest elsewhere&#8230; &#160; “I really don’t know how it happened, how it is that I came to feel myself equ...</p>
+<p class="article-desc">*关键词: philosophy, philosophical*</p>
+</div>
+<hr>
+<p class="article-desc">*报告生成时间: 2026-03-08 01:05*</p>
+<p class="article-desc">*Atlas Intelligence System*</p>
+        </div>
+        
+        <footer>
+            <p>Atlas Intelligence System</p>
+        </footer>
+    </div>
+</body>
+</html>
