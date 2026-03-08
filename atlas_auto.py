@@ -629,7 +629,13 @@ def update_website():
     with open(index_path, 'w', encoding='utf-8') as f:
         f.write(html_content)
     
+    # 同时复制到根目录的 index.html（Vercel 部署需要）
+    root_index = PROJECT_DIR / "index.html"
+    with open(root_index, 'w', encoding='utf-8') as f:
+        f.write(html_content)
+    
     print(f"  ✅ 网站已更新: {index_path}")
+    print(f"  ✅ 根目录 index.html 已同步")
     return index_path
 
 def generate_pdf():
