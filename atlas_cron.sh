@@ -12,7 +12,7 @@ echo "========== Atlas 更新开始: $(date) ==========" >> "$LOG_FILE"
 
 # 执行完整流程（抓取 RSS、生成报告、更新网站、生成 PDF、部署）
 echo "[$(date +%H:%M:%S)] 执行完整 Atlas 更新流程..." >> "$LOG_FILE"
-python3 atlas_auto.py --all >> "$LOG_FILE" 2>&1
+/opt/homebrew/bin/python3 atlas_auto.py --all >> "$LOG_FILE" 2>&1
 if [ $? -eq 0 ]; then
     echo "[$(date +%H:%M:%S)] ✅ Atlas 更新流程完成" >> "$LOG_FILE"
 else
