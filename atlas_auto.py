@@ -59,6 +59,42 @@ def check_keywords(text, keywords):
             matched.append(kw)
     return matched
 
+def extract_images_from_entry(entry):
+    """从 feedparser entry 的所有可能字段中提取图片 URL"""
+    img_urls = []
+
+    for m in entry.get('media_content', []):
+        url = m.get('url', '')
+        medium = m.get('medium', '')
+        if url and (medium in ('image', '') or re.search(r'\.(jpg|jpeg|png|webp|gif)', url, re.I)):
+            img_urls.append(url)
+
+    for t in entry.get('media_thumbnail', []):
+        url = t.get('url', '')
+        if url:
+            img_urls.append(url)
+
+    for enc in entry.get('enclosures', []):
+        if enc.get('type', '').startswith('image'):
+            img_urls.append(enc.get('href', enc.get('url', '')))
+
+    for c in entry.get('content', []):
+        found = re.findall(r'<img[^>]+src=["\']([^"\']+)["\']', c.get('value', ''))
+        img_urls.extend(found)
+
+    raw_summary = entry.get('summary', entry.get('description', ''))
+    found = re.findall(r'<img[^>]+src=["\']([^"\']+)["\']', raw_summary)
+    img_urls.extend(found)
+
+    seen = set()
+    unique = []
+    for u in img_urls:
+        if u and u not in seen:
+            seen.add(u)
+            unique.append(u)
+    return unique
+
+
 def extract_image_from_summary(summary):
     """从摘要中提取图片 URL - 只取第一张"""
     img_matches = re.findall(r'<img[^>]+src=["\']([^"\']+)["\']', summary)
@@ -84,11 +120,17 @@ def fetch_feed(name, url, region, keywords, max_items=10):
         for entry in feed.entries[:max_items]:
             title = entry.get("title", "")
             summary = entry.get("summary", entry.get("description", ""))
-            
+
+            # 如果 summary 中没有图片，从媒体字段提取并注入
+            if not re.search(r'<img', summary or ''):
+                img_urls = extract_images_from_entry(entry)
+                if img_urls:
+                    summary = f'<img src="{img_urls[0]}" />' + (summary or '')
+
             # 检查关键词
             content = f"{title} {summary}"
             matched = check_keywords(content, keywords)
-            
+
             article = {
                 "id": hashlib.md5(f"{title}{url}".encode()).hexdigest(),
                 "title": title,
