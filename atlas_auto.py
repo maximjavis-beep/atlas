@@ -396,11 +396,18 @@ def markdown_to_html(md_path):
             in_source_section = True
             continue
         
-        # 处理 Markdown 图片格式 ![alt](url)
+        # 处理 Markdown 图片格式 ![alt](url) - 使用新的图片容器
         img_match = re.match(r'!\[(.+?)\]\((.+?)\)', stripped)
         if img_match:
             alt_text, img_url = img_match.groups()
-            html_lines.append(f'<div class="source-image"><img src="{img_url}" alt="{alt_text}" loading="lazy"></div>')
+            html_lines.append(f'''<div class="source-image">
+                <div class="img-container">
+                    <img src="{img_url}" alt="{alt_text}" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>''')
             continue
         
         # 处理列表项（文章列表）
@@ -522,40 +529,83 @@ def markdown_to_html(md_path):
             display: block;
         }}
 
-        /* 信源图片容器 - 自适应屏幕 */
+        /* ===== 图片容器和自适应样式 ===== */
+        .img-container {{
+            position: relative;
+            width: 100%;
+            max-width: 100%;
+            margin: 12px 0;
+            border-radius: 12px;
+            overflow: hidden;
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%);
+            min-height: 120px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }}
+        
+        .img-container.img-loaded {{
+            background: transparent;
+            min-height: auto;
+        }}
+        
+        .img-container.img-error {{
+            background: #f0f0f0;
+            min-height: 80px;
+        }}
+        
+        .content-img {{
+            width: 100%;
+            max-width: 100%;
+            height: auto;
+            max-height: 400px;
+            object-fit: cover;
+            object-position: center;
+            border-radius: 12px;
+            display: block;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }}
+        
+        .img-container.img-loaded .content-img {{
+            opacity: 1;
+        }}
+        
+        .img-container.img-error .content-img {{
+            display: none;
+        }}
+        
+        .img-placeholder {{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 2em;
+            opacity: 0.5;
+            transition: opacity 0.3s ease;
+        }}
+        
+        .img-container.img-loaded .img-placeholder {{
+            opacity: 0;
+            pointer-events: none;
+        }}
+        
+        .img-container.img-error .img-placeholder {{
+            opacity: 0.3;
+            font-size: 1.5em;
+        }}
+        
+        /* 信源图片容器 */
         .source-image {{
             margin: 15px 0;
-            text-align: center;
-            width: 100%;
-            overflow: hidden;
-            border-radius: 8px;
-            background: #f5f5f5;
         }}
-
-        /* 信源图片 - 保持比例自适应 */
-        .source-image img {{
-            width: 100%;
+        
+        .source-image .img-container {{
+            min-height: 150px;
+        }}
+        
+        .source-image .content-img {{
             max-height: 300px;
-            height: auto;
-            object-fit: contain;
-            display: block;
-            margin: 0 auto;
-        }}
-
-        /* 文章内图片 - 响应式 */
-        .article-image {{
-            margin: 10px 0;
-            width: 100%;
-            border-radius: 6px;
-            overflow: hidden;
-            background: #f5f5f5;
-        }}
-        .article-image img {{
-            width: 100%;
-            height: auto;
-            max-height: 250px;
-            object-fit: contain;
-            display: block;
         }}
         
         /* 文章列表 */
@@ -627,9 +677,11 @@ def markdown_to_html(md_path):
             .article-image {{
                 margin: 8px 0;
             }}
-            .article-image img {{
-                max-height: 180px;
-            }}
+            /* 移动端图片 - 自适应 */
+            .content-img {{ max-height: 300px; }}
+            .img-container {{ min-height: 100px; border-radius: 8px; }}
+            .source-image .img-container {{ min-height: 80px; }}
+            .source-image .content-img {{ max-height: 200px; }}
             
             .article-list {{ margin-top: 10px; }}
             .article-list li {{ padding: 8px 0; font-size: 0.9em; }}

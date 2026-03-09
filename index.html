@@ -82,40 +82,83 @@
             display: block;
         }
 
-        /* 信源图片容器 - 自适应屏幕 */
+        /* ===== 图片容器和自适应样式 ===== */
+        .img-container {
+            position: relative;
+            width: 100%;
+            max-width: 100%;
+            margin: 12px 0;
+            border-radius: 12px;
+            overflow: hidden;
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%);
+            min-height: 120px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .img-container.img-loaded {
+            background: transparent;
+            min-height: auto;
+        }
+        
+        .img-container.img-error {
+            background: #f0f0f0;
+            min-height: 80px;
+        }
+        
+        .content-img {
+            width: 100%;
+            max-width: 100%;
+            height: auto;
+            max-height: 400px;
+            object-fit: cover;
+            object-position: center;
+            border-radius: 12px;
+            display: block;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        
+        .img-container.img-loaded .content-img {
+            opacity: 1;
+        }
+        
+        .img-container.img-error .content-img {
+            display: none;
+        }
+        
+        .img-placeholder {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 2em;
+            opacity: 0.5;
+            transition: opacity 0.3s ease;
+        }
+        
+        .img-container.img-loaded .img-placeholder {
+            opacity: 0;
+            pointer-events: none;
+        }
+        
+        .img-container.img-error .img-placeholder {
+            opacity: 0.3;
+            font-size: 1.5em;
+        }
+        
+        /* 信源图片容器 */
         .source-image {
             margin: 15px 0;
-            text-align: center;
-            width: 100%;
-            overflow: hidden;
-            border-radius: 8px;
-            background: #f5f5f5;
         }
-
-        /* 信源图片 - 保持比例自适应 */
-        .source-image img {
-            width: 100%;
+        
+        .source-image .img-container {
+            min-height: 150px;
+        }
+        
+        .source-image .content-img {
             max-height: 300px;
-            height: auto;
-            object-fit: contain;
-            display: block;
-            margin: 0 auto;
-        }
-
-        /* 文章内图片 - 响应式 */
-        .article-image {
-            margin: 10px 0;
-            width: 100%;
-            border-radius: 6px;
-            overflow: hidden;
-            background: #f5f5f5;
-        }
-        .article-image img {
-            width: 100%;
-            height: auto;
-            max-height: 250px;
-            object-fit: contain;
-            display: block;
         }
         
         /* 文章列表 */
@@ -187,9 +230,11 @@
             .article-image {
                 margin: 8px 0;
             }
-            .article-image img {
-                max-height: 180px;
-            }
+            /* 移动端图片 - 自适应 */
+            .content-img { max-height: 300px; }
+            .img-container { min-height: 100px; border-radius: 8px; }
+            .source-image .img-container { min-height: 80px; }
+            .source-image .content-img { max-height: 200px; }
             
             .article-list { margin-top: 10px; }
             .article-list li { padding: 8px 0; font-size: 0.9em; }
@@ -201,11 +246,11 @@
         <header>
             <h1>🧠 Atlas 哲学研讨情报日报</h1>
             <p>全球哲学研讨情报追踪系统</p>
-            <div class="update-time">更新时间: 2026年03月09日 22:20</div>
+            <div class="update-time">更新时间: 2026年03月10日 00:50</div>
         </header>
         
         <div class="card">
-            <p class="meta-info">日期: 2026-03-09</p>
+            <p class="meta-info">日期: 2026-03-10</p>
 <p class="meta-info">来源: 全球 1 个地区 · 1 个信源</p>
 <hr>
 <h2>📊 今日概览</h2>
@@ -217,13 +262,27 @@
 <h2>🌍 美洲</h2>
 <div class="source-section">
 <h3 class="source-name">📰 Daily Nous</h3>
-<div class="source-image"><img src="https://dailynous.com/wp-content/uploads/2026/03/xomatok-sidewalk.jpg" alt="Philosophy, Especially, Should Welcome Demographic Diversity" loading="lazy"></div>
+<div class="source-image">
+                <div class="img-container">
+                    <img src="https://dailynous.com/wp-content/uploads/2026/03/xomatok-sidewalk.jpg" alt="Philosophy, Especially, Should Welcome Demographic Diversity" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>
 <ul class="article-list">
 <li><a href="https://dailynous.com/2026/03/09/philosophy-especially-should-welcome-demographic-diversity/" target="_blank" class="article-title">Philosophy, Especially, Should Welcome Demographic Diversity</a></li>
 </ul>
 <p class="article-desc">&#8220;Philosophy is a dialectical discipline that thrives in the clash, reconciliation, and creative synthesis of diver...</p>
 <p class="article-desc">*关键词: philosophy, philosophical*</p>
-<div class="source-image"><img src="https://dailynous.com/wp-content/uploads/2026/03/university-leipzig.jpg" alt="New: Free MA Program in Philosophy" loading="lazy"></div>
+<div class="source-image">
+                <div class="img-container">
+                    <img src="https://dailynous.com/wp-content/uploads/2026/03/university-leipzig.jpg" alt="New: Free MA Program in Philosophy" class="content-img" loading="lazy" referrerpolicy="no-referrer"
+                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
+                         onload="this.parentElement.classList.add('img-loaded');">
+                    <div class="img-placeholder">📷</div>
+                </div>
+            </div>
 <ul class="article-list">
 <li><a href="https://dailynous.com/2026/03/09/new-free-ma-program-in-philosophy/" target="_blank" class="article-title">New: Free MA Program in Philosophy</a></li>
 </ul>
@@ -231,7 +290,7 @@
 <p class="article-desc">*关键词: philosophy, philosophical*</p>
 </div>
 <hr>
-<p class="article-desc">*报告生成时间: 2026-03-09 22:20*</p>
+<p class="article-desc">*报告生成时间: 2026-03-10 00:50*</p>
 <p class="article-desc">*Atlas Intelligence System*</p>
         </div>
         
