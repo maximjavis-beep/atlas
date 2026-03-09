@@ -20,6 +20,7 @@ CONFIG_PATH = PROJECT_DIR / "config.json"
 DB_PATH = PROJECT_DIR / "data.db"
 REPORTS_DIR = PROJECT_DIR / "reports"
 WEB_DIR = PROJECT_DIR / "web"
+PDF_DIR = Path.home() / "Atlas"  # PDF 保存到本地 Atlas 文件夹
 
 def init_db():
     """初始化数据库"""
@@ -762,9 +763,9 @@ def generate_pdf():
     date_folder = now.strftime("%Y%m%d")
     time_suffix = now.strftime("%H%M")
     
-    # 目标文件夹
-    pdf_dir = REPORTS_DIR / date_folder
-    pdf_dir.mkdir(exist_ok=True)
+    # 目标文件夹改为本地 ~/Atlas
+    pdf_dir = PDF_DIR / date_folder
+    pdf_dir.mkdir(parents=True, exist_ok=True)
     
     pdf_filename = f"atlas_{date_folder}_{time_suffix}.pdf"
     pdf_path = pdf_dir / pdf_filename
@@ -772,7 +773,7 @@ def generate_pdf():
     # 执行转换
     try:
         result = subprocess.run(
-            ["node", str(puppeteer_script), str(html_path), str(pdf_path)],
+            ["/opt/homebrew/bin/node", str(puppeteer_script), str(html_path), str(pdf_path)],
             capture_output=True,
             text=True,
             timeout=60
@@ -783,26 +784,6 @@ def generate_pdf():
             return None
         
         print(f"  ✅ PDF 已生成: {pdf_path}")
-        
-        # 生成 latest_XX.pdf 序列号文件
-        import glob
-        existing_latest = glob.glob(str(pdf_dir / "atlas_latest_*.pdf"))
-        next_num = 1
-        for f in existing_latest:
-            try:
-                num = int(Path(f).stem.replace("atlas_latest_", ""))
-                if num >= next_num:
-                    next_num = num + 1
-            except ValueError:
-                continue
-        
-        latest_filename = f"atlas_latest_{next_num:02d}.pdf"
-        latest_path = pdf_dir / latest_filename
-        
-        # 复制为 latest 版本
-        import shutil
-        shutil.copy2(pdf_path, latest_path)
-        print(f"  ✅ 序列号文件已生成: {latest_path}")
         
         return pdf_path
     except Exception as e:
