@@ -1,18 +1,25 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-03-10  
-**来源**: 全球 1 个地区 · 1 个信源
+**来源**: 全球 1 个地区 · 2 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 2 条
+- **新增资讯**: 3 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
 
 ## 🌍 美洲
+
+### 📰 Stanford Encyclopedia of Philosophy
+
+- **[Ottobah Cugoano](https://plato.stanford.edu/entries/cugoano/)**
+  [New Entry by Antonia LoLordo on March 9, 2026.]
+ Recent years have seen a surge of philosophical interest in Cugoano's ...
+  *关键词: philosophy, debate, epistemology*
 
 ### 📰 Daily Nous
 
@@ -31,5 +38,5 @@
 
 ---
 
-*报告生成时间: 2026-03-10 01:25*  
+*报告生成时间: 2026-03-10 07:05*  
 *Atlas Intelligence System*
