@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 167 条
+- **新增资讯**: 172 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -86,30 +86,30 @@
 
 ### 📰 The New European
 
+![Trump’s Iran war has broken the world](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/LAMBERT-6months.jpg)
+
+- **[Trump’s Iran war has broken the world](https://www.thenewworld.co.uk/richard-lambert-trumps-iran-war-has-broken-the-world/)**
+  If we look six months into the future, the consequences of this conflict for Iran, the region and for the world all look...
+
+![How Brexit could come back to bite Sunderland](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/BLOOM-nissan-brexit-1.jpg)
+
+- **[How Brexit could come back to bite Sunderland](https://www.thenewworld.co.uk/jonty-bloom-how-brexit-could-come-back-to-bite-sunderland/)**
+  A decade after Leavers celebrated a key referendum result, the city’s Nissan car plant is in danger again...
+
+![Shameless Mandelson could still finish Starmer](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/BALL-mandelson.jpg)
+
+- **[Shameless Mandelson could still finish Starmer](https://www.thenewworld.co.uk/james-ball-shameless-mandelson-could-still-finish-starmer/)**
+  New revelations about the disgraced peer’s chutzpah - and his payoff demands - again call into question the prime minist...
+
+![Sorry but your dog should be illegal](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/READE-dogs.jpg)
+
+- **[Sorry but your dog should be illegal](https://www.thenewworld.co.uk/lucy-reade-sorry-but-your-dog-should-be-illegal/)**
+  If it can’t breathe properly, if its back can’t support its own weight and if it can’t even give birth without a cesarea...
+
 ![AI actress Tilly is pointless and silly](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/norwood-e1773233364490.jpg)
 
 - **[AI actress Tilly is pointless and silly](https://www.thenewworld.co.uk/rats-in-a-sack-ai-actress-tilly-is-pointless-and-silly/)**
   Tilly Norwood, a much-derided AI-generated actress, is back as a singer. Real musicians don't have much to worry about y...
-
-![Pianos, iPads and a lot of shellfish: Pete Hegseth’s Pengaton spending spree](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2264945041-e1773233741270.jpg)
-
-- **[Pianos, iPads and a lot of shellfish: Pete Hegseth’s Pengaton spending spree](https://www.thenewworld.co.uk/rats-in-a-sack-pianos-ipads-and-a-lot-of-shellfish-pete-hegseths-pengaton-spending-spree/)**
-  The defence secretary's department spent an incredible $93 billion in one month, much on very weird items indeed...
-
-![The bold Brexit moves that could save Labour](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/TOWNS-starmer-EU.jpg)
-
-- **[The bold Brexit moves that could save Labour](https://www.thenewworld.co.uk/barnaby-towns-the-bold-brexit-moves-that-could-save-labour/)**
-  A royal commission on the effects of leaving the EU would reboot Starmer’s reset and steal a march on the Greens...
-
-![It’s football, but without the oligarchs](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/KAMPFNER-berlin-footy.jpg)
-
-- **[It’s football, but without the oligarchs](https://www.thenewworld.co.uk/john-kampfner-its-football-but-without-the-oligarchs/)**
-  Union Berlin was on the verge of going under, when the fans decided they would re-build the club, starting with the stad...
-
-![The right gets in a fury… about animals on banknotes](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2193197964-e1773248809654.jpg)
-
-- **[The right gets in a fury… about animals on banknotes](https://www.thenewworld.co.uk/the-right-gets-in-a-fury-about-animals-on-banknotes/)**
-  The Tories, Reform and the right wing media are in uproar at "woke" Bank of England plans to put beloved British wildlif...
 
 ### 📰 Eurozine
 
@@ -177,6 +177,46 @@
 
 ## 🌍 美洲
 
+### 📰 APA Blog
+
+- **[Secrecy, Democracy, Necessity](https://blog.apaonline.org/2026/03/11/secrecy-democracy-necessity/)**
+  While transparency has become the constant refrain of democratic politics, executive branch officials consistently seek ...
+
+![The Humanities Challenge: Expanding the Circle of Philosophy](https://i0.wp.com/blog.apaonline.org/wp-content/uploads/2026/02/Image-1.jpg?resize=696%2C696&#038;ssl=1)
+
+- **[The Humanities Challenge: Expanding the Circle of Philosophy](https://blog.apaonline.org/2026/02/27/the-humanities-challenge-expanding-the-circle-of-philosophy/)**
+  “Philosophy is, or should be, a kind of magic. It is not an escape from but rather a new window—or many windows—onto our...
+  *关键词: philosophy*
+
+- **[Will Pricing Algorithms Spell the End of the Fair Market Price?](https://blog.apaonline.org/2026/02/27/will-pricing-algorithms-spell-the-end-of-the-fair-market-price/)**
+  I hate haggling. I spent a lot of my life living and working in countries across the Asia-Pacific, where open negotiatio...
+
+- **[Recently Published Book Spotlight: Anticolonialism, Ontology, and Semiotics: A Cinematic Exploration](https://blog.apaonline.org/2026/02/27/recently-published-book-spotlight-anticolonialism-ontology-and-semiotics-a-cinematic-exploration/)**
+  Patrick D. Anderson is an Associate Professor of Philosophy at Central State University and a recipient of a 2025 Americ...
+  *关键词: philosophy, ethics*
+
+- **[Harold, Maude, My Dad, and Me](https://blog.apaonline.org/2026/03/02/harold-maude-my-dad-and-me/)**
+  My father’s birthday recently passed. To honor his memory, I decided to rewatch the 1971 cult classic Harold and Maude, ...
+
+### 📰 Stanford Encyclopedia of Philosophy
+
+- **[Philosophy of Chemistry](https://plato.stanford.edu/entries/chemistry/)**
+  [Revised entry by Michael Weisberg, Paul Needham, and Robin Hendry on March 11, 2026. 
+Changes to: Main text, Bibliograp...
+  *关键词: philosophy*
+
+- **[Naturalism in Classical Indian Philosophy](https://plato.stanford.edu/entries/naturalism-india/)**
+  [Revised entry by Amita Chatterjee on March 11, 2026. 
+Changes to: Main text]
+ As a philosophical theory, naturalism ali...
+  *关键词: philosophy, logic, philosophical*
+
+- **[Legal Punishment](https://plato.stanford.edu/entries/legal-punishment/)**
+  [Revised entry by Zachary Hoskins and Antony Duff on March 11, 2026. 
+Changes to: Main text, Bibliography]
+ The question...
+  *关键词: philosophy, political philosophy*
+
 ### 📰 The Brains Blog
 
 - **[Introductory Conference:  Purdue Cognition, Agency, &#038; Intelligence Center.](https://philosophyofbrains.com/2026/03/11/introductory-conference-purdue-cognition-agency-intelligence-center.aspx)**
@@ -197,26 +237,6 @@
 - **[Introducing: New Associate Editor, Alison Springle](https://philosophyofbrains.com/2026/02/12/introducing-new-associate-editor-alison-springle.aspx)**
   We are excited to announce that Alison Springle will be joining us as one of our new associate editors! Alison is an Ass...
   *关键词: philosophy, philosophy of mind*
-
-### 📰 Stanford Encyclopedia of Philosophy
-
-- **[Naturalism in Classical Indian Philosophy](https://plato.stanford.edu/entries/naturalism-india/)**
-  [Revised entry by Amita Chatterjee on March 11, 2026. 
-Changes to: Main text]
- As a philosophical theory, naturalism ali...
-  *关键词: philosophy, logic, philosophical*
-
-- **[Legal Punishment](https://plato.stanford.edu/entries/legal-punishment/)**
-  [Revised entry by Zachary Hoskins and Antony Duff on March 11, 2026. 
-Changes to: Main text, Bibliography]
- The question...
-  *关键词: philosophy, political philosophy*
-
-- **[Principia Mathematica](https://plato.stanford.edu/entries/principia-mathematica/)**
-  [Revised entry by Bernard Linsky and Andrew David Irvine on March 10, 2026. 
-Changes to: Main text, Bibliography]
- This ...
-  *关键词: logic*
 
 ### 📰 Canadian Journal of Philosophy
 
@@ -346,27 +366,6 @@ On. G.W.F. Hegel's <em...
 - **[A Pilgrimage of Earwigs](https://www.3ammagazine.com/3am/a-pilgrimage-of-earwigs/)**
   They come from the damp, the doorjamb’s rotten wood gone the color of old bread. They come from under the planter, the i...
 
-### 📰 APA Blog
-
-![The Humanities Challenge: Expanding the Circle of Philosophy](https://i0.wp.com/blog.apaonline.org/wp-content/uploads/2026/02/Image-1.jpg?resize=696%2C696&#038;ssl=1)
-
-- **[The Humanities Challenge: Expanding the Circle of Philosophy](https://blog.apaonline.org/2026/02/27/the-humanities-challenge-expanding-the-circle-of-philosophy/)**
-  “Philosophy is, or should be, a kind of magic. It is not an escape from but rather a new window—or many windows—onto our...
-  *关键词: philosophy*
-
-- **[Will Pricing Algorithms Spell the End of the Fair Market Price?](https://blog.apaonline.org/2026/02/27/will-pricing-algorithms-spell-the-end-of-the-fair-market-price/)**
-  I hate haggling. I spent a lot of my life living and working in countries across the Asia-Pacific, where open negotiatio...
-
-- **[Recently Published Book Spotlight: Anticolonialism, Ontology, and Semiotics: A Cinematic Exploration](https://blog.apaonline.org/2026/02/27/recently-published-book-spotlight-anticolonialism-ontology-and-semiotics-a-cinematic-exploration/)**
-  Patrick D. Anderson is an Associate Professor of Philosophy at Central State University and a recipient of a 2025 Americ...
-  *关键词: philosophy, ethics*
-
-- **[Harold, Maude, My Dad, and Me](https://blog.apaonline.org/2026/03/02/harold-maude-my-dad-and-me/)**
-  My father’s birthday recently passed. To honor his memory, I decided to rewatch the 1971 cult classic Harold and Maude, ...
-
-- **[Why Do I Advocate for the General Use of the Term “So-Called Artificial Intelligence”?](https://blog.apaonline.org/2026/03/03/why-do-i-advocate-for-the-general-use-of-the-term-so-called-artificial-intelligence/)**
-  This post was originally published in Kronika: Filozofski magazin as “Zašto predlažem opću upotrebu naziva ‘takozvana um...
-
 ### 📰 Daily Nous
 
 ![Calzavarini Wins Popper Prize](https://dailynous.com/wp-content/uploads/2026/03/calzavarini-fabrizio.jpeg)
@@ -418,5 +417,5 @@ On. G.W.F. Hegel's <em...
 
 ---
 
-*报告生成时间: 2026-03-12 01:24*  
+*报告生成时间: 2026-03-12 07:07*  
 *Atlas Intelligence System*
