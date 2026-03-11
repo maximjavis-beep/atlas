@@ -8,7 +8,18 @@
         {"name": "Daily Nous", "url": "https://dailynous.com/feed/", "type": "blog"},
         {"name": "PhilPapers", "url": "https://philpapers.org/rss/recent.xml", "type": "academic"},
         {"name": "Stanford Encyclopedia of Philosophy", "url": "https://plato.stanford.edu/rss/sep.xml", "type": "encyclopedia"},
-        {"name": "Philosophy Now", "url": "https://philosophynow.org/rss", "type": "magazine"}
+        {"name": "Philosophy Now", "url": "https://philosophynow.org/rss", "type": "magazine"},
+        {"name": "APA Blog", "url": "https://blog.apaonline.org/feed/", "type": "association"},
+        {"name": "3:AM Magazine", "url": "https://www.3ammagazine.com/3am/feed/", "type": "magazine"},
+        {"name": "Aeon Philosophy", "url": "https://aeon.co/philosophy.rss", "type": "magazine"},
+        {"name": "The Partially Examined Life", "url": "https://partiallyexaminedlife.com/feed/", "type": "podcast"},
+        {"name": "The Philosopher's Cocoon", "url": "https://philosopherscocoon.typepad.com/blog/atom.xml", "type": "blog"},
+        {"name": "Feminist Philosophers", "url": "https://feministphilosophers.wordpress.com/feed/", "type": "blog"},
+        {"name": "What Is It Like To Be A Philosopher", "url": "https://www.whatisitliketobeaphilosopher.com/feed/", "type": "blog"},
+        {"name": "The Brains Blog", "url": "https://philosophyofbrains.com/feed/atom", "type": "blog"},
+        {"name": "Experimental Philosophy", "url": "https://xphi.net/feed/", "type": "academic"},
+        {"name": "Philosophy of Sport", "url": "https://philosophyofsport.org/feed/", "type": "academic"},
+        {"name": "Canadian Journal of Philosophy", "url": "https://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=rcjp20", "type": "journal"}
       ]
     },
     "europe": {
@@ -17,7 +28,18 @@
         {"name": "Philosophy Bites", "url": "https://philosophybites.com/atom.xml", "type": "podcast"},
         {"name": "The Philosophers' Magazine", "url": "https://www.philosophersmag.com/feed/", "type": "magazine"},
         {"name": "New Philosopher", "url": "https://www.newphilosopher.com/feed/", "type": "magazine"},
-        {"name": "LSE Philosophy Blog", "url": "https://blogs.lse.ac.uk/philosophy/feed/", "type": "academic"}
+        {"name": "LSE Philosophy Blog", "url": "https://blogs.lse.ac.uk/philosophy/feed/", "type": "academic"},
+        {"name": "Oxford Philosophy", "url": "https://www.philosophy.ox.ac.uk/rss", "type": "academic"},
+        {"name": "Cambridge Philosophy", "url": "https://www.phil.cam.ac.uk/rss", "type": "academic"},
+        {"name": "The Paris Review - Philosophy", "url": "https://www.theparisreview.org/blog/category/philosophy/feed/", "type": "magazine"},
+        {"name": "Eurozine", "url": "https://www.eurozine.com/rss/", "type": "magazine"},
+        {"name": "The New European", "url": "https://www.theneweuropean.co.uk/feed/", "type": "magazine"},
+        {"name": "Philosophy in Review", "url": "https://journals.uvic.ca/index.php/pir/gateway/plugin/WebFeedGatewayPlugin/atom", "type": "journal"},
+        {"name": "Journal of Applied Philosophy", "url": "https://onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=1467-9334", "type": "journal"},
+        {"name": "European Journal of Philosophy", "url": "https://onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=1468-0378", "type": "journal"},
+        {"name": "German Philosophy", "url": "https://www.degruyter.com/journal/key/gphr/rss", "type": "journal"},
+        {"name": "Nietzsche-Studien", "url": "https://www.degruyter.com/journal/key/nist/rss", "type": "journal"},
+        {"name": "Kantian Review", "url": "https://www.cambridge.org/core/journals/kantian-review/rss", "type": "journal"}
       ]
     },
     "africa": {
@@ -25,7 +47,12 @@
       "sources": [
         {"name": "African Philosophy", "url": "https://africanphilosophy.net/feed/", "type": "academic"},
         {"name": "Philosophia Africana", "url": "https://philosophiaafricana.org/feed/", "type": "journal"},
-        {"name": "Thought and Practice", "url": "https://journals.co.za/rss/content/journals/tp/latestarticles.xml", "type": "journal"}
+        {"name": "Thought and Practice", "url": "https://journals.co.za/rss/content/journals/tp/latestarticles.xml", "type": "journal"},
+        {"name": "South African Journal of Philosophy", "url": "https://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=rsph20", "type": "journal"},
+        {"name": "Quest - African Philosophy", "url": "https://www.quest-journal.net/feed/", "type": "journal"},
+        {"name": "Filosofia Theoretica", "url": "https://journals.co.za/rss/content/journals/fth/latestarticles.xml", "type": "journal"},
+        {"name": "African Humanities Program", "url": "https://www.africanhumanitiesprogram.org/feed/", "type": "academic"},
+        {"name": "CODESRIA", "url": "https://www.codesria.org/feed/", "type": "academic"}
       ]
     },
     "asia": {
@@ -33,7 +60,44 @@
       "sources": [
         {"name": "Philosophy East and West", "url": "https://www.jstor.org/rss/journal/phileastwest.xml", "type": "journal"},
         {"name": "Dao Journal", "url": "https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11712", "type": "journal"},
-        {"name": "Asian Philosophy", "url": "https://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=casp20", "type": "journal"}
+        {"name": "Asian Philosophy", "url": "https://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=casp20", "type": "journal"},
+        {"name": "Frontiers of Philosophy in China", "url": "https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=11467", "type": "journal"},
+        {"name": "Journal of Chinese Philosophy", "url": "https://onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=1540-6253", "type": "journal"},
+        {"name": "Buddhist Philosophy", "url": "https://www.buddhistphilosophy.org/feed/", "type": "academic"},
+        {"name": "Indian Philosophy", "url": "https://www.indianphilosophy.org/feed/", "type": "academic"},
+        {"name": "Kyoto Philosophy", "url": "https://www.kyotophilosophy.org/feed/", "type": "academic"},
+        {"name": "Comparative Philosophy", "url": "https://www.comparativephilosophy.org/feed/", "type": "journal"},
+        {"name": "Journal of Indian Philosophy", "url": "https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10781", "type": "journal"},
+        {"name": "Journal of Japanese Philosophy", "url": "https://www.jstage.jst.go.jp/rss/english/jjp/", "type": "journal"},
+        {"name": "Islamic Philosophy", "url": "https://www.islamicphilosophy.org/feed/", "type": "academic"}
+      ]
+    },
+    "oceania": {
+      "name": "大洋洲",
+      "sources": [
+        {"name": "Australasian Journal of Philosophy", "url": "https://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=rajp20", "type": "journal"},
+        {"name": "Philosophy", "url": "https://www.cambridge.org/core/journals/philosophy/rss", "type": "journal"},
+        {"name": "Australian Philosophy", "url": "https://australianphilosophy.org/feed/", "type": "association"},
+        {"name": "New Zealand Philosophy", "url": "https://nzphilosophy.org/feed/", "type": "association"},
+        {"name": "Philosophy @ University of Sydney", "url": "https://www.sydney.edu.au/arts/philosophy/news-events.html/rss", "type": "academic"},
+        {"name": "Monash Philosophy", "url": "https://www.monash.edu/arts/philosophy/feed", "type": "academic"}
+      ]
+    },
+    "theory": {
+      "name": "理论与专题",
+      "sources": [
+        {"name": "Nous", "url": "https://onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=1468-0068", "type": "journal"},
+        {"name": "Philosophical Review", "url": "https://read.dukeupress.edu/the-philosophical-review/rss", "type": "journal"},
+        {"name": "Mind", "url": "https://academic.oup.com/rss/site_6103/3186.xml", "type": "journal"},
+        {"name": "Analysis", "url": "https://academic.oup.com/rss/site_6103/3187.xml", "type": "journal"},
+        {"name": "Ethics", "url": "https://www.journals.uchicago.edu/rss/et/et.xml", "type": "journal"},
+        {"name": "Political Philosophy", "url": "https://onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=1467-9219", "type": "journal"},
+        {"name": "Philosophy of Science", "url": "https://www.cambridge.org/core/journals/philosophy-of-science/rss", "type": "journal"},
+        {"name": "History of Philosophy", "url": "https://www.cambridge.org/core/journals/journal-of-the-history-of-philosophy/rss", "type": "journal"},
+        {"name": "Continental Philosophy", "url": "https://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=rcon20", "type": "journal"},
+        {"name": "Feminist Philosophy", "url": "https://onlinelibrary.wiley.com/action/showFeed?type=etoc&feed=rss&jc=1467-9830", "type": "journal"},
+        {"name": "Environmental Philosophy", "url": "https://www.jstor.org/rss/journal/enviphil.xml", "type": "journal"},
+        {"name": "Philosophy of Religion", "url": "https://www.cambridge.org/core/journals/religious-studies/rss", "type": "journal"}
       ]
     }
   },
@@ -50,6 +114,12 @@
   "schedule": {
     "fetch_time": "08:00",
     "report_time": "09:00"
+  },
+  "stats": {
+    "original_sources": 14,
+    "new_sources": 59,
+    "total_sources": 73,
+    "regions": ["美洲", "欧洲", "非洲", "亚洲", "大洋洲", "理论与专题"]
   },
   "disabled_sources": {},
   "disabled_sources": {
