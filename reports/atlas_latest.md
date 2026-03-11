@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-03-11  
+**日期**: 2026-03-12  
 **来源**: 全球 6 个地区 · 19 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 160 条
+- **新增资讯**: 167 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -84,52 +84,42 @@
 
 ## 🌍 欧洲
 
-### 📰 Philosophy in Review
-
-- **[Domenico Losurdo, 'Nietzsche, The Aristocratic Rebel'. (Trans. Gregor Benton)](https://journals.uvic.ca/index.php/pir/article/view/22596)**
-  ...
-
-- **[Krista Lawlor, 'Being Reasonable: The Case for a Misunderstood Virtue'.](https://journals.uvic.ca/index.php/pir/article/view/22648)**
-  ...
-
-- **[Graham Harman, "Architecture and Objects".](https://journals.uvic.ca/index.php/pir/article/view/22601)**
-  ...
-
-- **[Robert Garland, 'What to Expect When You're Dead: An Ancient Tour of Death and the Afterlife'.](https://journals.uvic.ca/index.php/pir/article/view/22558)**
-  ...
-
-- **[Juan Manuel Burgos, 'Ética de la persona'.](https://journals.uvic.ca/index.php/pir/article/view/22576)**
-  ...
-
 ### 📰 The New European
 
-![The quislings of the right have abandoned patriotism](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/Mason.jpg)
+![AI actress Tilly is pointless and silly](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/norwood-e1773233364490.jpg)
 
-- **[The quislings of the right have abandoned patriotism](https://www.thenewworld.co.uk/paul-mason-the-quislings-of-the-right-have-abandoned-patriotism/)**
-  Their mud-slinging over Iran shows that Farage, Badenoch and the Mail prefer to side with US extremists than back their ...
+- **[AI actress Tilly is pointless and silly](https://www.thenewworld.co.uk/rats-in-a-sack-ai-actress-tilly-is-pointless-and-silly/)**
+  Tilly Norwood, a much-derided AI-generated actress, is back as a singer. Real musicians don't have much to worry about y...
 
-![Everyday philosophy: What to do with corpses](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/474_NIGEL_CORPSES.jpg)
+![Pianos, iPads and a lot of shellfish: Pete Hegseth’s Pengaton spending spree](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2264945041-e1773233741270.jpg)
 
-- **[Everyday philosophy: What to do with corpses](https://www.thenewworld.co.uk/nigel-warburton-everyday-philosophy-what-to-do-with-corpses/)**
-  For thousands of years, philosophers have disagreed over what to do with mortal remains. Some wanted a solemn burial, ot...
-  *关键词: philosophy*
+- **[Pianos, iPads and a lot of shellfish: Pete Hegseth’s Pengaton spending spree](https://www.thenewworld.co.uk/rats-in-a-sack-pianos-ipads-and-a-lot-of-shellfish-pete-hegseths-pengaton-spending-spree/)**
+  The defence secretary's department spent an incredible $93 billion in one month, much on very weird items indeed...
 
-![Nerd’s Eye View: Nine things you need to know about Dubai](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/474_NEV_DUBAI.jpg)
+![The bold Brexit moves that could save Labour](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/TOWNS-starmer-EU.jpg)
 
-- **[Nerd’s Eye View: Nine things you need to know about Dubai](https://www.thenewworld.co.uk/jonn-elledge-nerds-eye-view-nine-things-you-need-to-know-about-dubai/)**
-  Digging into the detail and data to separate the noise from the news...
+- **[The bold Brexit moves that could save Labour](https://www.thenewworld.co.uk/barnaby-towns-the-bold-brexit-moves-that-could-save-labour/)**
+  A royal commission on the effects of leaving the EU would reboot Starmer’s reset and steal a march on the Greens...
 
-![Tim Bradford’s cartoon: Stop the world](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/06/438_tim-bradford-cartoons.jpg)
+![It’s football, but without the oligarchs](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/KAMPFNER-berlin-footy.jpg)
 
-- **[Tim Bradford’s cartoon: Stop the world](https://www.thenewworld.co.uk/tim-bradfords-cartoon-stop-the-world/)**
-  ...
+- **[It’s football, but without the oligarchs](https://www.thenewworld.co.uk/john-kampfner-its-football-but-without-the-oligarchs/)**
+  Union Berlin was on the verge of going under, when the fans decided they would re-build the club, starting with the stad...
 
-![Spain without queues](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-1167757742-e1773145596206.jpg)
+![The right gets in a fury… about animals on banknotes](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2193197964-e1773248809654.jpg)
 
-- **[Spain without queues](https://www.thenewworld.co.uk/peter-barron-spain-without-queues/)**
-  As overtourism bites, the author of Frommer’s new guide to the country shares his favourite experiences away from the cr...
+- **[The right gets in a fury… about animals on banknotes](https://www.thenewworld.co.uk/the-right-gets-in-a-fury-about-animals-on-banknotes/)**
+  The Tories, Reform and the right wing media are in uproar at "woke" Bank of England plans to put beloved British wildlif...
 
 ### 📰 Eurozine
+
+- **[Najprv v noci, potom v digitálnom priestore](https://www.eurozine.com/najprvv-nocipotomv-digitalnompriestore/?utm_source=rss&utm_medium=rss&utm_campaign=najprvv-nocipotomv-digitalnompriestore)**
+  ...
+
+![Never again meets a new war](https://www.eurozine.com/wp-content/uploads/2026/03/Bundeswehr_Karriere_Werbung_2022-300x176.jpg)
+
+- **[Never again meets a new war](https://www.eurozine.com/never-again-meets-a-new-war/?utm_source=rss&utm_medium=rss&utm_campaign=never-again-meets-a-new-war)**
+  The German government’s decision to reinstate national service has hit resistance. Young activists, aligning climate pro...
 
 ![Farewell to Dialogi](https://www.eurozine.com/wp-content/uploads/2026/02/Dialogi_11_12_2025-300x225.jpg)
 
@@ -147,16 +137,22 @@
   Warring parties that benefit from violence and extortion – targeting civilians, looting, smuggling and abducting, pushin...
   *关键词: discussion*
 
-![New realities of war](https://www.eurozine.com/wp-content/uploads/2026/03/4199695016_fb3c5bf4ee_o-300x220.jpg)
+### 📰 Philosophy in Review
 
-- **[New realities of war](https://www.eurozine.com/new-realities-of-war/?utm_source=rss&utm_medium=rss&utm_campaign=new-realities-of-war)**
-  Geopolitical, technological and media warfare landscapes are changing at speed. Now that Europe needs to take up a clear...
-  *关键词: logic*
+- **[Domenico Losurdo, 'Nietzsche, The Aristocratic Rebel'. (Trans. Gregor Benton)](https://journals.uvic.ca/index.php/pir/article/view/22596)**
+  ...
 
-![Sportwashing Russia](https://www.eurozine.com/wp-content/uploads/2026/03/Ceremonie_douverture_des_JO-300x200.jpg)
+- **[Krista Lawlor, 'Being Reasonable: The Case for a Misunderstood Virtue'.](https://journals.uvic.ca/index.php/pir/article/view/22648)**
+  ...
 
-- **[Sportwashing Russia](https://www.eurozine.com/sportwashing-russia/?utm_source=rss&utm_medium=rss&utm_campaign=sportwashing-russia)**
-  Recent statements by the presidents of FIFA, UEFA and the IOC indicate that the resolve to exclude Russia from internati...
+- **[Graham Harman, "Architecture and Objects".](https://journals.uvic.ca/index.php/pir/article/view/22601)**
+  ...
+
+- **[Robert Garland, 'What to Expect When You're Dead: An Ancient Tour of Death and the Afterlife'.](https://journals.uvic.ca/index.php/pir/article/view/22558)**
+  ...
+
+- **[Juan Manuel Burgos, 'Ética de la persona'.](https://journals.uvic.ca/index.php/pir/article/view/22576)**
+  ...
 
 
 ## 🌍 理论与专题
@@ -180,6 +176,47 @@
 
 
 ## 🌍 美洲
+
+### 📰 The Brains Blog
+
+- **[Introductory Conference:  Purdue Cognition, Agency, &#038; Intelligence Center.](https://philosophyofbrains.com/2026/03/11/introductory-conference-purdue-cognition-agency-intelligence-center.aspx)**
+  Hi All, We&#8217;re happy to help announce the launch of the Cognition, Agency, &#38; Intelligence Center. Please see in...
+  *关键词: conference*
+
+- **[Author&#8217;s Reply to Mazviita Chirimuuta](https://philosophyofbrains.com/2026/01/15/authors-reply-to-mazviita-chirimuuta.aspx)**
+  Reply to&#160;Chirimuuta&#160; Mazviita&#160;Chirimuuta&#160;is sympathetic&#160;to my deflationary construal of scienti...
+  *关键词: discussion*
+
+- **[Editorial Team Updates](https://philosophyofbrains.com/2026/02/10/editorial-team-updates.aspx)**
+  Hi All, In the next weeks and months, we&#8217;ll be making some exciting new additions to the editorial team at Brains....
+
+- **[Introducing: New Associate Editor, Jorge Ignacio Fuentes Muñoz](https://philosophyofbrains.com/2026/02/11/introducing-new-associate-editor-jorge-ignacio-fuentes-munoz.aspx)**
+  We are thrilled to announce that Jorge Ignacio Fuentes Muñoz will be joining us at Brains as an Associate Editor.&#160; ...
+  *关键词: philosophy, philosophy of mind, philosophical*
+
+- **[Introducing: New Associate Editor, Alison Springle](https://philosophyofbrains.com/2026/02/12/introducing-new-associate-editor-alison-springle.aspx)**
+  We are excited to announce that Alison Springle will be joining us as one of our new associate editors! Alison is an Ass...
+  *关键词: philosophy, philosophy of mind*
+
+### 📰 Stanford Encyclopedia of Philosophy
+
+- **[Naturalism in Classical Indian Philosophy](https://plato.stanford.edu/entries/naturalism-india/)**
+  [Revised entry by Amita Chatterjee on March 11, 2026. 
+Changes to: Main text]
+ As a philosophical theory, naturalism ali...
+  *关键词: philosophy, logic, philosophical*
+
+- **[Legal Punishment](https://plato.stanford.edu/entries/legal-punishment/)**
+  [Revised entry by Zachary Hoskins and Antony Duff on March 11, 2026. 
+Changes to: Main text, Bibliography]
+ The question...
+  *关键词: philosophy, political philosophy*
+
+- **[Principia Mathematica](https://plato.stanford.edu/entries/principia-mathematica/)**
+  [Revised entry by Bernard Linsky and Andrew David Irvine on March 10, 2026. 
+Changes to: Main text, Bibliography]
+ This ...
+  *关键词: logic*
 
 ### 📰 Canadian Journal of Philosophy
 
@@ -219,27 +256,6 @@
 - **[Talk: “Normality and Norms” (Josh Knobe)](https://xphi.net/2026/01/27/talk-normality-and-norms-josh-knobe/)**
   The Center for Philosophy and the Health Sciences at Aarhus University is hosting a lecture by Joshua Knobe. It will tak...
   *关键词: philosophy, lecture*
-
-### 📰 The Brains Blog
-
-- **[Author&#8217;s Reply to Mazviita Chirimuuta](https://philosophyofbrains.com/2026/01/15/authors-reply-to-mazviita-chirimuuta.aspx)**
-  Reply to&#160;Chirimuuta&#160; Mazviita&#160;Chirimuuta&#160;is sympathetic&#160;to my deflationary construal of scienti...
-  *关键词: discussion*
-
-- **[Editorial Team Updates](https://philosophyofbrains.com/2026/02/10/editorial-team-updates.aspx)**
-  Hi All, In the next weeks and months, we&#8217;ll be making some exciting new additions to the editorial team at Brains....
-
-- **[Introducing: New Associate Editor, Jorge Ignacio Fuentes Muñoz](https://philosophyofbrains.com/2026/02/11/introducing-new-associate-editor-jorge-ignacio-fuentes-munoz.aspx)**
-  We are thrilled to announce that Jorge Ignacio Fuentes Muñoz will be joining us at Brains as an Associate Editor.&#160; ...
-  *关键词: philosophy, philosophy of mind, philosophical*
-
-- **[Introducing: New Associate Editor, Alison Springle](https://philosophyofbrains.com/2026/02/12/introducing-new-associate-editor-alison-springle.aspx)**
-  We are excited to announce that Alison Springle will be joining us as one of our new associate editors! Alison is an Ass...
-  *关键词: philosophy, philosophy of mind*
-
-- **[This week: Agency and Mental Disorder](https://philosophyofbrains.com/2026/02/16/this-week-agency-and-mental-disorder.aspx)**
-  A workshop Cognition and Agency in Mental Disorder was held on November 18th and 19th 2025, in Santiago de Chile at Univ...
-  *关键词: workshop*
 
 ### 📰 Feminist Philosophers
 
@@ -359,36 +375,6 @@ On. G.W.F. Hegel's <em...
   The editors of the British Journal for the Philosophy of Science (BJPS) have announced the winner of the 2025 Popper Pri...
   *关键词: philosophy, debate, philosophy of mind*
 
-![How (and Why) to Organize a Conference in the Global South (guest post)](https://dailynous.com/wp-content/uploads/2026/03/wallinger-mark-world-turned-upside-down.png)
-
-- **[How (and Why) to Organize a Conference in the Global South (guest post)](https://dailynous.com/2026/03/10/how-and-why-to-organize-a-conference-in-the-global-south-guest-post/)**
-  Conferences provide valuable opportunities to academics and can influence disciplinary agendas. But scholars have unequa...
-  *关键词: philosophy, conference, scholar*
-
-![Unions, Strikes, and the Financial Satisfaction of Philosophy PhD Students](https://dailynous.com/wp-content/uploads/2019/11/wagner-dollar-trees.jpg)
-
-- **[Unions, Strikes, and the Financial Satisfaction of Philosophy PhD Students](https://dailynous.com/2026/03/10/unions-strikes-and-the-financial-satisfaction-of-philosophy-phd-students/)**
-  In its 2023 and 2025 surveys, Academic Philosophy Data &#38; Analysis (APDA) asked current PhD students to rate their sa...
-  *关键词: philosophy*
-
-### 📰 Stanford Encyclopedia of Philosophy
-
-- **[Principia Mathematica](https://plato.stanford.edu/entries/principia-mathematica/)**
-  [Revised entry by Bernard Linsky and Andrew David Irvine on March 10, 2026. 
-Changes to: Main text, Bibliography]
- This ...
-  *关键词: logic*
-
-- **[Neoliberalism](https://plato.stanford.edu/entries/neoliberalism/)**
-  [Revised entry by Kevin Vallier on March 10, 2026. 
-Changes to: Main text, Bibliography, notes.html]
- Though not all sch...
-  *关键词: philosophy, political philosophy, philosophical*
-
-- **[Secession](https://plato.stanford.edu/entries/secession/)**
-  [Revised entry by Allen Buchanan and Elizabeth Levinson on March 10, 2026. 
-Changes to: Main text, Bibliography, notes.h...
-
 
 ## 🌍 非洲
 
@@ -432,5 +418,5 @@ Changes to: Main text, Bibliography, notes.h...
 
 ---
 
-*报告生成时间: 2026-03-11 20:06*  
+*报告生成时间: 2026-03-12 01:24*  
 *Atlas Intelligence System*
