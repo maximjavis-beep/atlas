@@ -177,6 +177,14 @@
 
 ## 🌍 美洲
 
+### 📰 Daily Nous
+
+![Susan Haack (1945-2026)](https://dailynous.com/wp-content/uploads/2026/03/haack-susan.jpg)
+
+- **[Susan Haack (1945-2026)](https://dailynous.com/2026/03/11/susan-haack-1945-2026/)**
+  Susan Haack, professor of philosophy and law at the University of Miami, has died. Professor Haack was well-known for he...
+  *关键词: philosophy, lecture, epistemology*
+
 ### 📰 APA Blog
 
 - **[Secrecy, Democracy, Necessity](https://blog.apaonline.org/2026/03/11/secrecy-democracy-necessity/)**
@@ -366,14 +374,6 @@ On. G.W.F. Hegel's <em...
 - **[A Pilgrimage of Earwigs](https://www.3ammagazine.com/3am/a-pilgrimage-of-earwigs/)**
   They come from the damp, the doorjamb’s rotten wood gone the color of old bread. They come from under the planter, the i...
 
-### 📰 Daily Nous
-
-![Calzavarini Wins Popper Prize](https://dailynous.com/wp-content/uploads/2026/03/calzavarini-fabrizio.jpeg)
-
-- **[Calzavarini Wins Popper Prize](https://dailynous.com/2026/03/11/calzavarini-wins-popper-prize/)**
-  The editors of the British Journal for the Philosophy of Science (BJPS) have announced the winner of the 2025 Popper Pri...
-  *关键词: philosophy, debate, philosophy of mind*
-
 
 ## 🌍 非洲
 
@@ -417,5 +417,5 @@ On. G.W.F. Hegel's <em...
 
 ---
 
-*报告生成时间: 2026-03-12 07:07*  
+*报告生成时间: 2026-03-12 18:07*  
 *Atlas Intelligence System*
