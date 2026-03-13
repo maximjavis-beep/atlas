@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-03-13  
-**来源**: 全球 2 个地区 · 4 个信源
+**来源**: 全球 2 个地区 · 5 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 5 条
+- **新增资讯**: 6 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -23,6 +23,22 @@
 
 
 ## 🌍 美洲
+
+### 📰 The Partially Examined Life
+
+![NEM#248: Lande Hekt: Lucky to Be Indie](https://partiallyexaminedlife.com/wp-content/uploads/csm_Lande_Hekt_3_by_Robin_Christian-300x187.jpg)
+
+- **[NEM#248: Lande Hekt: Lucky to Be Indie](https://partiallyexaminedlife.com/2026/03/12/nem248-lande-hekt/)**
+  Lande started in the 2010's in the British punk-pop group Muncie Girls, with six releases (mostly EPs), and began her so...
+  *关键词: philosophy*
+
+### 📰 Daily Nous
+
+![Universities: Flawed but Valuable](https://dailynous.com/wp-content/uploads/2026/03/darcangelo-allan-side-view-mirror-detail.png)
+
+- **[Universities: Flawed but Valuable](https://dailynous.com/2026/03/13/universities-flawed-but-valuable/)**
+  Should academics be more conservative? One way to characterize conservatism is as an appreciation of enduring institutio...
+  *关键词: philosophy, lecture, metaphysics*
 
 ### 📰 APA Blog
 
@@ -42,16 +58,8 @@
 Changes to: Main text, Bibliography, supplement1.html, supplement...
   *关键词: philosophical*
 
-### 📰 Daily Nous
-
-![Susan Haack (1945-2026)](https://dailynous.com/wp-content/uploads/2026/03/haack-susan.jpg)
-
-- **[Susan Haack (1945-2026)](https://dailynous.com/2026/03/11/susan-haack-1945-2026/)**
-  Susan Haack, professor of philosophy and law at the University of Miami, has died. Professor Haack was well-known for he...
-  *关键词: philosophy, lecture, epistemology*
-
 
 ---
 
-*报告生成时间: 2026-03-13 07:07*  
+*报告生成时间: 2026-03-13 18:07*  
 *Atlas Intelligence System*
