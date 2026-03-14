@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-03-14  
-**来源**: 全球 2 个地区 · 5 个信源
+**来源**: 全球 2 个地区 · 3 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 15 条
+- **新增资讯**: 14 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -15,6 +15,11 @@
 ## 🌍 欧洲
 
 ### 📰 The New European
+
+![Matthew d’Ancona’s culture: A Pale View of Hills is an exquisite ghost story with a twist](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/1161138-a-pale-view-of-hills-de-kei-ishikawa-en-selection-un-certain-regard-au-festival-de-cannes-2025-e1773403100425.jpg)
+
+- **[Matthew d’Ancona’s culture: A Pale View of Hills is an exquisite ghost story with a twist](https://www.thenewworld.co.uk/matthew-danconas-culture-a-pale-view-of-hills-is-an-exquisite-ghost-story-with-a-twist/)**
+  A haunting literary adaptation is laced with grief and guilt...
 
 ![Sorry, but your dog should be illegal](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/READE-dogs.jpg)
 
@@ -35,11 +40,6 @@
 
 - **[How do we kill off the cool girl?](https://www.thenewworld.co.uk/olive-pometsey-how-do-we-kill-off-the-cool-girl/)**
   She used to be a genuine rebel like Birkin, Sevigny or Solange. Now she's just a marketing tool...
-
-![Why is every big movie now so excessive and exhausting?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/475_BLEASDALE_THEBRIDE-1.jpg)
-
-- **[Why is every big movie now so excessive and exhausting?](https://www.thenewworld.co.uk/john-bleasdale-why-is-every-big-movie-now-so-excessive-and-exhausting/)**
-  The Bride, Wuthering Heights, even One Battle After Another prioritise mayhem over coherence...
 
 
 ## 🌍 美洲
@@ -78,24 +78,8 @@ Changes to: Main text, Bibliography, notes.html]
  Appeals to moral d...
   *关键词: discussion, philosophical*
 
-### 📰 The Partially Examined Life
-
-![NEM#248: Lande Hekt: Lucky to Be Indie](https://partiallyexaminedlife.com/wp-content/uploads/csm_Lande_Hekt_3_by_Robin_Christian-300x187.jpg)
-
-- **[NEM#248: Lande Hekt: Lucky to Be Indie](https://partiallyexaminedlife.com/2026/03/12/nem248-lande-hekt/)**
-  Lande started in the 2010's in the British punk-pop group Muncie Girls, with six releases (mostly EPs), and began her so...
-  *关键词: philosophy*
-
-### 📰 Daily Nous
-
-![Universities: Flawed but Valuable](https://dailynous.com/wp-content/uploads/2026/03/darcangelo-allan-side-view-mirror-detail.png)
-
-- **[Universities: Flawed but Valuable](https://dailynous.com/2026/03/13/universities-flawed-but-valuable/)**
-  Should academics be more conservative? One way to characterize conservatism is as an appreciation of enduring institutio...
-  *关键词: philosophy, lecture, metaphysics*
-
 
 ---
 
-*报告生成时间: 2026-03-14 07:07*  
+*报告生成时间: 2026-03-14 18:07*  
 *Atlas Intelligence System*
