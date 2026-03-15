@@ -1,2 +1,11 @@
-# Vercel 静态网站配置
-web/
+# Vercel 忽略配置
+# 不忽略 web 目录，因为那是网站内容
+
+# 忽略不需要的文件
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+.git/
+reports/*.md
+*.db
