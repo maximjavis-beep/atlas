@@ -10,7 +10,7 @@
 ## 执行命令
 
 ```bash
-cd /Users/streitenjavis/.openclaw/workspace/projects/atlas && python3 atlas_auto.py --all
+cd /Users/maxim/.openclaw/workspace/projects/atlas && python3 atlas_auto.py --all
 ```
 
 ## 其他心跳检查

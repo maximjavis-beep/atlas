@@ -2,10 +2,10 @@
 # Atlas 自动更新脚本 - 用于 OpenClaw Cron
 # 每天早上7点和晚上6点运行
 
-cd /Users/streitenjavis/.openclaw/workspace/projects/atlas
+cd /Users/maxim/.openclaw/workspace/projects/atlas
 
 # 日志
-LOG_FILE="/Users/streitenjavis/.openclaw/logs/atlas_cron.log"
+LOG_FILE="/Users/maxim/.openclaw/logs/atlas_cron.log"
 mkdir -p "$(dirname "$LOG_FILE")"
 
 echo "========== Atlas 更新开始: $(date) ==========" >> "$LOG_FILE"
