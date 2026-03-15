@@ -226,18 +226,46 @@ def get_recent_articles(hours=24):
     conn.close()
     return articles
 
+def get_articles_by_source(hours=24):
+    """按信源获取文章，返回新文章和旧文章"""
+    conn = sqlite3.connect(DB_PATH)
+    c = conn.cursor()
+    
+    # 获取新文章（最近24小时）
+    since = (datetime.now() - timedelta(hours=hours)).isoformat()
+    c.execute('''
+        SELECT title, link, summary, published, source, region, keywords_matched, fetched_at
+        FROM articles
+        WHERE fetched_at > ?
+        ORDER BY fetched_at DESC
+    ''', (since,))
+    new_articles = c.fetchall()
+    
+    # 获取旧文章（24小时前，但最近7天内）用于补充
+    seven_days_ago = (datetime.now() - timedelta(days=7)).isoformat()
+    c.execute('''
+        SELECT title, link, summary, published, source, region, keywords_matched, fetched_at
+        FROM articles
+        WHERE fetched_at <= ? AND fetched_at > ?
+        ORDER BY fetched_at DESC
+    ''', (since, seven_days_ago))
+    old_articles = c.fetchall()
+    
+    conn.close()
+    return new_articles, old_articles
+
 def generate_markdown_report():
     """生成 Markdown 报告 - 按信源分组，每个信源一张图片"""
     print("\n📝 步骤 2: 生成 Markdown 报告")
     print("-" * 40)
     
-    articles = get_recent_articles(hours=24)
+    new_articles, old_articles = get_articles_by_source(hours=24)
     today = datetime.now().strftime("%Y-%m-%d")
     date_file = datetime.now().strftime("%Y%m%d")
     
     # 统计
-    regions = set(a[5] for a in articles)
-    sources = set(a[4] for a in articles)
+    regions = set(a[5] for a in new_articles)
+    sources = set(a[4] for a in new_articles)
     
     md = f"""# 🧠 Atlas 哲学研讨情报日报
 
@@ -248,47 +276,69 @@ def generate_markdown_report():
 
 ## 📊 今日概览
 
-- **新增资讯**: {len(articles)} 条
+- **新增资讯**: {len(new_articles)} 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
 """
     
-    # 按地区和信源分组
-    by_region_source = {}
-
-    for a in articles:
-        title, link, summary, published, source, region, keywords = a
+    # 按地区和信源分组新文章
+    new_by_region_source = {}
+    for a in new_articles:
+        title, link, summary, published, source, region, keywords, fetched_at = a
         key = (region, source)
-        if key not in by_region_source:
-            by_region_source[key] = []
-        by_region_source[key].append(a)
+        if key not in new_by_region_source:
+            new_by_region_source[key] = []
+        new_by_region_source[key].append(a)
     
-    # 按地区组织
+    # 按地区和信源分组旧文章
+    old_by_region_source = {}
+    for a in old_articles:
+        title, link, summary, published, source, region, keywords, fetched_at = a
+        key = (region, source)
+        if key not in old_by_region_source:
+            old_by_region_source[key] = []
+        old_by_region_source[key].append(a)
+    
+    # 按地区组织（合并新旧）
     region_sources = {}
-    for (region, source), items in by_region_source.items():
+    
+    # 先处理有新文章的信源
+    for (region, source), items in new_by_region_source.items():
         if region not in region_sources:
             region_sources[region] = []
-        region_sources[region].append((source, items))
+        region_sources[region].append((source, items, True))  # True = 有新内容
+    
+    # 再处理没有新文章但有旧文章的信源
+    for (region, source), items in old_by_region_source.items():
+        if (region, source) not in new_by_region_source:
+            if region not in region_sources:
+                region_sources[region] = []
+            region_sources[region].append((source, items[:3], False))  # False = 只有旧内容，最多显示3条
 
     # 生成各地区内容
     seen_links = set()
+    total_displayed = 0
+    
     for region in sorted(region_sources.keys()):
         md += f"\n## 🌍 {region}\n\n"
 
-        for source, items in region_sources[region]:
+        for source, items, has_new in region_sources[region]:
             # 信源标题
             md += f"### 📰 {source}\n\n"
 
-            # 如果有文章
             if items:
-                # 列出该信源的文章（最多5条），每篇文章单独显示自己的图片
+                # 列出该信源的文章
                 rendered = 0
-                for title, link, summary, published, s, r, keywords in items[:5]:
+                max_items = 5 if has_new else 3  # 新内容最多5条，旧内容最多3条
+                
+                for article in items[:max_items]:
+                    title, link, summary, published, s, r, keywords, fetched_at = article
                     if link in seen_links:
                         continue
                     seen_links.add(link)
                     rendered += 1
+                    total_displayed += 1
                     # 提取该文章的图片
                     img_url = extract_image_from_summary(summary)
                     if img_url:
@@ -303,11 +353,12 @@ def generate_markdown_report():
                     md += "\n"
                 if rendered == 0:
                     md += "*📝 该信源暂无更新*\n\n"
+                elif not has_new:
+                    md += "*📚 以上为近期内容*\n\n"
             else:
-                # 该信源暂无更新
                 md += "*📝 该信源暂无更新*\n\n"
     
-    if not articles:
+    if not region_sources:
         md += "\n*今日暂无新资讯*\n"
     
     md += f"""
@@ -331,9 +382,9 @@ def generate_markdown_report():
     
     print(f"  ✅ Markdown 报告: {report_path}")
     print(f"  ✅ 最新版本: {latest_path}")
-    print(f"  📊 共 {len(articles)} 条资讯，{len(regions)} 个地区")
+    print(f"  📊 新增: {len(new_articles)} 条，显示总计: {total_displayed} 条，{len(regions)} 个地区")
     
-    return report_path, len(articles)
+    return report_path, len(new_articles)
 
 def markdown_to_html(md_path):
     """将 Markdown 转换为 HTML - 按信源分组，每个信源一张图片"""
