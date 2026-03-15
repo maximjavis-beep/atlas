@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-03-15  
-**来源**: 全球 2 个地区 · 4 个信源
+**来源**: 全球 2 个地区 · 2 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 16 条
+- **新增资讯**: 3 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -83,21 +83,6 @@
 - **[Matthew d’Ancona’s culture: A Pale View of Hills is an exquisite ghost story with a twist](https://www.thenewworld.co.uk/matthew-danconas-culture-a-pale-view-of-hills-is-an-exquisite-ghost-story-with-a-twist/)**
   A haunting literary adaptation is laced with grief and guilt...
 
-![Sorry, but your dog should be illegal](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/READE-dogs.jpg)
-
-- **[Sorry, but your dog should be illegal](https://www.thenewworld.co.uk/lucy-reade-sorry-but-your-dog-should-be-illegal/)**
-  If it can’t breathe properly, if its back can’t support its own weight and if it can’t even give birth without a cesarea...
-
-![Palantir boasts its AI will harm Labour voters. Why doesn’t Starmer kick it out?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/475_BALL_PALANTIR.jpg)
-
-- **[Palantir boasts its AI will harm Labour voters. Why doesn’t Starmer kick it out?](https://www.thenewworld.co.uk/james-ball-palantir-boasts-its-ai-will-harm-labour-voters-why-doesnt-starmer-kick-it-out/)**
-  CEO Alex Karp said the quiet part out loud in an interview. Yet his company is still embedded in our NHS and defence...
-
-![It’s official: Reform has slumped in the polls](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/475_KELLNER_REFORM.jpg)
-
-- **[It’s official: Reform has slumped in the polls](https://www.thenewworld.co.uk/peter-kellner-its-official-reform-has-slumped-in-the-polls/)**
-  Prime minister Farage? The danger has receded… for the moment....
-
 ### 📰 Eurozine
 
 - **[Najprv v noci, potom v digitálnom priestore](https://www.eurozine.com/najprvv-nocipotomv-digitalnompriestore/?utm_source=rss&utm_medium=rss&utm_campaign=najprvv-nocipotomv-digitalnompriestore)**
@@ -161,6 +146,17 @@
   Caroline Wall is a Ph.D. candidate at Boston University who works in ethics, value theory, and 19th-century history of p...
   *关键词: philosophy, ethics*
 
+- **[Why We Need a Formal, Mandatory, and Remunerated “Citizen Lobby”](https://blog.apaonline.org/2026/03/12/why-we-need-a-formal-mandatory-and-remunerated-citizen-lobby/)**
+  At the end of the twentieth century, the end of the Cold War suggested that freedom and democracy were the name of the g...
+
+![Recommendation: U.K. Spinoza Circle](https://i0.wp.com/blog.apaonline.org/wp-content/uploads/2026/02/image.jpeg?resize=696%2C988&#038;ssl=1)
+
+- **[Recommendation: U.K. Spinoza Circle](https://blog.apaonline.org/2026/03/12/recommendation-uk-spinoza-circle/)**
+  This series on Philosophy and Technology has construed technology broadly, often focusing on the relationship among fait...
+  *关键词: philosophy*
+
+*📚 以上为近期内容*
+
 ### 📰 Stanford Encyclopedia of Philosophy
 
 - **[Giovanni Francesco [Gianfrancesco] Pico della Mirandola](https://plato.stanford.edu/entries/gianfrancesco-pico/)**
@@ -178,16 +174,7 @@ Changes to: Main text, Bibliography]
 Changes to: Bibliography]
  The idea of a Pure Theory of Law was prop...
 
-- **[Russell’s Paradox](https://plato.stanford.edu/entries/russell-paradox/)**
-  [Revised entry by Harry Deutsch, Oliver Marshall, and Andrew David Irvine on March 13, 2026. 
-Changes to: Main text, Bib...
-  *关键词: logic*
-
-- **[Moral Disagreement](https://plato.stanford.edu/entries/disagreement-moral/)**
-  [Revised entry by Folke Tersman on March 13, 2026. 
-Changes to: Main text, Bibliography, notes.html]
- Appeals to moral d...
-  *关键词: discussion, philosophical*
+*📚 以上为近期内容*
 
 ### 📰 The Partially Examined Life
 
@@ -328,5 +315,5 @@ Changes to: Main text, Bibliography, notes.html]
 
 ---
 
-*报告生成时间: 2026-03-15 03:05*  
+*报告生成时间: 2026-03-15 16:05*  
 *Atlas Intelligence System*
