@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-03-14  
+**日期**: 2026-03-15  
 **来源**: 全球 2 个地区 · 4 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 15 条
+- **新增资讯**: 16 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -52,32 +52,6 @@
 
 *📚 以上为近期内容*
 
-### 📰 Asian Philosophy
-
-- **[In search for Mingjia thought – name, reference and referent in the Yinwenzi](https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2506912?af=R)**
-  ....
-
-- **[Intuitions in epistemic thought experiments east and west: What went wrong?](https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2506920?af=R)**
-  ....
-
-- **[How reductive is Buddhist reductionism in the Nikāya Suttas?](https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2500203?af=R)**
-  ....
-
-*📚 以上为近期内容*
-
-### 📰 Dao Journal
-
-- **[Vermander, Benoît, <i>Textual Patterns and Cosmic Designs in Early China</i>](https://link.springer.com/article/10.1007/s11712-025-10038-3)**
-  ...
-
-- **[Gong, Zhichong 宮志翀, <i>Humans Are Born from Heaven: A Study of Kang Youwei’s Three Ages Theory </i>人為天生: 康有為三世說研究](https://link.springer.com/article/10.1007/s11712-025-10035-6)**
-  ...
-
-- **[Marchal, Kai, <i>Im Spiegel der All‑Einheit: Selbst‑ und Weltbezug im chinesischen Mittelalter</i>](https://link.springer.com/article/10.1007/s11712-025-10036-5)**
-  ...
-
-*📚 以上为近期内容*
-
 
 ## 🌍 大洋洲
 
@@ -99,6 +73,11 @@
 
 ### 📰 The New European
 
+![Alastair Campbell’s diary: Pedro Sánchez is outclassing Trump with the president’s own tactics](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/475_CAMPBELL_SANCHEZ.jpg)
+
+- **[Alastair Campbell’s diary: Pedro Sánchez is outclassing Trump with the president’s own tactics](https://www.thenewworld.co.uk/pedro-sanchez-is-outclassing-trump-with-the-presidents-own-tactics/)**
+  The Spanish prime minister succeeds because he thinks, speaks and acts in bold, primary colours...
+
 ![Matthew d’Ancona’s culture: A Pale View of Hills is an exquisite ghost story with a twist](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/1161138-a-pale-view-of-hills-de-kei-ishikawa-en-selection-un-certain-regard-au-festival-de-cannes-2025-e1773403100425.jpg)
 
 - **[Matthew d’Ancona’s culture: A Pale View of Hills is an exquisite ghost story with a twist](https://www.thenewworld.co.uk/matthew-danconas-culture-a-pale-view-of-hills-is-an-exquisite-ghost-story-with-a-twist/)**
@@ -118,11 +97,6 @@
 
 - **[It’s official: Reform has slumped in the polls](https://www.thenewworld.co.uk/peter-kellner-its-official-reform-has-slumped-in-the-polls/)**
   Prime minister Farage? The danger has receded… for the moment....
-
-![How do we kill off the cool girl?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/475_POMETSEY_COOL-1-e1773424687403.jpg)
-
-- **[How do we kill off the cool girl?](https://www.thenewworld.co.uk/olive-pometsey-how-do-we-kill-off-the-cool-girl/)**
-  She used to be a genuine rebel like Birkin, Sevigny or Solange. Now she's just a marketing tool...
 
 ### 📰 Eurozine
 
@@ -151,22 +125,6 @@
 
 - **[Graham Harman, "Architecture and Objects".](https://journals.uvic.ca/index.php/pir/article/view/22601)**
   ...
-
-*📚 以上为近期内容*
-
-### 📰 The Philosophers' Magazine
-
-- **[Time Passes](https://philosophersmag.com/time-passes/)**
-  Matias Slavov argues that, for all that special relativity shows, time passes.
-The post Time Passes first appeared on Th...
-
-- **[Forfeiture of Rights](https://philosophersmag.com/forfeiture-of-rights/)**
-  Miroslav Imbrišević pursues Nicola Sturgeon's suggestion that some criminals forfeit their rights.
-The post Forfeiture o...
-
-- **[Cribs and Hunters](https://philosophersmag.com/cribs-and-hunters/)**
-  E. E. Sheng considers the meteoric rise of the notion of self-plagiarism.
-The post Cribs and Hunters first appeared on T...
 
 *📚 以上为近期内容*
 
@@ -336,19 +294,6 @@ Changes to: Main text, Bibliography, notes.html]
 
 *📚 以上为近期内容*
 
-### 📰 Philosophy Now
-
-- **[A Very Short History of Critical Thinking](https://philosophynow.org/issues/172/A_Very_Short_History_of_Critical_Thinking)**
-  Luc de Brabandere summarises a long history through key figures of thought....
-
-- **[Gyara Is All There Is](https://philosophynow.org/issues/172/Gyara_Is_All_There_Is)**
-  by John Gray...
-
-- **[The Post Paralysis Peace Paradox](https://philosophynow.org/issues/172/The_Post_Paralysis_Peace_Paradox)**
-  Cassandra Brandt offers the reflections of a sedentary Stoic....
-
-*📚 以上为近期内容*
-
 
 ## 🌍 非洲
 
@@ -383,5 +328,5 @@ Changes to: Main text, Bibliography, notes.html]
 
 ---
 
-*报告生成时间: 2026-03-14 21:54*  
+*报告生成时间: 2026-03-15 03:05*  
 *Atlas Intelligence System*
