@@ -1,7 +1,7 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-03-15  
-**来源**: 全球 2 个地区 · 2 个信源
+**日期**: 2026-03-16  
+**来源**: 全球 1 个地区 · 2 个信源
 
 ---
 
@@ -83,6 +83,13 @@
 - **[Matthew d’Ancona’s culture: A Pale View of Hills is an exquisite ghost story with a twist](https://www.thenewworld.co.uk/matthew-danconas-culture-a-pale-view-of-hills-is-an-exquisite-ghost-story-with-a-twist/)**
   A haunting literary adaptation is laced with grief and guilt...
 
+![Sorry, but your dog should be illegal](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/READE-dogs.jpg)
+
+- **[Sorry, but your dog should be illegal](https://www.thenewworld.co.uk/lucy-reade-sorry-but-your-dog-should-be-illegal/)**
+  If it can’t breathe properly, if its back can’t support its own weight and if it can’t even give birth without a cesarea...
+
+*📚 以上为近期内容*
+
 ### 📰 Eurozine
 
 - **[Najprv v noci, potom v digitálnom priestore](https://www.eurozine.com/najprvv-nocipotomv-digitalnompriestore/?utm_source=rss&utm_medium=rss&utm_campaign=najprvv-nocipotomv-digitalnompriestore)**
@@ -132,6 +139,27 @@
 
 ## 🌍 美洲
 
+### 📰 The Partially Examined Life
+
+![Ep. 387: Hegel on Law (Part One for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-300x300.png)
+
+- **[Ep. 387: Hegel on Law (Part One for Supporters)](https://partiallyexaminedlife.com/2026/03/15/ep-387-1-hegel-law-citizen/)**
+  Continuing on Hegel's Phenomenology, "Spirit" chapter, now up to sections 464-483, which are under the sub-headings "Eth...
+  *关键词: philosophy*
+
+![Ep. 387: Hegel on Law (Part Two for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-300x300.png)
+
+- **[Ep. 387: Hegel on Law (Part Two for Supporters)](https://partiallyexaminedlife.com/2026/03/15/ep-387-2-hegel-law-citizen/)**
+  Continuing on on sec. 469-483 of Hegel's Phenomenology, finishing the analysis of Antigone and bringing in Oedipus to sa...
+  *关键词: philosophy*
+
+### 📰 3:AM Magazine
+
+![a plant enters the supermarket](https://www.3ammagazine.com/wp-content/uploads/2026/03/federici-banner-1.jpg)
+
+- **[a plant enters the supermarket](https://www.3ammagazine.com/3am/a-plant-enters-the-supermarket/)**
+  a plant enters the supermarket without a receipt. the clerk doesn’t stop it. the plant looks at him. he feels seen for t...
+
 ### 📰 Daily Nous
 
 ![Jürgen Habermas (1929-2026)](https://dailynous.com/wp-content/uploads/2021/05/habermas.jpg)
@@ -139,6 +167,20 @@
 - **[Jürgen Habermas (1929-2026)](https://dailynous.com/2026/03/14/jurgen-habermas-1929-2026/)**
   Jürgen Habermas, well-known for his influential work in political philosophy and social theory, has died. Professor Habe...
   *关键词: philosophy, ethics, political philosophy*
+
+![Universities: Flawed but Valuable](https://dailynous.com/wp-content/uploads/2026/03/darcangelo-allan-side-view-mirror-detail.png)
+
+- **[Universities: Flawed but Valuable](https://dailynous.com/2026/03/13/universities-flawed-but-valuable/)**
+  Should academics be more conservative? One way to characterize conservatism is as an appreciation of enduring institutio...
+  *关键词: philosophy, lecture, metaphysics*
+
+![Susan Haack (1945-2026)](https://dailynous.com/wp-content/uploads/2026/03/haack-susan.jpg)
+
+- **[Susan Haack (1945-2026)](https://dailynous.com/2026/03/11/susan-haack-1945-2026/)**
+  Susan Haack, professor of philosophy and law at the University of Miami, has died. Professor Haack was well-known for he...
+  *关键词: philosophy, lecture, epistemology*
+
+*📚 以上为近期内容*
 
 ### 📰 APA Blog
 
@@ -173,28 +215,6 @@ Changes to: Main text, Bibliography]
   [Revised entry by Andrei Marmor on March 13, 2026. 
 Changes to: Bibliography]
  The idea of a Pure Theory of Law was prop...
-
-*📚 以上为近期内容*
-
-### 📰 The Partially Examined Life
-
-![NEM#248: Lande Hekt: Lucky to Be Indie](https://partiallyexaminedlife.com/wp-content/uploads/csm_Lande_Hekt_3_by_Robin_Christian-300x187.jpg)
-
-- **[NEM#248: Lande Hekt: Lucky to Be Indie](https://partiallyexaminedlife.com/2026/03/12/nem248-lande-hekt/)**
-  Lande started in the 2010's in the British punk-pop group Muncie Girls, with six releases (mostly EPs), and began her so...
-  *关键词: philosophy*
-
-![When a Fallacy Ain’t a Fallacy: The Naturalistic Fallacy](https://partiallyexaminedlife.com/wp-content/uploads/The-Coffe-Fallacy-300x200.png)
-
-- **[When a Fallacy Ain’t a Fallacy: The Naturalistic Fallacy](https://partiallyexaminedlife.com/2026/02/27/when-a-fallacy-aint-a-fallacy-the-naturalistic-fallacy/)**
-  In this series, we&#8217;ve been looking at ideas that are dismissed too quickly. &#8220;Fallacy!&#8221; is the label ap...
-  *关键词: philosophy*
-
-![NEM#247: John S. Hall (King Missile): Daily Poet](https://partiallyexaminedlife.com/wp-content/uploads/John-S.-Hall.photo-by-Megan-Koester-440x320-1-300x218.jpg)
-
-- **[NEM#247: John S. Hall (King Missile): Daily Poet](https://partiallyexaminedlife.com/2026/03/02/nem247-john-s-hall-king-missile/)**
-  John has released at least fifteen albums, more than half of these under the name King Missile, but even this name cover...
-  *关键词: philosophy*
 
 *📚 以上为近期内容*
 
@@ -262,25 +282,6 @@ Changes to: Bibliography]
 
 *📚 以上为近期内容*
 
-### 📰 3:AM Magazine
-
-![Agnostic](https://www.3ammagazine.com/wp-content/uploads/2026/01/agnostic.jpg)
-
-- **[Agnostic](https://www.3ammagazine.com/3am/agnostic/)**
-  Convergent evolution is a phenomenon by which two similar-looking species come into existence via completely different s...
-
-![Hexagrams of the Heavens: Hejira at 50](https://www.3ammagazine.com/wp-content/uploads/2026/01/jonimitchellhejira.avif)
-
-- **[Hexagrams of the Heavens: Hejira at 50](https://www.3ammagazine.com/3am/hexagrams-of-the-heavens-hejira-at-50/)**
-  The song, full of light and air, may well be the most purely beautiful on the album, with Victor Feldman’s soulful vibes...
-
-![The Slippermen](https://www.3ammagazine.com/wp-content/uploads/2026/02/pujolas-banner.jpg)
-
-- **[The Slippermen](https://www.3ammagazine.com/3am/the-slippermen/)**
-  1. HabitatYou reside in the top story of an abandoned building in a unit known as a symmetrical skybox. It features floo...
-
-*📚 以上为近期内容*
-
 
 ## 🌍 非洲
 
@@ -315,5 +316,5 @@ Changes to: Bibliography]
 
 ---
 
-*报告生成时间: 2026-03-15 16:05*  
+*报告生成时间: 2026-03-16 03:05*  
 *Atlas Intelligence System*
