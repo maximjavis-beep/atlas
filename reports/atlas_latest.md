@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-03-16  
-**来源**: 全球 1 个地区 · 2 个信源
+**来源**: 全球 2 个地区 · 8 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 3 条
+- **新增资讯**: 18 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -73,39 +73,48 @@
 
 ### 📰 The New European
 
-![Alastair Campbell’s diary: Pedro Sánchez is outclassing Trump with the president’s own tactics](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/475_CAMPBELL_SANCHEZ.jpg)
+![Will Tice take on the Times over tax tale?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2266816455-e1773664096463.jpg)
 
-- **[Alastair Campbell’s diary: Pedro Sánchez is outclassing Trump with the president’s own tactics](https://www.thenewworld.co.uk/pedro-sanchez-is-outclassing-trump-with-the-presidents-own-tactics/)**
-  The Spanish prime minister succeeds because he thinks, speaks and acts in bold, primary colours...
+- **[Will Tice take on the Times over tax tale?](https://www.thenewworld.co.uk/rats-in-a-sack-will-tice-take-on-the-times-over-tax-tale/)**
+  Reform's deputy leader claims a headline on a story about his tax affairs is libellous...
 
-![Matthew d’Ancona’s culture: A Pale View of Hills is an exquisite ghost story with a twist](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/1161138-a-pale-view-of-hills-de-kei-ishikawa-en-selection-un-certain-regard-au-festival-de-cannes-2025-e1773403100425.jpg)
+![Guardian man Liew wades into cafe culture war](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2217902157-e1773664595864.jpg)
 
-- **[Matthew d’Ancona’s culture: A Pale View of Hills is an exquisite ghost story with a twist](https://www.thenewworld.co.uk/matthew-danconas-culture-a-pale-view-of-hills-is-an-exquisite-ghost-story-with-a-twist/)**
-  A haunting literary adaptation is laced with grief and guilt...
+- **[Guardian man Liew wades into cafe culture war](https://www.thenewworld.co.uk/rats-in-a-sack-guardian-man-liew-wades-into-cafe-culture-war/)**
+  Jonathan Liew wrote an article attacking the arrival of Gail's on a North London street as an extension of war...
 
-![Sorry, but your dog should be illegal](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/READE-dogs.jpg)
+![I wish we hadn’t won council election, moans Farage](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2265822452-e1773665264324.jpg)
 
-- **[Sorry, but your dog should be illegal](https://www.thenewworld.co.uk/lucy-reade-sorry-but-your-dog-should-be-illegal/)**
-  If it can’t breathe properly, if its back can’t support its own weight and if it can’t even give birth without a cesarea...
+- **[I wish we hadn’t won council election, moans Farage](https://www.thenewworld.co.uk/rats-in-a-sack-i-wish-we-hadnt-won-council-election-moans-farage/)**
+  The Reform leader wishes his party "hadn't bothered" taking over Worcestershire Council after watching it massively hike...
 
-*📚 以上为近期内容*
+![Now right is triggered by new Green MP’s clobber](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/Spencer-e1773665671376.jpg)
+
+- **[Now right is triggered by new Green MP’s clobber](https://www.thenewworld.co.uk/rats-in-a-sack-now-right-is-triggered-by-new-green-mps-clobber/)**
+  The very online right got into a fury about Hannah Spencer's colourful clothes as she made her maiden speech...
+
+![A night when the Oscars almost mattered](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2266331514-e1773666665725.jpg)
+
+- **[A night when the Oscars almost mattered](https://www.thenewworld.co.uk/john-bleasdale-a-night-when-the-oscars-almost-mattered/)**
+  Winners like Jessie Buckley, One Battle After Another and Sinners were predictable - but the fighting spirit of cinema o...
 
 ### 📰 Eurozine
 
-- **[Najprv v noci, potom v digitálnom priestore](https://www.eurozine.com/najprvv-nocipotomv-digitalnompriestore/?utm_source=rss&utm_medium=rss&utm_campaign=najprvv-nocipotomv-digitalnompriestore)**
+![Tech or tarot?](https://www.eurozine.com/wp-content/uploads/2026/03/Georgian_Dream_electoral_graffiti_August_2016_Tbilisi-300x168.jpg)
+
+- **[Tech or tarot?](https://www.eurozine.com/tech-or-tarot/?utm_source=rss&utm_medium=rss&utm_campaign=tech-or-tarot)**
+  Quackery with a university logo: the failed attempt to introduce pseudoscience onto the curriculum of Georgia’s flagship...
+
+- **[Padėtis nepakankamai pažįstama, kad būtų galima apie ją diskutuoti](https://www.eurozine.com/padetis-nepakankamai-pazistama-kad-butu-galima-apie-ja-diskutuoti/?utm_source=rss&utm_medium=rss&utm_campaign=padetis-nepakankamai-pazistama-kad-butu-galima-apie-ja-diskutuoti)**
   ...
 
-![Never again meets a new war](https://www.eurozine.com/wp-content/uploads/2026/03/Bundeswehr_Karriere_Werbung_2022-300x176.jpg)
+### 📰 The Philosophers' Magazine
 
-- **[Never again meets a new war](https://www.eurozine.com/never-again-meets-a-new-war/?utm_source=rss&utm_medium=rss&utm_campaign=never-again-meets-a-new-war)**
-  The German government’s decision to reinstate national service has hit resistance. Young activists, aligning climate pro...
+![Jihadism: At Least as Bad as Nazism](https://philosophersmag.com/wp-content/uploads/2026/03/UA_Flight_175_hits_WTC_south_tower_9-11_edit-1024x893.jpg)
 
-![Farewell to Dialogi](https://www.eurozine.com/wp-content/uploads/2026/02/Dialogi_11_12_2025-300x225.jpg)
-
-- **[Farewell to Dialogi](https://www.eurozine.com/farewell-to-dialogi/?utm_source=rss&utm_medium=rss&utm_campaign=farewell-to-dialogi)**
-  The journal Dialogi closed at the end of last year. Its editors reflect on the publication’s sixty-year history and why ...
-
-*📚 以上为近期内容*
+- **[Jihadism: At Least as Bad as Nazism](https://philosophersmag.com/jihadism-at-least-as-bad-as-nazism/)**
+  Spencer Case provides three reasons that jihadism is at least as bad as Nazism.
+The post Jihadism: At Least as Bad as Na...
 
 ### 📰 Philosophy in Review
 
@@ -141,6 +150,13 @@
 
 ### 📰 The Partially Examined Life
 
+![Ep. 387: Hegel on Law (Part One)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-300x300.png)
+
+- **[Ep. 387: Hegel on Law (Part One)](https://partiallyexaminedlife.com/2026/03/16/ep387-1-hegel-law/)**
+  Subscribe to get parts 1 and 2 of this now, ad-free, plus tons of bonus content.
+Continuing on Hegel's Phenomenology...
+  *关键词: philosophy*
+
 ![Ep. 387: Hegel on Law (Part One for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-300x300.png)
 
 - **[Ep. 387: Hegel on Law (Part One for Supporters)](https://partiallyexaminedlife.com/2026/03/15/ep-387-1-hegel-law-citizen/)**
@@ -153,70 +169,43 @@
   Continuing on on sec. 469-483 of Hegel's Phenomenology, finishing the analysis of Antigone and bringing in Oedipus to sa...
   *关键词: philosophy*
 
+### 📰 APA Blog
+
+- **[Nostalgic Longing for Childhood](https://blog.apaonline.org/2026/03/16/nostalgic-longing-for-childhood/)**
+  Within popular culture, literature, television, and film, nostalgia is often (if not invariably) associated with childho...
+
+### 📰 Stanford Encyclopedia of Philosophy
+
+- **[Margaret Fuller](https://plato.stanford.edu/entries/fuller-margaret/)**
+  [Revised entry by Daniel Howe and Sonia Di Loreto on March 16, 2026. 
+Changes to: Main text, Bibliography]
+ Margaret Ful...
+
+- **[Carl Hempel](https://plato.stanford.edu/entries/hempel/)**
+  [Revised entry by James Fetzer on March 16, 2026. 
+Changes to: Main text, Bibliography]
+ Carl G. Hempel (1905 - 1997) wa...
+  *关键词: philosophical*
+
+- **[The Epistemic Basing Relation](https://plato.stanford.edu/entries/basing-epistemic/)**
+  [Revised entry by Keith Allen Korcz on March 16, 2026. 
+Changes to: Main text, Bibliography, notes.html]
+ The epistemic ...
+
+### 📰 Daily Nous
+
+![How Old Philosophers Are When Their Influence Peaks?](https://dailynous.com/wp-content/uploads/2026/03/schwitzgebel-philosopher-peaks-1941-45.png)
+
+- **[How Old Philosophers Are When Their Influence Peaks?](https://dailynous.com/2026/03/16/how-old-philosophers-are-when-their-influence-peaks/)**
+  Philosophers of the past 100 years or so have tended to reach &#8220;peak influence&#8221; between their early 50s and l...
+  *关键词: philosophy, discussion*
+
 ### 📰 3:AM Magazine
 
 ![a plant enters the supermarket](https://www.3ammagazine.com/wp-content/uploads/2026/03/federici-banner-1.jpg)
 
 - **[a plant enters the supermarket](https://www.3ammagazine.com/3am/a-plant-enters-the-supermarket/)**
   a plant enters the supermarket without a receipt. the clerk doesn’t stop it. the plant looks at him. he feels seen for t...
-
-### 📰 Daily Nous
-
-![Jürgen Habermas (1929-2026)](https://dailynous.com/wp-content/uploads/2021/05/habermas.jpg)
-
-- **[Jürgen Habermas (1929-2026)](https://dailynous.com/2026/03/14/jurgen-habermas-1929-2026/)**
-  Jürgen Habermas, well-known for his influential work in political philosophy and social theory, has died. Professor Habe...
-  *关键词: philosophy, ethics, political philosophy*
-
-![Universities: Flawed but Valuable](https://dailynous.com/wp-content/uploads/2026/03/darcangelo-allan-side-view-mirror-detail.png)
-
-- **[Universities: Flawed but Valuable](https://dailynous.com/2026/03/13/universities-flawed-but-valuable/)**
-  Should academics be more conservative? One way to characterize conservatism is as an appreciation of enduring institutio...
-  *关键词: philosophy, lecture, metaphysics*
-
-![Susan Haack (1945-2026)](https://dailynous.com/wp-content/uploads/2026/03/haack-susan.jpg)
-
-- **[Susan Haack (1945-2026)](https://dailynous.com/2026/03/11/susan-haack-1945-2026/)**
-  Susan Haack, professor of philosophy and law at the University of Miami, has died. Professor Haack was well-known for he...
-  *关键词: philosophy, lecture, epistemology*
-
-*📚 以上为近期内容*
-
-### 📰 APA Blog
-
-- **[APA Member Interview, Caroline Wall](https://blog.apaonline.org/2026/03/13/apa-member-interview-caroline-wall/)**
-  Caroline Wall is a Ph.D. candidate at Boston University who works in ethics, value theory, and 19th-century history of p...
-  *关键词: philosophy, ethics*
-
-- **[Why We Need a Formal, Mandatory, and Remunerated “Citizen Lobby”](https://blog.apaonline.org/2026/03/12/why-we-need-a-formal-mandatory-and-remunerated-citizen-lobby/)**
-  At the end of the twentieth century, the end of the Cold War suggested that freedom and democracy were the name of the g...
-
-![Recommendation: U.K. Spinoza Circle](https://i0.wp.com/blog.apaonline.org/wp-content/uploads/2026/02/image.jpeg?resize=696%2C988&#038;ssl=1)
-
-- **[Recommendation: U.K. Spinoza Circle](https://blog.apaonline.org/2026/03/12/recommendation-uk-spinoza-circle/)**
-  This series on Philosophy and Technology has construed technology broadly, often focusing on the relationship among fait...
-  *关键词: philosophy*
-
-*📚 以上为近期内容*
-
-### 📰 Stanford Encyclopedia of Philosophy
-
-- **[Giovanni Francesco [Gianfrancesco] Pico della Mirandola](https://plato.stanford.edu/entries/gianfrancesco-pico/)**
-  [New Entry by Francesco Molinarolo on March 13, 2026.]
- Giovanni Francesco [Gianfrancesco] Pico della Mirandola (1469 - ...
-  *关键词: philosophy*
-
-- **[Plato’s Parmenides](https://plato.stanford.edu/entries/plato-parmenides/)**
-  [Revised entry by Samuel Rickless on March 13, 2026. 
-Changes to: Main text, Bibliography]
- The Parmenides is, quite pos...
-
-- **[The Pure Theory of Law](https://plato.stanford.edu/entries/lawphil-theory/)**
-  [Revised entry by Andrei Marmor on March 13, 2026. 
-Changes to: Bibliography]
- The idea of a Pure Theory of Law was prop...
-
-*📚 以上为近期内容*
 
 ### 📰 The Brains Blog
 
@@ -316,5 +305,5 @@ Changes to: Bibliography]
 
 ---
 
-*报告生成时间: 2026-03-16 03:05*  
+*报告生成时间: 2026-03-16 16:05*  
 *Atlas Intelligence System*
