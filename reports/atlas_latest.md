@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-03-17  
-**来源**: 全球 2 个地区 · 7 个信源
+**来源**: 全球 2 个地区 · 4 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 19 条
+- **新增资讯**: 10 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -73,6 +73,21 @@
 
 ### 📰 The New European
 
+![Who wants to get their hands on Kash Patel’s shoes?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/HDkONtMXAAA4Wui-e1773756070332.jpg)
+
+- **[Who wants to get their hands on Kash Patel’s shoes?](https://www.thenewworld.co.uk/rats-in-a-sack-who-wants-to-get-their-hands-on-kash-patels-shoes/)**
+  The brand-obsessed director of the FBI has now designed his own customed Nike footwear...
+
+![Reform’s energy bill competition is not all it seems](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2266530231-e1773756541186.jpg)
+
+- **[Reform’s energy bill competition is not all it seems](https://www.thenewworld.co.uk/rats-in-a-sack-reforms-energy-bill-competition-is-not-all-it-seem/)**
+  The party's prize draw promises to pay the bills for a year of the lucky winner AND their entire street. But will it rea...
+
+![Reform’s bungling George keeps his job – just](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/02/GettyImages-2233155110-e1770036254143.jpg)
+
+- **[Reform’s bungling George keeps his job – just](https://www.thenewworld.co.uk/rats-in-a-sack-reforms-bungling-george-keeps-his-job-just/)**
+  George Finch - appointed leader of Warwickshire Council last year at the age of just 19 - has narrowly survived a vote o...
+
 ![How Europe can win the war after the war](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2265304176-e1773678912524.jpg)
 
 - **[How Europe can win the war after the war](https://www.thenewworld.co.uk/matthew-dancona-how-europe-can-win-the-war-after-the-war/)**
@@ -83,30 +98,12 @@
 - **[Corpses, spacelabs and gravy: The utter disaster of Nicole Kidman’s Scarpetta](https://www.thenewworld.co.uk/jamie-klingler-corpses-spacelabs-and-gravy-the-utter-disaster-of-nicole-kidmans-scarpetta/)**
   Patricia Cornwell’s stories about a medical examiner spent decades in development hell. Now they’ve delivered actual hel...
 
-![Keir Starmer’s fate – to become Boris Johnson](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/475_BALL_STARM.jpg)
-
-- **[Keir Starmer’s fate – to become Boris Johnson](https://www.thenewworld.co.uk/james-ball-keir-starmers-fate-to-become-boris-johnson/)**
-  Superficially they are different, but look closer and the similarities begin to reveal themselves, to an extent that sho...
-
-![James Cleverly discovered alive and well in California](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2265783044-e1773682051339.jpg)
-
-- **[James Cleverly discovered alive and well in California](https://www.thenewworld.co.uk/rats-in-a-sack-james-cleverly-discovered-alive-and-well-in-california/)**
-  The shadow housing secretary went missing - but it turned out he was in the US for more than three weeks...
-
-![Will Tice take on the Times over tax tale?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2266816455-e1773664096463.jpg)
-
-- **[Will Tice take on the Times over tax tale?](https://www.thenewworld.co.uk/rats-in-a-sack-will-tice-take-on-the-times-over-tax-tale/)**
-  Reform's deputy leader claims a headline on a story about his tax affairs is libellous...
-
 ### 📰 Eurozine
 
-![Tech or tarot?](https://www.eurozine.com/wp-content/uploads/2026/03/Georgian_Dream_electoral_graffiti_August_2016_Tbilisi-300x168.jpg)
+![How far will he go?](https://www.eurozine.com/wp-content/uploads/2026/03/P20260120MR-0183-1-300x131.jpg)
 
-- **[Tech or tarot?](https://www.eurozine.com/tech-or-tarot/?utm_source=rss&utm_medium=rss&utm_campaign=tech-or-tarot)**
-  Quackery with a university logo: the failed attempt to introduce pseudoscience onto the curriculum of Georgia’s flagship...
-
-- **[Padėtis nepakankamai pažįstama, kad būtų galima apie ją diskutuoti](https://www.eurozine.com/padetis-nepakankamai-pazistama-kad-butu-galima-apie-ja-diskutuoti/?utm_source=rss&utm_medium=rss&utm_campaign=padetis-nepakankamai-pazistama-kad-butu-galima-apie-ja-diskutuoti)**
-  ...
+- **[How far will he go?](https://www.eurozine.com/how-far-will-he-go/?utm_source=rss&utm_medium=rss&utm_campaign=how-far-will-he-go)**
+  While Trump's violence has never been purely rhetorical, few anticipated his eagerness to use military force since retur...
 
 ### 📰 The Philosophers' Magazine
 
@@ -115,6 +112,8 @@
 - **[Jihadism: At Least as Bad as Nazism](https://philosophersmag.com/jihadism-at-least-as-bad-as-nazism/)**
   Spencer Case provides three reasons that jihadism is at least as bad as Nazism.
 The post Jihadism: At Least as Bad as Na...
+
+*📚 以上为近期内容*
 
 ### 📰 Philosophy in Review
 
@@ -148,6 +147,19 @@ The post Jihadism: At Least as Bad as Na...
 
 ## 🌍 美洲
 
+### 📰 APA Blog
+
+- **[Good Work and Economic Democracy](https://blog.apaonline.org/2026/03/17/good-work-and-economic-democracy/)**
+  Many political philosophers argue that all people are entitled as a matter of justice to real access to good work: skill...
+
+### 📰 Daily Nous
+
+![Philosophers Working in or with AI Firms & Organizations](https://dailynous.com/wp-content/uploads/2026/03/anadol-refik-unsupervised-machine-hallucinations.png)
+
+- **[Philosophers Working in or with AI Firms & Organizations](https://dailynous.com/2026/03/17/philosophers-working-in-or-with-ai-firms-organizations/)**
+  To what extent has the development of AI over the past several years led to non-academic work for academically-trained p...
+  *关键词: philosophy, ethics, epistemology*
+
 ### 📰 The Partially Examined Life
 
 ![Ep. 387: Hegel on Law (Part One)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-300x300.png)
@@ -157,10 +169,19 @@ The post Jihadism: At Least as Bad as Na...
 Continuing on Hegel's Phenomenology...
   *关键词: philosophy*
 
-### 📰 APA Blog
+![Ep. 387: Hegel on Law (Part One for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-300x300.png)
 
-- **[Nostalgic Longing for Childhood](https://blog.apaonline.org/2026/03/16/nostalgic-longing-for-childhood/)**
-  Within popular culture, literature, television, and film, nostalgia is often (if not invariably) associated with childho...
+- **[Ep. 387: Hegel on Law (Part One for Supporters)](https://partiallyexaminedlife.com/2026/03/15/ep-387-1-hegel-law-citizen/)**
+  Continuing on Hegel's Phenomenology, "Spirit" chapter, now up to sections 464-483, which are under the sub-headings "Eth...
+  *关键词: philosophy*
+
+![Ep. 387: Hegel on Law (Part Two for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-300x300.png)
+
+- **[Ep. 387: Hegel on Law (Part Two for Supporters)](https://partiallyexaminedlife.com/2026/03/15/ep-387-2-hegel-law-citizen/)**
+  Continuing on on sec. 469-483 of Hegel's Phenomenology, finishing the analysis of Antigone and bringing in Oedipus to sa...
+  *关键词: philosophy*
+
+*📚 以上为近期内容*
 
 ### 📰 Stanford Encyclopedia of Philosophy
 
@@ -180,13 +201,7 @@ Changes to: Main text, Bibliography]
 Changes to: Main text, Bibliography, notes.html]
  The epistemic ...
 
-### 📰 Daily Nous
-
-![How Old Philosophers Are When Their Influence Peaks?](https://dailynous.com/wp-content/uploads/2026/03/schwitzgebel-philosopher-peaks-1941-45.png)
-
-- **[How Old Philosophers Are When Their Influence Peaks?](https://dailynous.com/2026/03/16/how-old-philosophers-are-when-their-influence-peaks/)**
-  Philosophers of the past 100 years or so have tended to reach &#8220;peak influence&#8221; between their early 50s and l...
-  *关键词: philosophy, discussion*
+*📚 以上为近期内容*
 
 ### 📰 3:AM Magazine
 
@@ -305,5 +320,5 @@ Changes to: Main text, Bibliography, notes.html]
 
 ---
 
-*报告生成时间: 2026-03-17 03:05*  
+*报告生成时间: 2026-03-17 16:05*  
 *Atlas Intelligence System*
