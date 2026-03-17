@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-03-16  
-**来源**: 全球 2 个地区 · 8 个信源
+**日期**: 2026-03-17  
+**来源**: 全球 2 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 18 条
+- **新增资讯**: 19 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -73,30 +73,30 @@
 
 ### 📰 The New European
 
+![How Europe can win the war after the war](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2265304176-e1773678912524.jpg)
+
+- **[How Europe can win the war after the war](https://www.thenewworld.co.uk/matthew-dancona-how-europe-can-win-the-war-after-the-war/)**
+  Reshaping our place in the post-Trump, post-Brexit, post-Iran world is about strength, not virtue...
+
+![Corpses, spacelabs and gravy: The utter disaster of Nicole Kidman’s Scarpetta](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/2500-2-e1773680169943.jpg)
+
+- **[Corpses, spacelabs and gravy: The utter disaster of Nicole Kidman’s Scarpetta](https://www.thenewworld.co.uk/jamie-klingler-corpses-spacelabs-and-gravy-the-utter-disaster-of-nicole-kidmans-scarpetta/)**
+  Patricia Cornwell’s stories about a medical examiner spent decades in development hell. Now they’ve delivered actual hel...
+
+![Keir Starmer’s fate – to become Boris Johnson](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/475_BALL_STARM.jpg)
+
+- **[Keir Starmer’s fate – to become Boris Johnson](https://www.thenewworld.co.uk/james-ball-keir-starmers-fate-to-become-boris-johnson/)**
+  Superficially they are different, but look closer and the similarities begin to reveal themselves, to an extent that sho...
+
+![James Cleverly discovered alive and well in California](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2265783044-e1773682051339.jpg)
+
+- **[James Cleverly discovered alive and well in California](https://www.thenewworld.co.uk/rats-in-a-sack-james-cleverly-discovered-alive-and-well-in-california/)**
+  The shadow housing secretary went missing - but it turned out he was in the US for more than three weeks...
+
 ![Will Tice take on the Times over tax tale?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2266816455-e1773664096463.jpg)
 
 - **[Will Tice take on the Times over tax tale?](https://www.thenewworld.co.uk/rats-in-a-sack-will-tice-take-on-the-times-over-tax-tale/)**
   Reform's deputy leader claims a headline on a story about his tax affairs is libellous...
-
-![Guardian man Liew wades into cafe culture war](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2217902157-e1773664595864.jpg)
-
-- **[Guardian man Liew wades into cafe culture war](https://www.thenewworld.co.uk/rats-in-a-sack-guardian-man-liew-wades-into-cafe-culture-war/)**
-  Jonathan Liew wrote an article attacking the arrival of Gail's on a North London street as an extension of war...
-
-![I wish we hadn’t won council election, moans Farage](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2265822452-e1773665264324.jpg)
-
-- **[I wish we hadn’t won council election, moans Farage](https://www.thenewworld.co.uk/rats-in-a-sack-i-wish-we-hadnt-won-council-election-moans-farage/)**
-  The Reform leader wishes his party "hadn't bothered" taking over Worcestershire Council after watching it massively hike...
-
-![Now right is triggered by new Green MP’s clobber](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/Spencer-e1773665671376.jpg)
-
-- **[Now right is triggered by new Green MP’s clobber](https://www.thenewworld.co.uk/rats-in-a-sack-now-right-is-triggered-by-new-green-mps-clobber/)**
-  The very online right got into a fury about Hannah Spencer's colourful clothes as she made her maiden speech...
-
-![A night when the Oscars almost mattered](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2266331514-e1773666665725.jpg)
-
-- **[A night when the Oscars almost mattered](https://www.thenewworld.co.uk/john-bleasdale-a-night-when-the-oscars-almost-mattered/)**
-  Winners like Jessie Buckley, One Battle After Another and Sinners were predictable - but the fighting spirit of cinema o...
 
 ### 📰 Eurozine
 
@@ -157,18 +157,6 @@ The post Jihadism: At Least as Bad as Na...
 Continuing on Hegel's Phenomenology...
   *关键词: philosophy*
 
-![Ep. 387: Hegel on Law (Part One for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-300x300.png)
-
-- **[Ep. 387: Hegel on Law (Part One for Supporters)](https://partiallyexaminedlife.com/2026/03/15/ep-387-1-hegel-law-citizen/)**
-  Continuing on Hegel's Phenomenology, "Spirit" chapter, now up to sections 464-483, which are under the sub-headings "Eth...
-  *关键词: philosophy*
-
-![Ep. 387: Hegel on Law (Part Two for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-300x300.png)
-
-- **[Ep. 387: Hegel on Law (Part Two for Supporters)](https://partiallyexaminedlife.com/2026/03/15/ep-387-2-hegel-law-citizen/)**
-  Continuing on on sec. 469-483 of Hegel's Phenomenology, finishing the analysis of Antigone and bringing in Oedipus to sa...
-  *关键词: philosophy*
-
 ### 📰 APA Blog
 
 - **[Nostalgic Longing for Childhood](https://blog.apaonline.org/2026/03/16/nostalgic-longing-for-childhood/)**
@@ -206,6 +194,18 @@ Changes to: Main text, Bibliography, notes.html]
 
 - **[a plant enters the supermarket](https://www.3ammagazine.com/3am/a-plant-enters-the-supermarket/)**
   a plant enters the supermarket without a receipt. the clerk doesn’t stop it. the plant looks at him. he feels seen for t...
+
+![Agnostic](https://www.3ammagazine.com/wp-content/uploads/2026/01/agnostic.jpg)
+
+- **[Agnostic](https://www.3ammagazine.com/3am/agnostic/)**
+  Convergent evolution is a phenomenon by which two similar-looking species come into existence via completely different s...
+
+![Hexagrams of the Heavens: Hejira at 50](https://www.3ammagazine.com/wp-content/uploads/2026/01/jonimitchellhejira.avif)
+
+- **[Hexagrams of the Heavens: Hejira at 50](https://www.3ammagazine.com/3am/hexagrams-of-the-heavens-hejira-at-50/)**
+  The song, full of light and air, may well be the most purely beautiful on the album, with Victor Feldman’s soulful vibes...
+
+*📚 以上为近期内容*
 
 ### 📰 The Brains Blog
 
@@ -305,5 +305,5 @@ Changes to: Main text, Bibliography, notes.html]
 
 ---
 
-*报告生成时间: 2026-03-16 16:05*  
+*报告生成时间: 2026-03-17 03:05*  
 *Atlas Intelligence System*
