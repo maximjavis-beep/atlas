@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-03-17  
+**日期**: 2026-03-18  
 **来源**: 全球 2 个地区 · 4 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 10 条
+- **新增资讯**: 17 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -73,30 +73,30 @@
 
 ### 📰 The New European
 
-![Who wants to get their hands on Kash Patel’s shoes?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/HDkONtMXAAA4Wui-e1773756070332.jpg)
+![Letter of the week: Donald Trump, anti-democratic, corrupt and obscene](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/01/GettyImages-2253972528-e1767367716719.jpg)
 
-- **[Who wants to get their hands on Kash Patel’s shoes?](https://www.thenewworld.co.uk/rats-in-a-sack-who-wants-to-get-their-hands-on-kash-patels-shoes/)**
-  The brand-obsessed director of the FBI has now designed his own customed Nike footwear...
+- **[Letter of the week: Donald Trump, anti-democratic, corrupt and obscene](https://www.thenewworld.co.uk/letter-of-the-week-donald-trump-anti-democratic-corrupt-and-obscene/)**
+  Write to letters@thenewworld.co.uk to have your views voiced in the magazine...
 
-![Reform’s energy bill competition is not all it seems](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2266530231-e1773756541186.jpg)
+![Germansplaining: How Germany turned a bookshop prize into a culture war](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/475_TANIT_BOOKS.jpg)
 
-- **[Reform’s energy bill competition is not all it seems](https://www.thenewworld.co.uk/rats-in-a-sack-reforms-energy-bill-competition-is-not-all-it-seem/)**
-  The party's prize draw promises to pay the bills for a year of the lucky winner AND their entire street. But will it rea...
+- **[Germansplaining: How Germany turned a bookshop prize into a culture war](https://www.thenewworld.co.uk/tanit-koch-germansplaining-how-germany-turned-a-bookshop-prize-into-a-culture-war/)**
+  Culture minister Wolfram Weimer has cancelled grants for three left-leaning stores...
 
-![Reform’s bungling George keeps his job – just](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/02/GettyImages-2233155110-e1770036254143.jpg)
+![Nerd’s Eye View: 10 things you need to know about dead US presidents](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/475_NEV_PRES.jpg)
 
-- **[Reform’s bungling George keeps his job – just](https://www.thenewworld.co.uk/rats-in-a-sack-reforms-bungling-george-keeps-his-job-just/)**
-  George Finch - appointed leader of Warwickshire Council last year at the age of just 19 - has narrowly survived a vote o...
+- **[Nerd’s Eye View: 10 things you need to know about dead US presidents](https://www.thenewworld.co.uk/jonn-elledge-nerds-eye-view-10-things-you-need-to-know-about-dead-us-presidents/)**
+  Digging into the detail and data to separate the noise from the news...
 
-![How Europe can win the war after the war](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2265304176-e1773678912524.jpg)
+![War has returned to Iraq](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/475_CAROUSEL_ERBIL.jpg)
 
-- **[How Europe can win the war after the war](https://www.thenewworld.co.uk/matthew-dancona-how-europe-can-win-the-war-after-the-war/)**
-  Reshaping our place in the post-Trump, post-Brexit, post-Iran world is about strength, not virtue...
+- **[War has returned to Iraq](https://www.thenewworld.co.uk/rachel-hagan-war-has-returned-to-iraq/)**
+  The north of the country endured the war to oust Saddam, the insurgency, the war against Islamic State and now Trump’s w...
 
-![Corpses, spacelabs and gravy: The utter disaster of Nicole Kidman’s Scarpetta](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/2500-2-e1773680169943.jpg)
+![The Africans dying in Putin’s failing war](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/475_MAINA_KENYANS.jpg)
 
-- **[Corpses, spacelabs and gravy: The utter disaster of Nicole Kidman’s Scarpetta](https://www.thenewworld.co.uk/jamie-klingler-corpses-spacelabs-and-gravy-the-utter-disaster-of-nicole-kidmans-scarpetta/)**
-  Patricia Cornwell’s stories about a medical examiner spent decades in development hell. Now they’ve delivered actual hel...
+- **[The Africans dying in Putin’s failing war](https://www.thenewworld.co.uk/joseph-maina-the-africans-dying-in-putins-failing-war/)**
+  The Russian army is luring Kenyans to fight in Ukraine. Processed and sent to the front after minimal training, most of ...
 
 ### 📰 Eurozine
 
@@ -147,18 +147,24 @@ The post Jihadism: At Least as Bad as Na...
 
 ## 🌍 美洲
 
-### 📰 APA Blog
-
-- **[Good Work and Economic Democracy](https://blog.apaonline.org/2026/03/17/good-work-and-economic-democracy/)**
-  Many political philosophers argue that all people are entitled as a matter of justice to real access to good work: skill...
-
 ### 📰 Daily Nous
+
+![Faculty & Students at Ghent Call for Resignation of “Race Science” Philosopher](https://dailynous.com/wp-content/uploads/2026/03/cofnas-nathan.jpg)
+
+- **[Faculty & Students at Ghent Call for Resignation of “Race Science” Philosopher](https://dailynous.com/2026/03/18/faculty-students-at-ghent-call-for-resignation-of-race-science-philosopher/)**
+  Faculty and Students at Ghent University are objecting to the university&#8217;s recent hiring of philosopher Nathan Cof...
+  *关键词: philosophy, debate*
 
 ![Philosophers Working in or with AI Firms & Organizations](https://dailynous.com/wp-content/uploads/2026/03/anadol-refik-unsupervised-machine-hallucinations.png)
 
 - **[Philosophers Working in or with AI Firms & Organizations](https://dailynous.com/2026/03/17/philosophers-working-in-or-with-ai-firms-organizations/)**
   To what extent has the development of AI over the past several years led to non-academic work for academically-trained p...
   *关键词: philosophy, ethics, epistemology*
+
+### 📰 APA Blog
+
+- **[Good Work and Economic Democracy](https://blog.apaonline.org/2026/03/17/good-work-and-economic-democracy/)**
+  Many political philosophers argue that all people are entitled as a matter of justice to real access to good work: skill...
 
 ### 📰 The Partially Examined Life
 
@@ -320,5 +326,5 @@ Changes to: Main text, Bibliography, notes.html]
 
 ---
 
-*报告生成时间: 2026-03-17 16:05*  
+*报告生成时间: 2026-03-18 03:05*  
 *Atlas Intelligence System*
