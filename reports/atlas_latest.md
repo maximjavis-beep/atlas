@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-03-19  
-**来源**: 全球 2 个地区 · 6 个信源
+**来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 17 条
+- **新增资讯**: 16 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -16,30 +16,30 @@
 
 ### 📰 The New European
 
-![What it’s like being a GB News token leftie](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GB-token-lefty.jpg)
+![Hey everyone: don’t forget about the real world!](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2236052966-e1773917492830.jpg)
 
-- **[What it’s like being a GB News token leftie](https://www.thenewworld.co.uk/james-ball-what-its-like-being-a-gb-news-token-leftie/)**
-  The right wing channel allows a handful of token left wingers on the air to be shouted at for ‘balance’. This is what it...
+- **[Hey everyone: don’t forget about the real world!](https://www.thenewworld.co.uk/marie-le-conte-hey-everyone-dont-forget-about-the-real-world/)**
+  It’s very easy to get drawn into a life shaped entirely by the ogres who control the algorithms of social media. But tha...
 
-![Much ado about Liew at the Guardian](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2217902157-e1773664595864.jpg)
+![Labour’s war on Brexit is overdue – just ask Sadiq Khan](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/BLOOM-brexit-labour.jpg)
 
-- **[Much ado about Liew at the Guardian](https://www.thenewworld.co.uk/rats-in-a-sack-much-ado-about-liew-at-the-guardian/)**
-  The paper's star sportswriter has managed to embroil the title in yet another antisemitism row...
+- **[Labour’s war on Brexit is overdue – just ask Sadiq Khan](https://www.thenewworld.co.uk/jonty-bloom-labours-war-on-brexit-is-overdue-just-ask-sadiq-khan/)**
+  In a challenge to Starmer, the London mayor says the party must campaign for a reunion with the EU...
 
-![Trump’s war will encourage Iran to develop the bomb](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/03/426_beckett_trump.jpg)
+![Is GB News ok?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GB-NEWS-presenters.jpg)
 
-- **[Trump’s war will encourage Iran to develop the bomb](https://www.thenewworld.co.uk/greg-treverton-trumps-war-will-encourage-iran-to-develop-the-bomb/)**
-  The best way to prevent invasion is to become nuclear armed. The Iranians have learned this lesson – and other nations a...
+- **[Is GB News ok?](https://www.thenewworld.co.uk/rats-in-a-sack-is-gb-news-ok/)**
+  Stung by the New World's investigation, the hard right channel's editorial director has written a bonkers article in its...
 
-![Rupert Lowe: the most right-wing MP since 1945](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/01/GettyImages-2173136924-e1738257220917.jpg)
+![The man bringing full-blown extremism back to the Tory party](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2024/07/396_PATIENCE_CONSERVATIVES-1.jpg)
 
-- **[Rupert Lowe: the most right-wing MP since 1945](https://www.thenewworld.co.uk/sunder-katwala-rupert-lowe-the-most-right-wing-mp-since-1945/)**
-  The leader of the Restore party promotes immigration policies so extreme, that he’s even further right than the old BNP....
+- **[The man bringing full-blown extremism back to the Tory party](https://www.thenewworld.co.uk/marie-le-conte-the-man-bringing-full-blown-extremism-back-to-the-tory-party/)**
+  Nick Timothy’s recent comments on Muslims have been so inflammatory they’ve done the unthinkable – they’ve drawn a unifi...
 
-![GB News’s Bashful Bev hits back over Trump jibes](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/11/bev-turner-e1762869181900.jpg)
+![Sadiq Khan speaks the Brexit truth the nation needs to hear](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2256494943-e1773933087844.jpg)
 
-- **[GB News’s Bashful Bev hits back over Trump jibes](https://www.thenewworld.co.uk/rats-in-a-sack-gb-newss-bashful-bev-hits-back-over-trump-jibes/)**
-  The presenter was hurt after being mocked for being dubbed a "fantastic reporter" by the US president...
+- **[Sadiq Khan speaks the Brexit truth the nation needs to hear](https://www.thenewworld.co.uk/matt-withers-sadiq-khan-speaks-the-brexit-truth-the-nation-needs-to-hear/)**
+  The Labour mayor of London has made a big intervention on Brexit – and his timing looks very canny indeed...
 
 ### 📰 Eurozine
 
@@ -56,53 +56,49 @@
   First a review article, then a book, now a book review—Alex Byrne chronicles the latest surprise rejection of his writin...
   *关键词: philosophy*
 
+![Jihadism: At Least as Bad as Nazism](https://philosophersmag.com/wp-content/uploads/2026/03/UA_Flight_175_hits_WTC_south_tower_9-11_edit-1024x893.jpg)
+
+- **[Jihadism: At Least as Bad as Nazism](https://philosophersmag.com/jihadism-at-least-as-bad-as-nazism/)**
+  Spencer Case provides three reasons that jihadism is at least as bad as Nazism.
+The post Jihadism: At Least as Bad as Na...
+
+*📚 以上为近期内容*
+
 
 ## 🌍 美洲
 
+### 📰 Experimental Philosophy
+
+- **[Call: “Toronto Workshop on Moral Psychology and Moral Theory”](https://xphi.net/2026/03/19/call-toronto-workshop-on-moral-psychology-and-moral-theory/)**
+  Organized by Andrew Sepielli, the “Toronto Workshop on Moral Psychology and Moral Theory” will take place at the Univers...
+  *关键词: workshop*
+
+- **[Talk: “Cognitive Foundations of Geometry” (Véronique Izard)](https://xphi.net/2026/03/19/talk-cognitive-foundations-of-geometry-veronique-izard/)**
+  As part of the IHPST’s Séminaire PhilSciCog at the Université Paris 1 Panthéon-Sorbonne, Véronique Izard will talk about...
+
+- **[Talk: “Autonomous Systems, Moral Responsibility and Control Architectures” (Markus Kneer)](https://xphi.net/2026/03/19/talk-autonomous-systems-moral-responsibility-and-control-architectures-markus-kneer/)**
+  On March 20, from 16:00–18:00 (UTC), the Permanent Seminar in Analytic Philosophy (PSAP) of Università Roma Tre will hos...
+  *关键词: philosophy, seminar, analytic philosophy*
+
 ### 📰 The Partially Examined Life
 
-![PMP#217: Mel Brooks’ Old Comedy](https://partiallyexaminedlife.com/wp-content/uploads/PMP-Mel-Brooks-600-x-600-300x300.jpg)
+![PvI#114: Earning Crazy Town w/ Jenny Hansen](https://partiallyexaminedlife.com/wp-content/uploads/PvI114_Crazy_Town-300x300.png)
 
-- **[PMP#217: Mel Brooks’ Old Comedy](https://partiallyexaminedlife.com/2026/03/18/pmp217-mel-brooks/)**
-  In light of Judd Apatow's HBO documentary The 99-Year-Old Man, we discuss the films of Mel Brooks, which were to varying...
-  *关键词: philosophy*
-
-![The Ethics of Seeing in Susan Sontag’s “On Photography”](https://partiallyexaminedlife.com/wp-content/uploads/sontag-cover-final-300x300-1.jpg)
-
-- **[The Ethics of Seeing in Susan Sontag’s “On Photography”](https://partiallyexaminedlife.com/2026/03/18/sontag-on-photography/)**
-  Photography is a technology of contradictions. It is at once mechanical and mysterious, even magical. It furnishes evide...
-  *关键词: philosophy, ethics*
+- **[PvI#114: Earning Crazy Town w/ Jenny Hansen](https://partiallyexaminedlife.com/2026/03/19/pvi114-earning-crazy-town-w-jenny-hansen/)**
+  St. Lawrence philosophy prof Jennifer L. Hansen, one of the mos...
+  *关键词: philosophy, debate*
 
 ### 📰 APA Blog
 
-- **[Understanding Evil, Jaime Denison](https://blog.apaonline.org/2026/03/18/understanding-evil-jaime-denison/)**
-  In summer 2025, I was approached by the director of the Central New Mexico (CNM) Honors Program to teach the seminar Und...
-  *关键词: seminar*
-
-![“King of the who?”: Monty Python on Rousseauian Legitimacy](https://i0.wp.com/blog.apaonline.org/wp-content/uploads/2026/03/23728635.gif?resize=400%2C225&#038;ssl=1)
-
-- **[“King of the who?”: Monty Python on Rousseauian Legitimacy](https://blog.apaonline.org/2026/03/18/king-of-the-who-monty-python-on-rousseauian-legitimacy/)**
-  Selections from Rousseau’s&#160;Social Contract&#160;are a staple in my introductory “Citizens and their Cities” class. ...
+- **[The Paradox of China’s Crypto Regulation and Capital Going Global (Part 1)](https://blog.apaonline.org/2026/03/19/the-paradox-of-chinas-crypto-regulation-and-capital-going-global-part-1/)**
+  How China&#8217;s Web3 Is Shifting from Token Finance to Data and State Credit On November 28, 2025, the People’s Bank o...
 
 ### 📰 Daily Nous
 
-![Faculty & Students at Ghent Call for Resignation of “Race Science” Philosopher (update: reply from Cofnas)](https://dailynous.com/wp-content/uploads/2026/03/cofnas-nathan.jpg)
+![“On Liberty” Now Officially Has Two Authors](https://dailynous.com/wp-content/uploads/2026/03/on-liberty-by-john-stuart-mill-and-harriet-taylor-mill.jpg)
 
-- **[Faculty & Students at Ghent Call for Resignation of “Race Science” Philosopher (update: reply from Cofnas)](https://dailynous.com/2026/03/18/faculty-students-at-ghent-call-for-resignation-of-race-science-philosopher/)**
-  Faculty and Students at Ghent University are objecting to the university&#8217;s recent hiring of philosopher Nathan Cof...
-  *关键词: philosophy, debate, ethics*
-
-![How Much Time Do Journals Give Their Referees?](https://dailynous.com/wp-content/uploads/2026/03/days-long-months-not-so-much-clock.png)
-
-- **[How Much Time Do Journals Give Their Referees?](https://dailynous.com/2026/03/18/how-much-time-do-journals-give-their-referees/)**
-  Elizabeth Hannon, deputy editor of the British Journal for the Philosophy of Science (BJPS), has a query about other phi...
-  *关键词: philosophy, philosophy of science*
-
-![W.D. Hart (1943-2026)](https://dailynous.com/wp-content/uploads/2026/03/hart-wd-philosophy.jpg)
-
-- **[W.D. Hart (1943-2026)](https://dailynous.com/2026/03/18/w-d-hart-1943-2026/)**
-  Wilbur Dyre Hart III, professor emeritus of philosophy at the University of Illinois, Chicago, has died. Professor Hart,...
-  *关键词: philosophy, metaphysics, epistemology*
+- **[“On Liberty” Now Officially Has Two Authors](https://dailynous.com/2026/03/19/on-liberty-now-officially-has-two-authors/)**
+  An edition of On Liberty published this month is the first to officially name Harriet Taylor Mill as a co-author alongsi...
 
 ### 📰 Stanford Encyclopedia of Philosophy
 
@@ -134,7 +130,18 @@ Changes to: Main text, Bibliography, notes.html]
 *📚 以上为近期内容*
 
 
+## 🌍 非洲
+
+### 📰 CODESRIA
+
+- **[7th CODESRIA/ZASB Summer School in African Studies and Area Studies in Africa](https://codesria.org/7th-codesria-zasb-summer-school-in-african-studies-and-area-studies-in-africa/)**
+  Theme: Honouring Mudimbe: Rethinking Research through African Thought Venue: Dakar, Senegal Date: 20-24 July 2026 Applic...
+
+- **[7ª Escola de Verão CODESRIA/CASB em Estudos Africanos e Estudos de Área em África](https://codesria.org/7a-escola-de-verao-codesria-casb-em-estudos-africanos-e-estudos-de-area-em-africa/)**
+  Tema: Em homenagem a Mudimbe: Repensar a pesquisa a partir do pensamento africano Local: Dakar, Senegal Datas: 20–24 de ...
+
+
 ---
 
-*报告生成时间: 2026-03-19 03:05*  
+*报告生成时间: 2026-03-19 16:05*  
 *Atlas Intelligence System*
