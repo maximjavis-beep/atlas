@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-03-20  
-**来源**: 全球 4 个地区 · 7 个信源
+**来源**: 全球 3 个地区 · 3 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 17 条
+- **新增资讯**: 15 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -34,30 +34,30 @@
 
 ### 📰 The New European
 
-![Hey everyone: don’t forget about the real world!](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2236052966-e1773917492830.jpg)
+![Trump’s Iran war is becoming a fundamentalist Christian crusade](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_GIBSON_HEGSETH.jpg)
 
-- **[Hey everyone: don’t forget about the real world!](https://www.thenewworld.co.uk/marie-le-conte-hey-everyone-dont-forget-about-the-real-world/)**
-  It’s very easy to get drawn into a life shaped entirely by the ogres who control the algorithms of social media. But tha...
+- **[Trump’s Iran war is becoming a fundamentalist Christian crusade](https://www.thenewworld.co.uk/charlotte-mcdonald-gibson-trumps-iran-war-is-becoming-a-fundamentalist-christian-crusade/)**
+  The war is being overseen by senior US officials, including Pete Hegseth, with beliefs and attitudes towards non-believe...
 
-![Labour’s war on Brexit is overdue – just ask Sadiq Khan](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/BLOOM-brexit-labour.jpg)
+![Nobody’s watching Jonathan Gullis’s podcast](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2174938514-e1774019151337.jpg)
 
-- **[Labour’s war on Brexit is overdue – just ask Sadiq Khan](https://www.thenewworld.co.uk/jonty-bloom-labours-war-on-brexit-is-overdue-just-ask-sadiq-khan/)**
-  In a challenge to Starmer, the London mayor says the party must campaign for a reunion with the EU...
+- **[Nobody’s watching Jonathan Gullis’s podcast](https://www.thenewworld.co.uk/rats-in-a-sack-nobodys-watching-jonathan-gulliss-podcast/)**
+  The former Tory MP turned Reformer is struggling to attract an audience to his show Inside Whitehall...
 
-![Is GB News ok?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GB-NEWS-presenters.jpg)
+![More quiet, fewer boobs. Is this Paolo Sorrentino’s most subversive film?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/LA-GRAZIA_Still-1-%C2%A9-Andrea-Pirrello-e1774019474358.jpg)
 
-- **[Is GB News ok?](https://www.thenewworld.co.uk/rats-in-a-sack-is-gb-news-ok/)**
-  Stung by the New World's investigation, the hard right channel's editorial director has written a bonkers article in its...
+- **[More quiet, fewer boobs. Is this Paolo Sorrentino’s most subversive film?](https://www.thenewworld.co.uk/john-bleasdale-more-quiet-fewer-boobs-is-this-paolo-sorrentinos-most-subversive-film/)**
+  The director on his stylistic shift in the acclaimed La Grazia - and his despair at modern politics...
 
-![The man bringing full-blown extremism back to the Tory party](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2024/07/396_PATIENCE_CONSERVATIVES-1.jpg)
+![Is Sarah Pochin too mad even for Reform?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2266837708-e1774019872498.jpg)
 
-- **[The man bringing full-blown extremism back to the Tory party](https://www.thenewworld.co.uk/marie-le-conte-the-man-bringing-full-blown-extremism-back-to-the-tory-party/)**
-  Nick Timothy’s recent comments on Muslims have been so inflammatory they’ve done the unthinkable – they’ve drawn a unifi...
+- **[Is Sarah Pochin too mad even for Reform?](https://www.thenewworld.co.uk/rats-in-a-sack-is-sarah-pochin-too-mad-even-for-reform/)**
+  The Runcorn and Helsby MP wants to wear a tartan burqa and is worried about the Scouts introducing an "Islamo-badge"...
 
-![Sadiq Khan speaks the Brexit truth the nation needs to hear](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2256494943-e1773933087844.jpg)
+![The Star Citizen question: can you make a decent game for a billion bucks?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_MUIR_SPACECIT.jpg)
 
-- **[Sadiq Khan speaks the Brexit truth the nation needs to hear](https://www.thenewworld.co.uk/matt-withers-sadiq-khan-speaks-the-brexit-truth-the-nation-needs-to-hear/)**
-  The Labour mayor of London has made a big intervention on Brexit – and his timing looks very canny indeed...
+- **[The Star Citizen question: can you make a decent game for a billion bucks?](https://www.thenewworld.co.uk/matt-muir-the-star-citizen-question-can-you-make-a-decent-game-for-a-billion-bucks/)**
+  It has been in development for 16 years and yet players keep falling through the floor into the infinite void of space. ...
 
 ### 📰 Eurozine
 
@@ -97,6 +97,14 @@ The post Jihadism: At Least as Bad as Na...
 
 ## 🌍 美洲
 
+### 📰 APA Blog
+
+![Why is Health Good for You?](https://i0.wp.com/blog.apaonline.org/wp-content/uploads/2026/03/In-Text-Image.jpg?resize=642%2C960&#038;ssl=1)
+
+- **[Why is Health Good for You?](https://blog.apaonline.org/2026/03/20/why-is-health-good-for-you/)**
+  “Brush your teeth,” a mother says to her son. She’s exhausted. She spent a long day organizing a series of speaking even...
+  *关键词: debate, ethics*
+
 ### 📰 Experimental Philosophy
 
 - **[Call: “Toronto Workshop on Moral Psychology and Moral Theory”](https://xphi.net/2026/03/19/call-toronto-workshop-on-moral-psychology-and-moral-theory/)**
@@ -110,6 +118,8 @@ The post Jihadism: At Least as Bad as Na...
   On March 20, from 16:00–18:00 (UTC), the Permanent Seminar in Analytic Philosophy (PSAP) of Università Roma Tre will hos...
   *关键词: philosophy, seminar, analytic philosophy*
 
+*📚 以上为近期内容*
+
 ### 📰 The Partially Examined Life
 
 ![PvI#114: Earning Crazy Town w/ Jenny Hansen](https://partiallyexaminedlife.com/wp-content/uploads/PvI114_Crazy_Town-300x300.png)
@@ -118,10 +128,19 @@ The post Jihadism: At Least as Bad as Na...
   St. Lawrence philosophy prof Jennifer L. Hansen, one of the mos...
   *关键词: philosophy, debate*
 
-### 📰 APA Blog
+![PMP#217: Mel Brooks’ Old Comedy](https://partiallyexaminedlife.com/wp-content/uploads/PMP-Mel-Brooks-600-x-600-300x300.jpg)
 
-- **[The Paradox of China’s Crypto Regulation and Capital Going Global (Part 1)](https://blog.apaonline.org/2026/03/19/the-paradox-of-chinas-crypto-regulation-and-capital-going-global-part-1/)**
-  How China&#8217;s Web3 Is Shifting from Token Finance to Data and State Credit On November 28, 2025, the People’s Bank o...
+- **[PMP#217: Mel Brooks’ Old Comedy](https://partiallyexaminedlife.com/2026/03/18/pmp217-mel-brooks/)**
+  In light of Judd Apatow's HBO documentary The 99-Year-Old Man, we discuss the films of Mel Brooks, which were to varying...
+  *关键词: philosophy*
+
+![The Ethics of Seeing in Susan Sontag’s “On Photography”](https://partiallyexaminedlife.com/wp-content/uploads/sontag-cover-final-300x300-1.jpg)
+
+- **[The Ethics of Seeing in Susan Sontag’s “On Photography”](https://partiallyexaminedlife.com/2026/03/18/sontag-on-photography/)**
+  Photography is a technology of contradictions. It is at once mechanical and mysterious, even magical. It furnishes evide...
+  *关键词: philosophy, ethics*
+
+*📚 以上为近期内容*
 
 ### 📰 Daily Nous
 
@@ -129,6 +148,20 @@ The post Jihadism: At Least as Bad as Na...
 
 - **[“On Liberty” Now Officially Has Two Authors](https://dailynous.com/2026/03/19/on-liberty-now-officially-has-two-authors/)**
   An edition of On Liberty published this month is the first to officially name Harriet Taylor Mill as a co-author alongsi...
+
+![Faculty & Students at Ghent Call for Resignation of “Race Science” Philosopher (update: reply from Cofnas)](https://dailynous.com/wp-content/uploads/2026/03/cofnas-nathan.jpg)
+
+- **[Faculty & Students at Ghent Call for Resignation of “Race Science” Philosopher (update: reply from Cofnas)](https://dailynous.com/2026/03/18/faculty-students-at-ghent-call-for-resignation-of-race-science-philosopher/)**
+  Faculty and Students at Ghent University are objecting to the university&#8217;s recent hiring of philosopher Nathan Cof...
+  *关键词: philosophy, debate, ethics*
+
+![How Much Time Do Journals Give Their Referees?](https://dailynous.com/wp-content/uploads/2026/03/days-long-months-not-so-much-clock.png)
+
+- **[How Much Time Do Journals Give Their Referees?](https://dailynous.com/2026/03/18/how-much-time-do-journals-give-their-referees/)**
+  Elizabeth Hannon, deputy editor of the British Journal for the Philosophy of Science (BJPS), has a query about other phi...
+  *关键词: philosophy, philosophy of science*
+
+*📚 以上为近期内容*
 
 ### 📰 Stanford Encyclopedia of Philosophy
 
@@ -170,8 +203,10 @@ Changes to: Main text, Bibliography, notes.html]
 - **[7ª Escola de Verão CODESRIA/CASB em Estudos Africanos e Estudos de Área em África](https://codesria.org/7a-escola-de-verao-codesria-casb-em-estudos-africanos-e-estudos-de-area-em-africa/)**
   Tema: Em homenagem a Mudimbe: Repensar a pesquisa a partir do pensamento africano Local: Dakar, Senegal Datas: 20–24 de ...
 
+*📚 以上为近期内容*
+
 
 ---
 
-*报告生成时间: 2026-03-20 03:05*  
+*报告生成时间: 2026-03-20 16:05*  
 *Atlas Intelligence System*
