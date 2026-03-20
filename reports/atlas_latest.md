@@ -1,16 +1,34 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-03-19  
-**来源**: 全球 3 个地区 · 7 个信源
+**日期**: 2026-03-20  
+**来源**: 全球 4 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 16 条
+- **新增资讯**: 17 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
+
+## 🌍 亚洲
+
+### 📰 Dao Journal
+
+- **[O’Dwyer, Shaun, ed., <i>Confucianism at War: 1931–1945</i>](https://link.springer.com/article/10.1007/s11712-026-10051-0)**
+  ...
+
+- **[Pi, Mimi 皮迷迷, <i>Reconstructing Universalism in the Study of Confucian Classics: K</i><span>ang</span> <i>Youwei’s Reformation of Confucian Classics </i>重建經學的普遍主義: 康有為的經學革新](https://link.springer.com/article/10.1007/s11712-026-10052-z)**
+  ...
+
+- **[Rosenlee, Li-Hsiang Lisa, <i>Confucian Feminism: A Practical Guide to Life</i>](https://link.springer.com/article/10.1007/s11712-026-10053-y)**
+  ...
+
+- **[Liu, Liangjian 劉梁劍, <i>Essays on Han-language Philosophy </i>漢語言哲學研究](https://link.springer.com/article/10.1007/s11712-026-10050-1)**
+  ...
+  *关键词: philosophy*
+
 
 ## 🌍 欧洲
 
@@ -47,6 +65,18 @@
 
 - **[A populist’s guide to using museums](https://www.eurozine.com/a-populists-guide-to-using-museums/?utm_source=rss&utm_medium=rss&utm_campaign=a-populists-guide-to-using-museums)**
   Change the directors, cut the funding, rewrite the narrative: from Washington to Warsaw, mnemonic warriors are deploying...
+
+![How far will he go?](https://www.eurozine.com/wp-content/uploads/2026/03/P20260120MR-0183-1-300x131.jpg)
+
+- **[How far will he go?](https://www.eurozine.com/how-far-will-he-go/?utm_source=rss&utm_medium=rss&utm_campaign=how-far-will-he-go)**
+  While Trump's violence has never been purely rhetorical, few anticipated his eagerness to use military force since retur...
+
+![Tech or tarot?](https://www.eurozine.com/wp-content/uploads/2026/03/Georgian_Dream_electoral_graffiti_August_2016_Tbilisi-300x168.jpg)
+
+- **[Tech or tarot?](https://www.eurozine.com/tech-or-tarot/?utm_source=rss&utm_medium=rss&utm_campaign=tech-or-tarot)**
+  Quackery with a university logo: the failed attempt to introduce pseudoscience onto the curriculum of Georgia’s flagship...
+
+*📚 以上为近期内容*
 
 ### 📰 The Philosophers' Magazine
 
@@ -143,5 +173,5 @@ Changes to: Main text, Bibliography, notes.html]
 
 ---
 
-*报告生成时间: 2026-03-19 16:05*  
+*报告生成时间: 2026-03-20 03:05*  
 *Atlas Intelligence System*
