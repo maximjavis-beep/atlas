@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-03-20  
-**来源**: 全球 3 个地区 · 3 个信源
+**日期**: 2026-03-21  
+**来源**: 全球 2 个地区 · 2 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 15 条
+- **新增资讯**: 12 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -25,14 +25,17 @@
 - **[Rosenlee, Li-Hsiang Lisa, <i>Confucian Feminism: A Practical Guide to Life</i>](https://link.springer.com/article/10.1007/s11712-026-10053-y)**
   ...
 
-- **[Liu, Liangjian 劉梁劍, <i>Essays on Han-language Philosophy </i>漢語言哲學研究](https://link.springer.com/article/10.1007/s11712-026-10050-1)**
-  ...
-  *关键词: philosophy*
+*📚 以上为近期内容*
 
 
 ## 🌍 欧洲
 
 ### 📰 The New European
+
+![Matthew d’Ancona’s culture: The chaotic magic of Rebecca Lucy Taylor](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/1920x1080-V2.jpg)
+
+- **[Matthew d’Ancona’s culture: The chaotic magic of Rebecca Lucy Taylor](https://www.thenewworld.co.uk/matthew-danconas-culture-the-chaotic-magic-of-rebecca-lucy-taylor/)**
+  The singer also known as Self Esteem is phenomenal as she follows revival in a revival of David Hare’s Teeth ‘n’ Smiles...
 
 ![Trump’s Iran war is becoming a fundamentalist Christian crusade](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_GIBSON_HEGSETH.jpg)
 
@@ -53,11 +56,6 @@
 
 - **[Is Sarah Pochin too mad even for Reform?](https://www.thenewworld.co.uk/rats-in-a-sack-is-sarah-pochin-too-mad-even-for-reform/)**
   The Runcorn and Helsby MP wants to wear a tartan burqa and is worried about the Scouts introducing an "Islamo-badge"...
-
-![The Star Citizen question: can you make a decent game for a billion bucks?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_MUIR_SPACECIT.jpg)
-
-- **[The Star Citizen question: can you make a decent game for a billion bucks?](https://www.thenewworld.co.uk/matt-muir-the-star-citizen-question-can-you-make-a-decent-game-for-a-billion-bucks/)**
-  It has been in development for 16 years and yet players keep falling through the floor into the infinite void of space. ...
 
 ### 📰 Eurozine
 
@@ -208,5 +206,5 @@ Changes to: Main text, Bibliography, notes.html]
 
 ---
 
-*报告生成时间: 2026-03-20 16:05*  
+*报告生成时间: 2026-03-21 03:05*  
 *Atlas Intelligence System*
