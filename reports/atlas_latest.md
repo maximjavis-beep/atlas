@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 12 条
+- **新增资讯**: 3 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -32,30 +32,15 @@
 
 ### 📰 The New European
 
+![Iran has killed off Reeves’s fiscal rules. Here’s how to radically rewrite them](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/10/GettyImages-2241985618-e1761830618375.jpg)
+
+- **[Iran has killed off Reeves’s fiscal rules. Here’s how to radically rewrite them](https://www.thenewworld.co.uk/paul-mason-iran-has-killed-off-reevess-fiscal-rules-heres-how-to-radically-rewrite-them/)**
+  Bring back quantitative easing, reboot the OBR and - for a while - let inflation shrink the debt mountain...
+
 ![Matthew d’Ancona’s culture: The chaotic magic of Rebecca Lucy Taylor](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/1920x1080-V2.jpg)
 
 - **[Matthew d’Ancona’s culture: The chaotic magic of Rebecca Lucy Taylor](https://www.thenewworld.co.uk/matthew-danconas-culture-the-chaotic-magic-of-rebecca-lucy-taylor/)**
   The singer also known as Self Esteem is phenomenal as she follows revival in a revival of David Hare’s Teeth ‘n’ Smiles...
-
-![Trump’s Iran war is becoming a fundamentalist Christian crusade](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_GIBSON_HEGSETH.jpg)
-
-- **[Trump’s Iran war is becoming a fundamentalist Christian crusade](https://www.thenewworld.co.uk/charlotte-mcdonald-gibson-trumps-iran-war-is-becoming-a-fundamentalist-christian-crusade/)**
-  The war is being overseen by senior US officials, including Pete Hegseth, with beliefs and attitudes towards non-believe...
-
-![Nobody’s watching Jonathan Gullis’s podcast](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2174938514-e1774019151337.jpg)
-
-- **[Nobody’s watching Jonathan Gullis’s podcast](https://www.thenewworld.co.uk/rats-in-a-sack-nobodys-watching-jonathan-gulliss-podcast/)**
-  The former Tory MP turned Reformer is struggling to attract an audience to his show Inside Whitehall...
-
-![More quiet, fewer boobs. Is this Paolo Sorrentino’s most subversive film?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/LA-GRAZIA_Still-1-%C2%A9-Andrea-Pirrello-e1774019474358.jpg)
-
-- **[More quiet, fewer boobs. Is this Paolo Sorrentino’s most subversive film?](https://www.thenewworld.co.uk/john-bleasdale-more-quiet-fewer-boobs-is-this-paolo-sorrentinos-most-subversive-film/)**
-  The director on his stylistic shift in the acclaimed La Grazia - and his despair at modern politics...
-
-![Is Sarah Pochin too mad even for Reform?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2266837708-e1774019872498.jpg)
-
-- **[Is Sarah Pochin too mad even for Reform?](https://www.thenewworld.co.uk/rats-in-a-sack-is-sarah-pochin-too-mad-even-for-reform/)**
-  The Runcorn and Helsby MP wants to wear a tartan burqa and is worried about the Scouts introducing an "Islamo-badge"...
 
 ### 📰 Eurozine
 
@@ -95,6 +80,13 @@ The post Jihadism: At Least as Bad as Na...
 
 ## 🌍 美洲
 
+### 📰 3:AM Magazine
+
+![Angst](https://www.3ammagazine.com/wp-content/uploads/2026/03/41yJKEcQ0VL._SL1280_-672x1024.jpg)
+
+- **[Angst](https://www.3ammagazine.com/3am/angst/)**
+  As soon as the telephone thrummed, I knew. I was in the back bedroom. It was the last room in the world. At that time, t...
+
 ### 📰 APA Blog
 
 ![Why is Health Good for You?](https://i0.wp.com/blog.apaonline.org/wp-content/uploads/2026/03/In-Text-Image.jpg?resize=642%2C960&#038;ssl=1)
@@ -102,6 +94,15 @@ The post Jihadism: At Least as Bad as Na...
 - **[Why is Health Good for You?](https://blog.apaonline.org/2026/03/20/why-is-health-good-for-you/)**
   “Brush your teeth,” a mother says to her son. She’s exhausted. She spent a long day organizing a series of speaking even...
   *关键词: debate, ethics*
+
+- **[The Paradox of China’s Crypto Regulation and Capital Going Global (Part 1)](https://blog.apaonline.org/2026/03/19/the-paradox-of-chinas-crypto-regulation-and-capital-going-global-part-1/)**
+  How China&#8217;s Web3 Is Shifting from Token Finance to Data and State Credit On November 28, 2025, the People’s Bank o...
+
+- **[Understanding Evil, Jaime Denison](https://blog.apaonline.org/2026/03/18/understanding-evil-jaime-denison/)**
+  In summer 2025, I was approached by the director of the Central New Mexico (CNM) Honors Program to teach the seminar Und...
+  *关键词: seminar*
+
+*📚 以上为近期内容*
 
 ### 📰 Experimental Philosophy
 
@@ -181,15 +182,6 @@ Changes to: Main text, Bibliography, notes.html]
 
 *📚 以上为近期内容*
 
-### 📰 3:AM Magazine
-
-![a plant enters the supermarket](https://www.3ammagazine.com/wp-content/uploads/2026/03/federici-banner-1.jpg)
-
-- **[a plant enters the supermarket](https://www.3ammagazine.com/3am/a-plant-enters-the-supermarket/)**
-  a plant enters the supermarket without a receipt. the clerk doesn’t stop it. the plant looks at him. he feels seen for t...
-
-*📚 以上为近期内容*
-
 
 ## 🌍 非洲
 
@@ -206,5 +198,5 @@ Changes to: Main text, Bibliography, notes.html]
 
 ---
 
-*报告生成时间: 2026-03-21 03:05*  
+*报告生成时间: 2026-03-21 16:05*  
 *Atlas Intelligence System*
