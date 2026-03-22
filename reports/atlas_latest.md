@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-03-21  
+**日期**: 2026-03-22  
 **来源**: 全球 2 个地区 · 2 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 3 条
+- **新增资讯**: 2 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -36,11 +36,6 @@
 
 - **[Iran has killed off Reeves’s fiscal rules. Here’s how to radically rewrite them](https://www.thenewworld.co.uk/paul-mason-iran-has-killed-off-reevess-fiscal-rules-heres-how-to-radically-rewrite-them/)**
   Bring back quantitative easing, reboot the OBR and - for a while - let inflation shrink the debt mountain...
-
-![Matthew d’Ancona’s culture: The chaotic magic of Rebecca Lucy Taylor](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/1920x1080-V2.jpg)
-
-- **[Matthew d’Ancona’s culture: The chaotic magic of Rebecca Lucy Taylor](https://www.thenewworld.co.uk/matthew-danconas-culture-the-chaotic-magic-of-rebecca-lucy-taylor/)**
-  The singer also known as Self Esteem is phenomenal as she follows revival in a revival of David Hare’s Teeth ‘n’ Smiles...
 
 ### 📰 Eurozine
 
@@ -198,5 +193,5 @@ Changes to: Main text, Bibliography, notes.html]
 
 ---
 
-*报告生成时间: 2026-03-21 16:05*  
+*报告生成时间: 2026-03-22 03:05*  
 *Atlas Intelligence System*
