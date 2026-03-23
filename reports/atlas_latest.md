@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-03-22  
-**来源**: 全球 2 个地区 · 2 个信源
+**日期**: 2026-03-23  
+**来源**: 全球 2 个地区 · 3 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 2 条
+- **新增资讯**: 3 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -16,16 +16,9 @@
 
 ### 📰 Dao Journal
 
-- **[O’Dwyer, Shaun, ed., <i>Confucianism at War: 1931–1945</i>](https://link.springer.com/article/10.1007/s11712-026-10051-0)**
-  ...
-
-- **[Pi, Mimi 皮迷迷, <i>Reconstructing Universalism in the Study of Confucian Classics: K</i><span>ang</span> <i>Youwei’s Reformation of Confucian Classics </i>重建經學的普遍主義: 康有為的經學革新](https://link.springer.com/article/10.1007/s11712-026-10052-z)**
-  ...
-
-- **[Rosenlee, Li-Hsiang Lisa, <i>Confucian Feminism: A Practical Guide to Life</i>](https://link.springer.com/article/10.1007/s11712-026-10053-y)**
-  ...
-
-*📚 以上为近期内容*
+- **[Universalizing or Contextualizing? Two Strategies for Diversifying Philosophy](https://link.springer.com/article/10.1007/s11712-026-10040-3)**
+  This article critically examines the increasing advocacy for diversifying the philosophical curriculum over recent decad...
+  *关键词: philosophy, debate, epistemology*
 
 
 ## 🌍 欧洲
@@ -36,6 +29,18 @@
 
 - **[Iran has killed off Reeves’s fiscal rules. Here’s how to radically rewrite them](https://www.thenewworld.co.uk/paul-mason-iran-has-killed-off-reevess-fiscal-rules-heres-how-to-radically-rewrite-them/)**
   Bring back quantitative easing, reboot the OBR and - for a while - let inflation shrink the debt mountain...
+
+![Matthew d’Ancona’s culture: The chaotic magic of Rebecca Lucy Taylor](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/1920x1080-V2.jpg)
+
+- **[Matthew d’Ancona’s culture: The chaotic magic of Rebecca Lucy Taylor](https://www.thenewworld.co.uk/matthew-danconas-culture-the-chaotic-magic-of-rebecca-lucy-taylor/)**
+  The singer also known as Self Esteem is phenomenal as she follows revival in a revival of David Hare’s Teeth ‘n’ Smiles...
+
+![Trump’s Iran war is becoming a fundamentalist Christian crusade](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_GIBSON_HEGSETH.jpg)
+
+- **[Trump’s Iran war is becoming a fundamentalist Christian crusade](https://www.thenewworld.co.uk/charlotte-mcdonald-gibson-trumps-iran-war-is-becoming-a-fundamentalist-christian-crusade/)**
+  The war is being overseen by senior US officials, including Pete Hegseth, with beliefs and attitudes towards non-believe...
+
+*📚 以上为近期内容*
 
 ### 📰 Eurozine
 
@@ -75,12 +80,21 @@ The post Jihadism: At Least as Bad as Na...
 
 ## 🌍 美洲
 
+### 📰 The Partially Examined Life
+
+![PEL Dystopian Spring Nightcap 2026](https://partiallyexaminedlife.com/wp-content/uploads/nightcap-1-300x300.png)
+
+- **[PEL Dystopian Spring Nightcap 2026](https://partiallyexaminedlife.com/2026/03/22/pel-spring-nightcap-2026/)**
+  We talk about some books we've read, what we're doing with AI, reflect back on our Graham Haman engagement, talk about g...
+  *关键词: philosophy*
+
 ### 📰 3:AM Magazine
 
-![Angst](https://www.3ammagazine.com/wp-content/uploads/2026/03/41yJKEcQ0VL._SL1280_-672x1024.jpg)
+![Matter and Free Will](https://www.3ammagazine.com/wp-content/uploads/2026/03/roth-banner.jpg)
 
-- **[Angst](https://www.3ammagazine.com/3am/angst/)**
-  As soon as the telephone thrummed, I knew. I was in the back bedroom. It was the last room in the world. At that time, t...
+- **[Matter and Free Will](https://www.3ammagazine.com/3am/matter-and-free-will/)**
+  Suppose that there were certain human abilities—I decline to call them merely mental, lest all the problematic assumptio...
+  *关键词: philosophy*
 
 ### 📰 APA Blog
 
@@ -111,28 +125,6 @@ The post Jihadism: At Least as Bad as Na...
 - **[Talk: “Autonomous Systems, Moral Responsibility and Control Architectures” (Markus Kneer)](https://xphi.net/2026/03/19/talk-autonomous-systems-moral-responsibility-and-control-architectures-markus-kneer/)**
   On March 20, from 16:00–18:00 (UTC), the Permanent Seminar in Analytic Philosophy (PSAP) of Università Roma Tre will hos...
   *关键词: philosophy, seminar, analytic philosophy*
-
-*📚 以上为近期内容*
-
-### 📰 The Partially Examined Life
-
-![PvI#114: Earning Crazy Town w/ Jenny Hansen](https://partiallyexaminedlife.com/wp-content/uploads/PvI114_Crazy_Town-300x300.png)
-
-- **[PvI#114: Earning Crazy Town w/ Jenny Hansen](https://partiallyexaminedlife.com/2026/03/19/pvi114-earning-crazy-town-w-jenny-hansen/)**
-  St. Lawrence philosophy prof Jennifer L. Hansen, one of the mos...
-  *关键词: philosophy, debate*
-
-![PMP#217: Mel Brooks’ Old Comedy](https://partiallyexaminedlife.com/wp-content/uploads/PMP-Mel-Brooks-600-x-600-300x300.jpg)
-
-- **[PMP#217: Mel Brooks’ Old Comedy](https://partiallyexaminedlife.com/2026/03/18/pmp217-mel-brooks/)**
-  In light of Judd Apatow's HBO documentary The 99-Year-Old Man, we discuss the films of Mel Brooks, which were to varying...
-  *关键词: philosophy*
-
-![The Ethics of Seeing in Susan Sontag’s “On Photography”](https://partiallyexaminedlife.com/wp-content/uploads/sontag-cover-final-300x300-1.jpg)
-
-- **[The Ethics of Seeing in Susan Sontag’s “On Photography”](https://partiallyexaminedlife.com/2026/03/18/sontag-on-photography/)**
-  Photography is a technology of contradictions. It is at once mechanical and mysterious, even magical. It furnishes evide...
-  *关键词: philosophy, ethics*
 
 *📚 以上为近期内容*
 
@@ -193,5 +185,5 @@ Changes to: Main text, Bibliography, notes.html]
 
 ---
 
-*报告生成时间: 2026-03-22 03:05*  
+*报告生成时间: 2026-03-23 03:05*  
 *Atlas Intelligence System*
