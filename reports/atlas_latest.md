@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-03-23  
+**日期**: 2026-03-24  
 **来源**: 全球 3 个地区 · 8 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 16 条
+- **新增资讯**: 21 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -23,14 +23,21 @@
   ...
   *关键词: philosophy*
 
-- **[Universalizing or Contextualizing? Two Strategies for Diversifying Philosophy](https://link.springer.com/article/10.1007/s11712-026-10040-3)**
-  This article critically examines the increasing advocacy for diversifying the philosophical curriculum over recent decad...
-  *关键词: philosophy, debate, epistemology*
-
 
 ## 🌍 欧洲
 
 ### 📰 The New European
+
+![Inside the cultural war to rewrite Poland’s past](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-1242827934-e1774291711670.jpg)
+
+- **[Inside the cultural war to rewrite Poland’s past](https://www.thenewworld.co.uk/lucy-ash-inside-the-cultural-war-to-rewrite-polands-past/)**
+  Feuds over Gdańsk’s museums are the latest skirmish in a battle between progressives and the populist right...
+
+![Alastair Campbell’s diary: My late friend’s final message: Never work for the Daily Mail](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_CAMPBELL_FUNERAL-1.jpg)
+
+- **[Alastair Campbell’s diary: My late friend’s final message: Never work for the Daily Mail](https://www.thenewworld.co.uk/alastair-campbells-diary-my-late-friends-final-message-never-work-for-the-daily-mail/)**
+  After saying goodbye to old mates, I’ve got a new philosophy: Stay young, no matter how old you are...
+  *关键词: philosophy*
 
 ![To Trump, Iran isn’t war – it’s showbiz](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_DANKS_IRAN.jpg)
 
@@ -47,17 +54,12 @@
 - **[MattGPT: Has Goodwin used AI to write his new book?](https://www.thenewworld.co.uk/rats-in-a-sack-mattgpt-has-goodwin-used-ai-to-write-his-new-book/)**
   The academic turned hard right rabble-rouser is facing claims about the research in his latest screed...
 
-![Is John Terry backing Rupert Lowe’s Restore Britain?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2240428426-e1774267364534.jpg)
-
-- **[Is John Terry backing Rupert Lowe’s Restore Britain?](https://www.thenewworld.co.uk/rats-in-a-sack-is-john-terry-backing-rupert-lowes-restore-britain/)**
-  The former England captain appeared to applaud the far right MP's call for the burqa to be banned...
-
-![Reform’s Kent councillors get a pay hike](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/11/GettyImages-2228989036-e1762247686240.jpg)
-
-- **[Reform’s Kent councillors get a pay hike](https://www.thenewworld.co.uk/rats-in-a-sack-reforms-kent-councillors-get-a-pay-hike/)**
-  Nigel Farage's party promised allowances would be cut at its flagship local authority - but has done the precise opposit...
-
 ### 📰 Eurozine
+
+![Iran and the complexity of the world](https://www.eurozine.com/wp-content/uploads/2026/03/Tehran_-_The_Fourth_Day_of_War_13_Avash.webp-300x200.png)
+
+- **[Iran and the complexity of the world](https://www.eurozine.com/iran-and-the-complexity-of-the-world/?utm_source=rss&utm_medium=rss&utm_campaign=iran-and-the-complexity-of-the-world)**
+  Iran’s regional influence, already much weakened before the current war, has been dealt a fatal blow. While the country’...
 
 ![Poison and promise](https://www.eurozine.com/wp-content/uploads/2026/03/Defense.gov_News_Photo_990517-O-9999M-003-300x101.jpg)
 
@@ -77,6 +79,35 @@
 
 ## 🌍 美洲
 
+### 📰 The Brains Blog
+
+- **[Introducing:  Brains and Philosophy and the Mind Sciences](https://philosophyofbrains.com/2026/03/23/introducing-brains-and-philosophy-and-the-mind-sciences.aspx)**
+  Hi Everyone, I&#8217;m very happy to announce that we will be collaborating on a number of posts with Philosophy and the...
+  *关键词: philosophy*
+
+- **[Book Symposium on The Brain Abstracted](https://philosophyofbrains.com/2026/03/23/book-symposium-on-the-brain-abstracted.aspx)**
+  Book Symposium on The Brain Abstracted in Philosophy of the Mind Sciences Philipp Haueis, Department of Philosophy and I...
+  *关键词: philosophy, symposium*
+
+### 📰 Daily Nous
+
+![Shortcuts to the End of the University? (updated)](https://dailynous.com/wp-content/uploads/2026/03/adobe-ai-assistant.png)
+
+- **[Shortcuts to the End of the University? (updated)](https://dailynous.com/2026/03/23/shortcuts-to-the-end-of-the-university/)**
+  &#8220;It’s not just the problem of brazen cheating. In some ways, the more insidious threat LLMs pose to undergraduate ...
+
+![Major Grant Awarded for Work on the Philosophy of Neurotechnology](https://dailynous.com/wp-content/uploads/2026/03/mindtechphilosophers2.png)
+
+- **[Major Grant Awarded for Work on the Philosophy of Neurotechnology](https://dailynous.com/2026/03/24/major-grant-awarded-for-work-on-the-philosophy-of-neurotechnology/)**
+  Four philosophers are leading an interdisciplinary team spanning the Universities of Glasgow and Oxford that has receive...
+  *关键词: philosophy, ethics, epistemology*
+
+![The Philosophy Curricula in Mid-20th Century UK Universities](https://dailynous.com/wp-content/uploads/2026/03/hepworth-barbara-group-iii-evocation.jpg)
+
+- **[The Philosophy Curricula in Mid-20th Century UK Universities](https://dailynous.com/2026/03/24/the-philosophy-curricula-in-mid-20th-century-uk-universities/)**
+  Who and what was covered in philosophy courses at UK universities in the 1950s and 1960s? . That question comes from Bri...
+  *关键词: philosophy, analytic philosophy, scholar*
+
 ### 📰 The Partially Examined Life
 
 ![Ep. 387: Hegel on Law (Part Two)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-300x300.png)
@@ -84,12 +115,6 @@
 - **[Ep. 387: Hegel on Law (Part Two)](https://partiallyexaminedlife.com/2026/03/22/ep387-2-hegel-law/)**
   Subscribe to get parts 1 and 2 of this now, ad-free, plus tons of bonus content.
 Continuing on on sec. 469-483 of Hegel'...
-  *关键词: philosophy*
-
-![PEL Dystopian Spring Nightcap 2026](https://partiallyexaminedlife.com/wp-content/uploads/nightcap-1-300x300.png)
-
-- **[PEL Dystopian Spring Nightcap 2026](https://partiallyexaminedlife.com/2026/03/22/pel-spring-nightcap-2026/)**
-  We talk about some books we've read, what we're doing with AI, reflect back on our Graham Haman engagement, talk about g...
   *关键词: philosophy*
 
 ### 📰 APA Blog
@@ -108,13 +133,6 @@ Changes to: Main text, Bibliography, notes.html]
  To some extent...
   *关键词: philosophy, scholar*
 
-### 📰 Daily Nous
-
-![Shortcuts to the End of the University?](https://dailynous.com/wp-content/uploads/2026/03/adobe-ai-assistant.png)
-
-- **[Shortcuts to the End of the University?](https://dailynous.com/2026/03/23/shortcuts-to-the-end-of-the-university/)**
-  &#8220;It’s not just the problem of brazen cheating. In some ways, the more insidious threat LLMs pose to undergraduate ...
-
 ### 📰 3:AM Magazine
 
 ![Matter and Free Will](https://www.3ammagazine.com/wp-content/uploads/2026/03/roth-banner.jpg)
@@ -122,6 +140,13 @@ Changes to: Main text, Bibliography, notes.html]
 - **[Matter and Free Will](https://www.3ammagazine.com/3am/matter-and-free-will/)**
   Suppose that there were certain human abilities—I decline to call them merely mental, lest all the problematic assumptio...
   *关键词: philosophy*
+
+![Angst](https://www.3ammagazine.com/wp-content/uploads/2026/03/41yJKEcQ0VL._SL1280_-672x1024.jpg)
+
+- **[Angst](https://www.3ammagazine.com/3am/angst/)**
+  As soon as the telephone thrummed, I knew. I was in the back bedroom. It was the last room in the world. At that time, t...
+
+*📚 以上为近期内容*
 
 ### 📰 Experimental Philosophy
 
@@ -154,5 +179,5 @@ Changes to: Main text, Bibliography, notes.html]
 
 ---
 
-*报告生成时间: 2026-03-23 16:06*  
+*报告生成时间: 2026-03-24 03:05*  
 *Atlas Intelligence System*
