@@ -7,12 +7,17 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 21 条
+- **新增资讯**: 24 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
 
 ## 🌍 亚洲
+
+### 📰 Asian Philosophy
+
+- **[The Confucian fiction of heaven](https://www.tandfonline.com/doi/full/10.1080/09552367.2026.2644728?af=R)**
+  ....
 
 ### 📰 Dao Journal
 
@@ -28,43 +33,47 @@
 
 ### 📰 The New European
 
-![Inside the cultural war to rewrite Poland’s past](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-1242827934-e1774291711670.jpg)
+![Now it’s official: Brexit was a disaster. Next, we must join a new EU](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_COVER_WEB2-1.jpg)
 
-- **[Inside the cultural war to rewrite Poland’s past](https://www.thenewworld.co.uk/lucy-ash-inside-the-cultural-war-to-rewrite-polands-past/)**
-  Feuds over Gdańsk’s museums are the latest skirmish in a battle between progressives and the populist right...
+- **[Now it’s official: Brexit was a disaster. Next, we must join a new EU](https://www.thenewworld.co.uk/matt-kelly-brexit-is-officially-a-disaster-we-must-join-and-reshape-a-new-eu/)**
+  Starmer and Reeves are talking tougher than before. Now they need to make a positive case for the UK in a bolder Europe...
 
-![Alastair Campbell’s diary: My late friend’s final message: Never work for the Daily Mail](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_CAMPBELL_FUNERAL-1.jpg)
+![Paul Golding or Mohammed Hijab? There’s only one way to find out…](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/unnamed-e1774364506811.jpg)
 
-- **[Alastair Campbell’s diary: My late friend’s final message: Never work for the Daily Mail](https://www.thenewworld.co.uk/alastair-campbells-diary-my-late-friends-final-message-never-work-for-the-daily-mail/)**
-  After saying goodbye to old mates, I’ve got a new philosophy: Stay young, no matter how old you are...
-  *关键词: philosophy*
+- **[Paul Golding or Mohammed Hijab? There’s only one way to find out…](https://www.thenewworld.co.uk/rats-in-a-sack-paul-golding-or-mohammed-hijab-theres-only-one-way-to-find-out/)**
+  The co-leader of fascist hate group Britain First and the outspoken Islamic preacher and influencer are to take part in ...
 
-![To Trump, Iran isn’t war – it’s showbiz](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_DANKS_IRAN.jpg)
+![Reform’s pork man finally forced to fall on his sword](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/12/parry-e1766577414455.jpg)
 
-- **[To Trump, Iran isn’t war – it’s showbiz](https://www.thenewworld.co.uk/matthew-dancona-to-trump-iran-isnt-war-its-showbiz/)**
-  More than 1,300 dead, up to 3.2m Iranians displaced, shockwaves through the world economy - and the president is having ...
+- **[Reform’s pork man finally forced to fall on his sword](https://www.thenewworld.co.uk/rats-in-a-sack-reforms-pork-man-finally-forced-to-fall-on-his-sword/)**
+  Chris Parry, who has demanded non-Christians eat bacon, has been suspended as Reform's Hampshire mayoral candidate follo...
 
-![Dilettante: I’m flying to America – but is it still there?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_MARIE_AIRPORT.jpg)
+![Ipswich fans’ fury at divisive right-winger](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/farage-e1774370239973.jpg)
 
-- **[Dilettante: I’m flying to America – but is it still there?](https://www.thenewworld.co.uk/marie-le-conte-dilettante-im-flying-to-america-but-is-it-still-there/)**
-  I used to feel joy at the prospect of visiting the US. But now it feels like entering hostile territory. Wish me luck at...
+- **[Ipswich fans’ fury at divisive right-winger](https://www.thenewworld.co.uk/rats-in-a-sack-ipswich-fans-fury-at-divisive-right-winger/)**
+  Supporters of the Championship club were up in arms after Nigel Farage was allowed to pose as the club's new star signin...
 
-![MattGPT: Has Goodwin used AI to write his new book?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2258492654-e1774266398274.jpg)
+![Badenoch’s break: swimming, donkeys and plenty of climate denial](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2267571174-e1774371330795.jpg)
 
-- **[MattGPT: Has Goodwin used AI to write his new book?](https://www.thenewworld.co.uk/rats-in-a-sack-mattgpt-has-goodwin-used-ai-to-write-his-new-book/)**
-  The academic turned hard right rabble-rouser is facing claims about the research in his latest screed...
+- **[Badenoch’s break: swimming, donkeys and plenty of climate denial](https://www.thenewworld.co.uk/rats-in-a-sack-badenochs-break-swimming-donkeys-and-plenty-of-climate-denial/)**
+  The Conservative leader and her family have once again been the guest of the chair of a climate science denial group...
 
 ### 📰 Eurozine
+
+![Emancipatory speculation](https://www.eurozine.com/wp-content/uploads/2026/03/derive_1_2_2026-300x225.jpg)
+
+- **[Emancipatory speculation](https://www.eurozine.com/emancipatory-speculation/?utm_source=rss&utm_medium=rss&utm_campaign=emancipatory-speculation)**
+  Speculative cartography and the rediscovery of suppressed urban histories; community resistance and the conservation of ...
+
+![Hush!](https://www.eurozine.com/wp-content/uploads/2026/03/Czas-Kultury_4_2025-300x225.jpg)
+
+- **[Hush!](https://www.eurozine.com/hush/?utm_source=rss&utm_medium=rss&utm_campaign=hush)**
+  Late capitalism and the commodification of calm; flotation tanks and the illusion of autonomy; emancipatory muteness in ...
 
 ![Iran and the complexity of the world](https://www.eurozine.com/wp-content/uploads/2026/03/Tehran_-_The_Fourth_Day_of_War_13_Avash.webp-300x200.png)
 
 - **[Iran and the complexity of the world](https://www.eurozine.com/iran-and-the-complexity-of-the-world/?utm_source=rss&utm_medium=rss&utm_campaign=iran-and-the-complexity-of-the-world)**
   Iran’s regional influence, already much weakened before the current war, has been dealt a fatal blow. While the country’...
-
-![Poison and promise](https://www.eurozine.com/wp-content/uploads/2026/03/Defense.gov_News_Photo_990517-O-9999M-003-300x101.jpg)
-
-- **[Poison and promise](https://www.eurozine.com/poison-and-promise/?utm_source=rss&utm_medium=rss&utm_campaign=poison-and-promise)**
-  When NATO intervened in the Yugoslav wars on 24 March 1999, depleted uranium weaponry punctured Serbian targets across t...
 
 ### 📰 The Philosophers' Magazine
 
@@ -78,6 +87,27 @@
 
 
 ## 🌍 美洲
+
+### 📰 APA Blog
+
+- **[Distracting Metaphors](https://blog.apaonline.org/2026/03/24/distracting-metaphors/)**
+  Metaphors are great. They can make us see something in a new light: Think of universities as the beating heart of humani...
+
+- **[Why “Service” and “Giving Back” Get It Wrong](https://blog.apaonline.org/2026/03/24/why-service-and-giving-back-get-it-wrong/)**
+  We need fresh terms for what we refer to as “service” or “giving back.” I say this as someone who taught for 27 years at...
+
+### 📰 Stanford Encyclopedia of Philosophy
+
+- **[Ernst Mally](https://plato.stanford.edu/entries/mally/)**
+  [Revised entry by Alexander Hieke, Gerhard Zecha, and Hamid Taieb on March 24, 2026. 
+Changes to: Main text, Bibliograph...
+  *关键词: logic*
+
+- **[Gilbert Ryle](https://plato.stanford.edu/entries/ryle/)**
+  [Revised entry by Julia Tanney on March 24, 2026. 
+Changes to: Main text, Bibliography]
+ Although Gilbert Ryle published...
+  *关键词: philosophy, lecture, philosophical*
 
 ### 📰 The Brains Blog
 
@@ -117,21 +147,19 @@
 Continuing on on sec. 469-483 of Hegel'...
   *关键词: philosophy*
 
-### 📰 APA Blog
+![PEL Dystopian Spring Nightcap 2026](https://partiallyexaminedlife.com/wp-content/uploads/nightcap-1-300x300.png)
 
-- **[Testimonial Injustice But With Questions:  Steps Towards a Theory](https://blog.apaonline.org/2026/03/23/testimonial-injustice-but-with-questions-steps-towards-a-theory/)**
-  As philosophers and teachers, we often have the great privilege and responsibility of choosing what questions we ask. An...
+- **[PEL Dystopian Spring Nightcap 2026](https://partiallyexaminedlife.com/2026/03/22/pel-spring-nightcap-2026/)**
+  We talk about some books we've read, what we're doing with AI, reflect back on our Graham Haman engagement, talk about g...
+  *关键词: philosophy*
 
-- **[How to Walk Away](https://blog.apaonline.org/2026/03/23/how-to-walk-away/)**
-  Breaking up with someone can be painful and difficult. Breakups can make you depressed and even damage your heart and im...
+![PvI#114: Earning Crazy Town w/ Jenny Hansen](https://partiallyexaminedlife.com/wp-content/uploads/PvI114_Crazy_Town-300x300.png)
 
-### 📰 Stanford Encyclopedia of Philosophy
+- **[PvI#114: Earning Crazy Town w/ Jenny Hansen](https://partiallyexaminedlife.com/2026/03/19/pvi114-earning-crazy-town-w-jenny-hansen/)**
+  St. Lawrence philosophy prof Jennifer L. Hansen, one of the mos...
+  *关键词: philosophy, debate*
 
-- **[Greek Sources in Arabic and Islamic Philosophy](https://plato.stanford.edu/entries/arabic-islamic-greek/)**
-  [Revised entry by Cristina D’Ancona on March 23, 2026. 
-Changes to: Main text, Bibliography, notes.html]
- To some extent...
-  *关键词: philosophy, scholar*
+*📚 以上为近期内容*
 
 ### 📰 3:AM Magazine
 
@@ -179,5 +207,5 @@ Changes to: Main text, Bibliography, notes.html]
 
 ---
 
-*报告生成时间: 2026-03-24 03:05*  
+*报告生成时间: 2026-03-24 16:05*  
 *Atlas Intelligence System*
