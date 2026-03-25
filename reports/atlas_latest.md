@@ -1,7 +1,7 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-03-24  
-**来源**: 全球 3 个地区 · 8 个信源
+**日期**: 2026-03-25  
+**来源**: 全球 3 个地区 · 5 个信源
 
 ---
 
@@ -28,35 +28,41 @@
   ...
   *关键词: philosophy*
 
+- **[Universalizing or Contextualizing? Two Strategies for Diversifying Philosophy](https://link.springer.com/article/10.1007/s11712-026-10040-3)**
+  This article critically examines the increasing advocacy for diversifying the philosophical curriculum over recent decad...
+  *关键词: philosophy, debate, epistemology*
+
+*📚 以上为近期内容*
+
 
 ## 🌍 欧洲
 
 ### 📰 The New European
 
-![Now it’s official: Brexit was a disaster. Next, we must join a new EU](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_COVER_WEB2-1.jpg)
+![Germansplaining: The TV star fighting deepfake porn – and her husband](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_TANIT_ULMEN.jpg)
 
-- **[Now it’s official: Brexit was a disaster. Next, we must join a new EU](https://www.thenewworld.co.uk/matt-kelly-brexit-is-officially-a-disaster-we-must-join-and-reshape-a-new-eu/)**
-  Starmer and Reeves are talking tougher than before. Now they need to make a positive case for the UK in a bolder Europe...
+- **[Germansplaining: The TV star fighting deepfake porn – and her husband](https://www.thenewworld.co.uk/tanit-koch-germansplaining-the-tv-star-fighting-deepfake-porn-and-her-husband/)**
+  A celebrity couple suddenly filed for divorce. The reasons for it were so shocking that it could bring about a change in...
 
-![Paul Golding or Mohammed Hijab? There’s only one way to find out…](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/unnamed-e1774364506811.jpg)
+![Farage and Polanski – don’t fall for these extremists](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_PATIENCE_EXTREM-1.jpg)
 
-- **[Paul Golding or Mohammed Hijab? There’s only one way to find out…](https://www.thenewworld.co.uk/rats-in-a-sack-paul-golding-or-mohammed-hijab-theres-only-one-way-to-find-out/)**
-  The co-leader of fascist hate group Britain First and the outspoken Islamic preacher and influencer are to take part in ...
+- **[Farage and Polanski – don’t fall for these extremists](https://www.thenewworld.co.uk/patience-wheatcroft-farage-and-polanski-dont-fall-for-these-extremists/)**
+  The leaders of Reform and the Greens both want to turn Britain into a huge political experiment. That’s the last thing w...
 
-![Reform’s pork man finally forced to fall on his sword](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/12/parry-e1766577414455.jpg)
+![If you thought Rodrigo Duterte was bad, wait til you meet his daughter](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-1399137419-e1774353563284.jpg)
 
-- **[Reform’s pork man finally forced to fall on his sword](https://www.thenewworld.co.uk/rats-in-a-sack-reforms-pork-man-finally-forced-to-fall-on-his-sword/)**
-  Chris Parry, who has demanded non-Christians eat bacon, has been suspended as Reform's Hampshire mayoral candidate follo...
+- **[If you thought Rodrigo Duterte was bad, wait til you meet his daughter](https://www.thenewworld.co.uk/ben-sturt-if-you-thought-rodrigo-duterte-was-bad-wait-til-you-meet-his-daughter/)**
+  Sara Duterte, the vice president of the Philippines, is so extreme she once threatened to dig up the body of a rival’s f...
 
-![Ipswich fans’ fury at divisive right-winger](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/farage-e1774370239973.jpg)
+![Iranian protesters: we don’t want the shah, the mullahs or the war](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2264709073-e1774354207315.jpg)
 
-- **[Ipswich fans’ fury at divisive right-winger](https://www.thenewworld.co.uk/rats-in-a-sack-ipswich-fans-fury-at-divisive-right-winger/)**
-  Supporters of the Championship club were up in arms after Nigel Farage was allowed to pose as the club's new star signin...
+- **[Iranian protesters: we don’t want the shah, the mullahs or the war](https://www.thenewworld.co.uk/svetlana-lazareva-iranian-protesters-we-dont-want-the-shah-the-mullahs-or-the-war/)**
+  Generations of Iranians have been fighting for democracy, and many of them have been killed. Iranians at a Paris protest...
 
-![Badenoch’s break: swimming, donkeys and plenty of climate denial](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2267571174-e1774371330795.jpg)
+![The ‘jihadi capital of Europe’ is much nicer than you think](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_CAROUSEL_MOLENBEEK.jpg)
 
-- **[Badenoch’s break: swimming, donkeys and plenty of climate denial](https://www.thenewworld.co.uk/rats-in-a-sack-badenochs-break-swimming-donkeys-and-plenty-of-climate-denial/)**
-  The Conservative leader and her family have once again been the guest of the chair of a climate science denial group...
+- **[The ‘jihadi capital of Europe’ is much nicer than you think](https://www.thenewworld.co.uk/linda-a-thompson-the-jihadi-capital-of-europe-is-much-nicer-than-you-think/)**
+  If people have heard of my Brussels neighbourhood, it’s because of the terror attacks of 2016. I used to be embarrassed ...
 
 ### 📰 Eurozine
 
@@ -69,11 +75,6 @@
 
 - **[Hush!](https://www.eurozine.com/hush/?utm_source=rss&utm_medium=rss&utm_campaign=hush)**
   Late capitalism and the commodification of calm; flotation tanks and the illusion of autonomy; emancipatory muteness in ...
-
-![Iran and the complexity of the world](https://www.eurozine.com/wp-content/uploads/2026/03/Tehran_-_The_Fourth_Day_of_War_13_Avash.webp-300x200.png)
-
-- **[Iran and the complexity of the world](https://www.eurozine.com/iran-and-the-complexity-of-the-world/?utm_source=rss&utm_medium=rss&utm_campaign=iran-and-the-complexity-of-the-world)**
-  Iran’s regional influence, already much weakened before the current war, has been dealt a fatal blow. While the country’...
 
 ### 📰 The Philosophers' Magazine
 
@@ -119,6 +120,8 @@ Changes to: Main text, Bibliography]
   Book Symposium on The Brain Abstracted in Philosophy of the Mind Sciences Philipp Haueis, Department of Philosophy and I...
   *关键词: philosophy, symposium*
 
+*📚 以上为近期内容*
+
 ### 📰 Daily Nous
 
 ![Shortcuts to the End of the University? (updated)](https://dailynous.com/wp-content/uploads/2026/03/adobe-ai-assistant.png)
@@ -137,6 +140,8 @@ Changes to: Main text, Bibliography]
 - **[The Philosophy Curricula in Mid-20th Century UK Universities](https://dailynous.com/2026/03/24/the-philosophy-curricula-in-mid-20th-century-uk-universities/)**
   Who and what was covered in philosophy courses at UK universities in the 1950s and 1960s? . That question comes from Bri...
   *关键词: philosophy, analytic philosophy, scholar*
+
+*📚 以上为近期内容*
 
 ### 📰 The Partially Examined Life
 
@@ -207,5 +212,5 @@ Continuing on on sec. 469-483 of Hegel'...
 
 ---
 
-*报告生成时间: 2026-03-24 16:05*  
+*报告生成时间: 2026-03-25 03:05*  
 *Atlas Intelligence System*
