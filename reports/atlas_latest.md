@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-03-25  
-**来源**: 全球 3 个地区 · 5 个信源
+**来源**: 全球 2 个地区 · 4 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 24 条
+- **新增资讯**: 17 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -18,6 +18,8 @@
 
 - **[The Confucian fiction of heaven](https://www.tandfonline.com/doi/full/10.1080/09552367.2026.2644728?af=R)**
   ....
+
+*📚 以上为近期内容*
 
 ### 📰 Dao Journal
 
@@ -39,6 +41,21 @@
 
 ### 📰 The New European
 
+![Farage’s Florida flight doubles cost in just two days](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2267729669-e1774443776448.jpg)
+
+- **[Farage’s Florida flight doubles cost in just two days](https://www.thenewworld.co.uk/rats-in-a-sack-farages-florida-flight-doubles-cost-in-just-two-days/)**
+  The Reform leader initially registered his latest jolly as costing £12,500 - only for it to suddenly rise to £25,000...
+
+![France can breathe a sigh of relief – for now](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2267476847-e1774457088551.jpg)
+
+- **[France can breathe a sigh of relief – for now](https://www.thenewworld.co.uk/marie-le-conte-france-can-breathe-a-sigh-of-relief-for-now/)**
+  The bar recent French elections was low. Still, France managed to lumber over it...
+
+![The evidence is growing: Trump’s team are using his chaos to get richer on the stock market](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/04/432_ball_trump-1.jpg)
+
+- **[The evidence is growing: Trump’s team are using his chaos to get richer on the stock market](https://www.thenewworld.co.uk/james-ball-the-evidence-is-growing-trumps-team-are-using-his-chaos-to-get-richer-on-the-stock-market/)**
+  The president is probably not directly part of insider trading - but those close to him could well be...
+
 ![Germansplaining: The TV star fighting deepfake porn – and her husband](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_TANIT_ULMEN.jpg)
 
 - **[Germansplaining: The TV star fighting deepfake porn – and her husband](https://www.thenewworld.co.uk/tanit-koch-germansplaining-the-tv-star-fighting-deepfake-porn-and-her-husband/)**
@@ -49,45 +66,36 @@
 - **[Farage and Polanski – don’t fall for these extremists](https://www.thenewworld.co.uk/patience-wheatcroft-farage-and-polanski-dont-fall-for-these-extremists/)**
   The leaders of Reform and the Greens both want to turn Britain into a huge political experiment. That’s the last thing w...
 
-![If you thought Rodrigo Duterte was bad, wait til you meet his daughter](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-1399137419-e1774353563284.jpg)
-
-- **[If you thought Rodrigo Duterte was bad, wait til you meet his daughter](https://www.thenewworld.co.uk/ben-sturt-if-you-thought-rodrigo-duterte-was-bad-wait-til-you-meet-his-daughter/)**
-  Sara Duterte, the vice president of the Philippines, is so extreme she once threatened to dig up the body of a rival’s f...
-
-![Iranian protesters: we don’t want the shah, the mullahs or the war](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2264709073-e1774354207315.jpg)
-
-- **[Iranian protesters: we don’t want the shah, the mullahs or the war](https://www.thenewworld.co.uk/svetlana-lazareva-iranian-protesters-we-dont-want-the-shah-the-mullahs-or-the-war/)**
-  Generations of Iranians have been fighting for democracy, and many of them have been killed. Iranians at a Paris protest...
-
-![The ‘jihadi capital of Europe’ is much nicer than you think](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_CAROUSEL_MOLENBEEK.jpg)
-
-- **[The ‘jihadi capital of Europe’ is much nicer than you think](https://www.thenewworld.co.uk/linda-a-thompson-the-jihadi-capital-of-europe-is-much-nicer-than-you-think/)**
-  If people have heard of my Brussels neighbourhood, it’s because of the terror attacks of 2016. I used to be embarrassed ...
-
 ### 📰 Eurozine
 
-![Emancipatory speculation](https://www.eurozine.com/wp-content/uploads/2026/03/derive_1_2_2026-300x225.jpg)
+![Different kinds of incomplete](https://www.eurozine.com/wp-content/uploads/2026/03/Screenshot-2026-03-23-at-16.29.03-300x136.png)
 
-- **[Emancipatory speculation](https://www.eurozine.com/emancipatory-speculation/?utm_source=rss&utm_medium=rss&utm_campaign=emancipatory-speculation)**
-  Speculative cartography and the rediscovery of suppressed urban histories; community resistance and the conservation of ...
+- **[Different kinds of incomplete](https://www.eurozine.com/different-kinds-of-incomplete/?utm_source=rss&utm_medium=rss&utm_campaign=different-kinds-of-incomplete)**
+  Which Iranian artist in exile isn’t asked how their work relates to oppression, protest and war? How can creatives overc...
 
-![Hush!](https://www.eurozine.com/wp-content/uploads/2026/03/Czas-Kultury_4_2025-300x225.jpg)
+![Adriatic post-modernism](https://www.eurozine.com/wp-content/uploads/2026/03/Nova-Istra_3_4_2025-300x225.jpg)
 
-- **[Hush!](https://www.eurozine.com/hush/?utm_source=rss&utm_medium=rss&utm_campaign=hush)**
-  Late capitalism and the commodification of calm; flotation tanks and the illusion of autonomy; emancipatory muteness in ...
+- **[Adriatic post-modernism](https://www.eurozine.com/adriatic-post-modernism/?utm_source=rss&utm_medium=rss&utm_campaign=adriatic-post-modernism)**
+  Focus on the 20th-century Croatian poet and novelist Antun Šoljan: literary translation and political subversion; intert...
 
 ### 📰 The Philosophers' Magazine
 
-![On Being Rejected](https://philosophersmag.com/wp-content/uploads/2026/03/On-Being-Rejected-1024x683.jpg)
+![Living with Class](https://philosophersmag.com/wp-content/uploads/2026/03/toffs_and_toughs-1024x774.jpg)
 
-- **[On Being Rejected](https://philosophersmag.com/on-being-rejected/)**
-  First a review article, then a book, now a book review—Alex Byrne chronicles the latest surprise rejection of his writin...
-  *关键词: philosophy*
-
-*📚 以上为近期内容*
+- **[Living with Class](https://philosophersmag.com/living-with-class/)**
+  Hanno Sauer argues that we will have to learn how to live with class hierarchy.
+The post Living with Class first appeare...
 
 
 ## 🌍 美洲
+
+### 📰 Daily Nous
+
+![Texas State Fires Philosophy Professor Over Off-Campus Talk on the Israeli-Palestine Conflict](https://dailynous.com/wp-content/uploads/2026/03/robinson-idris-photo.png)
+
+- **[Texas State Fires Philosophy Professor Over Off-Campus Talk on the Israeli-Palestine Conflict](https://dailynous.com/2026/03/25/texas-state-fires-philosophy-professor-over-off-campus-talk-on-the-israeli-palestine-conflict/)**
+  Idris Robinson, a tenure-track assistant professor of philosophy at Texas State University, is suing several university ...
+  *关键词: philosophy*
 
 ### 📰 APA Blog
 
@@ -96,6 +104,11 @@
 
 - **[Why “Service” and “Giving Back” Get It Wrong](https://blog.apaonline.org/2026/03/24/why-service-and-giving-back-get-it-wrong/)**
   We need fresh terms for what we refer to as “service” or “giving back.” I say this as someone who taught for 27 years at...
+
+- **[Testimonial Injustice But With Questions:  Steps Towards a Theory](https://blog.apaonline.org/2026/03/23/testimonial-injustice-but-with-questions-steps-towards-a-theory/)**
+  As philosophers and teachers, we often have the great privilege and responsibility of choosing what questions we ask. An...
+
+*📚 以上为近期内容*
 
 ### 📰 Stanford Encyclopedia of Philosophy
 
@@ -110,6 +123,14 @@ Changes to: Main text, Bibliography]
  Although Gilbert Ryle published...
   *关键词: philosophy, lecture, philosophical*
 
+- **[Greek Sources in Arabic and Islamic Philosophy](https://plato.stanford.edu/entries/arabic-islamic-greek/)**
+  [Revised entry by Cristina D’Ancona on March 23, 2026. 
+Changes to: Main text, Bibliography, notes.html]
+ To some extent...
+  *关键词: philosophy, scholar*
+
+*📚 以上为近期内容*
+
 ### 📰 The Brains Blog
 
 - **[Introducing:  Brains and Philosophy and the Mind Sciences](https://philosophyofbrains.com/2026/03/23/introducing-brains-and-philosophy-and-the-mind-sciences.aspx)**
@@ -119,27 +140,6 @@ Changes to: Main text, Bibliography]
 - **[Book Symposium on The Brain Abstracted](https://philosophyofbrains.com/2026/03/23/book-symposium-on-the-brain-abstracted.aspx)**
   Book Symposium on The Brain Abstracted in Philosophy of the Mind Sciences Philipp Haueis, Department of Philosophy and I...
   *关键词: philosophy, symposium*
-
-*📚 以上为近期内容*
-
-### 📰 Daily Nous
-
-![Shortcuts to the End of the University? (updated)](https://dailynous.com/wp-content/uploads/2026/03/adobe-ai-assistant.png)
-
-- **[Shortcuts to the End of the University? (updated)](https://dailynous.com/2026/03/23/shortcuts-to-the-end-of-the-university/)**
-  &#8220;It’s not just the problem of brazen cheating. In some ways, the more insidious threat LLMs pose to undergraduate ...
-
-![Major Grant Awarded for Work on the Philosophy of Neurotechnology](https://dailynous.com/wp-content/uploads/2026/03/mindtechphilosophers2.png)
-
-- **[Major Grant Awarded for Work on the Philosophy of Neurotechnology](https://dailynous.com/2026/03/24/major-grant-awarded-for-work-on-the-philosophy-of-neurotechnology/)**
-  Four philosophers are leading an interdisciplinary team spanning the Universities of Glasgow and Oxford that has receive...
-  *关键词: philosophy, ethics, epistemology*
-
-![The Philosophy Curricula in Mid-20th Century UK Universities](https://dailynous.com/wp-content/uploads/2026/03/hepworth-barbara-group-iii-evocation.jpg)
-
-- **[The Philosophy Curricula in Mid-20th Century UK Universities](https://dailynous.com/2026/03/24/the-philosophy-curricula-in-mid-20th-century-uk-universities/)**
-  Who and what was covered in philosophy courses at UK universities in the 1950s and 1960s? . That question comes from Bri...
-  *关键词: philosophy, analytic philosophy, scholar*
 
 *📚 以上为近期内容*
 
@@ -212,5 +212,5 @@ Continuing on on sec. 469-483 of Hegel'...
 
 ---
 
-*报告生成时间: 2026-03-25 03:05*  
+*报告生成时间: 2026-03-25 16:05*  
 *Atlas Intelligence System*
