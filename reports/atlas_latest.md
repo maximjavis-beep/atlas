@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-03-26  
-**来源**: 全球 3 个地区 · 5 个信源
+**来源**: 全球 3 个地区 · 4 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 10 条
+- **新增资讯**: 14 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -41,30 +41,30 @@
 
 ### 📰 The New European
 
-![Matt Kelly’s picks of the week: James O’Brien, GB News and why Brexit is officially a disaster](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/web-images-21.png)
+![GB News’s Miriam Cates forgets her commandments](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2024/06/GettyImages-1705577973-e1718890176600.jpg)
 
-- **[Matt Kelly’s picks of the week: James O’Brien, GB News and why Brexit is officially a disaster](https://www.thenewworld.co.uk/matt-kellys-picks-of-the-week-james-obrien-gb-news-and-why-brexit-is-officially-a-disaster/)**
-  Our founder and editor-in-chief’s weekly highlights from the magazine...
+- **[GB News’s Miriam Cates forgets her commandments](https://www.thenewworld.co.uk/rats-in-a-sack-gb-newss-miriam-cates-forgets-her-commandments/)**
+  The former Conservative MP claimed "Parliament has legalised abortion up to the moment of birth". Nothing of the sort ha...
 
-![This attack on Jewish ambulances is a new kind of warfare](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2267706682-e1774517368934.jpg)
+![Are Morgan McSweeney’s enemies serving up their revenge cold?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2239502823-e1774521231533.jpg)
 
-- **[This attack on Jewish ambulances is a new kind of warfare](https://www.thenewworld.co.uk/paul-mason-this-attack-on-jewish-ambulances-is-a-new-kind-of-warfare/)**
-  The aim of the people who targeted the ambulances outside a north London synagogue was all too clear – and the reaction ...
+- **[Are Morgan McSweeney’s enemies serving up their revenge cold?](https://www.thenewworld.co.uk/rats-in-a-sack-are-morgan-mcsweeneys-enemies-serving-up-their-revenge-cold/)**
+  Labour's soft left MPs have doubts about precisely what happened to the phone of Keir Starmer's former chief of staff...
 
-![Farage’s Florida flight doubles cost in just two days](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2267729669-e1774443776448.jpg)
+![Reform promise they’ll ‘Fix It’… in Savile’s Leeds](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2267728125-e1774521497952.jpg)
 
-- **[Farage’s Florida flight doubles cost in just two days](https://www.thenewworld.co.uk/rats-in-a-sack-farages-florida-flight-doubles-cost-in-just-two-days/)**
-  The Reform leader initially registered his latest jolly as costing £12,500 - only for it to suddenly rise to £25,000...
+- **[Reform promise they’ll ‘Fix It’… in Savile’s Leeds](https://www.thenewworld.co.uk/rats-in-a-sack-reform-promise-theyll-fix-it-in-saviles-leeds/)**
+  Nigel Farage took to the stage of a largely empty arena in front of a strangely familiar catchphrase...
 
-![France can breathe a sigh of relief – for now](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2267476847-e1774457088551.jpg)
+![A Brexiteer wants to leave but retain all the benefits of remaining… again](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2021/05/import/68738_image_0-1165cea536a9ef8ee4808b9ea001bf63.jpg)
 
-- **[France can breathe a sigh of relief – for now](https://www.thenewworld.co.uk/marie-le-conte-france-can-breathe-a-sigh-of-relief-for-now/)**
-  The bar recent French elections was low. Still, France managed to lumber over it...
+- **[A Brexiteer wants to leave but retain all the benefits of remaining… again](https://www.thenewworld.co.uk/rats-in-a-sack-a-brexiteer-wants-to-leave-but-retain-all-the-benefits-of-remaining-again/)**
+  Reform defector Andrew Rosindell is demanding to be allowed to keep using the Conservative association HQ, despite ditch...
 
-![The evidence is growing: Trump’s team are using his chaos to get richer on the stock market](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/04/432_ball_trump-1.jpg)
+![Politico’s rather awkward sponsor](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2267817749-e1774522011642.jpg)
 
-- **[The evidence is growing: Trump’s team are using his chaos to get richer on the stock market](https://www.thenewworld.co.uk/james-ball-the-evidence-is-growing-trumps-team-are-using-his-chaos-to-get-richer-on-the-stock-market/)**
-  The president is probably not directly part of insider trading - but those close to him could well be...
+- **[Politico’s rather awkward sponsor](https://www.thenewworld.co.uk/rats-in-a-sack-politicos-rather-awkward-sponsor/)**
+  Today wasn't the day for the firm's London Playbook newsletter to be sponsored by Meta...
 
 ### 📰 Eurozine
 
@@ -78,6 +78,13 @@
 - **[Adriatic post-modernism](https://www.eurozine.com/adriatic-post-modernism/?utm_source=rss&utm_medium=rss&utm_campaign=adriatic-post-modernism)**
   Focus on the 20th-century Croatian poet and novelist Antun Šoljan: literary translation and political subversion; intert...
 
+![Emancipatory speculation](https://www.eurozine.com/wp-content/uploads/2026/03/derive_1_2_2026-300x225.jpg)
+
+- **[Emancipatory speculation](https://www.eurozine.com/emancipatory-speculation/?utm_source=rss&utm_medium=rss&utm_campaign=emancipatory-speculation)**
+  Speculative cartography and the rediscovery of suppressed urban histories; community resistance and the conservation of ...
+
+*📚 以上为近期内容*
+
 ### 📰 The Philosophers' Magazine
 
 ![Living with Class](https://philosophersmag.com/wp-content/uploads/2026/03/toffs_and_toughs-1024x774.jpg)
@@ -86,8 +93,23 @@
   Hanno Sauer argues that we will have to learn how to live with class hierarchy.
 The post Living with Class first appeare...
 
+*📚 以上为近期内容*
+
 
 ## 🌍 美洲
+
+### 📰 APA Blog
+
+- **[Love Is All a Matter of Timing](https://blog.apaonline.org/2026/03/26/love-is-all-a-matter-of-timing/)**
+  The Allegory of the Gynoids in Wong Kar-wai’s 2046 Many films are about love, but Wong Kar-wai’s 2046 is about love in a...
+  *关键词: philosophical*
+
+### 📰 Stanford Encyclopedia of Philosophy
+
+- **[Molecular Genetics](https://plato.stanford.edu/entries/molecular-genetics/)**
+  [Revised entry by Ken Waters and Marcel Weber on March 26, 2026. 
+Changes to: Main text, Bibliography]
+ The term molecul...
 
 ### 📰 Daily Nous
 
@@ -97,37 +119,16 @@ The post Living with Class first appeare...
   Idris Robinson, a tenure-track assistant professor of philosophy at Texas State University, is suing several university ...
   *关键词: philosophy*
 
-### 📰 APA Blog
+![Shortcuts to the End of the University? (updated)](https://dailynous.com/wp-content/uploads/2026/03/adobe-ai-assistant.png)
 
-- **[Distracting Metaphors](https://blog.apaonline.org/2026/03/24/distracting-metaphors/)**
-  Metaphors are great. They can make us see something in a new light: Think of universities as the beating heart of humani...
+- **[Shortcuts to the End of the University? (updated)](https://dailynous.com/2026/03/23/shortcuts-to-the-end-of-the-university/)**
+  &#8220;It’s not just the problem of brazen cheating. In some ways, the more insidious threat LLMs pose to undergraduate ...
 
-- **[Why “Service” and “Giving Back” Get It Wrong](https://blog.apaonline.org/2026/03/24/why-service-and-giving-back-get-it-wrong/)**
-  We need fresh terms for what we refer to as “service” or “giving back.” I say this as someone who taught for 27 years at...
+![Major Grant Awarded for Work on the Philosophy of Neurotechnology](https://dailynous.com/wp-content/uploads/2026/03/mindtechphilosophers2.png)
 
-- **[Testimonial Injustice But With Questions:  Steps Towards a Theory](https://blog.apaonline.org/2026/03/23/testimonial-injustice-but-with-questions-steps-towards-a-theory/)**
-  As philosophers and teachers, we often have the great privilege and responsibility of choosing what questions we ask. An...
-
-*📚 以上为近期内容*
-
-### 📰 Stanford Encyclopedia of Philosophy
-
-- **[Ernst Mally](https://plato.stanford.edu/entries/mally/)**
-  [Revised entry by Alexander Hieke, Gerhard Zecha, and Hamid Taieb on March 24, 2026. 
-Changes to: Main text, Bibliograph...
-  *关键词: logic*
-
-- **[Gilbert Ryle](https://plato.stanford.edu/entries/ryle/)**
-  [Revised entry by Julia Tanney on March 24, 2026. 
-Changes to: Main text, Bibliography]
- Although Gilbert Ryle published...
-  *关键词: philosophy, lecture, philosophical*
-
-- **[Greek Sources in Arabic and Islamic Philosophy](https://plato.stanford.edu/entries/arabic-islamic-greek/)**
-  [Revised entry by Cristina D’Ancona on March 23, 2026. 
-Changes to: Main text, Bibliography, notes.html]
- To some extent...
-  *关键词: philosophy, scholar*
+- **[Major Grant Awarded for Work on the Philosophy of Neurotechnology](https://dailynous.com/2026/03/24/major-grant-awarded-for-work-on-the-philosophy-of-neurotechnology/)**
+  Four philosophers are leading an interdisciplinary team spanning the Universities of Glasgow and Oxford that has receive...
+  *关键词: philosophy, ethics, epistemology*
 
 *📚 以上为近期内容*
 
@@ -158,12 +159,6 @@ Continuing on on sec. 469-483 of Hegel'...
   We talk about some books we've read, what we're doing with AI, reflect back on our Graham Haman engagement, talk about g...
   *关键词: philosophy*
 
-![PvI#114: Earning Crazy Town w/ Jenny Hansen](https://partiallyexaminedlife.com/wp-content/uploads/PvI114_Crazy_Town-300x300.png)
-
-- **[PvI#114: Earning Crazy Town w/ Jenny Hansen](https://partiallyexaminedlife.com/2026/03/19/pvi114-earning-crazy-town-w-jenny-hansen/)**
-  St. Lawrence philosophy prof Jennifer L. Hansen, one of the mos...
-  *关键词: philosophy, debate*
-
 *📚 以上为近期内容*
 
 ### 📰 3:AM Magazine
@@ -181,21 +176,6 @@ Continuing on on sec. 469-483 of Hegel'...
 
 *📚 以上为近期内容*
 
-### 📰 Experimental Philosophy
-
-- **[Call: “Toronto Workshop on Moral Psychology and Moral Theory”](https://xphi.net/2026/03/19/call-toronto-workshop-on-moral-psychology-and-moral-theory/)**
-  Organized by Andrew Sepielli, the “Toronto Workshop on Moral Psychology and Moral Theory” will take place at the Univers...
-  *关键词: workshop*
-
-- **[Talk: “Cognitive Foundations of Geometry” (Véronique Izard)](https://xphi.net/2026/03/19/talk-cognitive-foundations-of-geometry-veronique-izard/)**
-  As part of the IHPST’s Séminaire PhilSciCog at the Université Paris 1 Panthéon-Sorbonne, Véronique Izard will talk about...
-
-- **[Talk: “Autonomous Systems, Moral Responsibility and Control Architectures” (Markus Kneer)](https://xphi.net/2026/03/19/talk-autonomous-systems-moral-responsibility-and-control-architectures-markus-kneer/)**
-  On March 20, from 16:00–18:00 (UTC), the Permanent Seminar in Analytic Philosophy (PSAP) of Università Roma Tre will hos...
-  *关键词: philosophy, seminar, analytic philosophy*
-
-*📚 以上为近期内容*
-
 
 ## 🌍 非洲
 
@@ -207,5 +187,5 @@ Continuing on on sec. 469-483 of Hegel'...
 
 ---
 
-*报告生成时间: 2026-03-26 03:05*  
+*报告生成时间: 2026-03-26 16:05*  
 *Atlas Intelligence System*
