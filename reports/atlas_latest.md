@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-03-25  
-**来源**: 全球 2 个地区 · 4 个信源
+**日期**: 2026-03-26  
+**来源**: 全球 3 个地区 · 5 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 17 条
+- **新增资讯**: 10 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -41,6 +41,16 @@
 
 ### 📰 The New European
 
+![Matt Kelly’s picks of the week: James O’Brien, GB News and why Brexit is officially a disaster](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/web-images-21.png)
+
+- **[Matt Kelly’s picks of the week: James O’Brien, GB News and why Brexit is officially a disaster](https://www.thenewworld.co.uk/matt-kellys-picks-of-the-week-james-obrien-gb-news-and-why-brexit-is-officially-a-disaster/)**
+  Our founder and editor-in-chief’s weekly highlights from the magazine...
+
+![This attack on Jewish ambulances is a new kind of warfare](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2267706682-e1774517368934.jpg)
+
+- **[This attack on Jewish ambulances is a new kind of warfare](https://www.thenewworld.co.uk/paul-mason-this-attack-on-jewish-ambulances-is-a-new-kind-of-warfare/)**
+  The aim of the people who targeted the ambulances outside a north London synagogue was all too clear – and the reaction ...
+
 ![Farage’s Florida flight doubles cost in just two days](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2267729669-e1774443776448.jpg)
 
 - **[Farage’s Florida flight doubles cost in just two days](https://www.thenewworld.co.uk/rats-in-a-sack-farages-florida-flight-doubles-cost-in-just-two-days/)**
@@ -55,16 +65,6 @@
 
 - **[The evidence is growing: Trump’s team are using his chaos to get richer on the stock market](https://www.thenewworld.co.uk/james-ball-the-evidence-is-growing-trumps-team-are-using-his-chaos-to-get-richer-on-the-stock-market/)**
   The president is probably not directly part of insider trading - but those close to him could well be...
-
-![Germansplaining: The TV star fighting deepfake porn – and her husband](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_TANIT_ULMEN.jpg)
-
-- **[Germansplaining: The TV star fighting deepfake porn – and her husband](https://www.thenewworld.co.uk/tanit-koch-germansplaining-the-tv-star-fighting-deepfake-porn-and-her-husband/)**
-  A celebrity couple suddenly filed for divorce. The reasons for it were so shocking that it could bring about a change in...
-
-![Farage and Polanski – don’t fall for these extremists](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/476_PATIENCE_EXTREM-1.jpg)
-
-- **[Farage and Polanski – don’t fall for these extremists](https://www.thenewworld.co.uk/patience-wheatcroft-farage-and-polanski-dont-fall-for-these-extremists/)**
-  The leaders of Reform and the Greens both want to turn Britain into a huge political experiment. That’s the last thing w...
 
 ### 📰 Eurozine
 
@@ -201,16 +201,11 @@ Continuing on on sec. 469-483 of Hegel'...
 
 ### 📰 CODESRIA
 
-- **[7th CODESRIA/ZASB Summer School in African Studies and Area Studies in Africa](https://codesria.org/7th-codesria-zasb-summer-school-in-african-studies-and-area-studies-in-africa/)**
-  Theme: Honouring Mudimbe: Rethinking Research through African Thought Venue: Dakar, Senegal Date: 20-24 July 2026 Applic...
-
-- **[7ª Escola de Verão CODESRIA/CASB em Estudos Africanos e Estudos de Área em África](https://codesria.org/7a-escola-de-verao-codesria-casb-em-estudos-africanos-e-estudos-de-area-em-africa/)**
-  Tema: Em homenagem a Mudimbe: Repensar a pesquisa a partir do pensamento africano Local: Dakar, Senegal Datas: 20–24 de ...
-
-*📚 以上为近期内容*
+- **[Protected: Manuscripts MRI 2023-2024](https://codesria.org/manuscripts-mri-2023-2024/)**
+  There is no excerpt because this is a protected post....
 
 
 ---
 
-*报告生成时间: 2026-03-25 16:05*  
+*报告生成时间: 2026-03-26 03:05*  
 *Atlas Intelligence System*
