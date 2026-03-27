@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-03-26  
-**来源**: 全球 3 个地区 · 4 个信源
+**日期**: 2026-03-27  
+**来源**: 全球 2 个地区 · 3 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 14 条
+- **新增资讯**: 11 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -184,8 +184,10 @@ Continuing on on sec. 469-483 of Hegel'...
 - **[Protected: Manuscripts MRI 2023-2024](https://codesria.org/manuscripts-mri-2023-2024/)**
   There is no excerpt because this is a protected post....
 
+*📚 以上为近期内容*
+
 
 ---
 
-*报告生成时间: 2026-03-26 16:05*  
+*报告生成时间: 2026-03-27 03:08*  
 *Atlas Intelligence System*
