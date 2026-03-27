@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-03-27  
-**来源**: 全球 2 个地区 · 3 个信源
+**来源**: 全球 2 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 11 条
+- **新增资讯**: 18 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -41,30 +41,30 @@
 
 ### 📰 The New European
 
-![GB News’s Miriam Cates forgets her commandments](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2024/06/GettyImages-1705577973-e1718890176600.jpg)
+![Matt Goodwin’s new book: The missing chapter](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/477_MORRIS_NEW-BOOK.jpg)
 
-- **[GB News’s Miriam Cates forgets her commandments](https://www.thenewworld.co.uk/rats-in-a-sack-gb-newss-miriam-cates-forgets-her-commandments/)**
-  The former Conservative MP claimed "Parliament has legalised abortion up to the moment of birth". Nothing of the sort ha...
+- **[Matt Goodwin’s new book: The missing chapter](https://www.thenewworld.co.uk/henry-morris-matt-goodwins-new-book-the-missing-chapter/)**
+  A previously unseen chapter of Matt Goodwin’s new book Suicide of a Nation has fallen into our hands. Is is real, or sat...
 
-![Are Morgan McSweeney’s enemies serving up their revenge cold?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2239502823-e1774521231533.jpg)
+![It’s a high bar, but was this Trump’s most deranged interview yet?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/b85a6c76-b340-4106-9fcc-a887d0fb39aa-e1774616301500.png)
 
-- **[Are Morgan McSweeney’s enemies serving up their revenge cold?](https://www.thenewworld.co.uk/rats-in-a-sack-are-morgan-mcsweeneys-enemies-serving-up-their-revenge-cold/)**
-  Labour's soft left MPs have doubts about precisely what happened to the phone of Keir Starmer's former chief of staff...
+- **[It’s a high bar, but was this Trump’s most deranged interview yet?](https://www.thenewworld.co.uk/rats-in-a-sack-its-a-high-bar-but-was-this-trumps-most-deranged-interview-yet/)**
+  The president ignored a question about starving Iranians to flirt with the host, then suggested the new Ayatollah might ...
 
-![Reform promise they’ll ‘Fix It’… in Savile’s Leeds](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2267728125-e1774521497952.jpg)
+![Bricks and Slaughter – the Iran War Lego Movie](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-27-at-13.07.23.png)
 
-- **[Reform promise they’ll ‘Fix It’… in Savile’s Leeds](https://www.thenewworld.co.uk/rats-in-a-sack-reform-promise-theyll-fix-it-in-saviles-leeds/)**
-  Nigel Farage took to the stage of a largely empty arena in front of a strangely familiar catchphrase...
+- **[Bricks and Slaughter – the Iran War Lego Movie](https://www.thenewworld.co.uk/rats-in-a-sack-bricks-and-slaughter-the-iran-war-lego-movie/)**
+  An Iranian propaganda movie showing Trump as a quivering mess raises uncomfortable questions about the war and who’s tel...
 
-![A Brexiteer wants to leave but retain all the benefits of remaining… again](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2021/05/import/68738_image_0-1165cea536a9ef8ee4808b9ea001bf63.jpg)
+![Black and Asian voters are politically homeless](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/477_WHITE-POLITICAL-HOME.jpg)
 
-- **[A Brexiteer wants to leave but retain all the benefits of remaining… again](https://www.thenewworld.co.uk/rats-in-a-sack-a-brexiteer-wants-to-leave-but-retain-all-the-benefits-of-remaining-again/)**
-  Reform defector Andrew Rosindell is demanding to be allowed to keep using the Conservative association HQ, despite ditch...
+- **[Black and Asian voters are politically homeless](https://www.thenewworld.co.uk/nadine-white-black-and-asian-voters-are-politically-homeless/)**
+  Voters are not swayed by the sight of Black or Brown faces in a political party’s leadership team. They care about the p...
 
-![Politico’s rather awkward sponsor](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2267817749-e1774522011642.jpg)
+![Fans turn on Sunderland after a VIP invite to Nigel Farage](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/10/GettyImages-2236218791-e1759418690551.jpg)
 
-- **[Politico’s rather awkward sponsor](https://www.thenewworld.co.uk/rats-in-a-sack-politicos-rather-awkward-sponsor/)**
-  Today wasn't the day for the firm's London Playbook newsletter to be sponsored by Meta...
+- **[Fans turn on Sunderland after a VIP invite to Nigel Farage](https://www.thenewworld.co.uk/rats-in-a-sack-fans-turn-on-sunderland-after-a-vip-invite-to-nigel-farage/)**
+  Reform’s leader is embroiled in another football row, days after his controversial visit to Ipswich Town...
 
 ### 📰 Eurozine
 
@@ -98,39 +98,57 @@ The post Living with Class first appeare...
 
 ## 🌍 美洲
 
+### 📰 The Partially Examined Life
+
+![NEM#249: Kavus Torabi Now Leads Gong](https://partiallyexaminedlife.com/wp-content/uploads/Kavus-300x258.jpg)
+
+- **[NEM#249: Kavus Torabi Now Leads Gong](https://partiallyexaminedlife.com/2026/03/27/nem249-kavus-torabi/)**
+  Kavus began in dual-guitar London math-rock bands in the '90s, joined The Cardiacs for their final lineup. His band Knif...
+  *关键词: philosophy*
+
+### 📰 3:AM Magazine
+
+![Lingering Quietly Beneath the Suface: An Interview with Rick Castro](https://www.3ammagazine.com/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-6.22.24-AM-1024x474.png)
+
+- **[Lingering Quietly Beneath the Suface: An Interview with Rick Castro](https://www.3ammagazine.com/3am/lingering-quietly-beneath-the-suface-an-interview-with-rick-castro/)**
+  A leatherman drove up on his Harley, took a quick survey of the exhibition, came up to me and said, “I’d like to purchas...
+
+![In Town, Earlier Than Usual](https://www.3ammagazine.com/wp-content/uploads/2021/12/reading-ch-2-lg.jpg)
+
+- **[In Town, Earlier Than Usual](https://www.3ammagazine.com/3am/in-town-earlier-than-usual/)**
+  The women wearing this style were carrying cups of coffee. They were hurrying and looked serious and hard-pressed, as th...
+
 ### 📰 APA Blog
 
-- **[Love Is All a Matter of Timing](https://blog.apaonline.org/2026/03/26/love-is-all-a-matter-of-timing/)**
-  The Allegory of the Gynoids in Wong Kar-wai’s 2046 Many films are about love, but Wong Kar-wai’s 2046 is about love in a...
-  *关键词: philosophical*
+- **[APA Member Interview, Christian Culak](https://blog.apaonline.org/2026/03/27/apa-member-interview-christian-culak/)**
+  Christian Culak is a moral philosopher concurrently lecturing at Texas A&#38;M University-San Antonio and the University...
+  *关键词: ethics*
+
+- **[Recently Published Book Spotlight: Aesthetics and Video Games](https://blog.apaonline.org/2026/03/27/recently-published-book-spotlight-aesthetics-and-video-games/)**
+  Christopher Bartel is Professor of Philosophy at Appalachian State University and Adjunct Research Fellow with the Pract...
+  *关键词: philosophy, ethics, aesthetics*
 
 ### 📰 Stanford Encyclopedia of Philosophy
 
-- **[Molecular Genetics](https://plato.stanford.edu/entries/molecular-genetics/)**
-  [Revised entry by Ken Waters and Marcel Weber on March 26, 2026. 
+- **[Ethics of Artificial Intelligence and Robotics](https://plato.stanford.edu/entries/ethics-ai/)**
+  [Revised entry by Vincent C. Müller on March 27, 2026. 
 Changes to: Main text, Bibliography]
- The term molecul...
+ After around 70 years of d...
+  *关键词: debate, ethics, philosophical*
+
+- **[Moritz Schlick](https://plato.stanford.edu/entries/schlick/)**
+  [Revised entry by Thomas Oberdan and Friedrich Stadler on March 27, 2026. 
+Changes to: Main text, Bibliography]
+ Althoug...
+  *关键词: philosophy, logic, philosophical*
 
 ### 📰 Daily Nous
 
-![Texas State Fires Philosophy Professor Over Off-Campus Talk on the Israeli-Palestine Conflict](https://dailynous.com/wp-content/uploads/2026/03/robinson-idris-photo.png)
+![Lots More Leibniz](https://dailynous.com/wp-content/uploads/2026/03/leibniz-place-of-others.jpg)
 
-- **[Texas State Fires Philosophy Professor Over Off-Campus Talk on the Israeli-Palestine Conflict](https://dailynous.com/2026/03/25/texas-state-fires-philosophy-professor-over-off-campus-talk-on-the-israeli-palestine-conflict/)**
-  Idris Robinson, a tenure-track assistant professor of philosophy at Texas State University, is suing several university ...
-  *关键词: philosophy*
-
-![Shortcuts to the End of the University? (updated)](https://dailynous.com/wp-content/uploads/2026/03/adobe-ai-assistant.png)
-
-- **[Shortcuts to the End of the University? (updated)](https://dailynous.com/2026/03/23/shortcuts-to-the-end-of-the-university/)**
-  &#8220;It’s not just the problem of brazen cheating. In some ways, the more insidious threat LLMs pose to undergraduate ...
-
-![Major Grant Awarded for Work on the Philosophy of Neurotechnology](https://dailynous.com/wp-content/uploads/2026/03/mindtechphilosophers2.png)
-
-- **[Major Grant Awarded for Work on the Philosophy of Neurotechnology](https://dailynous.com/2026/03/24/major-grant-awarded-for-work-on-the-philosophy-of-neurotechnology/)**
-  Four philosophers are leading an interdisciplinary team spanning the Universities of Glasgow and Oxford that has receive...
-  *关键词: philosophy, ethics, epistemology*
-
-*📚 以上为近期内容*
+- **[Lots More Leibniz](https://dailynous.com/2026/03/27/lots-more-leibniz/)**
+  2000 pages of Leibniz, much of it previously untranslated or unpublished, will be published next month. They&#8217;ll ap...
+  *关键词: philosophical, scholar*
 
 ### 📰 The Brains Blog
 
@@ -141,38 +159,6 @@ Changes to: Main text, Bibliography]
 - **[Book Symposium on The Brain Abstracted](https://philosophyofbrains.com/2026/03/23/book-symposium-on-the-brain-abstracted.aspx)**
   Book Symposium on The Brain Abstracted in Philosophy of the Mind Sciences Philipp Haueis, Department of Philosophy and I...
   *关键词: philosophy, symposium*
-
-*📚 以上为近期内容*
-
-### 📰 The Partially Examined Life
-
-![Ep. 387: Hegel on Law (Part Two)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-300x300.png)
-
-- **[Ep. 387: Hegel on Law (Part Two)](https://partiallyexaminedlife.com/2026/03/22/ep387-2-hegel-law/)**
-  Subscribe to get parts 1 and 2 of this now, ad-free, plus tons of bonus content.
-Continuing on on sec. 469-483 of Hegel'...
-  *关键词: philosophy*
-
-![PEL Dystopian Spring Nightcap 2026](https://partiallyexaminedlife.com/wp-content/uploads/nightcap-1-300x300.png)
-
-- **[PEL Dystopian Spring Nightcap 2026](https://partiallyexaminedlife.com/2026/03/22/pel-spring-nightcap-2026/)**
-  We talk about some books we've read, what we're doing with AI, reflect back on our Graham Haman engagement, talk about g...
-  *关键词: philosophy*
-
-*📚 以上为近期内容*
-
-### 📰 3:AM Magazine
-
-![Matter and Free Will](https://www.3ammagazine.com/wp-content/uploads/2026/03/roth-banner.jpg)
-
-- **[Matter and Free Will](https://www.3ammagazine.com/3am/matter-and-free-will/)**
-  Suppose that there were certain human abilities—I decline to call them merely mental, lest all the problematic assumptio...
-  *关键词: philosophy*
-
-![Angst](https://www.3ammagazine.com/wp-content/uploads/2026/03/41yJKEcQ0VL._SL1280_-672x1024.jpg)
-
-- **[Angst](https://www.3ammagazine.com/3am/angst/)**
-  As soon as the telephone thrummed, I knew. I was in the back bedroom. It was the last room in the world. At that time, t...
 
 *📚 以上为近期内容*
 
@@ -189,5 +175,5 @@ Continuing on on sec. 469-483 of Hegel'...
 
 ---
 
-*报告生成时间: 2026-03-27 03:08*  
+*报告生成时间: 2026-03-27 16:05*  
 *Atlas Intelligence System*
