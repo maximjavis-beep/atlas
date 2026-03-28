@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-03-28  
-**来源**: 全球 2 个地区 · 6 个信源
+**来源**: 全球 2 个地区 · 3 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 18 条
+- **新增资讯**: 13 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -128,6 +128,12 @@ The post Living with Class first appeare...
   Christopher Bartel is Professor of Philosophy at Appalachian State University and Adjunct Research Fellow with the Pract...
   *关键词: philosophy, ethics, aesthetics*
 
+- **[Love Is All a Matter of Timing](https://blog.apaonline.org/2026/03/26/love-is-all-a-matter-of-timing/)**
+  The Allegory of the Gynoids in Wong Kar-wai’s 2046 Many films are about love, but Wong Kar-wai’s 2046 is about love in a...
+  *关键词: philosophical*
+
+*📚 以上为近期内容*
+
 ### 📰 Stanford Encyclopedia of Philosophy
 
 - **[Ethics of Artificial Intelligence and Robotics](https://plato.stanford.edu/entries/ethics-ai/)**
@@ -142,6 +148,13 @@ Changes to: Main text, Bibliography]
  Althoug...
   *关键词: philosophy, logic, philosophical*
 
+- **[Molecular Genetics](https://plato.stanford.edu/entries/molecular-genetics/)**
+  [Revised entry by Ken Waters and Marcel Weber on March 26, 2026. 
+Changes to: Main text, Bibliography]
+ The term molecul...
+
+*📚 以上为近期内容*
+
 ### 📰 Daily Nous
 
 ![Lots More Leibniz](https://dailynous.com/wp-content/uploads/2026/03/leibniz-place-of-others.jpg)
@@ -149,6 +162,19 @@ Changes to: Main text, Bibliography]
 - **[Lots More Leibniz](https://dailynous.com/2026/03/27/lots-more-leibniz/)**
   2000 pages of Leibniz, much of it previously untranslated or unpublished, will be published next month. They&#8217;ll ap...
   *关键词: philosophical, scholar*
+
+![Texas State Fires Philosophy Professor Over Off-Campus Talk on the Israeli-Palestine Conflict](https://dailynous.com/wp-content/uploads/2026/03/robinson-idris-photo.png)
+
+- **[Texas State Fires Philosophy Professor Over Off-Campus Talk on the Israeli-Palestine Conflict](https://dailynous.com/2026/03/25/texas-state-fires-philosophy-professor-over-off-campus-talk-on-the-israeli-palestine-conflict/)**
+  Idris Robinson, a tenure-track assistant professor of philosophy at Texas State University, is suing several university ...
+  *关键词: philosophy*
+
+![Shortcuts to the End of the University? (updated)](https://dailynous.com/wp-content/uploads/2026/03/adobe-ai-assistant.png)
+
+- **[Shortcuts to the End of the University? (updated)](https://dailynous.com/2026/03/23/shortcuts-to-the-end-of-the-university/)**
+  &#8220;It’s not just the problem of brazen cheating. In some ways, the more insidious threat LLMs pose to undergraduate ...
+
+*📚 以上为近期内容*
 
 ### 📰 The Brains Blog
 
@@ -175,5 +201,5 @@ Changes to: Main text, Bibliography]
 
 ---
 
-*报告生成时间: 2026-03-28 03:03*  
+*报告生成时间: 2026-03-28 16:03*  
 *Atlas Intelligence System*
