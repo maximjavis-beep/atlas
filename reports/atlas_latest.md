@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-03-28  
-**来源**: 全球 2 个地区 · 3 个信源
+**日期**: 2026-03-29  
+**来源**: 全球 1 个地区 · 1 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 13 条
+- **新增资讯**: 1 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -41,30 +41,10 @@
 
 ### 📰 The New European
 
-![Matt Goodwin’s new book: The missing chapter](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/477_MORRIS_NEW-BOOK.jpg)
+![Matthew d’Ancona’s culture: The Pitt: One hospital, one hour, one hell of a show](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/noah-wyle-ned-brower-supriya-ganesh-e1774626686488.jpg)
 
-- **[Matt Goodwin’s new book: The missing chapter](https://www.thenewworld.co.uk/henry-morris-matt-goodwins-new-book-the-missing-chapter/)**
-  A previously unseen chapter of Matt Goodwin’s new book Suicide of a Nation has fallen into our hands. Is is real, or sat...
-
-![It’s a high bar, but was this Trump’s most deranged interview yet?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/b85a6c76-b340-4106-9fcc-a887d0fb39aa-e1774616301500.png)
-
-- **[It’s a high bar, but was this Trump’s most deranged interview yet?](https://www.thenewworld.co.uk/rats-in-a-sack-its-a-high-bar-but-was-this-trumps-most-deranged-interview-yet/)**
-  The president ignored a question about starving Iranians to flirt with the host, then suggested the new Ayatollah might ...
-
-![Bricks and Slaughter – the Iran War Lego Movie](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-27-at-13.07.23.png)
-
-- **[Bricks and Slaughter – the Iran War Lego Movie](https://www.thenewworld.co.uk/rats-in-a-sack-bricks-and-slaughter-the-iran-war-lego-movie/)**
-  An Iranian propaganda movie showing Trump as a quivering mess raises uncomfortable questions about the war and who’s tel...
-
-![Black and Asian voters are politically homeless](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/477_WHITE-POLITICAL-HOME.jpg)
-
-- **[Black and Asian voters are politically homeless](https://www.thenewworld.co.uk/nadine-white-black-and-asian-voters-are-politically-homeless/)**
-  Voters are not swayed by the sight of Black or Brown faces in a political party’s leadership team. They care about the p...
-
-![Fans turn on Sunderland after a VIP invite to Nigel Farage](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/10/GettyImages-2236218791-e1759418690551.jpg)
-
-- **[Fans turn on Sunderland after a VIP invite to Nigel Farage](https://www.thenewworld.co.uk/rats-in-a-sack-fans-turn-on-sunderland-after-a-vip-invite-to-nigel-farage/)**
-  Reform’s leader is embroiled in another football row, days after his controversial visit to Ipswich Town...
+- **[Matthew d’Ancona’s culture: The Pitt: One hospital, one hour, one hell of a show](https://www.thenewworld.co.uk/matthew-danconas-culture-the-pitt-one-hospital-one-hour-one-hell-of-a-show/)**
+  Noah Wyle is exceptional in the best medical drama for years...
 
 ### 📰 Eurozine
 
@@ -106,6 +86,21 @@ The post Living with Class first appeare...
   Kavus began in dual-guitar London math-rock bands in the '90s, joined The Cardiacs for their final lineup. His band Knif...
   *关键词: philosophy*
 
+![Ep. 387: Hegel on Law (Part Two)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-300x300.png)
+
+- **[Ep. 387: Hegel on Law (Part Two)](https://partiallyexaminedlife.com/2026/03/22/ep387-2-hegel-law/)**
+  Subscribe to get parts 1 and 2 of this now, ad-free, plus tons of bonus content.
+Continuing on on sec. 469-483 of Hegel'...
+  *关键词: philosophy*
+
+![PEL Dystopian Spring Nightcap 2026](https://partiallyexaminedlife.com/wp-content/uploads/nightcap-1-300x300.png)
+
+- **[PEL Dystopian Spring Nightcap 2026](https://partiallyexaminedlife.com/2026/03/22/pel-spring-nightcap-2026/)**
+  We talk about some books we've read, what we're doing with AI, reflect back on our Graham Haman engagement, talk about g...
+  *关键词: philosophy*
+
+*📚 以上为近期内容*
+
 ### 📰 3:AM Magazine
 
 ![Lingering Quietly Beneath the Suface: An Interview with Rick Castro](https://www.3ammagazine.com/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-6.22.24-AM-1024x474.png)
@@ -117,6 +112,14 @@ The post Living with Class first appeare...
 
 - **[In Town, Earlier Than Usual](https://www.3ammagazine.com/3am/in-town-earlier-than-usual/)**
   The women wearing this style were carrying cups of coffee. They were hurrying and looked serious and hard-pressed, as th...
+
+![Matter and Free Will](https://www.3ammagazine.com/wp-content/uploads/2026/03/roth-banner.jpg)
+
+- **[Matter and Free Will](https://www.3ammagazine.com/3am/matter-and-free-will/)**
+  Suppose that there were certain human abilities—I decline to call them merely mental, lest all the problematic assumptio...
+  *关键词: philosophy*
+
+*📚 以上为近期内容*
 
 ### 📰 APA Blog
 
@@ -201,5 +204,5 @@ Changes to: Main text, Bibliography]
 
 ---
 
-*报告生成时间: 2026-03-28 16:03*  
+*报告生成时间: 2026-03-29 03:05*  
 *Atlas Intelligence System*
