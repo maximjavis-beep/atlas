@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-03-29  
-**来源**: 全球 1 个地区 · 1 个信源
+**日期**: 2026-03-30  
+**来源**: 全球 2 个地区 · 3 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 1 条
+- **新增资讯**: 5 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -30,10 +30,6 @@
   ...
   *关键词: philosophy*
 
-- **[Universalizing or Contextualizing? Two Strategies for Diversifying Philosophy](https://link.springer.com/article/10.1007/s11712-026-10040-3)**
-  This article critically examines the increasing advocacy for diversifying the philosophical curriculum over recent decad...
-  *关键词: philosophy, debate, epistemology*
-
 *📚 以上为近期内容*
 
 
@@ -41,10 +37,19 @@
 
 ### 📰 The New European
 
-![Matthew d’Ancona’s culture: The Pitt: One hospital, one hour, one hell of a show](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/noah-wyle-ned-brower-supriya-ganesh-e1774626686488.jpg)
+![Quentin Letts settles old scores with Balls](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-144977019-e1774859090770.jpg)
 
-- **[Matthew d’Ancona’s culture: The Pitt: One hospital, one hour, one hell of a show](https://www.thenewworld.co.uk/matthew-danconas-culture-the-pitt-one-hospital-one-hour-one-hell-of-a-show/)**
-  Noah Wyle is exceptional in the best medical drama for years...
+- **[Quentin Letts settles old scores with Balls](https://www.thenewworld.co.uk/rats-in-a-sack-quentin-letts-settles-old-scores-with-balls/)**
+  The Daily Mail columnist, who bears a sizeable grudge against Ed Balls, is delighting in the Good Morning Britain host's...
+
+### 📰 The Philosophers' Magazine
+
+![The Problem with Everything](https://philosophersmag.com/wp-content/uploads/2026/03/Overfitting-1024x683.jpeg)
+
+- **[The Problem with Everything](https://philosophersmag.com/the-problem-with-everything/)**
+  Daniel Kodsi and John Maier argue that all battles in the culture wars depend on the same philosophical mistake.
+The pos...
+  *关键词: philosophical*
 
 ### 📰 Eurozine
 
@@ -65,41 +70,29 @@
 
 *📚 以上为近期内容*
 
-### 📰 The Philosophers' Magazine
-
-![Living with Class](https://philosophersmag.com/wp-content/uploads/2026/03/toffs_and_toughs-1024x774.jpg)
-
-- **[Living with Class](https://philosophersmag.com/living-with-class/)**
-  Hanno Sauer argues that we will have to learn how to live with class hierarchy.
-The post Living with Class first appeare...
-
-*📚 以上为近期内容*
-
 
 ## 🌍 美洲
 
 ### 📰 The Partially Examined Life
 
-![NEM#249: Kavus Torabi Now Leads Gong](https://partiallyexaminedlife.com/wp-content/uploads/Kavus-300x258.jpg)
+![Ep. 388: Hegel on Culture (Part One for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/Hegel-Genevieve-smaller-300x300.jpg)
 
-- **[NEM#249: Kavus Torabi Now Leads Gong](https://partiallyexaminedlife.com/2026/03/27/nem249-kavus-torabi/)**
-  Kavus began in dual-guitar London math-rock bands in the '90s, joined The Cardiacs for their final lineup. His band Knif...
+- **[Ep. 388: Hegel on Culture (Part One for Supporters)](https://partiallyexaminedlife.com/2026/03/29/ep-388-1-hegel-culture-citizen/)**
+  Continuing on Hegel's Phenomenology, "Spirit" chapter, now up to sections 484-510, which is the first part of "Self-Alie...
   *关键词: philosophy*
 
-![Ep. 387: Hegel on Law (Part Two)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-300x300.png)
+![Ep. 388: Hegel on Culture (Part Two for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/Hegel-Genevieve-smaller-300x300.jpg)
 
-- **[Ep. 387: Hegel on Law (Part Two)](https://partiallyexaminedlife.com/2026/03/22/ep387-2-hegel-law/)**
+- **[Ep. 388: Hegel on Culture (Part Two for Supporters)](https://partiallyexaminedlife.com/2026/03/29/ep-388-2-hegel-culture-citizen/)**
+  Continuing on the "Spirit" chapter (more specifically. "Culture and its realm of actuality") in Hegel's Phenomenology, n...
+  *关键词: philosophy*
+
+![Ep. 388: Hegel on Culture (Part One)](https://partiallyexaminedlife.com/wp-content/uploads/Hegel-Genevieve-smaller-300x300.jpg)
+
+- **[Ep. 388: Hegel on Culture (Part One)](https://partiallyexaminedlife.com/2026/03/30/ep-388-1-hegel-culture/)**
   Subscribe to get parts 1 and 2 of this now, ad-free, plus tons of bonus content.
-Continuing on on sec. 469-483 of Hegel'...
+Continuing on Hegel's...
   *关键词: philosophy*
-
-![PEL Dystopian Spring Nightcap 2026](https://partiallyexaminedlife.com/wp-content/uploads/nightcap-1-300x300.png)
-
-- **[PEL Dystopian Spring Nightcap 2026](https://partiallyexaminedlife.com/2026/03/22/pel-spring-nightcap-2026/)**
-  We talk about some books we've read, what we're doing with AI, reflect back on our Graham Haman engagement, talk about g...
-  *关键词: philosophy*
-
-*📚 以上为近期内容*
 
 ### 📰 3:AM Magazine
 
@@ -112,12 +105,6 @@ Continuing on on sec. 469-483 of Hegel'...
 
 - **[In Town, Earlier Than Usual](https://www.3ammagazine.com/3am/in-town-earlier-than-usual/)**
   The women wearing this style were carrying cups of coffee. They were hurrying and looked serious and hard-pressed, as th...
-
-![Matter and Free Will](https://www.3ammagazine.com/wp-content/uploads/2026/03/roth-banner.jpg)
-
-- **[Matter and Free Will](https://www.3ammagazine.com/3am/matter-and-free-will/)**
-  Suppose that there were certain human abilities—I decline to call them merely mental, lest all the problematic assumptio...
-  *关键词: philosophy*
 
 *📚 以上为近期内容*
 
@@ -204,5 +191,5 @@ Changes to: Main text, Bibliography]
 
 ---
 
-*报告生成时间: 2026-03-29 16:05*  
+*报告生成时间: 2026-03-30 03:05*  
 *Atlas Intelligence System*
