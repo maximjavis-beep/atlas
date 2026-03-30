@@ -1,18 +1,24 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-03-30  
-**来源**: 全球 2 个地区 · 3 个信源
+**来源**: 全球 4 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 5 条
+- **新增资讯**: 12 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
 
 ## 🌍 亚洲
+
+### 📰 Journal of Indian Philosophy
+
+- **[Hinduism, Leibniz, and Origin Essentialism](https://link.springer.com/article/10.1007/s10781-025-09630-x)**
+  Deshmukh and Janssen-Lauret (2024) (hereafter D&J) show that origin essentialism, when combined with other metaphysical ...
+  *关键词: philosophy*
 
 ### 📰 Asian Philosophy
 
@@ -21,21 +27,26 @@
 
 *📚 以上为近期内容*
 
-### 📰 Dao Journal
-
-- **[A Feminist Reflection on Gender Relations Beyond Complementarity](https://link.springer.com/article/10.1007/s11712-026-10048-9)**
-  This review focuses on Chenyang Li’s attempt to preserve gender differentiations in (heterosexual) spousal relations thr...
-
-- **[Wang, Kun 王錕, <i>A Comparative Study of</i> <i>Z</i>hu<i> Xi and Whitehead’s Philosophy</i> 朱熹與懷特海哲學比較研究](https://link.springer.com/article/10.1007/s11712-026-10054-x)**
-  ...
-  *关键词: philosophy*
-
-*📚 以上为近期内容*
-
 
 ## 🌍 欧洲
 
 ### 📰 The New European
+
+![Now even Matt Goodwin’s own colleagues are laughing at him](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/goodwin-1-e1774871232140.jpg)
+
+- **[Now even Matt Goodwin’s own colleagues are laughing at him](https://www.thenewworld.co.uk/rats-in-a-sack-now-even-matt-goodwins-own-colleagues-are-laughing-at-him/)**
+  The academic turned Reform campaigner - at the centre of an AI storm - was mocked by his GB News co-workers after a disa...
+  *关键词: debate*
+
+![Who’s the Telegraph’s accident-prone new star?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/telegraph-e1774871576625.jpg)
+
+- **[Who’s the Telegraph’s accident-prone new star?](https://www.thenewworld.co.uk/rats-in-a-sack-whos-the-telegraphs-accident-prone-new-star/)**
+  Joanna Marchong wrote about why her generation hates the NHS - but neglected to mention who she works for...
+
+![GB News sets its lawyers on to The New World](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/477_GBNEWS_TEE-1.jpg)
+
+- **[GB News sets its lawyers on to The New World](https://www.thenewworld.co.uk/matt-kelly-gb-news-sets-its-lawyers-on-to-the-new-world/)**
+  Support our independent reporting and get a free “Is that true? Or did you hear it on GB News” T-shirt!...
 
 ![Quentin Letts settles old scores with Balls](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-144977019-e1774859090770.jpg)
 
@@ -73,6 +84,15 @@ The pos...
 
 ## 🌍 美洲
 
+### 📰 APA Blog
+
+- **[Let Kids Be Kids? The Ethics of Maximizing Children’s Talents](https://blog.apaonline.org/2026/03/30/let-kids-be-kids-the-ethics-of-maximising-childrens-talents/)**
+  Sam is fourteen years old. He spends hardly any time with friends or family. Every day, before or after school, or both,...
+  *关键词: ethics*
+
+- **[Dystopian Futures: Anthropic and the Department of Defense](https://blog.apaonline.org/2026/03/30/dystopian-futures-anthropic-the-dod/)**
+  Fantastical imaginings of a bleak and desolate end-state of mankind, characterized by environmental disasters, tyrannica...
+
 ### 📰 The Partially Examined Life
 
 ![Ep. 388: Hegel on Culture (Part One for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/Hegel-Genevieve-smaller-300x300.jpg)
@@ -105,22 +125,6 @@ Continuing on Hegel's...
 
 - **[In Town, Earlier Than Usual](https://www.3ammagazine.com/3am/in-town-earlier-than-usual/)**
   The women wearing this style were carrying cups of coffee. They were hurrying and looked serious and hard-pressed, as th...
-
-*📚 以上为近期内容*
-
-### 📰 APA Blog
-
-- **[APA Member Interview, Christian Culak](https://blog.apaonline.org/2026/03/27/apa-member-interview-christian-culak/)**
-  Christian Culak is a moral philosopher concurrently lecturing at Texas A&#38;M University-San Antonio and the University...
-  *关键词: ethics*
-
-- **[Recently Published Book Spotlight: Aesthetics and Video Games](https://blog.apaonline.org/2026/03/27/recently-published-book-spotlight-aesthetics-and-video-games/)**
-  Christopher Bartel is Professor of Philosophy at Appalachian State University and Adjunct Research Fellow with the Pract...
-  *关键词: philosophy, ethics, aesthetics*
-
-- **[Love Is All a Matter of Timing](https://blog.apaonline.org/2026/03/26/love-is-all-a-matter-of-timing/)**
-  The Allegory of the Gynoids in Wong Kar-wai’s 2046 Many films are about love, but Wong Kar-wai’s 2046 is about love in a...
-  *关键词: philosophical*
 
 *📚 以上为近期内容*
 
@@ -183,13 +187,11 @@ Changes to: Main text, Bibliography]
 
 ### 📰 CODESRIA
 
-- **[Protected: Manuscripts MRI 2023-2024](https://codesria.org/manuscripts-mri-2023-2024/)**
-  There is no excerpt because this is a protected post....
-
-*📚 以上为近期内容*
+- **[Generative AI in Global Scientific Knowledge Production: Challenges and Prospects for Africa](https://codesria.org/generative-ai-in-global-scientific-knowledge-production-challenges-and-prospects-for-africa/)**
+  CODESRIA Bulletin Online, No. 1, March 2026 by Jacob Jaygbay, Senior Content Developer, Cloud + AI, Microsoft, Virginia,...
 
 
 ---
 
-*报告生成时间: 2026-03-30 03:05*  
+*报告生成时间: 2026-03-30 16:05*  
 *Atlas Intelligence System*
