@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-03-31  
-**来源**: 全球 4 个地区 · 8 个信源
+**来源**: 全球 3 个地区 · 8 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 14 条
+- **新增资讯**: 21 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -39,31 +39,37 @@
   Deshmukh and Janssen-Lauret (2024) (hereafter D&J) show that origin essentialism, when combined with other metaphysical ...
   *关键词: philosophy*
 
+*📚 以上为近期内容*
+
 
 ## 🌍 欧洲
 
 ### 📰 The New European
 
-![Matt Goodwin’s road to derision](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/477_BALL_GOODWIN.jpg)
+![Modern comedians? They’re not funny, sniffs Julie Burchill](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-137299806-e1774961291185.jpg)
 
-- **[Matt Goodwin’s road to derision](https://www.thenewworld.co.uk/james-ball-matt-goodwins-road-to-derision/)**
-  How a terrifying night in Detroit shaped the controversial right wing author’s thinking...
+- **[Modern comedians? They’re not funny, sniffs Julie Burchill](https://www.thenewworld.co.uk/rats-in-a-sack-modern-comedians-theyre-not-funny-sniffs-julie-burchill/)**
+  The Hip Young Gunslinger has completed her transformation to Reactionary Old Bore in her latest Spectator column...
 
-![Now even Matt Goodwin’s own colleagues are laughing at him](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/goodwin-1-e1774871232140.jpg)
+![Pete Hegseth v The Pope](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2269222728-e1774962276183.jpg)
 
-- **[Now even Matt Goodwin’s own colleagues are laughing at him](https://www.thenewworld.co.uk/rats-in-a-sack-now-even-matt-goodwins-own-colleagues-are-laughing-at-him/)**
-  The academic turned Reform campaigner - at the centre of an AI storm - was mocked by his GB News co-workers after a disa...
-  *关键词: debate*
+- **[Pete Hegseth v The Pope](https://www.thenewworld.co.uk/rats-in-a-sack-pete-hegseth-v-the-pope/)**
+  The thirsty US war secretary has angered the Pontiff with a blood-and-thunder prayer service over the Iran War...
 
-![Who’s the Telegraph’s accident-prone new star?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/telegraph-e1774871576625.jpg)
+![Donald Trump gets an airport named after himself. And guess who might benefit financially?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2268489728-e1774962576500.jpg)
 
-- **[Who’s the Telegraph’s accident-prone new star?](https://www.thenewworld.co.uk/rats-in-a-sack-whos-the-telegraphs-accident-prone-new-star/)**
-  Joanna Marchong wrote about why her generation hates the NHS - but neglected to mention who she works for...
+- **[Donald Trump gets an airport named after himself. And guess who might benefit financially?](https://www.thenewworld.co.uk/rats-in-a-sack-donald-trump-gets-an-airport-named-after-himself-and-guess-who-might-benefit-financially/)**
+  Palm Beach International Airport is to be named after Trump just weeks after his intellectual property company trademark...
 
-![GB News sets its lawyers on to The New World](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/477_GBNEWS_TEE-1.jpg)
+![OnlyFans and the new sexual arms race](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/477_READE_OF.jpg)
 
-- **[GB News sets its lawyers on to The New World](https://www.thenewworld.co.uk/matt-kelly-gb-news-sets-its-lawyers-on-to-the-new-world/)**
-  Support our independent reporting and get a free “Is that true? Or did you hear it on GB News” T-shirt!...
+- **[OnlyFans and the new sexual arms race](https://www.thenewworld.co.uk/lucy-reade-onlyfans-and-the-new-sexual-arms-race/)**
+  People are being incentivised to do increasingly extreme things online to gain attention – and money. But this new cultu...
+
+![Will Nick Timothy be the next top Tory to defect to Reform?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-693974496-e1774962906409.jpg)
+
+- **[Will Nick Timothy be the next top Tory to defect to Reform?](https://www.thenewworld.co.uk/rats-in-a-sack-will-nick-timothy-be-the-next-top-tory-to-defect-to-reform/)**
+  The shadow justice secretary, only in Kemi Badenoch's team since January, is rumoured to be mulling a move to Nigel Fara...
 
 ### 📰 Eurozine
 
@@ -86,12 +92,41 @@ The post The...
 
 ### 📰 APA Blog
 
-- **[Let Kids Be Kids? The Ethics of Maximizing Children’s Talents](https://blog.apaonline.org/2026/03/30/let-kids-be-kids-the-ethics-of-maximising-childrens-talents/)**
-  Sam is fourteen years old. He spends hardly any time with friends or family. Every day, before or after school, or both,...
+- **[The Risks of AI Recording Devices and Note-Taking Assistants in the Classroom](https://blog.apaonline.org/2026/03/31/the-risks-of-ai-recording-devices-and-note-taking-assistants-in-the-classroom/)**
+  Recently, US classrooms have dealt with several forms of authoritarian and dystopian policies, ranging from Texas A&#38;...
+
+### 📰 Stanford Encyclopedia of Philosophy
+
+- **[The Cyrenaics](https://plato.stanford.edu/entries/cyrenaics/)**
+  [New Entry by Voula Tsouna on March 31, 2026.]
+ The Cyrenaics are one of the so-called Socratic schools, namely schools ...
+  *关键词: philosophical, scholar*
+
+- **[Abhidharma](https://plato.stanford.edu/entries/abhidharma/)**
+  [Revised entry by Noa Ronkin on March 31, 2026. 
+Changes to: Bibliography, notes.html]
+ The first centuries after Śākyam...
+  *关键词: scholar*
+
+- **[The Ethics of Manipulation](https://plato.stanford.edu/entries/ethics-manipulation/)**
+  [Revised entry by Robert Noggle on March 31, 2026. 
+Changes to: Main text, Bibliography]
+ Suppose that Tonya plans to do...
   *关键词: ethics*
 
-- **[Dystopian Futures: Anthropic and the Department of Defense](https://blog.apaonline.org/2026/03/30/dystopian-futures-anthropic-the-dod/)**
-  Fantastical imaginings of a bleak and desolate end-state of mankind, characterized by environmental disasters, tyrannica...
+### 📰 Daily Nous
+
+![Alan Musgrave 1940-2026](https://dailynous.com/wp-content/uploads/2026/03/musgrave-alan.jpg)
+
+- **[Alan Musgrave 1940-2026](https://dailynous.com/2026/03/31/alan-musgrave-1940-2026/)**
+  Alan Musgrave, professor emeritus of philosophy at the University of Otago, died this past January. The following obitua...
+  *关键词: philosophy, lecture, philosophy of science*
+
+![Radzik from Texas A&M to Binghamton](https://dailynous.com/wp-content/uploads/2026/03/radzik-linda.jpg)
+
+- **[Radzik from Texas A&M to Binghamton](https://dailynous.com/2026/03/31/radzik-from-texas-am-to-binghamton/)**
+  Linda Radzik, professor of philosophy at Texas A&#38;M University, will be moving to Binghamton University (SUNY). Radzi...
+  *关键词: philosophy, ethics, metaphysics*
 
 ### 📰 The Partially Examined Life
 
@@ -130,43 +165,6 @@ Continuing on Hegel's...
 
 *📚 以上为近期内容*
 
-### 📰 Stanford Encyclopedia of Philosophy
-
-- **[Ethics of Artificial Intelligence and Robotics](https://plato.stanford.edu/entries/ethics-ai/)**
-  [Revised entry by Vincent C. Müller on March 27, 2026. 
-Changes to: Main text, Bibliography]
- After around 70 years of d...
-  *关键词: debate, ethics, philosophical*
-
-- **[Moritz Schlick](https://plato.stanford.edu/entries/schlick/)**
-  [Revised entry by Thomas Oberdan and Friedrich Stadler on March 27, 2026. 
-Changes to: Main text, Bibliography]
- Althoug...
-  *关键词: philosophy, logic, philosophical*
-
-- **[Molecular Genetics](https://plato.stanford.edu/entries/molecular-genetics/)**
-  [Revised entry by Ken Waters and Marcel Weber on March 26, 2026. 
-Changes to: Main text, Bibliography]
- The term molecul...
-
-*📚 以上为近期内容*
-
-### 📰 Daily Nous
-
-![Lots More Leibniz](https://dailynous.com/wp-content/uploads/2026/03/leibniz-place-of-others.jpg)
-
-- **[Lots More Leibniz](https://dailynous.com/2026/03/27/lots-more-leibniz/)**
-  2000 pages of Leibniz, much of it previously untranslated or unpublished, will be published next month. They&#8217;ll ap...
-  *关键词: philosophical, scholar*
-
-![Texas State Fires Philosophy Professor Over Off-Campus Talk on the Israeli-Palestine Conflict](https://dailynous.com/wp-content/uploads/2026/03/robinson-idris-photo.png)
-
-- **[Texas State Fires Philosophy Professor Over Off-Campus Talk on the Israeli-Palestine Conflict](https://dailynous.com/2026/03/25/texas-state-fires-philosophy-professor-over-off-campus-talk-on-the-israeli-palestine-conflict/)**
-  Idris Robinson, a tenure-track assistant professor of philosophy at Texas State University, is suing several university ...
-  *关键词: philosophy*
-
-*📚 以上为近期内容*
-
 
 ## 🌍 非洲
 
@@ -175,8 +173,13 @@ Changes to: Main text, Bibliography]
 - **[Generative AI in Global Scientific Knowledge Production: Challenges and Prospects for Africa](https://codesria.org/generative-ai-in-global-scientific-knowledge-production-challenges-and-prospects-for-africa/)**
   CODESRIA Bulletin Online, No. 1, March 2026 by Jacob Jaygbay, Senior Content Developer, Cloud + AI, Microsoft, Virginia,...
 
+- **[Protected: Manuscripts MRI 2023-2024](https://codesria.org/manuscripts-mri-2023-2024/)**
+  There is no excerpt because this is a protected post....
+
+*📚 以上为近期内容*
+
 
 ---
 
-*报告生成时间: 2026-03-31 03:05*  
+*报告生成时间: 2026-03-31 16:05*  
 *Atlas Intelligence System*
