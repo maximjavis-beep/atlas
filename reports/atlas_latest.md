@@ -1,18 +1,37 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-03-30  
-**来源**: 全球 4 个地区 · 6 个信源
+**日期**: 2026-03-31  
+**来源**: 全球 4 个地区 · 8 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 12 条
+- **新增资讯**: 14 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
 
 ## 🌍 亚洲
+
+### 📰 Asian Philosophy
+
+- **[Wang Yangming’s two identity theses of heart-mind and principle](https://www.tandfonline.com/doi/full/10.1080/09552367.2026.2646602?af=R)**
+  ....
+
+### 📰 Dao Journal
+
+- **[How to Reshape Confucianism in the 21st Century? A Discussion with Critics](https://link.springer.com/article/10.1007/s11712-026-10049-8)**
+  In response to critics of my book Reshaping Confucianism: A Progressive Inquiry (Oxford University Press, 2023), I addre...
+  *关键词: discussion, logic*
+
+- **[L<span>i</span> Chenyang and the Evolution of Progressive Confucianism](https://link.springer.com/article/10.1007/s11712-026-10047-w)**
+  This article offers a critical analysis of Li Chenyang’s Reshaping Confucianism: A Progressive Inquiry, situating it wit...
+  *关键词: ethics, philosophical*
+
+- **[Self-Deception in <i>Mengzi</i> 5A2](https://link.springer.com/article/10.1007/s11712-026-10042-1)**
+  The truth thesis of virtue, widely adopted by Neo-Aristotelians, holds that virtue requires accurate beliefs about what ...
+  *关键词: logic*
 
 ### 📰 Journal of Indian Philosophy
 
@@ -20,17 +39,15 @@
   Deshmukh and Janssen-Lauret (2024) (hereafter D&J) show that origin essentialism, when combined with other metaphysical ...
   *关键词: philosophy*
 
-### 📰 Asian Philosophy
-
-- **[The Confucian fiction of heaven](https://www.tandfonline.com/doi/full/10.1080/09552367.2026.2644728?af=R)**
-  ....
-
-*📚 以上为近期内容*
-
 
 ## 🌍 欧洲
 
 ### 📰 The New European
+
+![Matt Goodwin’s road to derision](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/477_BALL_GOODWIN.jpg)
+
+- **[Matt Goodwin’s road to derision](https://www.thenewworld.co.uk/james-ball-matt-goodwins-road-to-derision/)**
+  How a terrifying night in Detroit shaped the controversial right wing author’s thinking...
 
 ![Now even Matt Goodwin’s own colleagues are laughing at him](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/goodwin-1-e1774871232140.jpg)
 
@@ -48,38 +65,21 @@
 - **[GB News sets its lawyers on to The New World](https://www.thenewworld.co.uk/matt-kelly-gb-news-sets-its-lawyers-on-to-the-new-world/)**
   Support our independent reporting and get a free “Is that true? Or did you hear it on GB News” T-shirt!...
 
-![Quentin Letts settles old scores with Balls](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-144977019-e1774859090770.jpg)
+### 📰 Eurozine
 
-- **[Quentin Letts settles old scores with Balls](https://www.thenewworld.co.uk/rats-in-a-sack-quentin-letts-settles-old-scores-with-balls/)**
-  The Daily Mail columnist, who bears a sizeable grudge against Ed Balls, is delighting in the Good Morning Britain host's...
+![Another November: Queer Slovakia after 1989](https://www.eurozine.com/wp-content/uploads/2026/03/Duhovy_Pride_Bratislava_2010_05-300x200.jpg)
+
+- **[Another November: Queer Slovakia after 1989](https://www.eurozine.com/another-november-queer-slovakia-after-1989/?utm_source=rss&utm_medium=rss&utm_campaign=another-november-queer-slovakia-after-1989)**
+  Stigmatized during socialism, LGTBQI+ people in Slovakia continued to face political and social adversity in the followi...
 
 ### 📰 The Philosophers' Magazine
 
-![The Problem with Everything](https://philosophersmag.com/wp-content/uploads/2026/03/Overfitting-1024x683.jpeg)
+![The Ethics of Sex Verification](https://philosophersmag.com/wp-content/uploads/2026/03/Green_circles-1024x683.png)
 
-- **[The Problem with Everything](https://philosophersmag.com/the-problem-with-everything/)**
-  Daniel Kodsi and John Maier argue that all battles in the culture wars depend on the same philosophical mistake.
-The pos...
-  *关键词: philosophical*
-
-### 📰 Eurozine
-
-![Different kinds of incomplete](https://www.eurozine.com/wp-content/uploads/2026/03/Screenshot-2026-03-23-at-16.29.03-300x136.png)
-
-- **[Different kinds of incomplete](https://www.eurozine.com/different-kinds-of-incomplete/?utm_source=rss&utm_medium=rss&utm_campaign=different-kinds-of-incomplete)**
-  Which Iranian artist in exile isn’t asked how their work relates to oppression, protest and war? How can creatives overc...
-
-![Adriatic post-modernism](https://www.eurozine.com/wp-content/uploads/2026/03/Nova-Istra_3_4_2025-300x225.jpg)
-
-- **[Adriatic post-modernism](https://www.eurozine.com/adriatic-post-modernism/?utm_source=rss&utm_medium=rss&utm_campaign=adriatic-post-modernism)**
-  Focus on the 20th-century Croatian poet and novelist Antun Šoljan: literary translation and political subversion; intert...
-
-![Emancipatory speculation](https://www.eurozine.com/wp-content/uploads/2026/03/derive_1_2_2026-300x225.jpg)
-
-- **[Emancipatory speculation](https://www.eurozine.com/emancipatory-speculation/?utm_source=rss&utm_medium=rss&utm_campaign=emancipatory-speculation)**
-  Speculative cartography and the rediscovery of suppressed urban histories; community resistance and the conservation of ...
-
-*📚 以上为近期内容*
+- **[The Ethics of Sex Verification](https://philosophersmag.com/the-ethics-of-sex-verification/)**
+  Miroslav Imbrišević and Jon Pike argue that it is justified to treat different cases differently in sports.
+The post The...
+  *关键词: ethics*
 
 
 ## 🌍 美洲
@@ -113,6 +113,8 @@ The pos...
   Subscribe to get parts 1 and 2 of this now, ad-free, plus tons of bonus content.
 Continuing on Hegel's...
   *关键词: philosophy*
+
+*📚 以上为近期内容*
 
 ### 📰 3:AM Magazine
 
@@ -163,23 +165,6 @@ Changes to: Main text, Bibliography]
   Idris Robinson, a tenure-track assistant professor of philosophy at Texas State University, is suing several university ...
   *关键词: philosophy*
 
-![Shortcuts to the End of the University? (updated)](https://dailynous.com/wp-content/uploads/2026/03/adobe-ai-assistant.png)
-
-- **[Shortcuts to the End of the University? (updated)](https://dailynous.com/2026/03/23/shortcuts-to-the-end-of-the-university/)**
-  &#8220;It’s not just the problem of brazen cheating. In some ways, the more insidious threat LLMs pose to undergraduate ...
-
-*📚 以上为近期内容*
-
-### 📰 The Brains Blog
-
-- **[Introducing:  Brains and Philosophy and the Mind Sciences](https://philosophyofbrains.com/2026/03/23/introducing-brains-and-philosophy-and-the-mind-sciences.aspx)**
-  Hi Everyone, I&#8217;m very happy to announce that we will be collaborating on a number of posts with Philosophy and the...
-  *关键词: philosophy*
-
-- **[Book Symposium on The Brain Abstracted](https://philosophyofbrains.com/2026/03/23/book-symposium-on-the-brain-abstracted.aspx)**
-  Book Symposium on The Brain Abstracted in Philosophy of the Mind Sciences Philipp Haueis, Department of Philosophy and I...
-  *关键词: philosophy, symposium*
-
 *📚 以上为近期内容*
 
 
@@ -193,5 +178,5 @@ Changes to: Main text, Bibliography]
 
 ---
 
-*报告生成时间: 2026-03-30 16:05*  
+*报告生成时间: 2026-03-31 03:05*  
 *Atlas Intelligence System*
