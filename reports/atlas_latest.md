@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-04-01  
-**来源**: 全球 2 个地区 · 5 个信源
+**来源**: 全球 2 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 26 条
+- **新增资讯**: 35 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -50,32 +50,37 @@
 
 ### 📰 The New European
 
-![Europe’s escape plan from Trump’s chaos machine](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/477_MASON_SUBSTACK.jpg)
+![This crisis is the perfect moment to reverse Brexit. Will Starmer finally seize it?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/TOWNS-starmer-EU.jpg)
 
-- **[Europe’s escape plan from Trump’s chaos machine](https://www.thenewworld.co.uk/paul-mason-europes-escape-plan-from-trumps-chaos-machine/)**
-  The continent needs to take the crucial step towards ending US global economic dominance. Here’s how to do it...
+- **[This crisis is the perfect moment to reverse Brexit. Will Starmer finally seize it?](https://www.thenewworld.co.uk/james-ball-this-crisis-is-the-perfect-moment-to-reverse-brexit-will-starmer-finally-seize-it/)**
+  The PM made a tepid speech on fall-out from Iran. But now has an opportunity to save Britain and himself...
 
-![Kazuo Shiraga, the Japanese artist who turned painting into violence](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/Great-Lives.jpg)
+![Why won’t young US celebrities speak out against Trump?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/477_BLEASDALE_NOKINGS.jpg)
 
-- **[Kazuo Shiraga, the Japanese artist who turned painting into violence](https://www.thenewworld.co.uk/john-osborne-kazuo-shiraga-the-japanese-artist-who-turned-painting-into-violence/)**
-  The abstract painter wanted to make art like he was ‘rushing through a battlefield’ – so he started using his feet as br...
+- **[Why won’t young US celebrities speak out against Trump?](https://www.thenewworld.co.uk/john-bleasdale-why-wont-young-us-celebrities-speak-out-against-trump/)**
+  The No Kings protests were heartening -  but they exposed an absence of younger stars willing to stand up...
 
-![Did Tommy Cooper’s fez really come from Morocco?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/477_TRUDGILL_FEZ.jpg)
+![So you want to have a child. Why?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/477_LAWLESS_SURROGACY.jpg)
 
-- **[Did Tommy Cooper’s fez really come from Morocco?](https://www.thenewworld.co.uk/peter-trudgill-did-tommy-coopers-fez-really-come-from-morocco/)**
-  The origin of the hat’s name comes from the location of berries used to dye its felt...
+- **[So you want to have a child. Why?](https://www.thenewworld.co.uk/tilly-lawless-so-you-want-to-have-a-child-why/)**
+  Paid surrogacy is banned in Australia. But the consequences for women in other, poorer nations are terrible, and that ra...
 
-![Dilettante: Loana Petrucciani and when famous women die](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/477_MARIE_LOANA.jpg)
+![Paul Marshall’s media empire reports more big losses](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/10/456_COVER_WEB.jpg)
 
-- **[Dilettante: Loana Petrucciani and when famous women die](https://www.thenewworld.co.uk/marie-le-conte-dilettante-when-famous-women-die/)**
-  A French reality TV star gained national attention by outraging the viewing public. What followed was tragedy...
+- **[Paul Marshall’s media empire reports more big losses](https://www.thenewworld.co.uk/rats-in-a-sack-paul-marshalls-media-empire-reports-more-big-losses/)**
+  The firms behind right wing outlets like GB News and the Spectator have recorded another round of large financial hits...
 
-![Alastair Campbell’s diary: How Jon Stewart told me the brutal truth about Trump and Hegseth](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/477_CAMPBELL_STEWART-1.jpg)
+![Why are Gen Z so ready to forgive Kanye West?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2085420484-e1775052350263.jpg)
 
-- **[Alastair Campbell’s diary: How Jon Stewart told me the brutal truth about Trump and Hegseth](https://www.thenewworld.co.uk/alastair-campbells-diary-how-jon-stewart-told-me-the-brutal-truth-about-trump-and-hegseth/)**
-  A tour of top podcasts featured savagings of Brexit – and the man baby in the White House...
+- **[Why are Gen Z so ready to forgive Kanye West?](https://www.thenewworld.co.uk/lucy-reade-why-are-gen-z-so-ready-to-forgive-kanye-west/)**
+  Calls for Ye’s London gigs to be cancelled over his racism and bigotry are causing a backlash on social media...
 
 ### 📰 Eurozine
+
+![Hungary leads the far-right charge on free speech](https://www.eurozine.com/wp-content/uploads/2026/04/Valasztas_2026_90-300x225.jpg)
+
+- **[Hungary leads the far-right charge on free speech](https://www.eurozine.com/hungary-leads-the-far-right-charge-on-free-speech/?utm_source=rss&utm_medium=rss&utm_campaign=hungary-leads-the-far-right-charge-on-free-speech)**
+  Hungary’s elections will be decisive for the future of the anti-EU pressure group MCC Brussels, the international arm of...
 
 ![Experiments](https://www.eurozine.com/wp-content/uploads/2026/03/Glanta_3_4_2025-300x225.jpg)
 
@@ -98,60 +103,70 @@ The post The...
 The pos...
   *关键词: philosophical*
 
-![Living with Class](https://philosophersmag.com/wp-content/uploads/2026/03/toffs_and_toughs-1024x774.jpg)
-
-- **[Living with Class](https://philosophersmag.com/living-with-class/)**
-  Hanno Sauer argues that we will have to learn how to live with class hierarchy.
-The post Living with Class first appeare...
-
 *📚 以上为近期内容*
 
 
 ## 🌍 美洲
 
+### 📰 3:AM Magazine
+
+![Hesitantly Surfing the Looming AI Tsunami (Part One)](https://www.3ammagazine.com/wp-content/uploads/2026/03/1765817729-900-640x1024.jpg)
+
+- **[Hesitantly Surfing the Looming AI Tsunami (Part One)](https://www.3ammagazine.com/3am/hesitantly-surfing-the-looming-ai-tsunami-part-one/)**
+  The truth is that Mars is a launchpad to nowhere. Rather than attempting to save the planet by investing funds into prog...
+
+### 📰 APA Blog
+
+- **[Gratitude, Belonging, and Philosophy](https://blog.apaonline.org/2026/04/01/gratitude-belonging-and-philosophy/)**
+  I came to philosophy somewhat by accident. I am from a bureaucratic, military-dominated area of Northern Virginia; almos...
+  *关键词: philosophy, seminar*
+
+![The Feminine as Structural Problem](https://i0.wp.com/blog.apaonline.org/wp-content/uploads/2018/03/Women-in-philosophy.png?resize=696%2C283&#038;ssl=1)
+
+- **[The Feminine as Structural Problem](https://blog.apaonline.org/2026/04/01/the-feminine-as-structural-problem/)**
+  Twelve years ago, I committed to a life in philosophy—knowing it meant poverty and prolonged adolescence. Years of it. M...
+  *关键词: philosophy*
+
+### 📰 Philosophy Now
+
+- **[Why Do People Hate Hypocrisy?](https://philosophynow.org/issues/173/Why_Do_People_Hate_Hypocrisy)**
+  Emrys Westacott argues that it’s not usually the hypocrisy itself that we hate....
+
+- **[The Mirror & the Flame](https://philosophynow.org/issues/173/The_Mirror_and_the_Flame)**
+  Rebwar Fatah imagines Attar’s & Hegel’s shared path....
+
+- **[Life Sacrifice](https://philosophynow.org/issues/173/Life_Sacrifice)**
+  Yossra Hamouda on the murder of compassion & the act of mass murder....
+
+- **[Islamic Law, Reform & Philosophy](https://philosophynow.org/issues/173/Islamic_Law_Reform_and_Philosophy)**
+  Oliver Leaman looks at philosophical problems related to basing law on religion....
+  *关键词: philosophy, philosophical*
+
+- **[The Prayer the Machine Cannot Pray](https://philosophynow.org/issues/173/The_Prayer_the_Machine_Cannot_Pray)**
+  Adnan Abbasi uses medieval metaphysics to understand modern AI....
+  *关键词: metaphysics*
+
+### 📰 Stanford Encyclopedia of Philosophy
+
+- **[Personalism](https://plato.stanford.edu/entries/personalism/)**
+  [Revised entry by Thomas D. Williams and Jan Olof Bengtsson on April 1, 2026. 
+Changes to: Main text, Bibliography]
+ Alt...
+  *关键词: logic, philosophical*
+
 ### 📰 Daily Nous
+
+![What Is a Practical Joke?](https://dailynous.com/wp-content/uploads/2026/04/practical-joke-examples.png)
+
+- **[What Is a Practical Joke?](https://dailynous.com/2026/04/01/what-is-a-practical-joke/)**
+  It&#8217;s April Fools Day&#8212;a day of jokey trickery, of practical jokes. Unlike in year&#8217;s past (2025, 2024, 2...
+  *关键词: philosophy, philosophical*
 
 ![QS 2026 “World University Rankings” in Philosophy](https://dailynous.com/wp-content/uploads/2026/03/phi-chart.png)
 
 - **[QS 2026 “World University Rankings” in Philosophy](https://dailynous.com/2026/04/01/qs-2026-world-university-rankings-in-philosophy/)**
   The 2026 “QS World University Rankings” have been published. These contain rankings by subject matter, including philoso...
   *关键词: philosophy, logic, philosophical*
-
-![Alan Musgrave 1940-2026](https://dailynous.com/wp-content/uploads/2026/03/musgrave-alan.jpg)
-
-- **[Alan Musgrave 1940-2026](https://dailynous.com/2026/03/31/alan-musgrave-1940-2026/)**
-  Alan Musgrave, professor emeritus of philosophy at the University of Otago, died this past January. The following obitua...
-  *关键词: philosophy, lecture, philosophy of science*
-
-![Radzik from Texas A&M to Binghamton](https://dailynous.com/wp-content/uploads/2026/03/radzik-linda.jpg)
-
-- **[Radzik from Texas A&M to Binghamton](https://dailynous.com/2026/03/31/radzik-from-texas-am-to-binghamton/)**
-  Linda Radzik, professor of philosophy at Texas A&#38;M University, will be moving to Binghamton University (SUNY). Radzi...
-  *关键词: philosophy, ethics, metaphysics*
-
-### 📰 APA Blog
-
-- **[The Risks of AI Recording Devices and Note-Taking Assistants in the Classroom](https://blog.apaonline.org/2026/03/31/the-risks-of-ai-recording-devices-and-note-taking-assistants-in-the-classroom/)**
-  Recently, US classrooms have dealt with several forms of authoritarian and dystopian policies, ranging from Texas A&#38;...
-
-### 📰 Stanford Encyclopedia of Philosophy
-
-- **[The Cyrenaics](https://plato.stanford.edu/entries/cyrenaics/)**
-  [New Entry by Voula Tsouna on March 31, 2026.]
- The Cyrenaics are one of the so-called Socratic schools, namely schools ...
-  *关键词: philosophical, scholar*
-
-- **[Abhidharma](https://plato.stanford.edu/entries/abhidharma/)**
-  [Revised entry by Noa Ronkin on March 31, 2026. 
-Changes to: Bibliography, notes.html]
- The first centuries after Śākyam...
-  *关键词: scholar*
-
-- **[The Ethics of Manipulation](https://plato.stanford.edu/entries/ethics-manipulation/)**
-  [Revised entry by Robert Noggle on March 31, 2026. 
-Changes to: Main text, Bibliography]
- Suppose that Tonya plans to do...
-  *关键词: ethics*
 
 ### 📰 The Partially Examined Life
 
@@ -176,20 +191,6 @@ Continuing on Hegel's...
 
 *📚 以上为近期内容*
 
-### 📰 3:AM Magazine
-
-![Lingering Quietly Beneath the Suface: An Interview with Rick Castro](https://www.3ammagazine.com/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-6.22.24-AM-1024x474.png)
-
-- **[Lingering Quietly Beneath the Suface: An Interview with Rick Castro](https://www.3ammagazine.com/3am/lingering-quietly-beneath-the-suface-an-interview-with-rick-castro/)**
-  A leatherman drove up on his Harley, took a quick survey of the exhibition, came up to me and said, “I’d like to purchas...
-
-![In Town, Earlier Than Usual](https://www.3ammagazine.com/wp-content/uploads/2021/12/reading-ch-2-lg.jpg)
-
-- **[In Town, Earlier Than Usual](https://www.3ammagazine.com/3am/in-town-earlier-than-usual/)**
-  The women wearing this style were carrying cups of coffee. They were hurrying and looked serious and hard-pressed, as th...
-
-*📚 以上为近期内容*
-
 
 ## 🌍 非洲
 
@@ -206,5 +207,5 @@ Continuing on Hegel's...
 
 ---
 
-*报告生成时间: 2026-04-01 03:05*  
+*报告生成时间: 2026-04-01 16:05*  
 *Atlas Intelligence System*
