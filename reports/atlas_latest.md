@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-03-31  
-**来源**: 全球 3 个地区 · 8 个信源
+**日期**: 2026-04-01  
+**来源**: 全球 2 个地区 · 5 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 21 条
+- **新增资讯**: 26 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -18,6 +18,8 @@
 
 - **[Wang Yangming’s two identity theses of heart-mind and principle](https://www.tandfonline.com/doi/full/10.1080/09552367.2026.2646602?af=R)**
   ....
+
+*📚 以上为近期内容*
 
 ### 📰 Dao Journal
 
@@ -33,6 +35,8 @@
   The truth thesis of virtue, widely adopted by Neo-Aristotelians, holds that virtue requires accurate beliefs about what ...
   *关键词: logic*
 
+*📚 以上为近期内容*
+
 ### 📰 Journal of Indian Philosophy
 
 - **[Hinduism, Leibniz, and Origin Essentialism](https://link.springer.com/article/10.1007/s10781-025-09630-x)**
@@ -46,37 +50,37 @@
 
 ### 📰 The New European
 
-![Modern comedians? They’re not funny, sniffs Julie Burchill](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-137299806-e1774961291185.jpg)
+![Europe’s escape plan from Trump’s chaos machine](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/477_MASON_SUBSTACK.jpg)
 
-- **[Modern comedians? They’re not funny, sniffs Julie Burchill](https://www.thenewworld.co.uk/rats-in-a-sack-modern-comedians-theyre-not-funny-sniffs-julie-burchill/)**
-  The Hip Young Gunslinger has completed her transformation to Reactionary Old Bore in her latest Spectator column...
+- **[Europe’s escape plan from Trump’s chaos machine](https://www.thenewworld.co.uk/paul-mason-europes-escape-plan-from-trumps-chaos-machine/)**
+  The continent needs to take the crucial step towards ending US global economic dominance. Here’s how to do it...
 
-![Pete Hegseth v The Pope](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2269222728-e1774962276183.jpg)
+![Kazuo Shiraga, the Japanese artist who turned painting into violence](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/Great-Lives.jpg)
 
-- **[Pete Hegseth v The Pope](https://www.thenewworld.co.uk/rats-in-a-sack-pete-hegseth-v-the-pope/)**
-  The thirsty US war secretary has angered the Pontiff with a blood-and-thunder prayer service over the Iran War...
+- **[Kazuo Shiraga, the Japanese artist who turned painting into violence](https://www.thenewworld.co.uk/john-osborne-kazuo-shiraga-the-japanese-artist-who-turned-painting-into-violence/)**
+  The abstract painter wanted to make art like he was ‘rushing through a battlefield’ – so he started using his feet as br...
 
-![Donald Trump gets an airport named after himself. And guess who might benefit financially?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2268489728-e1774962576500.jpg)
+![Did Tommy Cooper’s fez really come from Morocco?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/477_TRUDGILL_FEZ.jpg)
 
-- **[Donald Trump gets an airport named after himself. And guess who might benefit financially?](https://www.thenewworld.co.uk/rats-in-a-sack-donald-trump-gets-an-airport-named-after-himself-and-guess-who-might-benefit-financially/)**
-  Palm Beach International Airport is to be named after Trump just weeks after his intellectual property company trademark...
+- **[Did Tommy Cooper’s fez really come from Morocco?](https://www.thenewworld.co.uk/peter-trudgill-did-tommy-coopers-fez-really-come-from-morocco/)**
+  The origin of the hat’s name comes from the location of berries used to dye its felt...
 
-![OnlyFans and the new sexual arms race](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/477_READE_OF.jpg)
+![Dilettante: Loana Petrucciani and when famous women die](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/477_MARIE_LOANA.jpg)
 
-- **[OnlyFans and the new sexual arms race](https://www.thenewworld.co.uk/lucy-reade-onlyfans-and-the-new-sexual-arms-race/)**
-  People are being incentivised to do increasingly extreme things online to gain attention – and money. But this new cultu...
+- **[Dilettante: Loana Petrucciani and when famous women die](https://www.thenewworld.co.uk/marie-le-conte-dilettante-when-famous-women-die/)**
+  A French reality TV star gained national attention by outraging the viewing public. What followed was tragedy...
 
-![Will Nick Timothy be the next top Tory to defect to Reform?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-693974496-e1774962906409.jpg)
+![Alastair Campbell’s diary: How Jon Stewart told me the brutal truth about Trump and Hegseth](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/477_CAMPBELL_STEWART-1.jpg)
 
-- **[Will Nick Timothy be the next top Tory to defect to Reform?](https://www.thenewworld.co.uk/rats-in-a-sack-will-nick-timothy-be-the-next-top-tory-to-defect-to-reform/)**
-  The shadow justice secretary, only in Kemi Badenoch's team since January, is rumoured to be mulling a move to Nigel Fara...
+- **[Alastair Campbell’s diary: How Jon Stewart told me the brutal truth about Trump and Hegseth](https://www.thenewworld.co.uk/alastair-campbells-diary-how-jon-stewart-told-me-the-brutal-truth-about-trump-and-hegseth/)**
+  A tour of top podcasts featured savagings of Brexit – and the man baby in the White House...
 
 ### 📰 Eurozine
 
-![Another November: Queer Slovakia after 1989](https://www.eurozine.com/wp-content/uploads/2026/03/Duhovy_Pride_Bratislava_2010_05-300x200.jpg)
+![Experiments](https://www.eurozine.com/wp-content/uploads/2026/03/Glanta_3_4_2025-300x225.jpg)
 
-- **[Another November: Queer Slovakia after 1989](https://www.eurozine.com/another-november-queer-slovakia-after-1989/?utm_source=rss&utm_medium=rss&utm_campaign=another-november-queer-slovakia-after-1989)**
-  Stigmatized during socialism, LGTBQI+ people in Slovakia continued to face political and social adversity in the followi...
+- **[Experiments](https://www.eurozine.com/experiments/?utm_source=rss&utm_medium=rss&utm_campaign=experiments)**
+  Contrarian pleasures; the art of science; the parameters of the erotic; poetry as ongoing experiment....
 
 ### 📰 The Philosophers' Magazine
 
@@ -87,8 +91,43 @@
 The post The...
   *关键词: ethics*
 
+![The Problem with Everything](https://philosophersmag.com/wp-content/uploads/2026/03/Overfitting-1024x683.jpeg)
+
+- **[The Problem with Everything](https://philosophersmag.com/the-problem-with-everything/)**
+  Daniel Kodsi and John Maier argue that all battles in the culture wars depend on the same philosophical mistake.
+The pos...
+  *关键词: philosophical*
+
+![Living with Class](https://philosophersmag.com/wp-content/uploads/2026/03/toffs_and_toughs-1024x774.jpg)
+
+- **[Living with Class](https://philosophersmag.com/living-with-class/)**
+  Hanno Sauer argues that we will have to learn how to live with class hierarchy.
+The post Living with Class first appeare...
+
+*📚 以上为近期内容*
+
 
 ## 🌍 美洲
+
+### 📰 Daily Nous
+
+![QS 2026 “World University Rankings” in Philosophy](https://dailynous.com/wp-content/uploads/2026/03/phi-chart.png)
+
+- **[QS 2026 “World University Rankings” in Philosophy](https://dailynous.com/2026/04/01/qs-2026-world-university-rankings-in-philosophy/)**
+  The 2026 “QS World University Rankings” have been published. These contain rankings by subject matter, including philoso...
+  *关键词: philosophy, logic, philosophical*
+
+![Alan Musgrave 1940-2026](https://dailynous.com/wp-content/uploads/2026/03/musgrave-alan.jpg)
+
+- **[Alan Musgrave 1940-2026](https://dailynous.com/2026/03/31/alan-musgrave-1940-2026/)**
+  Alan Musgrave, professor emeritus of philosophy at the University of Otago, died this past January. The following obitua...
+  *关键词: philosophy, lecture, philosophy of science*
+
+![Radzik from Texas A&M to Binghamton](https://dailynous.com/wp-content/uploads/2026/03/radzik-linda.jpg)
+
+- **[Radzik from Texas A&M to Binghamton](https://dailynous.com/2026/03/31/radzik-from-texas-am-to-binghamton/)**
+  Linda Radzik, professor of philosophy at Texas A&#38;M University, will be moving to Binghamton University (SUNY). Radzi...
+  *关键词: philosophy, ethics, metaphysics*
 
 ### 📰 APA Blog
 
@@ -113,20 +152,6 @@ Changes to: Bibliography, notes.html]
 Changes to: Main text, Bibliography]
  Suppose that Tonya plans to do...
   *关键词: ethics*
-
-### 📰 Daily Nous
-
-![Alan Musgrave 1940-2026](https://dailynous.com/wp-content/uploads/2026/03/musgrave-alan.jpg)
-
-- **[Alan Musgrave 1940-2026](https://dailynous.com/2026/03/31/alan-musgrave-1940-2026/)**
-  Alan Musgrave, professor emeritus of philosophy at the University of Otago, died this past January. The following obitua...
-  *关键词: philosophy, lecture, philosophy of science*
-
-![Radzik from Texas A&M to Binghamton](https://dailynous.com/wp-content/uploads/2026/03/radzik-linda.jpg)
-
-- **[Radzik from Texas A&M to Binghamton](https://dailynous.com/2026/03/31/radzik-from-texas-am-to-binghamton/)**
-  Linda Radzik, professor of philosophy at Texas A&#38;M University, will be moving to Binghamton University (SUNY). Radzi...
-  *关键词: philosophy, ethics, metaphysics*
 
 ### 📰 The Partially Examined Life
 
@@ -181,5 +206,5 @@ Continuing on Hegel's...
 
 ---
 
-*报告生成时间: 2026-03-31 16:05*  
+*报告生成时间: 2026-04-01 03:05*  
 *Atlas Intelligence System*
