@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-04-01  
+**日期**: 2026-04-02  
 **来源**: 全球 2 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 35 条
+- **新增资讯**: 23 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -81,11 +81,6 @@
 
 - **[Hungary leads the far-right charge on free speech](https://www.eurozine.com/hungary-leads-the-far-right-charge-on-free-speech/?utm_source=rss&utm_medium=rss&utm_campaign=hungary-leads-the-far-right-charge-on-free-speech)**
   Hungary’s elections will be decisive for the future of the anti-EU pressure group MCC Brussels, the international arm of...
-
-![Experiments](https://www.eurozine.com/wp-content/uploads/2026/03/Glanta_3_4_2025-300x225.jpg)
-
-- **[Experiments](https://www.eurozine.com/experiments/?utm_source=rss&utm_medium=rss&utm_campaign=experiments)**
-  Contrarian pleasures; the art of science; the parameters of the erotic; poetry as ongoing experiment....
 
 ### 📰 The Philosophers' Magazine
 
@@ -162,12 +157,6 @@ Changes to: Main text, Bibliography]
   It&#8217;s April Fools Day&#8212;a day of jokey trickery, of practical jokes. Unlike in year&#8217;s past (2025, 2024, 2...
   *关键词: philosophy, philosophical*
 
-![QS 2026 “World University Rankings” in Philosophy](https://dailynous.com/wp-content/uploads/2026/03/phi-chart.png)
-
-- **[QS 2026 “World University Rankings” in Philosophy](https://dailynous.com/2026/04/01/qs-2026-world-university-rankings-in-philosophy/)**
-  The 2026 “QS World University Rankings” have been published. These contain rankings by subject matter, including philoso...
-  *关键词: philosophy, logic, philosophical*
-
 ### 📰 The Partially Examined Life
 
 ![Ep. 388: Hegel on Culture (Part One for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/Hegel-Genevieve-smaller-300x300.jpg)
@@ -199,13 +188,10 @@ Continuing on Hegel's...
 - **[Generative AI in Global Scientific Knowledge Production: Challenges and Prospects for Africa](https://codesria.org/generative-ai-in-global-scientific-knowledge-production-challenges-and-prospects-for-africa/)**
   CODESRIA Bulletin Online, No. 1, March 2026 by Jacob Jaygbay, Senior Content Developer, Cloud + AI, Microsoft, Virginia,...
 
-- **[Protected: Manuscripts MRI 2023-2024](https://codesria.org/manuscripts-mri-2023-2024/)**
-  There is no excerpt because this is a protected post....
-
 *📚 以上为近期内容*
 
 
 ---
 
-*报告生成时间: 2026-04-01 16:05*  
+*报告生成时间: 2026-04-02 03:05*  
 *Atlas Intelligence System*
