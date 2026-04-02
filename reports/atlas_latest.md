@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-04-02  
-**来源**: 全球 2 个地区 · 7 个信源
+**来源**: 全球 2 个地区 · 3 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 23 条
+- **新增资讯**: 7 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -50,30 +50,25 @@
 
 ### 📰 The New European
 
-![This crisis is the perfect moment to reverse Brexit. Will Starmer finally seize it?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/TOWNS-starmer-EU.jpg)
+![Warfare has already moved into space – you just haven’t realised it yet](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2269453122-e1775131264670.jpg)
 
-- **[This crisis is the perfect moment to reverse Brexit. Will Starmer finally seize it?](https://www.thenewworld.co.uk/james-ball-this-crisis-is-the-perfect-moment-to-reverse-brexit-will-starmer-finally-seize-it/)**
-  The PM made a tepid speech on fall-out from Iran. But now has an opportunity to save Britain and himself...
+- **[Warfare has already moved into space – you just haven’t realised it yet](https://www.thenewworld.co.uk/andy-owen-warfare-has-already-moved-into-space-you-just-havent-realised-it-yet/)**
+  When Putin invaded Ukraine, his assault began with an attack in space. And now, the Iran war is being overseen and manag...
 
-![Why won’t young US celebrities speak out against Trump?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/477_BLEASDALE_NOKINGS.jpg)
+![Have the Greens really forgotten about the environment?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/477_BARNES_GREENS.jpg)
 
-- **[Why won’t young US celebrities speak out against Trump?](https://www.thenewworld.co.uk/john-bleasdale-why-wont-young-us-celebrities-speak-out-against-trump/)**
-  The No Kings protests were heartening -  but they exposed an absence of younger stars willing to stand up...
+- **[Have the Greens really forgotten about the environment?](https://www.thenewworld.co.uk/simon-barnes-have-the-greens-really-forgotten-about-the-environment/)**
+  Their poll surge is partly down to Zack Polanski saying things Labour no longer does - but climate change and nature are...
 
-![So you want to have a child. Why?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/477_LAWLESS_SURROGACY.jpg)
+![The artist and the blind prophet on Europe’s frontier](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/17-Emilija-S%CC%8Ckarnulyte%CC%87-Tate-St-Ives-2025.-Courtesy-of-the-artist.-Photo-%C2%A9-Tate-Sonal-Bakrania-e1775129327191.jpg)
 
-- **[So you want to have a child. Why?](https://www.thenewworld.co.uk/tilly-lawless-so-you-want-to-have-a-child-why/)**
-  Paid surrogacy is banned in Australia. But the consequences for women in other, poorer nations are terrible, and that ra...
+- **[The artist and the blind prophet on Europe’s frontier](https://www.thenewworld.co.uk/susan-gray-the-artist-and-the-blind-prophet-on-europes-frontier/)**
+  Emilijia Skarnulyte’s work finds the beauty in painful history and the modern in myth...
 
-![Paul Marshall’s media empire reports more big losses](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/10/456_COVER_WEB.jpg)
+![The Brexit hardcore who still think it was right to leave](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2220165049-e1775148067113.jpg)
 
-- **[Paul Marshall’s media empire reports more big losses](https://www.thenewworld.co.uk/rats-in-a-sack-paul-marshalls-media-empire-reports-more-big-losses/)**
-  The firms behind right wing outlets like GB News and the Spectator have recorded another round of large financial hits...
-
-![Why are Gen Z so ready to forgive Kanye West?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2085420484-e1775052350263.jpg)
-
-- **[Why are Gen Z so ready to forgive Kanye West?](https://www.thenewworld.co.uk/lucy-reade-why-are-gen-z-so-ready-to-forgive-kanye-west/)**
-  Calls for Ye’s London gigs to be cancelled over his racism and bigotry are causing a backlash on social media...
+- **[The Brexit hardcore who still think it was right to leave](https://www.thenewworld.co.uk/matt-withers-the-brexit-hardcore-who-still-think-it-was-right-to-leave/)**
+  Believe it or not, they are still out there and still arguing that it was a tremendous success. What is wrong with them?...
 
 ### 📰 Eurozine
 
@@ -81,6 +76,18 @@
 
 - **[Hungary leads the far-right charge on free speech](https://www.eurozine.com/hungary-leads-the-far-right-charge-on-free-speech/?utm_source=rss&utm_medium=rss&utm_campaign=hungary-leads-the-far-right-charge-on-free-speech)**
   Hungary’s elections will be decisive for the future of the anti-EU pressure group MCC Brussels, the international arm of...
+
+![Experiments](https://www.eurozine.com/wp-content/uploads/2026/03/Glanta_3_4_2025-300x225.jpg)
+
+- **[Experiments](https://www.eurozine.com/experiments/?utm_source=rss&utm_medium=rss&utm_campaign=experiments)**
+  Contrarian pleasures; the art of science; the parameters of the erotic; poetry as ongoing experiment....
+
+![Another November: Queer Slovakia after 1989](https://www.eurozine.com/wp-content/uploads/2026/03/Duhovy_Pride_Bratislava_2010_05-300x200.jpg)
+
+- **[Another November: Queer Slovakia after 1989](https://www.eurozine.com/another-november-queer-slovakia-after-1989/?utm_source=rss&utm_medium=rss&utm_campaign=another-november-queer-slovakia-after-1989)**
+  Stigmatized during socialism, LGTBQI+ people in Slovakia continued to face political and social adversity in the followi...
+
+*📚 以上为近期内容*
 
 ### 📰 The Philosophers' Magazine
 
@@ -103,12 +110,44 @@ The pos...
 
 ## 🌍 美洲
 
+### 📰 Experimental Philosophy
+
+- **[Talk: “Philosophical Thought Experiments Elicit Conflicting Intuitions” (Joshua Knobe and Ivar Hannikainen)](https://xphi.net/2026/04/02/talk-philosophical-thought-experiments-elicit-conflicting-intuitions-joshua-knobe-and-ivar-hannikainen/)**
+  As part of the Experimental Philosophy Talk Series, Joshua Knobe and Ivar Hannikainen will give a talk titled “Philosoph...
+  *关键词: philosophy, philosophical*
+
+### 📰 Daily Nous
+
+![Trans-Exclusionary Philosopher Seeks to Exclude Trans Philosopher](https://dailynous.com/wp-content/uploads/2026/04/thornton-soil-resting-halt.jpg)
+
+- **[Trans-Exclusionary Philosopher Seeks to Exclude Trans Philosopher](https://dailynous.com/2026/04/02/trans-exclusionary-philosopher-seeks-to-exclude-trans-philosopher/)**
+  Jonathan Pike, a professor of philosophy at Open University who defends trans-exclusionary (aka &#8220;gender critical&#...
+  *关键词: philosophy, logic, philosophical*
+
+![Philosophy: More Empirical Than Ever](https://dailynous.com/wp-content/uploads/2026/04/prinzing-empirical-sources-in-philosophy.png)
+
+- **[Philosophy: More Empirical Than Ever](https://dailynous.com/2026/04/02/philosophy-more-empirical-than-ever/)**
+  &#8220;In the early 1970s, fewer than 10% of articles cited any empirical sources. However, by the 2020s, this grew to o...
+  *关键词: philosophy, debate, philosophical*
+
 ### 📰 3:AM Magazine
 
 ![Hesitantly Surfing the Looming AI Tsunami (Part One)](https://www.3ammagazine.com/wp-content/uploads/2026/03/1765817729-900-640x1024.jpg)
 
 - **[Hesitantly Surfing the Looming AI Tsunami (Part One)](https://www.3ammagazine.com/3am/hesitantly-surfing-the-looming-ai-tsunami-part-one/)**
   The truth is that Mars is a launchpad to nowhere. Rather than attempting to save the planet by investing funds into prog...
+
+![Lingering Quietly Beneath the Suface: An Interview with Rick Castro](https://www.3ammagazine.com/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-6.22.24-AM-1024x474.png)
+
+- **[Lingering Quietly Beneath the Suface: An Interview with Rick Castro](https://www.3ammagazine.com/3am/lingering-quietly-beneath-the-suface-an-interview-with-rick-castro/)**
+  A leatherman drove up on his Harley, took a quick survey of the exhibition, came up to me and said, “I’d like to purchas...
+
+![In Town, Earlier Than Usual](https://www.3ammagazine.com/wp-content/uploads/2021/12/reading-ch-2-lg.jpg)
+
+- **[In Town, Earlier Than Usual](https://www.3ammagazine.com/3am/in-town-earlier-than-usual/)**
+  The women wearing this style were carrying cups of coffee. They were hurrying and looked serious and hard-pressed, as th...
+
+*📚 以上为近期内容*
 
 ### 📰 APA Blog
 
@@ -122,6 +161,11 @@ The pos...
   Twelve years ago, I committed to a life in philosophy—knowing it meant poverty and prolonged adolescence. Years of it. M...
   *关键词: philosophy*
 
+- **[The Risks of AI Recording Devices and Note-Taking Assistants in the Classroom](https://blog.apaonline.org/2026/03/31/the-risks-of-ai-recording-devices-and-note-taking-assistants-in-the-classroom/)**
+  Recently, US classrooms have dealt with several forms of authoritarian and dystopian policies, ranging from Texas A&#38;...
+
+*📚 以上为近期内容*
+
 ### 📰 Philosophy Now
 
 - **[Why Do People Hate Hypocrisy?](https://philosophynow.org/issues/173/Why_Do_People_Hate_Hypocrisy)**
@@ -133,13 +177,7 @@ The pos...
 - **[Life Sacrifice](https://philosophynow.org/issues/173/Life_Sacrifice)**
   Yossra Hamouda on the murder of compassion & the act of mass murder....
 
-- **[Islamic Law, Reform & Philosophy](https://philosophynow.org/issues/173/Islamic_Law_Reform_and_Philosophy)**
-  Oliver Leaman looks at philosophical problems related to basing law on religion....
-  *关键词: philosophy, philosophical*
-
-- **[The Prayer the Machine Cannot Pray](https://philosophynow.org/issues/173/The_Prayer_the_Machine_Cannot_Pray)**
-  Adnan Abbasi uses medieval metaphysics to understand modern AI....
-  *关键词: metaphysics*
+*📚 以上为近期内容*
 
 ### 📰 Stanford Encyclopedia of Philosophy
 
@@ -149,13 +187,18 @@ Changes to: Main text, Bibliography]
  Alt...
   *关键词: logic, philosophical*
 
-### 📰 Daily Nous
+- **[The Cyrenaics](https://plato.stanford.edu/entries/cyrenaics/)**
+  [New Entry by Voula Tsouna on March 31, 2026.]
+ The Cyrenaics are one of the so-called Socratic schools, namely schools ...
+  *关键词: philosophical, scholar*
 
-![What Is a Practical Joke?](https://dailynous.com/wp-content/uploads/2026/04/practical-joke-examples.png)
+- **[Abhidharma](https://plato.stanford.edu/entries/abhidharma/)**
+  [Revised entry by Noa Ronkin on March 31, 2026. 
+Changes to: Bibliography, notes.html]
+ The first centuries after Śākyam...
+  *关键词: scholar*
 
-- **[What Is a Practical Joke?](https://dailynous.com/2026/04/01/what-is-a-practical-joke/)**
-  It&#8217;s April Fools Day&#8212;a day of jokey trickery, of practical jokes. Unlike in year&#8217;s past (2025, 2024, 2...
-  *关键词: philosophy, philosophical*
+*📚 以上为近期内容*
 
 ### 📰 The Partially Examined Life
 
@@ -193,5 +236,5 @@ Continuing on Hegel's...
 
 ---
 
-*报告生成时间: 2026-04-02 03:05*  
+*报告生成时间: 2026-04-02 16:05*  
 *Atlas Intelligence System*
