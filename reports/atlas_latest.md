@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-04-02  
-**来源**: 全球 2 个地区 · 3 个信源
+**日期**: 2026-04-03  
+**来源**: 全球 2 个地区 · 4 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 7 条
+- **新增资讯**: 9 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -110,13 +110,19 @@ The pos...
 
 ## 🌍 美洲
 
-### 📰 Experimental Philosophy
+### 📰 APA Blog
 
-- **[Talk: “Philosophical Thought Experiments Elicit Conflicting Intuitions” (Joshua Knobe and Ivar Hannikainen)](https://xphi.net/2026/04/02/talk-philosophical-thought-experiments-elicit-conflicting-intuitions-joshua-knobe-and-ivar-hannikainen/)**
-  As part of the Experimental Philosophy Talk Series, Joshua Knobe and Ivar Hannikainen will give a talk titled “Philosoph...
-  *关键词: philosophy, philosophical*
+- **[Using the Absurd: How Erasmus Challenges His Students](https://blog.apaonline.org/2026/04/02/using-the-absurd-how-erasmus-challenges-his-students/)**
+  The Dutch humanist Desiderius Erasmus, more often called Erasmus of Rotterdam, is well known for his satirical Praise of...
+  *关键词: logic*
 
 ### 📰 Daily Nous
+
+![Charles E. Scott (1935-2026)](https://dailynous.com/wp-content/uploads/2026/04/scott-charles.jpeg)
+
+- **[Charles E. Scott (1935-2026)](https://dailynous.com/2026/04/03/charles-e-scott-1935-2026/)**
+  Charles E. Scott, Distinguished Professor of Philosophy and Research Professor of Philosophy Emeritus at Vanderbilt Univ...
+  *关键词: philosophy, ethics, continental philosophy*
 
 ![Trans-Exclusionary Philosopher Seeks to Exclude Trans Philosopher](https://dailynous.com/wp-content/uploads/2026/04/thornton-soil-resting-halt.jpg)
 
@@ -129,6 +135,12 @@ The pos...
 - **[Philosophy: More Empirical Than Ever](https://dailynous.com/2026/04/02/philosophy-more-empirical-than-ever/)**
   &#8220;In the early 1970s, fewer than 10% of articles cited any empirical sources. However, by the 2020s, this grew to o...
   *关键词: philosophy, debate, philosophical*
+
+### 📰 Experimental Philosophy
+
+- **[Talk: “Philosophical Thought Experiments Elicit Conflicting Intuitions” (Joshua Knobe and Ivar Hannikainen)](https://xphi.net/2026/04/02/talk-philosophical-thought-experiments-elicit-conflicting-intuitions-joshua-knobe-and-ivar-hannikainen/)**
+  As part of the Experimental Philosophy Talk Series, Joshua Knobe and Ivar Hannikainen will give a talk titled “Philosoph...
+  *关键词: philosophy, philosophical*
 
 ### 📰 3:AM Magazine
 
@@ -146,23 +158,6 @@ The pos...
 
 - **[In Town, Earlier Than Usual](https://www.3ammagazine.com/3am/in-town-earlier-than-usual/)**
   The women wearing this style were carrying cups of coffee. They were hurrying and looked serious and hard-pressed, as th...
-
-*📚 以上为近期内容*
-
-### 📰 APA Blog
-
-- **[Gratitude, Belonging, and Philosophy](https://blog.apaonline.org/2026/04/01/gratitude-belonging-and-philosophy/)**
-  I came to philosophy somewhat by accident. I am from a bureaucratic, military-dominated area of Northern Virginia; almos...
-  *关键词: philosophy, seminar*
-
-![The Feminine as Structural Problem](https://i0.wp.com/blog.apaonline.org/wp-content/uploads/2018/03/Women-in-philosophy.png?resize=696%2C283&#038;ssl=1)
-
-- **[The Feminine as Structural Problem](https://blog.apaonline.org/2026/04/01/the-feminine-as-structural-problem/)**
-  Twelve years ago, I committed to a life in philosophy—knowing it meant poverty and prolonged adolescence. Years of it. M...
-  *关键词: philosophy*
-
-- **[The Risks of AI Recording Devices and Note-Taking Assistants in the Classroom](https://blog.apaonline.org/2026/03/31/the-risks-of-ai-recording-devices-and-note-taking-assistants-in-the-classroom/)**
-  Recently, US classrooms have dealt with several forms of authoritarian and dystopian policies, ranging from Texas A&#38;...
 
 *📚 以上为近期内容*
 
@@ -236,5 +231,5 @@ Continuing on Hegel's...
 
 ---
 
-*报告生成时间: 2026-04-02 16:05*  
+*报告生成时间: 2026-04-03 03:05*  
 *Atlas Intelligence System*
