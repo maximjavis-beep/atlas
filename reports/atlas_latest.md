@@ -1,7 +1,7 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-04-03  
-**来源**: 全球 2 个地区 · 4 个信源
+**来源**: 全球 2 个地区 · 3 个信源
 
 ---
 
@@ -50,25 +50,30 @@
 
 ### 📰 The New European
 
-![Warfare has already moved into space – you just haven’t realised it yet](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2269453122-e1775131264670.jpg)
+![Who will be left to clear up Iran when Trump goes home?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_LORD_IRAN.jpg)
 
-- **[Warfare has already moved into space – you just haven’t realised it yet](https://www.thenewworld.co.uk/andy-owen-warfare-has-already-moved-into-space-you-just-havent-realised-it-yet/)**
-  When Putin invaded Ukraine, his assault began with an attack in space. And now, the Iran war is being overseen and manag...
+- **[Who will be left to clear up Iran when Trump goes home?](https://www.thenewworld.co.uk/christopher-lord-who-will-be-left-to-clear-up-iran-when-trump-goes-home/)**
+  The contenders to run the country once bombing stops are divided and discredited - and civil war looks a distinct possib...
 
-![Have the Greens really forgotten about the environment?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/477_BARNES_GREENS.jpg)
+![The Grenfell sacking that’s opened up a rift between Farage and Tice](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/10/GettyImages-2236859964-e1760115097326.jpg)
 
-- **[Have the Greens really forgotten about the environment?](https://www.thenewworld.co.uk/simon-barnes-have-the-greens-really-forgotten-about-the-environment/)**
-  Their poll surge is partly down to Zack Polanski saying things Labour no longer does - but climate change and nature are...
+- **[The Grenfell sacking that’s opened up a rift between Farage and Tice](https://www.thenewworld.co.uk/rats-in-a-sack-the-grenfell-sacking-thats-opened-up-a-rift-between-farage-and-tice/)**
+  Reform deputy leader’s star has fallen even further after aide’s ‘everyone dies in the end’ gaffe...
 
-![The artist and the blind prophet on Europe’s frontier](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/17-Emilija-S%CC%8Ckarnulyte%CC%87-Tate-St-Ives-2025.-Courtesy-of-the-artist.-Photo-%C2%A9-Tate-Sonal-Bakrania-e1775129327191.jpg)
+![Whatever happened to the great film comedy?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_BLEASDALE_COMEDY.jpg)
 
-- **[The artist and the blind prophet on Europe’s frontier](https://www.thenewworld.co.uk/susan-gray-the-artist-and-the-blind-prophet-on-europes-frontier/)**
-  Emilijia Skarnulyte’s work finds the beauty in painful history and the modern in myth...
+- **[Whatever happened to the great film comedy?](https://www.thenewworld.co.uk/john-bleasdale-whatever-happened-to-the-great-film-comedy/)**
+  Movies intended to make you scream with fright are everywhere. Ones to make you scream with laughter, not so much...
 
-![The Brexit hardcore who still think it was right to leave](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2220165049-e1775148067113.jpg)
+![13 Trump administration excuses to look out for after the 2028 election](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_ELWES_EXCUSES.jpg)
 
-- **[The Brexit hardcore who still think it was right to leave](https://www.thenewworld.co.uk/matt-withers-the-brexit-hardcore-who-still-think-it-was-right-to-leave/)**
-  Believe it or not, they are still out there and still arguing that it was a tremendous success. What is wrong with them?...
+- **[13 Trump administration excuses to look out for after the 2028 election](https://www.thenewworld.co.uk/jay-elwes-13-trump-administration-excuses-to-look-out-for-after-the-2028-election/)**
+  One day, everyone will have been against this. And when the great post-Trump ass-covering begins, here’s what the senior...
+
+![The most contradictory identity in America](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_MARIE_PERSJEWS.jpg)
+
+- **[The most contradictory identity in America](https://www.thenewworld.co.uk/marie-le-conte-the-most-contradictory-identity-in-america/)**
+  The Iranian Jews of New York City arrived in the 1970s and now face a war in which three places they could call home are...
 
 ### 📰 Eurozine
 
@@ -112,6 +117,10 @@ The pos...
 
 ### 📰 APA Blog
 
+- **[APA Member Interview, Chloe W. Chang](https://blog.apaonline.org/2026/04/03/apa-member-interview-chloe-w-chang/)**
+  Chloe Wanghuige Chang was a manager in the business and fashion industry, but always felt that something was missing in ...
+  *关键词: philosophy*
+
 - **[Using the Absurd: How Erasmus Challenges His Students](https://blog.apaonline.org/2026/04/02/using-the-absurd-how-erasmus-challenges-his-students/)**
   The Dutch humanist Desiderius Erasmus, more often called Erasmus of Rotterdam, is well known for his satirical Praise of...
   *关键词: logic*
@@ -124,23 +133,13 @@ The pos...
   Charles E. Scott, Distinguished Professor of Philosophy and Research Professor of Philosophy Emeritus at Vanderbilt Univ...
   *关键词: philosophy, ethics, continental philosophy*
 
-![Trans-Exclusionary Philosopher Seeks to Exclude Trans Philosopher](https://dailynous.com/wp-content/uploads/2026/04/thornton-soil-resting-halt.jpg)
-
-- **[Trans-Exclusionary Philosopher Seeks to Exclude Trans Philosopher](https://dailynous.com/2026/04/02/trans-exclusionary-philosopher-seeks-to-exclude-trans-philosopher/)**
-  Jonathan Pike, a professor of philosophy at Open University who defends trans-exclusionary (aka &#8220;gender critical&#...
-  *关键词: philosophy, logic, philosophical*
-
-![Philosophy: More Empirical Than Ever](https://dailynous.com/wp-content/uploads/2026/04/prinzing-empirical-sources-in-philosophy.png)
-
-- **[Philosophy: More Empirical Than Ever](https://dailynous.com/2026/04/02/philosophy-more-empirical-than-ever/)**
-  &#8220;In the early 1970s, fewer than 10% of articles cited any empirical sources. However, by the 2020s, this grew to o...
-  *关键词: philosophy, debate, philosophical*
-
 ### 📰 Experimental Philosophy
 
 - **[Talk: “Philosophical Thought Experiments Elicit Conflicting Intuitions” (Joshua Knobe and Ivar Hannikainen)](https://xphi.net/2026/04/02/talk-philosophical-thought-experiments-elicit-conflicting-intuitions-joshua-knobe-and-ivar-hannikainen/)**
   As part of the Experimental Philosophy Talk Series, Joshua Knobe and Ivar Hannikainen will give a talk titled “Philosoph...
   *关键词: philosophy, philosophical*
+
+*📚 以上为近期内容*
 
 ### 📰 3:AM Magazine
 
@@ -148,16 +147,6 @@ The pos...
 
 - **[Hesitantly Surfing the Looming AI Tsunami (Part One)](https://www.3ammagazine.com/3am/hesitantly-surfing-the-looming-ai-tsunami-part-one/)**
   The truth is that Mars is a launchpad to nowhere. Rather than attempting to save the planet by investing funds into prog...
-
-![Lingering Quietly Beneath the Suface: An Interview with Rick Castro](https://www.3ammagazine.com/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-6.22.24-AM-1024x474.png)
-
-- **[Lingering Quietly Beneath the Suface: An Interview with Rick Castro](https://www.3ammagazine.com/3am/lingering-quietly-beneath-the-suface-an-interview-with-rick-castro/)**
-  A leatherman drove up on his Harley, took a quick survey of the exhibition, came up to me and said, “I’d like to purchas...
-
-![In Town, Earlier Than Usual](https://www.3ammagazine.com/wp-content/uploads/2021/12/reading-ch-2-lg.jpg)
-
-- **[In Town, Earlier Than Usual](https://www.3ammagazine.com/3am/in-town-earlier-than-usual/)**
-  The women wearing this style were carrying cups of coffee. They were hurrying and looked serious and hard-pressed, as th...
 
 *📚 以上为近期内容*
 
@@ -231,5 +220,5 @@ Continuing on Hegel's...
 
 ---
 
-*报告生成时间: 2026-04-03 03:05*  
+*报告生成时间: 2026-04-03 16:05*  
 *Atlas Intelligence System*
