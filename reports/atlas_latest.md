@@ -1,6 +1,6 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-04-03  
+**日期**: 2026-04-04  
 **来源**: 全球 2 个地区 · 3 个信源
 
 ---
@@ -50,6 +50,11 @@
 
 ### 📰 The New European
 
+![Matthew d’Ancona’s culture: Welcome back to Gilead: The Testaments is a triumph](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/61624eee-de87-bac2-1334-a273a0c3d859.jpeg)
+
+- **[Matthew d’Ancona’s culture: Welcome back to Gilead: The Testaments is a triumph](https://www.thenewworld.co.uk/matthew-danconas-culture-welcome-back-to-gilead-the-testaments-is-a-triumph/)**
+  Violence and cruelty lurk at the lavishly appointed finishing school for daughters of the patriarchal regime...
+
 ![Who will be left to clear up Iran when Trump goes home?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_LORD_IRAN.jpg)
 
 - **[Who will be left to clear up Iran when Trump goes home?](https://www.thenewworld.co.uk/christopher-lord-who-will-be-left-to-clear-up-iran-when-trump-goes-home/)**
@@ -69,11 +74,6 @@
 
 - **[13 Trump administration excuses to look out for after the 2028 election](https://www.thenewworld.co.uk/jay-elwes-13-trump-administration-excuses-to-look-out-for-after-the-2028-election/)**
   One day, everyone will have been against this. And when the great post-Trump ass-covering begins, here’s what the senior...
-
-![The most contradictory identity in America](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_MARIE_PERSJEWS.jpg)
-
-- **[The most contradictory identity in America](https://www.thenewworld.co.uk/marie-le-conte-the-most-contradictory-identity-in-america/)**
-  The Iranian Jews of New York City arrived in the 1970s and now face a war in which three places they could call home are...
 
 ### 📰 Eurozine
 
@@ -115,15 +115,17 @@ The pos...
 
 ## 🌍 美洲
 
+### 📰 Experimental Philosophy
+
+- **[Call: “Measuring the Mind”](https://xphi.net/2026/04/04/call-measuring-the-mind/)**
+  Daniela Nica and Sandra Branzaru organize a hybrid workshop on “Measuring the Mind – Conceptual Issues in Psychology, Ps...
+  *关键词: workshop*
+
 ### 📰 APA Blog
 
 - **[APA Member Interview, Chloe W. Chang](https://blog.apaonline.org/2026/04/03/apa-member-interview-chloe-w-chang/)**
   Chloe Wanghuige Chang was a manager in the business and fashion industry, but always felt that something was missing in ...
   *关键词: philosophy*
-
-- **[Using the Absurd: How Erasmus Challenges His Students](https://blog.apaonline.org/2026/04/02/using-the-absurd-how-erasmus-challenges-his-students/)**
-  The Dutch humanist Desiderius Erasmus, more often called Erasmus of Rotterdam, is well known for his satirical Praise of...
-  *关键词: logic*
 
 ### 📰 Daily Nous
 
@@ -133,11 +135,17 @@ The pos...
   Charles E. Scott, Distinguished Professor of Philosophy and Research Professor of Philosophy Emeritus at Vanderbilt Univ...
   *关键词: philosophy, ethics, continental philosophy*
 
-### 📰 Experimental Philosophy
+![Trans-Exclusionary Philosopher Seeks to Exclude Trans Philosopher](https://dailynous.com/wp-content/uploads/2026/04/thornton-soil-resting-halt.jpg)
 
-- **[Talk: “Philosophical Thought Experiments Elicit Conflicting Intuitions” (Joshua Knobe and Ivar Hannikainen)](https://xphi.net/2026/04/02/talk-philosophical-thought-experiments-elicit-conflicting-intuitions-joshua-knobe-and-ivar-hannikainen/)**
-  As part of the Experimental Philosophy Talk Series, Joshua Knobe and Ivar Hannikainen will give a talk titled “Philosoph...
-  *关键词: philosophy, philosophical*
+- **[Trans-Exclusionary Philosopher Seeks to Exclude Trans Philosopher](https://dailynous.com/2026/04/02/trans-exclusionary-philosopher-seeks-to-exclude-trans-philosopher/)**
+  Jonathan Pike, a professor of philosophy at Open University who defends trans-exclusionary (aka &#8220;gender critical&#...
+  *关键词: philosophy, logic, philosophical*
+
+![Philosophy: More Empirical Than Ever](https://dailynous.com/wp-content/uploads/2026/04/prinzing-empirical-sources-in-philosophy.png)
+
+- **[Philosophy: More Empirical Than Ever](https://dailynous.com/2026/04/02/philosophy-more-empirical-than-ever/)**
+  &#8220;In the early 1970s, fewer than 10% of articles cited any empirical sources. However, by the 2020s, this grew to o...
+  *关键词: philosophy, debate, philosophical*
 
 *📚 以上为近期内容*
 
@@ -220,5 +228,5 @@ Continuing on Hegel's...
 
 ---
 
-*报告生成时间: 2026-04-03 16:05*  
+*报告生成时间: 2026-04-04 03:05*  
 *Atlas Intelligence System*
