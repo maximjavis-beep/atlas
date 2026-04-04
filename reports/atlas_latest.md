@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 9 条
+- **新增资讯**: 7 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -48,32 +48,28 @@
 
 ## 🌍 欧洲
 
+### 📰 The Philosophers' Magazine
+
+![Hyperintensionality: For or Against? Part I](https://philosophersmag.com/wp-content/uploads/2026/04/furze-gorse.png)
+
+- **[Hyperintensionality: For or Against? Part I](https://philosophersmag.com/hyperintensionality-for-or-against-part-i/)**
+  Kit Fine and Timothy Williamson debate the nature and existence of hyperintensionality (Part I).
+The post Hyperintension...
+  *关键词: debate*
+
+![Hyperintensionality: For or Against? Part II](https://philosophersmag.com/wp-content/uploads/2026/04/furze-gorse.png)
+
+- **[Hyperintensionality: For or Against? Part II](https://philosophersmag.com/hyperintensionality-for-or-against-part-ii/)**
+  Kit Fine and Timothy Williamson debate the nature and existence of hyperintensionality (Part II).
+The post Hyperintensio...
+  *关键词: debate*
+
 ### 📰 The New European
 
 ![Matthew d’Ancona’s culture: Welcome back to Gilead: The Testaments is a triumph](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/61624eee-de87-bac2-1334-a273a0c3d859.jpeg)
 
 - **[Matthew d’Ancona’s culture: Welcome back to Gilead: The Testaments is a triumph](https://www.thenewworld.co.uk/matthew-danconas-culture-welcome-back-to-gilead-the-testaments-is-a-triumph/)**
   Violence and cruelty lurk at the lavishly appointed finishing school for daughters of the patriarchal regime...
-
-![Who will be left to clear up Iran when Trump goes home?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_LORD_IRAN.jpg)
-
-- **[Who will be left to clear up Iran when Trump goes home?](https://www.thenewworld.co.uk/christopher-lord-who-will-be-left-to-clear-up-iran-when-trump-goes-home/)**
-  The contenders to run the country once bombing stops are divided and discredited - and civil war looks a distinct possib...
-
-![The Grenfell sacking that’s opened up a rift between Farage and Tice](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/10/GettyImages-2236859964-e1760115097326.jpg)
-
-- **[The Grenfell sacking that’s opened up a rift between Farage and Tice](https://www.thenewworld.co.uk/rats-in-a-sack-the-grenfell-sacking-thats-opened-up-a-rift-between-farage-and-tice/)**
-  Reform deputy leader’s star has fallen even further after aide’s ‘everyone dies in the end’ gaffe...
-
-![Whatever happened to the great film comedy?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_BLEASDALE_COMEDY.jpg)
-
-- **[Whatever happened to the great film comedy?](https://www.thenewworld.co.uk/john-bleasdale-whatever-happened-to-the-great-film-comedy/)**
-  Movies intended to make you scream with fright are everywhere. Ones to make you scream with laughter, not so much...
-
-![13 Trump administration excuses to look out for after the 2028 election](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_ELWES_EXCUSES.jpg)
-
-- **[13 Trump administration excuses to look out for after the 2028 election](https://www.thenewworld.co.uk/jay-elwes-13-trump-administration-excuses-to-look-out-for-after-the-2028-election/)**
-  One day, everyone will have been against this. And when the great post-Trump ass-covering begins, here’s what the senior...
 
 ### 📰 Eurozine
 
@@ -94,28 +90,22 @@
 
 *📚 以上为近期内容*
 
-### 📰 The Philosophers' Magazine
-
-![The Ethics of Sex Verification](https://philosophersmag.com/wp-content/uploads/2026/03/Green_circles-1024x683.png)
-
-- **[The Ethics of Sex Verification](https://philosophersmag.com/the-ethics-of-sex-verification/)**
-  Miroslav Imbrišević and Jon Pike argue that it is justified to treat different cases differently in sports.
-The post The...
-  *关键词: ethics*
-
-![The Problem with Everything](https://philosophersmag.com/wp-content/uploads/2026/03/Overfitting-1024x683.jpeg)
-
-- **[The Problem with Everything](https://philosophersmag.com/the-problem-with-everything/)**
-  Daniel Kodsi and John Maier argue that all battles in the culture wars depend on the same philosophical mistake.
-The pos...
-  *关键词: philosophical*
-
-*📚 以上为近期内容*
-
 
 ## 🌍 美洲
 
 ### 📰 Experimental Philosophy
+
+- **[Talk: “I wasn’t thinking about that!” (Franz Berto and Aybüke Özgün)](https://xphi.net/2026/04/04/talk-i-wasnt-thinking-about-that-franz-berto-and-aybuke-ozgun/)**
+  On April 15, 16:00–18:00 UTC (18:00–20:00 CEST), Franz Berto and Aybüke Özgün will give a talk titled “I wasn’t thinking...
+  *关键词: philosophy, seminar*
+
+- **[Conference: “Social Ontology and Empirical Inquiry”](https://xphi.net/2026/04/04/conference-social-ontology-and-empirical-inquiry/)**
+  From April 11 to 12, 2026, the conference “Social Ontology and Empirical Inquiry – Conflicts and Connections” will take ...
+  *关键词: conference*
+
+- **[Call: “Artificial Life as Experimental Philosophy”](https://xphi.net/2026/04/04/call-artificial-life-as-experimental-philosophy/)**
+  Ben Gaskin and Simon McGregor organize a special session of The 2026 Artificial Life Conference titled “Artificial Life ...
+  *关键词: philosophy, conference, philosophical*
 
 - **[Call: “Measuring the Mind”](https://xphi.net/2026/04/04/call-measuring-the-mind/)**
   Daniela Nica and Sandra Branzaru organize a hybrid workshop on “Measuring the Mind – Conceptual Issues in Psychology, Ps...
@@ -126,6 +116,16 @@ The pos...
 - **[APA Member Interview, Chloe W. Chang](https://blog.apaonline.org/2026/04/03/apa-member-interview-chloe-w-chang/)**
   Chloe Wanghuige Chang was a manager in the business and fashion industry, but always felt that something was missing in ...
   *关键词: philosophy*
+
+- **[Using the Absurd: How Erasmus Challenges His Students](https://blog.apaonline.org/2026/04/02/using-the-absurd-how-erasmus-challenges-his-students/)**
+  The Dutch humanist Desiderius Erasmus, more often called Erasmus of Rotterdam, is well known for his satirical Praise of...
+  *关键词: logic*
+
+- **[Gratitude, Belonging, and Philosophy](https://blog.apaonline.org/2026/04/01/gratitude-belonging-and-philosophy/)**
+  I came to philosophy somewhat by accident. I am from a bureaucratic, military-dominated area of Northern Virginia; almos...
+  *关键词: philosophy, seminar*
+
+*📚 以上为近期内容*
 
 ### 📰 Daily Nous
 
@@ -228,5 +228,5 @@ Continuing on Hegel's...
 
 ---
 
-*报告生成时间: 2026-04-04 03:05*  
+*报告生成时间: 2026-04-04 16:05*  
 *Atlas Intelligence System*
