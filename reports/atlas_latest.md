@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-04-04  
-**来源**: 全球 2 个地区 · 3 个信源
+**日期**: 2026-04-05  
+**来源**: 全球 2 个地区 · 2 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 7 条
+- **新增资讯**: 5 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -71,6 +71,18 @@ The post Hyperintensio...
 - **[Matthew d’Ancona’s culture: Welcome back to Gilead: The Testaments is a triumph](https://www.thenewworld.co.uk/matthew-danconas-culture-welcome-back-to-gilead-the-testaments-is-a-triumph/)**
   Violence and cruelty lurk at the lavishly appointed finishing school for daughters of the patriarchal regime...
 
+![Who will be left to clear up Iran when Trump goes home?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_LORD_IRAN.jpg)
+
+- **[Who will be left to clear up Iran when Trump goes home?](https://www.thenewworld.co.uk/christopher-lord-who-will-be-left-to-clear-up-iran-when-trump-goes-home/)**
+  The contenders to run the country once bombing stops are divided and discredited - and civil war looks a distinct possib...
+
+![The Grenfell sacking that’s opened up a rift between Farage and Tice](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/10/GettyImages-2236859964-e1760115097326.jpg)
+
+- **[The Grenfell sacking that’s opened up a rift between Farage and Tice](https://www.thenewworld.co.uk/rats-in-a-sack-the-grenfell-sacking-thats-opened-up-a-rift-between-farage-and-tice/)**
+  Reform deputy leader’s star has fallen even further after aide’s ‘everyone dies in the end’ gaffe...
+
+*📚 以上为近期内容*
+
 ### 📰 Eurozine
 
 ![Hungary leads the far-right charge on free speech](https://www.eurozine.com/wp-content/uploads/2026/04/Valasztas_2026_90-300x225.jpg)
@@ -106,10 +118,6 @@ The post Hyperintensio...
 - **[Call: “Artificial Life as Experimental Philosophy”](https://xphi.net/2026/04/04/call-artificial-life-as-experimental-philosophy/)**
   Ben Gaskin and Simon McGregor organize a special session of The 2026 Artificial Life Conference titled “Artificial Life ...
   *关键词: philosophy, conference, philosophical*
-
-- **[Call: “Measuring the Mind”](https://xphi.net/2026/04/04/call-measuring-the-mind/)**
-  Daniela Nica and Sandra Branzaru organize a hybrid workshop on “Measuring the Mind – Conceptual Issues in Psychology, Ps...
-  *关键词: workshop*
 
 ### 📰 APA Blog
 
@@ -228,5 +236,5 @@ Continuing on Hegel's...
 
 ---
 
-*报告生成时间: 2026-04-04 16:05*  
+*报告生成时间: 2026-04-05 03:05*  
 *Atlas Intelligence System*
