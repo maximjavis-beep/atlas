@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-04-05  
-**来源**: 全球 2 个地区 · 2 个信源
+**日期**: 2026-04-06  
+**来源**: 全球 2 个地区 · 4 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 5 条
+- **新增资讯**: 6 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -37,16 +37,15 @@
 
 *📚 以上为近期内容*
 
-### 📰 Journal of Indian Philosophy
-
-- **[Hinduism, Leibniz, and Origin Essentialism](https://link.springer.com/article/10.1007/s10781-025-09630-x)**
-  Deshmukh and Janssen-Lauret (2024) (hereafter D&J) show that origin essentialism, when combined with other metaphysical ...
-  *关键词: philosophy*
-
-*📚 以上为近期内容*
-
 
 ## 🌍 欧洲
+
+### 📰 The New European
+
+![Exclusive: New Ofcom chair appointed – but will he fix Musk and GB News?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/Cheshire-Charles-new.jpg)
+
+- **[Exclusive: New Ofcom chair appointed – but will he fix Musk and GB News?](https://www.thenewworld.co.uk/exclusive-new-ofcom-chair-appointed-but-will-he-fix-musk-and-gb-news/)**
+  Former Channel 4 boss Sir Ian Cheshire beats Margaret Hodge to role as clamour grows to properly regulate right wing cha...
 
 ### 📰 The Philosophers' Magazine
 
@@ -64,22 +63,12 @@ The post Hyperintension...
 The post Hyperintensio...
   *关键词: debate*
 
-### 📰 The New European
+![The Ethics of Sex Verification](https://philosophersmag.com/wp-content/uploads/2026/03/Green_circles-1024x683.png)
 
-![Matthew d’Ancona’s culture: Welcome back to Gilead: The Testaments is a triumph](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/61624eee-de87-bac2-1334-a273a0c3d859.jpeg)
-
-- **[Matthew d’Ancona’s culture: Welcome back to Gilead: The Testaments is a triumph](https://www.thenewworld.co.uk/matthew-danconas-culture-welcome-back-to-gilead-the-testaments-is-a-triumph/)**
-  Violence and cruelty lurk at the lavishly appointed finishing school for daughters of the patriarchal regime...
-
-![Who will be left to clear up Iran when Trump goes home?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_LORD_IRAN.jpg)
-
-- **[Who will be left to clear up Iran when Trump goes home?](https://www.thenewworld.co.uk/christopher-lord-who-will-be-left-to-clear-up-iran-when-trump-goes-home/)**
-  The contenders to run the country once bombing stops are divided and discredited - and civil war looks a distinct possib...
-
-![The Grenfell sacking that’s opened up a rift between Farage and Tice](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/10/GettyImages-2236859964-e1760115097326.jpg)
-
-- **[The Grenfell sacking that’s opened up a rift between Farage and Tice](https://www.thenewworld.co.uk/rats-in-a-sack-the-grenfell-sacking-thats-opened-up-a-rift-between-farage-and-tice/)**
-  Reform deputy leader’s star has fallen even further after aide’s ‘everyone dies in the end’ gaffe...
+- **[The Ethics of Sex Verification](https://philosophersmag.com/the-ethics-of-sex-verification/)**
+  Miroslav Imbrišević and Jon Pike argue that it is justified to treat different cases differently in sports.
+The post The...
+  *关键词: ethics*
 
 *📚 以上为近期内容*
 
@@ -105,6 +94,40 @@ The post Hyperintensio...
 
 ## 🌍 美洲
 
+### 📰 The Partially Examined Life
+
+![Ep. 388: Hegel on Culture (Part Two)](https://partiallyexaminedlife.com/wp-content/uploads/Hegel-Genevieve-smaller-300x300.jpg)
+
+- **[Ep. 388: Hegel on Culture (Part Two)](https://partiallyexaminedlife.com/2026/04/06/ep-388-2-hegel-culture/)**
+  Subscribe to get parts 1 and 2 of this now, ad-free, plus tons of bonus content.
+Continuing on the "Sp...
+  *关键词: philosophy*
+
+![PMP#218: All the “Scream”-ing](https://partiallyexaminedlife.com/wp-content/uploads/PMP-Scream-400-x-800-300x150.jpg)
+
+- **[PMP#218: All the “Scream”-ing](https://partiallyexaminedlife.com/2026/04/06/pmp218-scream/)**
+  We talk about the Scream meta-slasher film franchise, from the original Wes Craven /Kevin Williamson 1996 debut starring...
+  *关键词: philosophy*
+
+### 📰 APA Blog
+
+- **[How to Deal with Online Virtue Signaling](https://blog.apaonline.org/2026/04/06/how-to-deal-with-online-virtue-signaling/)**
+  You’ve had a long day at work and come home wanting to unwind. You decide to scroll through your social media just to pa...
+
+### 📰 Daily Nous
+
+![New Writings by Empedocles Discovered](https://dailynous.com/wp-content/uploads/2026/04/empedocles-fragment.jpg)
+
+- **[New Writings by Empedocles Discovered](https://dailynous.com/2026/04/06/new-writings-by-empedocles-discovered/)**
+  The ideas of 5th Century BCE philosopher Empedocles have reached us only through paraphrases or fragmentary quotes of hi...
+  *关键词: philosophy*
+
+![Top University in Iran Bombed](https://dailynous.com/wp-content/uploads/2026/04/img_7464.jpeg)
+
+- **[Top University in Iran Bombed](https://dailynous.com/2026/04/06/top-university-in-iran-bombed/)**
+  Early this morning, Sharif University of Technology, Iran’s leading technical university, was bombed. As of the writing ...
+  *关键词: philosophy, philosophy of science*
+
 ### 📰 Experimental Philosophy
 
 - **[Talk: “I wasn’t thinking about that!” (Franz Berto and Aybüke Özgün)](https://xphi.net/2026/04/04/talk-i-wasnt-thinking-about-that-franz-berto-and-aybuke-ozgun/)**
@@ -118,42 +141,6 @@ The post Hyperintensio...
 - **[Call: “Artificial Life as Experimental Philosophy”](https://xphi.net/2026/04/04/call-artificial-life-as-experimental-philosophy/)**
   Ben Gaskin and Simon McGregor organize a special session of The 2026 Artificial Life Conference titled “Artificial Life ...
   *关键词: philosophy, conference, philosophical*
-
-### 📰 APA Blog
-
-- **[APA Member Interview, Chloe W. Chang](https://blog.apaonline.org/2026/04/03/apa-member-interview-chloe-w-chang/)**
-  Chloe Wanghuige Chang was a manager in the business and fashion industry, but always felt that something was missing in ...
-  *关键词: philosophy*
-
-- **[Using the Absurd: How Erasmus Challenges His Students](https://blog.apaonline.org/2026/04/02/using-the-absurd-how-erasmus-challenges-his-students/)**
-  The Dutch humanist Desiderius Erasmus, more often called Erasmus of Rotterdam, is well known for his satirical Praise of...
-  *关键词: logic*
-
-- **[Gratitude, Belonging, and Philosophy](https://blog.apaonline.org/2026/04/01/gratitude-belonging-and-philosophy/)**
-  I came to philosophy somewhat by accident. I am from a bureaucratic, military-dominated area of Northern Virginia; almos...
-  *关键词: philosophy, seminar*
-
-*📚 以上为近期内容*
-
-### 📰 Daily Nous
-
-![Charles E. Scott (1935-2026)](https://dailynous.com/wp-content/uploads/2026/04/scott-charles.jpeg)
-
-- **[Charles E. Scott (1935-2026)](https://dailynous.com/2026/04/03/charles-e-scott-1935-2026/)**
-  Charles E. Scott, Distinguished Professor of Philosophy and Research Professor of Philosophy Emeritus at Vanderbilt Univ...
-  *关键词: philosophy, ethics, continental philosophy*
-
-![Trans-Exclusionary Philosopher Seeks to Exclude Trans Philosopher](https://dailynous.com/wp-content/uploads/2026/04/thornton-soil-resting-halt.jpg)
-
-- **[Trans-Exclusionary Philosopher Seeks to Exclude Trans Philosopher](https://dailynous.com/2026/04/02/trans-exclusionary-philosopher-seeks-to-exclude-trans-philosopher/)**
-  Jonathan Pike, a professor of philosophy at Open University who defends trans-exclusionary (aka &#8220;gender critical&#...
-  *关键词: philosophy, logic, philosophical*
-
-![Philosophy: More Empirical Than Ever](https://dailynous.com/wp-content/uploads/2026/04/prinzing-empirical-sources-in-philosophy.png)
-
-- **[Philosophy: More Empirical Than Ever](https://dailynous.com/2026/04/02/philosophy-more-empirical-than-ever/)**
-  &#8220;In the early 1970s, fewer than 10% of articles cited any empirical sources. However, by the 2020s, this grew to o...
-  *关键词: philosophy, debate, philosophical*
 
 *📚 以上为近期内容*
 
@@ -200,41 +187,8 @@ Changes to: Bibliography, notes.html]
 
 *📚 以上为近期内容*
 
-### 📰 The Partially Examined Life
-
-![Ep. 388: Hegel on Culture (Part One for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/Hegel-Genevieve-smaller-300x300.jpg)
-
-- **[Ep. 388: Hegel on Culture (Part One for Supporters)](https://partiallyexaminedlife.com/2026/03/29/ep-388-1-hegel-culture-citizen/)**
-  Continuing on Hegel's Phenomenology, "Spirit" chapter, now up to sections 484-510, which is the first part of "Self-Alie...
-  *关键词: philosophy*
-
-![Ep. 388: Hegel on Culture (Part Two for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/Hegel-Genevieve-smaller-300x300.jpg)
-
-- **[Ep. 388: Hegel on Culture (Part Two for Supporters)](https://partiallyexaminedlife.com/2026/03/29/ep-388-2-hegel-culture-citizen/)**
-  Continuing on the "Spirit" chapter (more specifically. "Culture and its realm of actuality") in Hegel's Phenomenology, n...
-  *关键词: philosophy*
-
-![Ep. 388: Hegel on Culture (Part One)](https://partiallyexaminedlife.com/wp-content/uploads/Hegel-Genevieve-smaller-300x300.jpg)
-
-- **[Ep. 388: Hegel on Culture (Part One)](https://partiallyexaminedlife.com/2026/03/30/ep-388-1-hegel-culture/)**
-  Subscribe to get parts 1 and 2 of this now, ad-free, plus tons of bonus content.
-Continuing on Hegel's...
-  *关键词: philosophy*
-
-*📚 以上为近期内容*
-
-
-## 🌍 非洲
-
-### 📰 CODESRIA
-
-- **[Generative AI in Global Scientific Knowledge Production: Challenges and Prospects for Africa](https://codesria.org/generative-ai-in-global-scientific-knowledge-production-challenges-and-prospects-for-africa/)**
-  CODESRIA Bulletin Online, No. 1, March 2026 by Jacob Jaygbay, Senior Content Developer, Cloud + AI, Microsoft, Virginia,...
-
-*📚 以上为近期内容*
-
 
 ---
 
-*报告生成时间: 2026-04-05 03:05*  
+*报告生成时间: 2026-04-06 16:06*  
 *Atlas Intelligence System*
