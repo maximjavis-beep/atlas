@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-04-07  
-**来源**: 全球 2 个地区 · 4 个信源
+**来源**: 全球 3 个地区 · 5 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 6 条
+- **新增资讯**: 21 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -16,10 +16,30 @@
 
 ### 📰 The New European
 
-![Exclusive: New Ofcom chair appointed – but will he fix Musk and GB News?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/Cheshire-Charles-new.jpg)
+![How Wonder Man made Marvel feel human again](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/WONDERMAN2-scaled.jpg)
 
-- **[Exclusive: New Ofcom chair appointed – but will he fix Musk and GB News?](https://www.thenewworld.co.uk/exclusive-new-ofcom-chair-appointed-but-will-he-fix-musk-and-gb-news/)**
-  Former Channel 4 boss Sir Ian Cheshire beats Margaret Hodge to role as clamour grows to properly regulate right wing cha...
+- **[How Wonder Man made Marvel feel human again](https://www.thenewworld.co.uk/adam-lowes-how-wonder-man-made-marvel-feel-human-again/)**
+  The hit mismatched buddy show with Sir Ben Kingsley swaps spectacle for messy, fragile lives...
+
+![What’s your problem with the benefits system?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_FEARN_BENEFITS.jpg)
+
+- **[What’s your problem with the benefits system?](https://www.thenewworld.co.uk/hannah-fearn-whats-your-problem-with-the-benefits-system/)**
+  Voters have fallen out of love with the social security net – which is odd seeing as so many are likely to use it at som...
+
+![The BBC needs a last-chance strategy – and here’s what Matt Brittin should deliver](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_BALL_BBC.jpg)
+
+- **[The BBC needs a last-chance strategy – and here’s what Matt Brittin should deliver](https://www.thenewworld.co.uk/james-ball-the-bbc-needs-a-last-chance-strategy-and-heres-what-matt-brittin-should-deliver/)**
+  The new DG’s task is daunting but simple: Replace the license fee, fix news output and double down on YouTube...
+
+![This revelation about the tradwife movement made me want to blow up social media](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_MARIE_TRAD.jpg)
+
+- **[This revelation about the tradwife movement made me want to blow up social media](https://www.thenewworld.co.uk/marie-le-conte-this-revelation-about-the-tradwife-movement-made-me-want-to-blow-up-social-media/)**
+  Surprise! The men who want women to be submissive and domestic aren’t really motivated by protection or tradition - but ...
+
+![Nobody wants to pay for Reform council’s £75,000 flags](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/11/GettyImages-2243942675-e1762103498261.jpg)
+
+- **[Nobody wants to pay for Reform council’s £75,000 flags](https://www.thenewworld.co.uk/rats-in-a-sack-nobody-wants-to-pay-for-reform-councils-75000-flags/)**
+  Nottinghamshire Council claimed businesses would be queuing up to sponsor their flags - but not a single one has come fo...
 
 ### 📰 The Philosophers' Magazine
 
@@ -56,6 +76,50 @@ The post Hyperintensio...
 
 ## 🌍 美洲
 
+### 📰 APA Blog
+
+- **[Is the Household Obsolete? Charlotte Perkins Gilman on Economy, Androcentrism, and the Socialization of Care](https://blog.apaonline.org/2026/04/07/is-household-obsolete-charlotte-perkins-gilman-on-economy-androcentrism-and-the-socialization-of-care/)**
+  Charlotte Perkins Gilman (1860–1935) is well known to lovers of Gothic horror for her acclaimed story The Yellow Wallpap...
+
+- **[What About Knowledge That No Longer Knows What It Is For?](https://blog.apaonline.org/2026/04/07/what-about-knowledge-that-no-longer-knows-what-it-is-for/)**
+  This post was originally published in Kronika: Filozofski magazin&#160;as “Što sa znanjem koje više ne zna čemu služi?” ...
+
+- **[Copyediting and Philosophy, Part 1: What is Copyediting?](https://blog.apaonline.org/2026/04/07/copyediting-and-philosophy-part-1-what-is-copyediting/)**
+  The Issues in Philosophy Beat is running a three-part mini-series called “Copyediting and Philosophy,” which focuses on ...
+  *关键词: philosophy, philosophical*
+
+### 📰 Stanford Encyclopedia of Philosophy
+
+- **[The Philosophy of Mathematical Practice](https://plato.stanford.edu/entries/mathematical-practice/)**
+  [New Entry by Silvia De Toffoli and Paolo Mancosu on April 7, 2026.]
+ "Philosophy of Mathematical Practice" (PMP) refers...
+  *关键词: philosophy, philosophical*
+
+- **[The Notation in Principia Mathematica](https://plato.stanford.edu/entries/pm-notation/)**
+  [Revised entry by Bernard Linsky on April 7, 2026. 
+Changes to: Main text]
+ Principia Mathematica [PM] by A.N. Whitehead...
+  *关键词: logic*
+
+- **[Dharmakīrti](https://plato.stanford.edu/entries/dharmakiirti/)**
+  [Revised entry by Tom Tillemans on April 7, 2026. 
+Changes to: Main text, Bibliography, notes.html]
+ The life of Dharmak...
+
+### 📰 Daily Nous
+
+![Publishing, Teaching, and the Philosophy Job Market (guest post)](https://dailynous.com/wp-content/uploads/2026/04/chart-philosophy.png)
+
+- **[Publishing, Teaching, and the Philosophy Job Market (guest post)](https://dailynous.com/2026/04/07/publishing-teaching-and-the-philosophy-job-market-guest-post/)**
+  How many publications do early career job applicants in academic philosophy have? How many courses have they taught? How...
+  *关键词: philosophy, scholar*
+
+![Trial Starts Today for Philosophy Lecturer Who Tossed Away Tear Gas Canister Thrown by ICE](https://dailynous.com/wp-content/uploads/2026/04/caravello-jonathan.png)
+
+- **[Trial Starts Today for Philosophy Lecturer Who Tossed Away Tear Gas Canister Thrown by ICE](https://dailynous.com/2026/04/07/trial-starts-today-for-philosophy-lecturer-who-tossed-away-tear-gas-canister-thrown-by-ice/)**
+  The trial of Jonathan Caravello, a lecturer in philosophy at California State University Channel Islands, begins today. ...
+  *关键词: philosophy, lecture*
+
 ### 📰 The Partially Examined Life
 
 ![Ep. 388: Hegel on Culture (Part Two)](https://partiallyexaminedlife.com/wp-content/uploads/Hegel-Genevieve-smaller-300x300.jpg)
@@ -71,24 +135,7 @@ Continuing on the "Sp...
   We talk about the Scream meta-slasher film franchise, from the original Wes Craven /Kevin Williamson 1996 debut starring...
   *关键词: philosophy*
 
-### 📰 APA Blog
-
-- **[How to Deal with Online Virtue Signaling](https://blog.apaonline.org/2026/04/06/how-to-deal-with-online-virtue-signaling/)**
-  You’ve had a long day at work and come home wanting to unwind. You decide to scroll through your social media just to pa...
-
-### 📰 Daily Nous
-
-![New Writings by Empedocles Discovered](https://dailynous.com/wp-content/uploads/2026/04/empedocles-fragment.jpg)
-
-- **[New Writings by Empedocles Discovered](https://dailynous.com/2026/04/06/new-writings-by-empedocles-discovered/)**
-  The ideas of 5th Century BCE philosopher Empedocles have reached us only through paraphrases or fragmentary quotes of hi...
-  *关键词: philosophy*
-
-![Top University in Iran Bombed](https://dailynous.com/wp-content/uploads/2026/04/img_7464.jpeg)
-
-- **[Top University in Iran Bombed](https://dailynous.com/2026/04/06/top-university-in-iran-bombed/)**
-  Early this morning, Sharif University of Technology, Iran’s leading technical university, was bombed. As of the writing ...
-  *关键词: philosophy, philosophy of science*
+*📚 以上为近期内容*
 
 ### 📰 Experimental Philosophy
 
@@ -128,29 +175,25 @@ Continuing on the "Sp...
 
 *📚 以上为近期内容*
 
-### 📰 Stanford Encyclopedia of Philosophy
 
-- **[Personalism](https://plato.stanford.edu/entries/personalism/)**
-  [Revised entry by Thomas D. Williams and Jan Olof Bengtsson on April 1, 2026. 
-Changes to: Main text, Bibliography]
- Alt...
-  *关键词: logic, philosophical*
+## 🌍 非洲
 
-- **[The Cyrenaics](https://plato.stanford.edu/entries/cyrenaics/)**
-  [New Entry by Voula Tsouna on March 31, 2026.]
- The Cyrenaics are one of the so-called Socratic schools, namely schools ...
-  *关键词: philosophical, scholar*
+### 📰 CODESRIA
 
-- **[Abhidharma](https://plato.stanford.edu/entries/abhidharma/)**
-  [Revised entry by Noa Ronkin on March 31, 2026. 
-Changes to: Bibliography, notes.html]
- The first centuries after Śākyam...
-  *关键词: scholar*
+- **[Highlight Day One 31 03 26 – MRI Publication and Dissemination Workshop](https://codesria.org/mri-publication-and-dissemination-workshop-highlight-day-one-31-03-26/)**
+  ...
+  *关键词: workshop*
 
-*📚 以上为近期内容*
+- **[Highlight Day Two 01 04 26 – MRI Publication and Dissemination Workshop](https://codesria.org/highlight-day-two-01-04-26-mri-publication-and-dissemination-workshop/)**
+  ...
+  *关键词: workshop*
+
+- **[Highlight Day Three 02 04 26 – MRI Publication and Dissemination Workshop](https://codesria.org/highlight-day-three-02-04-26-mri-publication-and-dissemination-workshop/)**
+  ...
+  *关键词: workshop*
 
 
 ---
 
-*报告生成时间: 2026-04-07 03:05*  
+*报告生成时间: 2026-04-07 16:05*  
 *Atlas Intelligence System*
