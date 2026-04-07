@@ -1,6 +1,6 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-04-06  
+**日期**: 2026-04-07  
 **来源**: 全球 2 个地区 · 4 个信源
 
 ---
@@ -11,32 +11,6 @@
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
-
-## 🌍 亚洲
-
-### 📰 Asian Philosophy
-
-- **[Wang Yangming’s two identity theses of heart-mind and principle](https://www.tandfonline.com/doi/full/10.1080/09552367.2026.2646602?af=R)**
-  ....
-
-*📚 以上为近期内容*
-
-### 📰 Dao Journal
-
-- **[How to Reshape Confucianism in the 21st Century? A Discussion with Critics](https://link.springer.com/article/10.1007/s11712-026-10049-8)**
-  In response to critics of my book Reshaping Confucianism: A Progressive Inquiry (Oxford University Press, 2023), I addre...
-  *关键词: discussion, logic*
-
-- **[L<span>i</span> Chenyang and the Evolution of Progressive Confucianism](https://link.springer.com/article/10.1007/s11712-026-10047-w)**
-  This article offers a critical analysis of Li Chenyang’s Reshaping Confucianism: A Progressive Inquiry, situating it wit...
-  *关键词: ethics, philosophical*
-
-- **[Self-Deception in <i>Mengzi</i> 5A2](https://link.springer.com/article/10.1007/s11712-026-10042-1)**
-  The truth thesis of virtue, widely adopted by Neo-Aristotelians, holds that virtue requires accurate beliefs about what ...
-  *关键词: logic*
-
-*📚 以上为近期内容*
-
 
 ## 🌍 欧洲
 
@@ -63,13 +37,6 @@ The post Hyperintension...
 The post Hyperintensio...
   *关键词: debate*
 
-![The Ethics of Sex Verification](https://philosophersmag.com/wp-content/uploads/2026/03/Green_circles-1024x683.png)
-
-- **[The Ethics of Sex Verification](https://philosophersmag.com/the-ethics-of-sex-verification/)**
-  Miroslav Imbrišević and Jon Pike argue that it is justified to treat different cases differently in sports.
-The post The...
-  *关键词: ethics*
-
 *📚 以上为近期内容*
 
 ### 📰 Eurozine
@@ -83,11 +50,6 @@ The post The...
 
 - **[Experiments](https://www.eurozine.com/experiments/?utm_source=rss&utm_medium=rss&utm_campaign=experiments)**
   Contrarian pleasures; the art of science; the parameters of the erotic; poetry as ongoing experiment....
-
-![Another November: Queer Slovakia after 1989](https://www.eurozine.com/wp-content/uploads/2026/03/Duhovy_Pride_Bratislava_2010_05-300x200.jpg)
-
-- **[Another November: Queer Slovakia after 1989](https://www.eurozine.com/another-november-queer-slovakia-after-1989/?utm_source=rss&utm_medium=rss&utm_campaign=another-november-queer-slovakia-after-1989)**
-  Stigmatized during socialism, LGTBQI+ people in Slovakia continued to face political and social adversity in the followi...
 
 *📚 以上为近期内容*
 
@@ -190,5 +152,5 @@ Changes to: Bibliography, notes.html]
 
 ---
 
-*报告生成时间: 2026-04-06 16:06*  
+*报告生成时间: 2026-04-07 03:05*  
 *Atlas Intelligence System*
