@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-04-08  
-**来源**: 全球 3 个地区 · 5 个信源
+**来源**: 全球 3 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 22 条
+- **新增资讯**: 15 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -16,30 +16,35 @@
 
 ### 📰 The New European
 
-![Trump has devastated Iran – and damaged himself](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/ANGLESEY-trumpiran.jpg)
+![What can Camus’s The Stranger teach Gen Z?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/L-ETRANGER-F-OZON-1-Photo-Carole-Bethuel-c-2025-Foz-Gaumont-France-2-Cinema-Macassar-Productions-1-e1775644814271.jpg)
 
-- **[Trump has devastated Iran – and damaged himself](https://www.thenewworld.co.uk/steve-anglesey-trump-has-devastated-iran-and-damaged-himself/)**
-  The US president is hailing ‘total victory’, but this war has embarrassed and fractured his alliance...
+- **[What can Camus’s The Stranger teach Gen Z?](https://www.thenewworld.co.uk/jason-solomons-what-can-camuss-the-stranger-teach-gen-z/)**
+  Actor Benjamin Voisin, star of a new movie version of the French classic, believes there is ‘something admirable’ in mur...
 
-![How Wonder Man made Marvel feel human again](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/WONDERMAN2-scaled.jpg)
+![Exclusive: Jim Jarmusch on psilocybin, Buddhist jokes and turning Tom Waits into an asshole](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_BLEASDALE_JARMUSCH.jpg)
 
-- **[How Wonder Man made Marvel feel human again](https://www.thenewworld.co.uk/adam-lowes-how-wonder-man-made-marvel-feel-human-again/)**
-  The hit mismatched buddy show with Sir Ben Kingsley swaps spectacle for messy, fragile lives...
+- **[Exclusive: Jim Jarmusch on psilocybin, Buddhist jokes and turning Tom Waits into an asshole](https://www.thenewworld.co.uk/john-bleasdale-exclusive-jim-jarmusch-on-psilocybin-buddhist-jokes-and-turning-tom-waits-into-an-asshole/)**
+  In his only UK interview for Father Mother Sister Brother, the director opens up about his films, his inspirations and w...
 
-![What’s your problem with the benefits system?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_FEARN_BENEFITS.jpg)
+![Tory peer holidays with Reform man Skinner](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/HFTOgquawAAoKLI-e1775647390117.jpg)
 
-- **[What’s your problem with the benefits system?](https://www.thenewworld.co.uk/hannah-fearn-whats-your-problem-with-the-benefits-system/)**
-  Voters have fallen out of love with the social security net – which is odd seeing as so many are likely to use it at som...
+- **[Tory peer holidays with Reform man Skinner](https://www.thenewworld.co.uk/rats-in-a-sack-tory-peer-holidays-with-reform-man-skinner/)**
+  Ross Kempsell, appointed lawmaker-for-life by Boris Johnson, has been cavorting topless with a man famous for saying the...
 
-![The BBC needs a last-chance strategy – and here’s what Matt Brittin should deliver](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_BALL_BBC.jpg)
+![Charity Commission rejects Tory lies over ‘Valentine’s Day cards for asylum seekers’](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-1429651252-e1775647840576.jpg)
 
-- **[The BBC needs a last-chance strategy – and here’s what Matt Brittin should deliver](https://www.thenewworld.co.uk/james-ball-the-bbc-needs-a-last-chance-strategy-and-heres-what-matt-brittin-should-deliver/)**
-  The new DG’s task is daunting but simple: Replace the license fee, fix news output and double down on YouTube...
+- **[Charity Commission rejects Tory lies over ‘Valentine’s Day cards for asylum seekers’](https://www.thenewworld.co.uk/rats-in-a-sack-charity-commission-rejects-tory-lies-over-valentines-day-cards-for-asylum-seekers/)**
+  The party and its media claimed children were being told at school to write cards for asylum seekers. As the watchdog di...
 
-![This revelation about the tradwife movement made me want to blow up social media](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_MARIE_TRAD.jpg)
+![The astonishing hypocrisy of JD Vance](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2270245308-e1775664564739.jpg)
 
-- **[This revelation about the tradwife movement made me want to blow up social media](https://www.thenewworld.co.uk/marie-le-conte-this-revelation-about-the-tradwife-movement-made-me-want-to-blow-up-social-media/)**
-  Surprise! The men who want women to be submissive and domestic aren’t really motivated by protection or tradition - but ...
+- **[The astonishing hypocrisy of JD Vance](https://www.thenewworld.co.uk/rats-in-a-sack-the-astonishing-hypocrisy-of-jd-vance/)**
+  The vice-president is railing at foreign government interfering in Hungary's election while telling the country to vote ...
+
+### 📰 Eurozine
+
+- **[Iný November](https://www.eurozine.com/iny-november/?utm_source=rss&utm_medium=rss&utm_campaign=iny-november)**
+  Udalosti, ktoré viedli v novembri 1989 k pádu režimu v bývalom Československu, nemali vplyv len na život Slovákov, Slove...
 
 ### 📰 The Philosophers' Magazine
 
@@ -59,61 +64,38 @@ The post Hyperintensio...
 
 *📚 以上为近期内容*
 
-### 📰 Eurozine
-
-![Hungary leads the far-right charge on free speech](https://www.eurozine.com/wp-content/uploads/2026/04/Valasztas_2026_90-300x225.jpg)
-
-- **[Hungary leads the far-right charge on free speech](https://www.eurozine.com/hungary-leads-the-far-right-charge-on-free-speech/?utm_source=rss&utm_medium=rss&utm_campaign=hungary-leads-the-far-right-charge-on-free-speech)**
-  Hungary’s elections will be decisive for the future of the anti-EU pressure group MCC Brussels, the international arm of...
-
-*📚 以上为近期内容*
-
 
 ## 🌍 美洲
 
 ### 📰 APA Blog
 
-- **[Is the Household Obsolete? Charlotte Perkins Gilman on Economy, Androcentrism, and the Socialization of Care](https://blog.apaonline.org/2026/04/07/is-household-obsolete-charlotte-perkins-gilman-on-economy-androcentrism-and-the-socialization-of-care/)**
-  Charlotte Perkins Gilman (1860–1935) is well known to lovers of Gothic horror for her acclaimed story The Yellow Wallpap...
+- **[War Ethics and Why We Shouldn’t Hope for the Best in Iran](https://blog.apaonline.org/2026/04/08/war-ethics-and-why-we-shouldnt-hope-for-the-best-in-iran/)**
+  Sometimes, the morally right thing to do is to support an unjust war. The thought behind this is simple. Some wars are m...
+  *关键词: ethics*
 
-- **[What About Knowledge That No Longer Knows What It Is For?](https://blog.apaonline.org/2026/04/07/what-about-knowledge-that-no-longer-knows-what-it-is-for/)**
-  This post was originally published in Kronika: Filozofski magazin&#160;as “Što sa znanjem koje više ne zna čemu služi?” ...
-
-- **[Copyediting and Philosophy, Part 1: What is Copyediting?](https://blog.apaonline.org/2026/04/07/copyediting-and-philosophy-part-1-what-is-copyediting/)**
-  The Issues in Philosophy Beat is running a three-part mini-series called “Copyediting and Philosophy,” which focuses on ...
-  *关键词: philosophy, philosophical*
+- **[Promoting Civic Friendship: The Transformative Power of Public Spaces](https://blog.apaonline.org/2026/04/08/promoting-civic-friendship-the-transformative-power-of-public-spaces/)**
+  The neighborhood in Lisbon where I spend a lot of my time is densely populated. It has undergone many changes, with new ...
 
 ### 📰 Stanford Encyclopedia of Philosophy
 
-- **[The Philosophy of Mathematical Practice](https://plato.stanford.edu/entries/mathematical-practice/)**
-  [New Entry by Silvia De Toffoli and Paolo Mancosu on April 7, 2026.]
- "Philosophy of Mathematical Practice" (PMP) refers...
-  *关键词: philosophy, philosophical*
-
-- **[The Notation in Principia Mathematica](https://plato.stanford.edu/entries/pm-notation/)**
-  [Revised entry by Bernard Linsky on April 7, 2026. 
-Changes to: Main text]
- Principia Mathematica [PM] by A.N. Whitehead...
-  *关键词: logic*
-
-- **[Dharmakīrti](https://plato.stanford.edu/entries/dharmakiirti/)**
-  [Revised entry by Tom Tillemans on April 7, 2026. 
+- **[Śāntarakṣita](https://plato.stanford.edu/entries/saantarak-sita/)**
+  [Revised entry by James Blumenthal and James Apple on April 8, 2026. 
 Changes to: Main text, Bibliography, notes.html]
- The life of Dharmak...
+ ...
+  *关键词: philosophy, thinker*
+
+- **[Experimental Philosophy](https://plato.stanford.edu/entries/experimental-philosophy/)**
+  [New Entry by Justin Sytsma, Kevin Reuter, and Pascale Willemsen on April 8, 2026.]
+ [Editor's Note: The following new e...
+  *关键词: philosophy*
 
 ### 📰 Daily Nous
 
-![Publishing, Teaching, and the Philosophy Job Market (guest post)](https://dailynous.com/wp-content/uploads/2026/04/chart-philosophy.png)
+![2026 Sanders Prize in Metaphysics Winners Announced](https://dailynous.com/wp-content/uploads/2026/04/ezra-rubenstein-veronica-gomez-sanchez.png)
 
-- **[Publishing, Teaching, and the Philosophy Job Market (guest post)](https://dailynous.com/2026/04/07/publishing-teaching-and-the-philosophy-job-market-guest-post/)**
-  How many publications do early career job applicants in academic philosophy have? How many courses have they taught? How...
-  *关键词: philosophy, scholar*
-
-![Trial Starts Today for Philosophy Lecturer Who Tossed Away Tear Gas Canister Thrown by ICE](https://dailynous.com/wp-content/uploads/2026/04/caravello-jonathan.png)
-
-- **[Trial Starts Today for Philosophy Lecturer Who Tossed Away Tear Gas Canister Thrown by ICE](https://dailynous.com/2026/04/07/trial-starts-today-for-philosophy-lecturer-who-tossed-away-tear-gas-canister-thrown-by-ice/)**
-  The trial of Jonathan Caravello, a lecturer in philosophy at California State University Channel Islands, begins today. ...
-  *关键词: philosophy, lecture*
+- **[2026 Sanders Prize in Metaphysics Winners Announced](https://dailynous.com/2026/04/08/2026-sanders-prize-in-metaphysics-winners-announced/)**
+  The Marc Sanders Foundation has announced that its 2026 Prize in Metaphysics has been awarded to Ezra Rubenstein and Ver...
+  *关键词: metaphysics, logic*
 
 ### 📰 The Partially Examined Life
 
@@ -148,47 +130,16 @@ Continuing on the "Sp...
 
 *📚 以上为近期内容*
 
-### 📰 3:AM Magazine
-
-![Hesitantly Surfing the Looming AI Tsunami (Part One)](https://www.3ammagazine.com/wp-content/uploads/2026/03/1765817729-900-640x1024.jpg)
-
-- **[Hesitantly Surfing the Looming AI Tsunami (Part One)](https://www.3ammagazine.com/3am/hesitantly-surfing-the-looming-ai-tsunami-part-one/)**
-  The truth is that Mars is a launchpad to nowhere. Rather than attempting to save the planet by investing funds into prog...
-
-*📚 以上为近期内容*
-
-### 📰 Philosophy Now
-
-- **[Why Do People Hate Hypocrisy?](https://philosophynow.org/issues/173/Why_Do_People_Hate_Hypocrisy)**
-  Emrys Westacott argues that it’s not usually the hypocrisy itself that we hate....
-
-- **[The Mirror & the Flame](https://philosophynow.org/issues/173/The_Mirror_and_the_Flame)**
-  Rebwar Fatah imagines Attar’s & Hegel’s shared path....
-
-- **[Life Sacrifice](https://philosophynow.org/issues/173/Life_Sacrifice)**
-  Yossra Hamouda on the murder of compassion & the act of mass murder....
-
-*📚 以上为近期内容*
-
 
 ## 🌍 非洲
 
 ### 📰 CODESRIA
 
-- **[Highlight Day One 31 03 26 – MRI Publication and Dissemination Workshop](https://codesria.org/mri-publication-and-dissemination-workshop-highlight-day-one-31-03-26/)**
+- **[Book Promo Launch: AI and Higher Education: Opportunities, Challenges and Trends](https://codesria.org/book-promo-launch-ai-and-higher-education-opportunities-challenges-and-trends/)**
   ...
-  *关键词: workshop*
-
-- **[Highlight Day Two 01 04 26 – MRI Publication and Dissemination Workshop](https://codesria.org/highlight-day-two-01-04-26-mri-publication-and-dissemination-workshop/)**
-  ...
-  *关键词: workshop*
-
-- **[Highlight Day Three 02 04 26 – MRI Publication and Dissemination Workshop](https://codesria.org/highlight-day-three-02-04-26-mri-publication-and-dissemination-workshop/)**
-  ...
-  *关键词: workshop*
 
 
 ---
 
-*报告生成时间: 2026-04-08 03:05*  
+*报告生成时间: 2026-04-08 16:05*  
 *Atlas Intelligence System*
