@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-04-07  
+**日期**: 2026-04-08  
 **来源**: 全球 3 个地区 · 5 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 21 条
+- **新增资讯**: 22 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -15,6 +15,11 @@
 ## 🌍 欧洲
 
 ### 📰 The New European
+
+![Trump has devastated Iran – and damaged himself](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/ANGLESEY-trumpiran.jpg)
+
+- **[Trump has devastated Iran – and damaged himself](https://www.thenewworld.co.uk/steve-anglesey-trump-has-devastated-iran-and-damaged-himself/)**
+  The US president is hailing ‘total victory’, but this war has embarrassed and fractured his alliance...
 
 ![How Wonder Man made Marvel feel human again](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/WONDERMAN2-scaled.jpg)
 
@@ -35,11 +40,6 @@
 
 - **[This revelation about the tradwife movement made me want to blow up social media](https://www.thenewworld.co.uk/marie-le-conte-this-revelation-about-the-tradwife-movement-made-me-want-to-blow-up-social-media/)**
   Surprise! The men who want women to be submissive and domestic aren’t really motivated by protection or tradition - but ...
-
-![Nobody wants to pay for Reform council’s £75,000 flags](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/11/GettyImages-2243942675-e1762103498261.jpg)
-
-- **[Nobody wants to pay for Reform council’s £75,000 flags](https://www.thenewworld.co.uk/rats-in-a-sack-nobody-wants-to-pay-for-reform-councils-75000-flags/)**
-  Nottinghamshire Council claimed businesses would be queuing up to sponsor their flags - but not a single one has come fo...
 
 ### 📰 The Philosophers' Magazine
 
@@ -65,11 +65,6 @@ The post Hyperintensio...
 
 - **[Hungary leads the far-right charge on free speech](https://www.eurozine.com/hungary-leads-the-far-right-charge-on-free-speech/?utm_source=rss&utm_medium=rss&utm_campaign=hungary-leads-the-far-right-charge-on-free-speech)**
   Hungary’s elections will be decisive for the future of the anti-EU pressure group MCC Brussels, the international arm of...
-
-![Experiments](https://www.eurozine.com/wp-content/uploads/2026/03/Glanta_3_4_2025-300x225.jpg)
-
-- **[Experiments](https://www.eurozine.com/experiments/?utm_source=rss&utm_medium=rss&utm_campaign=experiments)**
-  Contrarian pleasures; the art of science; the parameters of the erotic; poetry as ongoing experiment....
 
 *📚 以上为近期内容*
 
@@ -195,5 +190,5 @@ Continuing on the "Sp...
 
 ---
 
-*报告生成时间: 2026-04-07 16:05*  
+*报告生成时间: 2026-04-08 03:05*  
 *Atlas Intelligence System*
