@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-04-09  
-**来源**: 全球 3 个地区 · 6 个信源
+**来源**: 全球 3 个地区 · 5 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 14 条
+- **新增资讯**: 11 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -16,35 +16,42 @@
 
 ### 📰 The New European
 
-![What can Camus’s The Stranger teach Gen Z?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/L-ETRANGER-F-OZON-1-Photo-Carole-Bethuel-c-2025-Foz-Gaumont-France-2-Cinema-Macassar-Productions-1-e1775644814271.jpg)
+![Alastair Campbell’s diary: Here’s what Zelensky really thinks of JD Vance](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/CAMPBELL-zelensky-vance.jpg)
 
-- **[What can Camus’s The Stranger teach Gen Z?](https://www.thenewworld.co.uk/jason-solomons-what-can-camuss-the-stranger-teach-gen-z/)**
-  Actor Benjamin Voisin, star of a new movie version of the French classic, believes there is ‘something admirable’ in mur...
+- **[Alastair Campbell’s diary: Here’s what Zelensky really thinks of JD Vance](https://www.thenewworld.co.uk/alastair-campbells-diary-heres-what-zelensky-really-thinks-of-jd-vance/)**
+  After the madness of MAGA in Iran, meeting Ukraine’s president is a lesson in empathy and emotion...
 
-![Exclusive: Jim Jarmusch on psilocybin, Buddhist jokes and turning Tom Waits into an asshole](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_BLEASDALE_JARMUSCH.jpg)
+![France’s version of GB News and Fox News is caught in a racist firestorm](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/SYMONS-cnews-1.jpg)
 
-- **[Exclusive: Jim Jarmusch on psilocybin, Buddhist jokes and turning Tom Waits into an asshole](https://www.thenewworld.co.uk/john-bleasdale-exclusive-jim-jarmusch-on-psilocybin-buddhist-jokes-and-turning-tom-waits-into-an-asshole/)**
-  In his only UK interview for Father Mother Sister Brother, the director opens up about his films, his inspirations and w...
+- **[France’s version of GB News and Fox News is caught in a racist firestorm](https://www.thenewworld.co.uk/emma-kate-symons-frances-version-of-gb-news-and-fox-news-is-caught-in-a-racist-firestorm/)**
+  The far right CNews channel was following a familiar template to boost extremists. Then came the race row that may see i...
 
-![Tory peer holidays with Reform man Skinner](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/HFTOgquawAAoKLI-e1775647390117.jpg)
+![Will Jeremy Corbyn sue Have I Got News For You?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2263109014-e1775740176598.jpg)
 
-- **[Tory peer holidays with Reform man Skinner](https://www.thenewworld.co.uk/rats-in-a-sack-tory-peer-holidays-with-reform-man-skinner/)**
-  Ross Kempsell, appointed lawmaker-for-life by Boris Johnson, has been cavorting topless with a man famous for saying the...
+- **[Will Jeremy Corbyn sue Have I Got News For You?](https://www.thenewworld.co.uk/rats-in-a-sack-will-jeremy-corbyn-sue-have-i-got-news-for-you/)**
+  The Your Party leader is said to be considering legal action over a post on social media by the TV show mocking him...
 
-![Charity Commission rejects Tory lies over ‘Valentine’s Day cards for asylum seekers’](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-1429651252-e1775647840576.jpg)
+![The conviction of Farage’s latest megabucks donor](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/RATS-ben-delo.jpg)
 
-- **[Charity Commission rejects Tory lies over ‘Valentine’s Day cards for asylum seekers’](https://www.thenewworld.co.uk/rats-in-a-sack-charity-commission-rejects-tory-lies-over-valentines-day-cards-for-asylum-seekers/)**
-  The party and its media claimed children were being told at school to write cards for asylum seekers. As the watchdog di...
+- **[The conviction of Farage’s latest megabucks donor](https://www.thenewworld.co.uk/rats-in-a-sack-the-conviction-of-farages-latest-megabucks-donor/)**
+  Ben Delo, who is returning to the UK to give millions to Reform, once paid a $10 million penalty after pleading guilty t...
 
-![The astonishing hypocrisy of JD Vance](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2270245308-e1775664564739.jpg)
+![Rejoining Europe: the policy which could ironically unite Britain](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2220165055-e1775749324513.jpg)
 
-- **[The astonishing hypocrisy of JD Vance](https://www.thenewworld.co.uk/rats-in-a-sack-the-astonishing-hypocrisy-of-jd-vance/)**
-  The vice-president is railing at foreign government interfering in Hungary's election while telling the country to vote ...
+- **[Rejoining Europe: the policy which could ironically unite Britain](https://www.thenewworld.co.uk/matt-withers-rejoining-europe-the-policy-which-could-ironically-unite-britain/)**
+  The message from the British public is now clear and consistent: they are in favour of having a closer relationship with...
 
 ### 📰 Eurozine
 
-- **[Iný November](https://www.eurozine.com/iny-november/?utm_source=rss&utm_medium=rss&utm_campaign=iny-november)**
-  Udalosti, ktoré viedli v novembri 1989 k pádu režimu v bývalom Československu, nemali vplyv len na život Slovákov, Slove...
+![Dialogue and silence](https://www.eurozine.com/wp-content/uploads/2026/04/Angelus_Novus_1920_-_Paul_Klee-300x233.jpg)
+
+- **[Dialogue and silence](https://www.eurozine.com/dialogue-and-silence/?utm_source=rss&utm_medium=rss&utm_campaign=dialogue-and-silence)**
+  Habermas understood that the possibility for German–Jewish dialogue after the Holocaust depends on commitment to univers...
+
+![Language and democracy](https://www.eurozine.com/wp-content/uploads/2026/03/La-Revue-nouvelle_2_2026-300x225.jpg)
+
+- **[Language and democracy](https://www.eurozine.com/language-and-democracy/?utm_source=rss&utm_medium=rss&utm_campaign=language-and-democracy)**
+  On the emancipatory gap between words and things; language, authority and resistance; metaphors of politics; educators u...
 
 ### 📰 The Philosophers' Magazine
 
@@ -67,6 +74,28 @@ The post Hyperintensio...
 
 ## 🌍 美洲
 
+### 📰 The Partially Examined Life
+
+![PvI#115: Mary and Mark Astro-Logically](https://partiallyexaminedlife.com/wp-content/uploads/PvI115_Planets-300x213.jpg)
+
+- **[PvI#115: Mary and Mark Astro-Logically](https://partiallyexaminedlife.com/2026/04/09/pvi115-astrology/)**
+  In this pitched, high-stakes battle, your hosts have it out about astrological biases, doing offensive accents, letting ...
+  *关键词: philosophy, logic*
+
+### 📰 Daily Nous
+
+![Some Advice about Applying for Interdisciplinary Humanities Fellowships and Grants](https://dailynous.com/wp-content/uploads/2018/07/kracov-david-book-of-life.jpg)
+
+- **[Some Advice about Applying for Interdisciplinary Humanities Fellowships and Grants](https://dailynous.com/2026/04/09/some-advice-about-applying-for-interdisciplinary-humanities-fellowships-and-grants/)**
+  The National Humanities Center (NHC) recently announced its fellows for the 2026-27 academic year, and two philosophers ...
+  *关键词: philosophy, philosophical, scholar*
+
+![Peterson from Texas A&M to SMU](https://dailynous.com/wp-content/uploads/2026/04/peterson-martin.jpg)
+
+- **[Peterson from Texas A&M to SMU](https://dailynous.com/2026/04/09/peterson-from-texas-am-to-smu/)**
+  Martin Peterson, currently professor of philosophy at Texas A&#38;M University, will be moving to Southern Methodist Uni...
+  *关键词: philosophy, ethics*
+
 ### 📰 APA Blog
 
 - **[War Ethics and Why We Shouldn’t Hope for the Best in Iran](https://blog.apaonline.org/2026/04/08/war-ethics-and-why-we-shouldnt-hope-for-the-best-in-iran/)**
@@ -75,6 +104,11 @@ The post Hyperintensio...
 
 - **[Promoting Civic Friendship: The Transformative Power of Public Spaces](https://blog.apaonline.org/2026/04/08/promoting-civic-friendship-the-transformative-power-of-public-spaces/)**
   The neighborhood in Lisbon where I spend a lot of my time is densely populated. It has undergone many changes, with new ...
+
+- **[Is the Household Obsolete? Charlotte Perkins Gilman on Economy, Androcentrism, and the Socialization of Care](https://blog.apaonline.org/2026/04/07/is-household-obsolete-charlotte-perkins-gilman-on-economy-androcentrism-and-the-socialization-of-care/)**
+  Charlotte Perkins Gilman (1860–1935) is well known to lovers of Gothic horror for her acclaimed story The Yellow Wallpap...
+
+*📚 以上为近期内容*
 
 ### 📰 Stanford Encyclopedia of Philosophy
 
@@ -89,28 +123,10 @@ Changes to: Main text, Bibliography, notes.html]
  [Editor's Note: The following new e...
   *关键词: philosophy*
 
-### 📰 Daily Nous
-
-![2026 Sanders Prize in Metaphysics Winners Announced](https://dailynous.com/wp-content/uploads/2026/04/ezra-rubenstein-veronica-gomez-sanchez.png)
-
-- **[2026 Sanders Prize in Metaphysics Winners Announced](https://dailynous.com/2026/04/08/2026-sanders-prize-in-metaphysics-winners-announced/)**
-  The Marc Sanders Foundation has announced that its 2026 Prize in Metaphysics has been awarded to Ezra Rubenstein and Ver...
-  *关键词: metaphysics, logic*
-
-### 📰 The Partially Examined Life
-
-![Ep. 388: Hegel on Culture (Part Two)](https://partiallyexaminedlife.com/wp-content/uploads/Hegel-Genevieve-smaller-300x300.jpg)
-
-- **[Ep. 388: Hegel on Culture (Part Two)](https://partiallyexaminedlife.com/2026/04/06/ep-388-2-hegel-culture/)**
-  Subscribe to get parts 1 and 2 of this now, ad-free, plus tons of bonus content.
-Continuing on the "Sp...
-  *关键词: philosophy*
-
-![PMP#218: All the “Scream”-ing](https://partiallyexaminedlife.com/wp-content/uploads/PMP-Scream-400-x-800-300x150.jpg)
-
-- **[PMP#218: All the “Scream”-ing](https://partiallyexaminedlife.com/2026/04/06/pmp218-scream/)**
-  We talk about the Scream meta-slasher film franchise, from the original Wes Craven /Kevin Williamson 1996 debut starring...
-  *关键词: philosophy*
+- **[The Philosophy of Mathematical Practice](https://plato.stanford.edu/entries/mathematical-practice/)**
+  [New Entry by Silvia De Toffoli and Paolo Mancosu on April 7, 2026.]
+ "Philosophy of Mathematical Practice" (PMP) refers...
+  *关键词: philosophy, philosophical*
 
 *📚 以上为近期内容*
 
@@ -135,11 +151,11 @@ Continuing on the "Sp...
 
 ### 📰 CODESRIA
 
-- **[Book Promo Launch: AI and Higher Education: Opportunities, Challenges and Trends](https://codesria.org/book-promo-launch-ai-and-higher-education-opportunities-challenges-and-trends/)**
+- **[Book Launch – AI and Higher Education: Opportunities, Challenges and Trends](https://codesria.org/book-promo-launch-ai-and-higher-education-opportunities-challenges-and-trends/)**
   ...
 
 
 ---
 
-*报告生成时间: 2026-04-09 03:06*  
+*报告生成时间: 2026-04-09 16:05*  
 *Atlas Intelligence System*
