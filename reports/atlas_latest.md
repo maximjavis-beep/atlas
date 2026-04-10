@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-04-09  
-**来源**: 全球 3 个地区 · 5 个信源
+**日期**: 2026-04-10  
+**来源**: 全球 3 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 11 条
+- **新增资讯**: 15 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -15,6 +15,11 @@
 ## 🌍 欧洲
 
 ### 📰 The New European
+
+![Dear progressives, stop being wimpish on Trump](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_PATIENCE_WIMPS.jpg)
+
+- **[Dear progressives, stop being wimpish on Trump](https://www.thenewworld.co.uk/patience-wheatcroft-dear-progressives-stop-being-wimpish-on-trump/)**
+  Feeling you are right and assuming the public agree is not enough. If you feel strongly, shout very loudly...
 
 ![Alastair Campbell’s diary: Here’s what Zelensky really thinks of JD Vance](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/CAMPBELL-zelensky-vance.jpg)
 
@@ -35,11 +40,6 @@
 
 - **[The conviction of Farage’s latest megabucks donor](https://www.thenewworld.co.uk/rats-in-a-sack-the-conviction-of-farages-latest-megabucks-donor/)**
   Ben Delo, who is returning to the UK to give millions to Reform, once paid a $10 million penalty after pleading guilty t...
-
-![Rejoining Europe: the policy which could ironically unite Britain](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2220165055-e1775749324513.jpg)
-
-- **[Rejoining Europe: the policy which could ironically unite Britain](https://www.thenewworld.co.uk/matt-withers-rejoining-europe-the-policy-which-could-ironically-unite-britain/)**
-  The message from the British public is now clear and consistent: they are in favour of having a closer relationship with...
 
 ### 📰 Eurozine
 
@@ -74,6 +74,17 @@ The post Hyperintensio...
 
 ## 🌍 美洲
 
+### 📰 APA Blog
+
+- **[On the Insufficiency of Current Gender Equality Policies in Academia and the Necessity of a Cultural Shift](https://blog.apaonline.org/2026/04/09/on-the-insufficiency-of-current-gender-equality-policies-in-academia-and-the-necessity-of-a-cultural-shift/)**
+  Despite the proliferation of measures designed to promote gender equality in academia, structural inequalities persist—p...
+
+![God and the Quantum Mechanic](https://i0.wp.com/substackcdn.com/image/fetch/%24s_%21Jjjc%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd22bfac1-ff3d-4b18-b01b-504197049f97_752x806.png?w=696&#038;ssl=1)
+
+- **[God and the Quantum Mechanic](https://blog.apaonline.org/2026/04/09/god-and-the-quantum-mechanic/)**
+  You’d be forgiven for thinking that I am an expert in philosophy. I am only a humble physicist. And while physics can in...
+  *关键词: philosophy*
+
 ### 📰 The Partially Examined Life
 
 ![PvI#115: Mary and Mark Astro-Logically](https://partiallyexaminedlife.com/wp-content/uploads/PvI115_Planets-300x213.jpg)
@@ -95,20 +106,6 @@ The post Hyperintensio...
 - **[Peterson from Texas A&M to SMU](https://dailynous.com/2026/04/09/peterson-from-texas-am-to-smu/)**
   Martin Peterson, currently professor of philosophy at Texas A&#38;M University, will be moving to Southern Methodist Uni...
   *关键词: philosophy, ethics*
-
-### 📰 APA Blog
-
-- **[War Ethics and Why We Shouldn’t Hope for the Best in Iran](https://blog.apaonline.org/2026/04/08/war-ethics-and-why-we-shouldnt-hope-for-the-best-in-iran/)**
-  Sometimes, the morally right thing to do is to support an unjust war. The thought behind this is simple. Some wars are m...
-  *关键词: ethics*
-
-- **[Promoting Civic Friendship: The Transformative Power of Public Spaces](https://blog.apaonline.org/2026/04/08/promoting-civic-friendship-the-transformative-power-of-public-spaces/)**
-  The neighborhood in Lisbon where I spend a lot of my time is densely populated. It has undergone many changes, with new ...
-
-- **[Is the Household Obsolete? Charlotte Perkins Gilman on Economy, Androcentrism, and the Socialization of Care](https://blog.apaonline.org/2026/04/07/is-household-obsolete-charlotte-perkins-gilman-on-economy-androcentrism-and-the-socialization-of-care/)**
-  Charlotte Perkins Gilman (1860–1935) is well known to lovers of Gothic horror for her acclaimed story The Yellow Wallpap...
-
-*📚 以上为近期内容*
 
 ### 📰 Stanford Encyclopedia of Philosophy
 
@@ -151,11 +148,15 @@ Changes to: Main text, Bibliography, notes.html]
 
 ### 📰 CODESRIA
 
+- **[2026 Julius Nyerere Leadership lecture](https://codesria.org/2026-julius-nyerere-leadership-lecture/)**
+  The one-day event on Mwalimu Nyerere&#8217;s birthday reflecting on leadership, sustainability and change is inspired by...
+  *关键词: lecture*
+
 - **[Book Launch – AI and Higher Education: Opportunities, Challenges and Trends](https://codesria.org/book-promo-launch-ai-and-higher-education-opportunities-challenges-and-trends/)**
   ...
 
 
 ---
 
-*报告生成时间: 2026-04-09 16:05*  
+*报告生成时间: 2026-04-10 03:06*  
 *Atlas Intelligence System*
