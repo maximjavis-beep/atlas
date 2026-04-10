@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 15 条
+- **新增资讯**: 16 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -16,30 +16,30 @@
 
 ### 📰 The New European
 
-![Dear progressives, stop being wimpish on Trump](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_PATIENCE_WIMPS.jpg)
+![Twenty Twenty Six is an own goal that veers towards unwatchable](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/p0n9tppq.jpg)
 
-- **[Dear progressives, stop being wimpish on Trump](https://www.thenewworld.co.uk/patience-wheatcroft-dear-progressives-stop-being-wimpish-on-trump/)**
-  Feeling you are right and assuming the public agree is not enough. If you feel strongly, shout very loudly...
+- **[Twenty Twenty Six is an own goal that veers towards unwatchable](https://www.thenewworld.co.uk/lucy-reade-twenty-twenty-six-is-an-own-goal-that-veers-towards-unwatchable/)**
+  Hugh Bonneville’s World Cup W1A spin-off founders on flabby dialogue and grating new characters...
 
-![Alastair Campbell’s diary: Here’s what Zelensky really thinks of JD Vance](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/CAMPBELL-zelensky-vance.jpg)
+![GB News staff get a visit from Bev Turner](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/dossier-TURNER-.jpg)
 
-- **[Alastair Campbell’s diary: Here’s what Zelensky really thinks of JD Vance](https://www.thenewworld.co.uk/alastair-campbells-diary-heres-what-zelensky-really-thinks-of-jd-vance/)**
-  After the madness of MAGA in Iran, meeting Ukraine’s president is a lesson in empathy and emotion...
+- **[GB News staff get a visit from Bev Turner](https://www.thenewworld.co.uk/rats-in-a-sack-gb-news-staff-get-a-visit-from-bev-turner/)**
+  Not everyone at the channel was delighted to see the late-night presenter and Trump cheerleader in their London studios ...
 
-![France’s version of GB News and Fox News is caught in a racist firestorm](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/SYMONS-cnews-1.jpg)
+![And the winner of Reform’s big energy bill competition is… a Reform member](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/HFfHb7lWMAEyIdv-e1775818888774.jpg)
 
-- **[France’s version of GB News and Fox News is caught in a racist firestorm](https://www.thenewworld.co.uk/emma-kate-symons-frances-version-of-gb-news-and-fox-news-is-caught-in-a-racist-firestorm/)**
-  The far right CNews channel was following a familiar template to boost extremists. Then came the race row that may see i...
+- **[And the winner of Reform’s big energy bill competition is… a Reform member](https://www.thenewworld.co.uk/rats-in-a-sack-and-the-winner-of-reforms-big-energy-bill-competition-is-a-reform-member/)**
+  Nigel Farage's party launched a competition to have your energy bills paid for the year - and the winner was a familiar ...
 
-![Will Jeremy Corbyn sue Have I Got News For You?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2263109014-e1775740176598.jpg)
+![Won’t somebody please think of the Gentleman’s Relish?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/Relish-e1775819411775.jpg)
 
-- **[Will Jeremy Corbyn sue Have I Got News For You?](https://www.thenewworld.co.uk/rats-in-a-sack-will-jeremy-corbyn-sue-have-i-got-news-for-you/)**
-  The Your Party leader is said to be considering legal action over a post on social media by the TV show mocking him...
+- **[Won’t somebody please think of the Gentleman’s Relish?](https://www.thenewworld.co.uk/rats-in-a-sack-wont-somebody-please-think-of-the-gentlemans-relish/)**
+  Britain's right wing media are working themselves into a lather over the fate of an obscure fish spread...
 
-![The conviction of Farage’s latest megabucks donor](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/RATS-ben-delo.jpg)
+![The truth about Trump’s Iran downfall? The worst is yet to come](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_MASON_WAR.jpg)
 
-- **[The conviction of Farage’s latest megabucks donor](https://www.thenewworld.co.uk/rats-in-a-sack-the-conviction-of-farages-latest-megabucks-donor/)**
-  Ben Delo, who is returning to the UK to give millions to Reform, once paid a $10 million penalty after pleading guilty t...
+- **[The truth about Trump’s Iran downfall? The worst is yet to come](https://www.thenewworld.co.uk/paul-mason-the-truth-about-trumps-iran-downfall-the-worst-is-yet-to-come/)**
+  With Epic Fury’s epic fail, the president has given encouragement to aggressors everywhere...
 
 ### 📰 Eurozine
 
@@ -52,6 +52,11 @@
 
 - **[Language and democracy](https://www.eurozine.com/language-and-democracy/?utm_source=rss&utm_medium=rss&utm_campaign=language-and-democracy)**
   On the emancipatory gap between words and things; language, authority and resistance; metaphors of politics; educators u...
+
+- **[Iný November](https://www.eurozine.com/iny-november/?utm_source=rss&utm_medium=rss&utm_campaign=iny-november)**
+  Udalosti, ktoré viedli v novembri 1989 k pádu režimu v bývalom Československu, nemali vplyv len na život Slovákov, Slove...
+
+*📚 以上为近期内容*
 
 ### 📰 The Philosophers' Magazine
 
@@ -74,7 +79,18 @@ The post Hyperintensio...
 
 ## 🌍 美洲
 
+### 📰 3:AM Magazine
+
+![Slaughterhouse 666: Kicking and A-gouging in the Pus and the Gore and the Fear](https://www.3ammagazine.com/wp-content/uploads/2026/04/Image-1-768x1024.png)
+
+- **[Slaughterhouse 666: Kicking and A-gouging in the Pus and the Gore and the Fear](https://www.3ammagazine.com/3am/slaughterhouse-666-kicking-and-a-gouging-in-the-pus-and-the-gore-and-the-fear/)**
+  Imagine all those sentences, those paragraphs – the birth of a novel now lost among New Year’s resolutions in discarded ...
+
 ### 📰 APA Blog
+
+- **[APA Member Interviews, Sharon Crasnow](https://blog.apaonline.org/2026/04/10/apa-member-interviews-sharon-crasnow/)**
+  Sharon Crasnow works on epistemological issues in the methodology of the social sciences. Her focus is primarily on femi...
+  *关键词: philosophy, epistemology, logic*
 
 - **[On the Insufficiency of Current Gender Equality Policies in Academia and the Necessity of a Cultural Shift](https://blog.apaonline.org/2026/04/09/on-the-insufficiency-of-current-gender-equality-policies-in-academia-and-the-necessity-of-a-cultural-shift/)**
   Despite the proliferation of measures designed to promote gender equality in academia, structural inequalities persist—p...
@@ -85,6 +101,27 @@ The post Hyperintensio...
   You’d be forgiven for thinking that I am an expert in philosophy. I am only a humble physicist. And while physics can in...
   *关键词: philosophy*
 
+### 📰 Stanford Encyclopedia of Philosophy
+
+- **[Philosophy of Microbiology](https://plato.stanford.edu/entries/microbiology/)**
+  [Revised entry by Maureen A. O’Malley and Emily C. Parke on April 10, 2026. 
+Changes to: Main text, Bibliography, notes....
+  *关键词: philosophy, philosophical*
+
+### 📰 Daily Nous
+
+![Trial Starts Today for Philosophy Lecturer Who Tossed Away Tear Gas Canister Thrown by ICE (updated)](https://dailynous.com/wp-content/uploads/2026/04/caravello-jonathan.png)
+
+- **[Trial Starts Today for Philosophy Lecturer Who Tossed Away Tear Gas Canister Thrown by ICE (updated)](https://dailynous.com/2026/04/07/trial-starts-today-for-philosophy-lecturer-who-tossed-away-tear-gas-canister-thrown-by-ice/)**
+  The trial of Jonathan Caravello, a lecturer in philosophy at California State University Channel Islands, begins today. ...
+  *关键词: philosophy, lecture*
+
+![deRosset from Vermont to Notre Dame](https://dailynous.com/wp-content/uploads/2026/04/derosset-louis-photo.png)
+
+- **[deRosset from Vermont to Notre Dame](https://dailynous.com/2026/04/10/derosset-from-vermont-to-notre-dame/)**
+  Louis deRosset, currently professor of philosophy at the University of Vermont, will be moving to the University of Notr...
+  *关键词: philosophy, metaphysics, logic*
+
 ### 📰 The Partially Examined Life
 
 ![PvI#115: Mary and Mark Astro-Logically](https://partiallyexaminedlife.com/wp-content/uploads/PvI115_Planets-300x213.jpg)
@@ -93,37 +130,18 @@ The post Hyperintensio...
   In this pitched, high-stakes battle, your hosts have it out about astrological biases, doing offensive accents, letting ...
   *关键词: philosophy, logic*
 
-### 📰 Daily Nous
+![Ep. 388: Hegel on Culture (Part Two)](https://partiallyexaminedlife.com/wp-content/uploads/Hegel-Genevieve-smaller-300x300.jpg)
 
-![Some Advice about Applying for Interdisciplinary Humanities Fellowships and Grants](https://dailynous.com/wp-content/uploads/2018/07/kracov-david-book-of-life.jpg)
-
-- **[Some Advice about Applying for Interdisciplinary Humanities Fellowships and Grants](https://dailynous.com/2026/04/09/some-advice-about-applying-for-interdisciplinary-humanities-fellowships-and-grants/)**
-  The National Humanities Center (NHC) recently announced its fellows for the 2026-27 academic year, and two philosophers ...
-  *关键词: philosophy, philosophical, scholar*
-
-![Peterson from Texas A&M to SMU](https://dailynous.com/wp-content/uploads/2026/04/peterson-martin.jpg)
-
-- **[Peterson from Texas A&M to SMU](https://dailynous.com/2026/04/09/peterson-from-texas-am-to-smu/)**
-  Martin Peterson, currently professor of philosophy at Texas A&#38;M University, will be moving to Southern Methodist Uni...
-  *关键词: philosophy, ethics*
-
-### 📰 Stanford Encyclopedia of Philosophy
-
-- **[Śāntarakṣita](https://plato.stanford.edu/entries/saantarak-sita/)**
-  [Revised entry by James Blumenthal and James Apple on April 8, 2026. 
-Changes to: Main text, Bibliography, notes.html]
- ...
-  *关键词: philosophy, thinker*
-
-- **[Experimental Philosophy](https://plato.stanford.edu/entries/experimental-philosophy/)**
-  [New Entry by Justin Sytsma, Kevin Reuter, and Pascale Willemsen on April 8, 2026.]
- [Editor's Note: The following new e...
+- **[Ep. 388: Hegel on Culture (Part Two)](https://partiallyexaminedlife.com/2026/04/06/ep-388-2-hegel-culture/)**
+  Subscribe to get parts 1 and 2 of this now, ad-free, plus tons of bonus content.
+Continuing on the "Sp...
   *关键词: philosophy*
 
-- **[The Philosophy of Mathematical Practice](https://plato.stanford.edu/entries/mathematical-practice/)**
-  [New Entry by Silvia De Toffoli and Paolo Mancosu on April 7, 2026.]
- "Philosophy of Mathematical Practice" (PMP) refers...
-  *关键词: philosophy, philosophical*
+![PMP#218: All the “Scream”-ing](https://partiallyexaminedlife.com/wp-content/uploads/PMP-Scream-400-x-800-300x150.jpg)
+
+- **[PMP#218: All the “Scream”-ing](https://partiallyexaminedlife.com/2026/04/06/pmp218-scream/)**
+  We talk about the Scream meta-slasher film franchise, from the original Wes Craven /Kevin Williamson 1996 debut starring...
+  *关键词: philosophy*
 
 *📚 以上为近期内容*
 
@@ -152,11 +170,8 @@ Changes to: Main text, Bibliography, notes.html]
   The one-day event on Mwalimu Nyerere&#8217;s birthday reflecting on leadership, sustainability and change is inspired by...
   *关键词: lecture*
 
-- **[Book Launch – AI and Higher Education: Opportunities, Challenges and Trends](https://codesria.org/book-promo-launch-ai-and-higher-education-opportunities-challenges-and-trends/)**
-  ...
-
 
 ---
 
-*报告生成时间: 2026-04-10 03:06*  
+*报告生成时间: 2026-04-10 16:05*  
 *Atlas Intelligence System*
