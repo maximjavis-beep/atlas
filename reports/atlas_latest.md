@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-04-13  
-**来源**: 全球 2 个地区 · 2 个信源
+**来源**: 全球 2 个地区 · 5 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 3 条
+- **新增资讯**: 17 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -16,15 +16,30 @@
 
 ### 📰 The New European
 
-![What will Viktor Orbán’s landslide defeat mean for poor Matt Goodwin?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2258492654-e1774266398274.jpg)
+![Richard Tice in tax troubles again](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2270376072-e1776077091886.jpg)
 
-- **[What will Viktor Orbán’s landslide defeat mean for poor Matt Goodwin?](https://www.thenewworld.co.uk/rats-in-a-sack-what-will-viktor-orbans-landslide-defeat-mean-for-poor-matt-goodwin/)**
-  The former academic turned Reform rabble-rouser will today speak at an event for an Orbán-aligned pressure group in Buda...
+- **[Richard Tice in tax troubles again](https://www.thenewworld.co.uk/rats-in-a-sack-richard-tice-in-tax-troubles-again/)**
+  Reform's deputy leader is reported to have broken the law by failing to pay tens of thousands of pounds in tax on divide...
 
-![Orbán is out – and now the world knows another way is possible](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_CAMPBELL_ORBAN.jpg)
+![Reform’s new moneybags backer turns to European law](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/RATS-ben-delo.jpg)
 
-- **[Orbán is out – and now the world knows another way is possible](https://www.thenewworld.co.uk/alastair-campbell-orban-is-out-and-now-the-world-knows-another-way-is-possible/)**
-  The autocrat’s defeat is a blow to Trump, Putin - and populists like Nigel Farage...
+- **[Reform’s new moneybags backer turns to European law](https://www.thenewworld.co.uk/rats-in-a-sack-reforms-new-moneybags-backer-turns-to-european-law/)**
+  Ben Delo's lawyers have turned to the European Convention on Human Rights to silence a Substacker bringing up his previo...
+
+![Gove and Jenrick find a new target: benefits claimants visiting St Paul’s](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2232808741-e1776077712463.jpg)
+
+- **[Gove and Jenrick find a new target: benefits claimants visiting St Paul’s](https://www.thenewworld.co.uk/rats-in-a-sack-gove-and-jenrick-find-a-new-target-benefits-claimants-visiting-st-pauls/)**
+  The pair are united in their opposition to Britain’s poorest children being given the opportunity to immerse themselves ...
+
+![Police probe Reform’s energy competition](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/HFfHb7lWMAEyIdv-e1775818888774.jpg)
+
+- **[Police probe Reform’s energy competition](https://www.thenewworld.co.uk/rats-in-a-sack-police-probe-reforms-energy-competition/)**
+  Greater Manchester Police are examining a complaint about a raffle to get energy bills paid - amazingly won by an active...
+
+![Crispin Odey drops his libel case against the Pink ‘Un](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-172857139-e1776091801274.jpg)
+
+- **[Crispin Odey drops his libel case against the Pink ‘Un](https://www.thenewworld.co.uk/rats-in-a-sack-crispin-odey-drops-his-libel-case-against-the-pink-un/)**
+  The disgraced financier had been seeking £79 million in damages over reports alleging that he had sexually assaulted sev...
 
 ### 📰 Eurozine
 
@@ -46,52 +61,56 @@
 
 ## 🌍 美洲
 
+### 📰 The Partially Examined Life
+
+![Ep. 389: Hegel on Wealth and Power (Part One for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-1-300x300.jpg)
+
+- **[Ep. 389: Hegel on Wealth and Power (Part One for Supporters)](https://partiallyexaminedlife.com/2026/04/12/ep-389-1-hegel-wealth-power-citizen/)**
+  Continuing on Hegel's Phenomenology, "Spirit" chapter, now up to sections 511-526, which finishes off the sub-section of...
+  *关键词: philosophy, discussion*
+
+![Ep. 389: Hegel on Wealth and Power (Part Two for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-1-300x300.jpg)
+
+- **[Ep. 389: Hegel on Wealth and Power (Part Two for Supporters)](https://partiallyexaminedlife.com/2026/04/12/ep-389-2-hegel-wealth-power-citizen/)**
+  Concluding on "Culture and its Realm of Actuality," in Hegel's Phenomenology via sections 519-526. 
+We get into some of ...
+  *关键词: philosophy*
+
+### 📰 APA Blog
+
+- **[Should Men Be Ashamed of Their AI Girlfriends?](https://blog.apaonline.org/2026/04/13/should-men-be-ashamed-of-their-ai-girlfriends/)**
+  More and more people are engaging with AI chatbots in seemingly social ways. Contemporary LLMs have become unsettlingly ...
+
+- **[Doing Philosophy in a Borrowed Tongue](https://blog.apaonline.org/2026/04/13/doing-philosophy-in-a-borrowed-tongue/)**
+  Until I began my Ph.D. in the United States, I had spent my entire life in Korea, speaking Korean. While I had a sense o...
+  *关键词: philosophy, analytic philosophy*
+
+### 📰 Daily Nous
+
+![The Philosophy of Invading a Beagle Breeding Facility (guest post)](https://dailynous.com/wp-content/uploads/2026/04/beagle-rescue.png)
+
+- **[The Philosophy of Invading a Beagle Breeding Facility (guest post)](https://dailynous.com/2026/04/13/philosophy-invading-beagle-breeding-facility/)**
+  Later this week, at least two philosophers will risk arrest by taking part in the largest-ever open rescue in the histor...
+  *关键词: philosophy, discussion*
+
+![Turner from Arizona to Notre Dame](https://dailynous.com/wp-content/uploads/2026/04/turner-jason-photo.png)
+
+- **[Turner from Arizona to Notre Dame](https://dailynous.com/2026/04/13/turner-from-arizona-to-notre-dame/)**
+  Jason Turner, currently professor of philosophy at the University of Arizona, will be moving to the University of Notre ...
+  *关键词: philosophy, metaphysics, logic*
+
+![New: International Society for Moral Psychology](https://dailynous.com/wp-content/uploads/2026/04/international-society-moral-psychology.png)
+
+- **[New: International Society for Moral Psychology](https://dailynous.com/2026/04/13/new-international-society-for-moral-psychology/)**
+  The International Society for Moral Psychology (ISMP) is a new association that aims to be an &#8220;interdisciplinary a...
+  *关键词: conference, scholar*
+
 ### 📰 3:AM Magazine
 
 ![Dear Father, Who May Not Be In Heaven](https://www.3ammagazine.com/wp-content/uploads/2026/04/berg-banner.jpg)
 
 - **[Dear Father, Who May Not Be In Heaven](https://www.3ammagazine.com/3am/dear-father-who-may-not-be-in-heaven/)**
   In Homolovi, surrounded by storm clouds, faced with a hissing bull snake, I decided—like a fool—to pray to my father for...
-
-### 📰 The Partially Examined Life
-
-![Partially Examined Recap: March 2026](https://partiallyexaminedlife.com/wp-content/uploads/PEL_ep_381pt1_11-16-25_AdFree-mp3-image-300x300.jpg)
-
-- **[Partially Examined Recap: March 2026](https://partiallyexaminedlife.com/2026/04/10/partially-examined-recap-march-2026/)**
-  March at The Partially Examined Life (PEL) continued the extended run through Hegel and opened into a wider mix across t...
-  *关键词: philosophy, discussion*
-
-![Closereads: Galen Strawson Against Narrativity (Part One)](https://partiallyexaminedlife.com/wp-content/uploads/galen-strawson-300x300.png)
-
-- **[Closereads: Galen Strawson Against Narrativity (Part One)](https://partiallyexaminedlife.com/2026/04/10/closereads-galen-strawson/)**
-  Sign up for Closereads at patreon.com/closereadsphilosophy to get previous and future installments of this podcast.
-On "...
-  *关键词: philosophy, logic*
-
-![PvI#115: Mary and Mark Astro-Logically](https://partiallyexaminedlife.com/wp-content/uploads/PvI115_Planets-300x213.jpg)
-
-- **[PvI#115: Mary and Mark Astro-Logically](https://partiallyexaminedlife.com/2026/04/09/pvi115-astrology/)**
-  In this pitched, high-stakes battle, your hosts have it out about astrological biases, doing offensive accents, letting ...
-  *关键词: philosophy, logic*
-
-*📚 以上为近期内容*
-
-### 📰 APA Blog
-
-- **[APA Member Interviews, Sharon Crasnow](https://blog.apaonline.org/2026/04/10/apa-member-interviews-sharon-crasnow/)**
-  Sharon Crasnow works on epistemological issues in the methodology of the social sciences. Her focus is primarily on femi...
-  *关键词: philosophy, epistemology, logic*
-
-- **[On the Insufficiency of Current Gender Equality Policies in Academia and the Necessity of a Cultural Shift](https://blog.apaonline.org/2026/04/09/on-the-insufficiency-of-current-gender-equality-policies-in-academia-and-the-necessity-of-a-cultural-shift/)**
-  Despite the proliferation of measures designed to promote gender equality in academia, structural inequalities persist—p...
-
-![God and the Quantum Mechanic](https://i0.wp.com/substackcdn.com/image/fetch/%24s_%21Jjjc%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd22bfac1-ff3d-4b18-b01b-504197049f97_752x806.png?w=696&#038;ssl=1)
-
-- **[God and the Quantum Mechanic](https://blog.apaonline.org/2026/04/09/god-and-the-quantum-mechanic/)**
-  You’d be forgiven for thinking that I am an expert in philosophy. I am only a humble physicist. And while physics can in...
-  *关键词: philosophy*
-
-*📚 以上为近期内容*
 
 ### 📰 Stanford Encyclopedia of Philosophy
 
@@ -113,28 +132,6 @@ Changes to: Main text, Bibliography, notes.html]
 
 *📚 以上为近期内容*
 
-### 📰 Daily Nous
-
-![Trial Starts Today for Philosophy Lecturer Who Tossed Away Tear Gas Canister Thrown by ICE (updated)](https://dailynous.com/wp-content/uploads/2026/04/caravello-jonathan.png)
-
-- **[Trial Starts Today for Philosophy Lecturer Who Tossed Away Tear Gas Canister Thrown by ICE (updated)](https://dailynous.com/2026/04/07/trial-starts-today-for-philosophy-lecturer-who-tossed-away-tear-gas-canister-thrown-by-ice/)**
-  The trial of Jonathan Caravello, a lecturer in philosophy at California State University Channel Islands, begins today. ...
-  *关键词: philosophy, lecture*
-
-![deRosset from Vermont to Notre Dame](https://dailynous.com/wp-content/uploads/2026/04/derosset-louis-photo.png)
-
-- **[deRosset from Vermont to Notre Dame](https://dailynous.com/2026/04/10/derosset-from-vermont-to-notre-dame/)**
-  Louis deRosset, currently professor of philosophy at the University of Vermont, will be moving to the University of Notr...
-  *关键词: philosophy, metaphysics, logic*
-
-![Some Advice about Applying for Interdisciplinary Humanities Fellowships and Grants](https://dailynous.com/wp-content/uploads/2018/07/kracov-david-book-of-life.jpg)
-
-- **[Some Advice about Applying for Interdisciplinary Humanities Fellowships and Grants](https://dailynous.com/2026/04/09/some-advice-about-applying-for-interdisciplinary-humanities-fellowships-and-grants/)**
-  The National Humanities Center (NHC) recently announced its fellows for the 2026-27 academic year, and two philosophers ...
-  *关键词: philosophy, philosophical, scholar*
-
-*📚 以上为近期内容*
-
 
 ## 🌍 非洲
 
@@ -152,5 +149,5 @@ Changes to: Main text, Bibliography, notes.html]
 
 ---
 
-*报告生成时间: 2026-04-13 03:06*  
+*报告生成时间: 2026-04-13 16:05*  
 *Atlas Intelligence System*
