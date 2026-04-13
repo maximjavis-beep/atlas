@@ -1,6 +1,6 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-04-11  
+**日期**: 2026-04-13  
 **来源**: 全球 2 个地区 · 2 个信源
 
 ---
@@ -16,10 +16,15 @@
 
 ### 📰 The New European
 
-![Matthew d’Ancona’s culture: What everyone gets wrong about The Stranger](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/25_09_12_1757674263_7_L-ETRANGER-F-OZON-Photo-01-Photo-Carole-Bethuel-c-Foz-Gaumont-France-2-Cinema.jpg)
+![What will Viktor Orbán’s landslide defeat mean for poor Matt Goodwin?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/GettyImages-2258492654-e1774266398274.jpg)
 
-- **[Matthew d’Ancona’s culture: What everyone gets wrong about The Stranger](https://www.thenewworld.co.uk/matthew-danconas-culture-what-everyone-gets-wrong-about-the-stranger/)**
-  After years of misinterpretation, François Ozon’s blank and beautiful movie truly understands the Camus classic...
+- **[What will Viktor Orbán’s landslide defeat mean for poor Matt Goodwin?](https://www.thenewworld.co.uk/rats-in-a-sack-what-will-viktor-orbans-landslide-defeat-mean-for-poor-matt-goodwin/)**
+  The former academic turned Reform rabble-rouser will today speak at an event for an Orbán-aligned pressure group in Buda...
+
+![Orbán is out – and now the world knows another way is possible](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_CAMPBELL_ORBAN.jpg)
+
+- **[Orbán is out – and now the world knows another way is possible](https://www.thenewworld.co.uk/alastair-campbell-orban-is-out-and-now-the-world-knows-another-way-is-possible/)**
+  The autocrat’s defeat is a blow to Trump, Putin - and populists like Nigel Farage...
 
 ### 📰 Eurozine
 
@@ -41,6 +46,13 @@
 
 ## 🌍 美洲
 
+### 📰 3:AM Magazine
+
+![Dear Father, Who May Not Be In Heaven](https://www.3ammagazine.com/wp-content/uploads/2026/04/berg-banner.jpg)
+
+- **[Dear Father, Who May Not Be In Heaven](https://www.3ammagazine.com/3am/dear-father-who-may-not-be-in-heaven/)**
+  In Homolovi, surrounded by storm clouds, faced with a hissing bull snake, I decided—like a fool—to pray to my father for...
+
 ### 📰 The Partially Examined Life
 
 ![Partially Examined Recap: March 2026](https://partiallyexaminedlife.com/wp-content/uploads/PEL_ep_381pt1_11-16-25_AdFree-mp3-image-300x300.jpg)
@@ -56,12 +68,11 @@
 On "...
   *关键词: philosophy, logic*
 
-### 📰 3:AM Magazine
+![PvI#115: Mary and Mark Astro-Logically](https://partiallyexaminedlife.com/wp-content/uploads/PvI115_Planets-300x213.jpg)
 
-![Slaughterhouse 666: Kicking and A-gouging in the Pus and the Gore and the Fear](https://www.3ammagazine.com/wp-content/uploads/2026/04/Image-1-768x1024.png)
-
-- **[Slaughterhouse 666: Kicking and A-gouging in the Pus and the Gore and the Fear](https://www.3ammagazine.com/3am/slaughterhouse-666-kicking-and-a-gouging-in-the-pus-and-the-gore-and-the-fear/)**
-  Imagine all those sentences, those paragraphs – the birth of a novel now lost among New Year’s resolutions in discarded ...
+- **[PvI#115: Mary and Mark Astro-Logically](https://partiallyexaminedlife.com/2026/04/09/pvi115-astrology/)**
+  In this pitched, high-stakes battle, your hosts have it out about astrological biases, doing offensive accents, letting ...
+  *关键词: philosophy, logic*
 
 *📚 以上为近期内容*
 
@@ -141,5 +152,5 @@ Changes to: Main text, Bibliography, notes.html]
 
 ---
 
-*报告生成时间: 2026-04-11 16:05*  
+*报告生成时间: 2026-04-13 03:06*  
 *Atlas Intelligence System*
