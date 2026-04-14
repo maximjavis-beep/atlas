@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-04-14  
-**来源**: 全球 2 个地区 · 5 个信源
+**来源**: 全球 2 个地区 · 6 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 20 条
+- **新增资讯**: 22 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -16,32 +16,35 @@
 
 ### 📰 The New European
 
-![Express man who backed call for British MP’s deportation joins Mail](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/12/G71Zql0XcAAhdZU-e1765445060478.jpg)
+![Francis Spufford’s blitz of sex, bombs and angels](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_TAYLOR_SPUFFORD.jpg)
 
-- **[Express man who backed call for British MP’s deportation joins Mail](https://www.thenewworld.co.uk/rats-in-a-sack-express-man-who-backed-call-for-british-mps-deportation-joins-mail/)**
-  Christian Calgie, who said it would be "better" to deport Birmingham-born Zarah Sultana, is the Mail's new senior politi...
+- **[Francis Spufford’s blitz of sex, bombs and angels](https://www.thenewworld.co.uk/ros-taylor-francis-spuffords-blitz-of-sex-bombs-and-angels/)**
+  Nonesuch brings magical realism to wartime London to dazzling and profound effect...
 
-![Is Michael Gove writing a tell-all memoir?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2239938498-e1776154883705.jpg)
+![Letter of the week: Why are our leaders silent on Trump’s cretinous behaviour?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/01/GettyImages-2251091316-mn-e1776161697705.jpg)
 
-- **[Is Michael Gove writing a tell-all memoir?](https://www.thenewworld.co.uk/rats-in-a-sack-is-michael-gove-writing-a-tell-all-memoir/)**
-  The Spectator editor and Conservative peer has registered an advance to write a book with the Lords authorities...
+- **[Letter of the week: Why are our leaders silent on Trump’s cretinous behaviour?](https://www.thenewworld.co.uk/letter-of-the-week-why-are-our-leaders-silent-on-trumps-cretinous-behaviour/)**
+  Write to letters@thenewworld.co.uk to have your views voiced in the magazine...
 
-![Nigel Farage, who doesn’t ‘do computers’, buys £2m of bitcoin](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/faragestack-e1776155230399.jpg)
+![What was the point of the Artemis moon mission?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_PBALL_ARTEMIS.jpg)
 
-- **[Nigel Farage, who doesn’t ‘do computers’, buys £2m of bitcoin](https://www.thenewworld.co.uk/rats-in-a-sack-nigel-farage-who-doesnt-do-computers-buys-2m-of-bitcoin/)**
-  The man who last year defended failing to file his financial interests as he doesn't understand technology is once more ...
+- **[What was the point of the Artemis moon mission?](https://www.thenewworld.co.uk/philip-ball-what-was-the-point-of-the-artemis-moon-mission/)**
+  It’s clear what the Trump administration wanted – but what did anyone else get out of it?...
 
-![Oh, Jeremy Corbyn! Your Party’s entire Scottish leadership quits over ‘sidelining of nation’](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2268428391-e1776155866840.jpg)
+![The night that Purple Rain broke Prince](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/Great-Lives-1.jpg)
 
-- **[Oh, Jeremy Corbyn! Your Party’s entire Scottish leadership quits over ‘sidelining of nation’](https://www.thenewworld.co.uk/rats-in-a-sack-oh-jeremy-corbyn-your-partys-entire-scottish-leadership-quits-over-sidelining-of-nation/)**
-  Corbyn's start-up party - failing to stand any candidate in May's elections - has been hit by yet another blow...
+- **[The night that Purple Rain broke Prince](https://www.thenewworld.co.uk/john-osborne-the-night-that-purple-rain-broke-prince/)**
+  A performance in Japan meant the end of the Revolution – and began a new chapter in the life of an eccentric genius...
 
-![Richard Tice in tax troubles again](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2270376072-e1776077091886.jpg)
+![Should you say CONtroversy or conTROversy? And does it matter?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/478_TRUDGILL_STRESS.jpg)
 
-- **[Richard Tice in tax troubles again](https://www.thenewworld.co.uk/rats-in-a-sack-richard-tice-in-tax-troubles-again/)**
-  Reform's deputy leader is reported to have broken the law by failing to pay tens of thousands of pounds in tax on divide...
+- **[Should you say CONtroversy or conTROversy? And does it matter?](https://www.thenewworld.co.uk/peter-trudgill-should-you-say-controversy-or-controversy-and-does-it-matter/)**
+  Which syllables should be stressed is a cause of stress – so here’s a guide...
 
 ### 📰 Eurozine
+
+- **[Recuperarea identității moldovene](https://www.eurozine.com/recuperarea-identitatii-moldovene-cum-trateaza-scriitorii-contemporani-din-r-moldova-amintirile-din-comunism/?utm_source=rss&utm_medium=rss&utm_campaign=recuperarea-identitatii-moldovene-cum-trateaza-scriitorii-contemporani-din-r-moldova-amintirile-din-comunism)**
+  ...
 
 ![The British School of emotionalism and metamodernism](https://www.eurozine.com/wp-content/uploads/2026/04/Night_Dive_181745183-300x163.jpeg)
 
@@ -51,6 +54,35 @@
 
 ## 🌍 美洲
 
+### 📰 APA Blog
+
+- **[The Possibility of Love at First Sight](https://blog.apaonline.org/2026/04/14/the-possibility-of-love-at-first-sight/)**
+  It is often asked if love at first sight is possible. Love is certainly possible. Adopting an attitude by looking at a p...
+
+### 📰 Stanford Encyclopedia of Philosophy
+
+- **[Gershom Scholem](https://plato.stanford.edu/entries/scholem/)**
+  [New Entry by Daniel Weidner on April 14, 2026.]
+ [Editor's Note: The following new entry by Daniel Weidner replaces the...
+
+- **[Discrimination](https://plato.stanford.edu/entries/discrimination/)**
+  [New Entry by Anthony Sangiuliano on April 14, 2026.]
+ [Editor's Note: The following new entry by Anthony Sangiuliano re...
+
+### 📰 Daily Nous
+
+![New AI Model Has a Taste for Philosophy](https://dailynous.com/wp-content/uploads/2026/04/claude-mythos-preview-nagel.png)
+
+- **[New AI Model Has a Taste for Philosophy](https://dailynous.com/2026/04/14/new-ai-model-has-a-taste-for-philosophy/)**
+  The AI firm Anthropic recently shared a detailed description of the various capabilities and safety risks of Claude Myth...
+  *关键词: philosophy, discussion, philosophical*
+
+![Three Philosophers Among New Guggenheim Fellows](https://dailynous.com/wp-content/uploads/2026/04/guggenheim-fellows-philosophy-2026.png)
+
+- **[Three Philosophers Among New Guggenheim Fellows](https://dailynous.com/2026/04/14/three-philosophers-among-new-guggenheim-fellows-2/)**
+  The John Simon Guggenheim Memorial Foundation has announced its new class of fellows, and three philosophers are among t...
+  *关键词: philosophy*
+
 ### 📰 The Partially Examined Life
 
 ![Ep. 389: Hegel on Wealth and Power (Part One)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-1-300x300.jpg)
@@ -59,48 +91,6 @@
   Subscribe to get parts 1 and 2 of this now, ad-free, plus tons of bonus content.
 Continuing on Hegel's Phenomenolo...
   *关键词: philosophy, discussion*
-
-![Ep. 389: Hegel on Wealth and Power (Part One for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-1-300x300.jpg)
-
-- **[Ep. 389: Hegel on Wealth and Power (Part One for Supporters)](https://partiallyexaminedlife.com/2026/04/12/ep-389-1-hegel-wealth-power-citizen/)**
-  Continuing on Hegel's Phenomenology, "Spirit" chapter, now up to sections 511-526, which finishes off the sub-section of...
-  *关键词: philosophy, discussion*
-
-![Ep. 389: Hegel on Wealth and Power (Part Two for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-1-300x300.jpg)
-
-- **[Ep. 389: Hegel on Wealth and Power (Part Two for Supporters)](https://partiallyexaminedlife.com/2026/04/12/ep-389-2-hegel-wealth-power-citizen/)**
-  Concluding on "Culture and its Realm of Actuality," in Hegel's Phenomenology via sections 519-526. 
-We get into some of ...
-  *关键词: philosophy*
-
-### 📰 APA Blog
-
-- **[Should Men Be Ashamed of Their AI Girlfriends?](https://blog.apaonline.org/2026/04/13/should-men-be-ashamed-of-their-ai-girlfriends/)**
-  More and more people are engaging with AI chatbots in seemingly social ways. Contemporary LLMs have become unsettlingly ...
-
-- **[Doing Philosophy in a Borrowed Tongue](https://blog.apaonline.org/2026/04/13/doing-philosophy-in-a-borrowed-tongue/)**
-  Until I began my Ph.D. in the United States, I had spent my entire life in Korea, speaking Korean. While I had a sense o...
-  *关键词: philosophy, analytic philosophy*
-
-### 📰 Daily Nous
-
-![The Philosophy of Invading a Beagle Breeding Facility (guest post)](https://dailynous.com/wp-content/uploads/2026/04/beagle-rescue.png)
-
-- **[The Philosophy of Invading a Beagle Breeding Facility (guest post)](https://dailynous.com/2026/04/13/philosophy-invading-beagle-breeding-facility/)**
-  Later this week, at least two philosophers will risk arrest by taking part in the largest-ever open rescue in the histor...
-  *关键词: philosophy, discussion*
-
-![Turner from Arizona to Notre Dame](https://dailynous.com/wp-content/uploads/2026/04/turner-jason-photo.png)
-
-- **[Turner from Arizona to Notre Dame](https://dailynous.com/2026/04/13/turner-from-arizona-to-notre-dame/)**
-  Jason Turner, currently professor of philosophy at the University of Arizona, will be moving to the University of Notre ...
-  *关键词: philosophy, metaphysics, logic*
-
-![New: International Society for Moral Psychology](https://dailynous.com/wp-content/uploads/2026/04/international-society-moral-psychology.png)
-
-- **[New: International Society for Moral Psychology](https://dailynous.com/2026/04/13/new-international-society-for-moral-psychology/)**
-  The International Society for Moral Psychology (ISMP) is a new association that aims to be an &#8220;interdisciplinary a...
-  *关键词: conference, scholar*
 
 ### 📰 3:AM Magazine
 
@@ -113,26 +103,6 @@ We get into some of ...
 
 - **[Slaughterhouse 666: Kicking and A-gouging in the Pus and the Gore and the Fear](https://www.3ammagazine.com/3am/slaughterhouse-666-kicking-and-a-gouging-in-the-pus-and-the-gore-and-the-fear/)**
   Imagine all those sentences, those paragraphs – the birth of a novel now lost among New Year’s resolutions in discarded ...
-
-*📚 以上为近期内容*
-
-### 📰 Stanford Encyclopedia of Philosophy
-
-- **[Philosophy of Microbiology](https://plato.stanford.edu/entries/microbiology/)**
-  [Revised entry by Maureen A. O’Malley and Emily C. Parke on April 10, 2026. 
-Changes to: Main text, Bibliography, notes....
-  *关键词: philosophy, philosophical*
-
-- **[Śāntarakṣita](https://plato.stanford.edu/entries/saantarak-sita/)**
-  [Revised entry by James Blumenthal and James Apple on April 8, 2026. 
-Changes to: Main text, Bibliography, notes.html]
- ...
-  *关键词: philosophy, thinker*
-
-- **[Experimental Philosophy](https://plato.stanford.edu/entries/experimental-philosophy/)**
-  [New Entry by Justin Sytsma, Kevin Reuter, and Pascale Willemsen on April 8, 2026.]
- [Editor's Note: The following new e...
-  *关键词: philosophy*
 
 *📚 以上为近期内容*
 
@@ -153,5 +123,5 @@ Changes to: Main text, Bibliography, notes.html]
 
 ---
 
-*报告生成时间: 2026-04-14 03:05*  
+*报告生成时间: 2026-04-14 16:05*  
 *Atlas Intelligence System*
