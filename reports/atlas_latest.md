@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-04-14  
-**来源**: 全球 2 个地区 · 6 个信源
+**日期**: 2026-04-15  
+**来源**: 全球 2 个地区 · 5 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 22 条
+- **新增资讯**: 16 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -45,11 +45,6 @@
 
 - **[Recuperarea identității moldovene](https://www.eurozine.com/recuperarea-identitatii-moldovene-cum-trateaza-scriitorii-contemporani-din-r-moldova-amintirile-din-comunism/?utm_source=rss&utm_medium=rss&utm_campaign=recuperarea-identitatii-moldovene-cum-trateaza-scriitorii-contemporani-din-r-moldova-amintirile-din-comunism)**
   ...
-
-![The British School of emotionalism and metamodernism](https://www.eurozine.com/wp-content/uploads/2026/04/Night_Dive_181745183-300x163.jpeg)
-
-- **[The British School of emotionalism and metamodernism](https://www.eurozine.com/the-british-school-of-emotionalism-and-metamodernism/?utm_source=rss&utm_medium=rss&utm_campaign=the-british-school-of-emotionalism-and-metamodernism)**
-  Both emotional and uncanny, sincere yet ironic – contemporary British-based composers are pioneering a new aesthetic: mu...
 
 
 ## 🌍 美洲
@@ -92,6 +87,21 @@
 Continuing on Hegel's Phenomenolo...
   *关键词: philosophy, discussion*
 
+![Ep. 389: Hegel on Wealth and Power (Part One for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-1-300x300.jpg)
+
+- **[Ep. 389: Hegel on Wealth and Power (Part One for Supporters)](https://partiallyexaminedlife.com/2026/04/12/ep-389-1-hegel-wealth-power-citizen/)**
+  Continuing on Hegel's Phenomenology, "Spirit" chapter, now up to sections 511-526, which finishes off the sub-section of...
+  *关键词: philosophy, discussion*
+
+![Ep. 389: Hegel on Wealth and Power (Part Two for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-1-300x300.jpg)
+
+- **[Ep. 389: Hegel on Wealth and Power (Part Two for Supporters)](https://partiallyexaminedlife.com/2026/04/12/ep-389-2-hegel-wealth-power-citizen/)**
+  Concluding on "Culture and its Realm of Actuality," in Hegel's Phenomenology via sections 519-526. 
+We get into some of ...
+  *关键词: philosophy*
+
+*📚 以上为近期内容*
+
 ### 📰 3:AM Magazine
 
 ![Dear Father, Who May Not Be In Heaven](https://www.3ammagazine.com/wp-content/uploads/2026/04/berg-banner.jpg)
@@ -123,5 +133,5 @@ Continuing on Hegel's Phenomenolo...
 
 ---
 
-*报告生成时间: 2026-04-14 16:05*  
+*报告生成时间: 2026-04-15 03:05*  
 *Atlas Intelligence System*
