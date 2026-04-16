@@ -1,18 +1,25 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-04-15  
-**来源**: 全球 3 个地区 · 6 个信源
+**日期**: 2026-04-16  
+**来源**: 全球 3 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 12 条
+- **新增资讯**: 13 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
 
 ## 🌍 欧洲
+
+### 📰 Eurozine
+
+![An ambicolonial war](https://www.eurozine.com/wp-content/uploads/2026/03/Krytyka_11_12_2025-copy-300x225.jpg)
+
+- **[An ambicolonial war](https://www.eurozine.com/an-ambicolonial-war/?utm_source=rss&utm_medium=rss&utm_campaign=an-ambicolonial-war)**
+  Russia’s ambicolonial war of cultural erasure; the democratisation of Ukrainian national defence; the imagined Orient of...
 
 ### 📰 The New European
 
@@ -40,23 +47,6 @@
 
 - **[Jenrick’s day out at the races in the Sun](https://www.thenewworld.co.uk/rats-in-a-sack-jenricks-day-out-at-the-races-in-the-sun/)**
   Reform's Treasury spokesman accepted a day out at the races from the betting-mad newspaper after opposing plans to hike ...
-
-### 📰 Eurozine
-
-- **[Recuperarea identității moldovene](https://www.eurozine.com/recuperarea-identitatii-moldovene-cum-trateaza-scriitorii-contemporani-din-r-moldova-amintirile-din-comunism/?utm_source=rss&utm_medium=rss&utm_campaign=recuperarea-identitatii-moldovene-cum-trateaza-scriitorii-contemporani-din-r-moldova-amintirile-din-comunism)**
-  ...
-
-![The British School of emotionalism and metamodernism](https://www.eurozine.com/wp-content/uploads/2026/04/Night_Dive_181745183-300x163.jpeg)
-
-- **[The British School of emotionalism and metamodernism](https://www.eurozine.com/the-british-school-of-emotionalism-and-metamodernism/?utm_source=rss&utm_medium=rss&utm_campaign=the-british-school-of-emotionalism-and-metamodernism)**
-  Both emotional and uncanny, sincere yet ironic – contemporary British-based composers are pioneering a new aesthetic: mu...
-
-![Dialogue and silence](https://www.eurozine.com/wp-content/uploads/2026/04/Angelus_Novus_1920_-_Paul_Klee-300x233.jpg)
-
-- **[Dialogue and silence](https://www.eurozine.com/dialogue-and-silence/?utm_source=rss&utm_medium=rss&utm_campaign=dialogue-and-silence)**
-  Habermas understood that the possibility for German–Jewish dialogue after the Holocaust depends on commitment to univers...
-
-*📚 以上为近期内容*
 
 
 ## 🌍 美洲
@@ -133,5 +123,5 @@ We get into some of ...
 
 ---
 
-*报告生成时间: 2026-04-15 16:05*  
+*报告生成时间: 2026-04-16 03:09*  
 *Atlas Intelligence System*
