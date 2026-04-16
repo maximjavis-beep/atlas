@@ -1,18 +1,40 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-04-16  
-**来源**: 全球 3 个地区 · 7 个信源
+**来源**: 全球 2 个地区 · 5 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 13 条
+- **新增资讯**: 9 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
 
 ## 🌍 欧洲
+
+### 📰 The New European
+
+![The biggest losers of Trump’s Iran fiasco: Israel and the US](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/ARMS-trump-iran-fiasco.jpg)
+
+- **[The biggest losers of Trump’s Iran fiasco: Israel and the US](https://www.thenewworld.co.uk/tom-arms-the-biggest-losers-of-trumps-iran-fiasco-israel-and-the-us/)**
+  After Iran, and Venezuela, the US has destroyed its reputation and the world has learned a new lesson. That the US is no...
+
+![From Orbán fan to Orbán foe: will Péter Magyar change Hungary?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/LASTOVYRIA-magyar-orban.jpg)
+
+- **[From Orbán fan to Orbán foe: will Péter Magyar change Hungary?](https://www.thenewworld.co.uk/mariana-lastovyria-from-orban-fan-to-orban-foe-will-peter-magyar-change-hungary/)**
+  Viktor Orbán’s authoritarian rule is over, but Magyar once had a poster of him on his bedroom wall. When the celebration...
+
+![Bill Cash is back. Have I gone back in time?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-956662034-e1776354192273.jpg)
+
+- **[Bill Cash is back. Have I gone back in time?](https://www.thenewworld.co.uk/matt-withers-bill-cash-is-back-have-i-gone-back-in-time/)**
+  The veteran Brexiteer is in the Daily Telegraph railing against the government kowtowing to the European Union. Is it 19...
+
+![Israel’s new weapon of war: archaeology](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/austin-east-jerusalem.jpg)
+
+- **[Israel’s new weapon of war: archaeology](https://www.thenewworld.co.uk/alice-austen-israels-new-weapon-of-war-archaeology/)**
+  The Israeli government is justifying its territorial expansion using ancient historical finds. Around East Jerusalem, wh...
 
 ### 📰 Eurozine
 
@@ -21,35 +43,30 @@
 - **[An ambicolonial war](https://www.eurozine.com/an-ambicolonial-war/?utm_source=rss&utm_medium=rss&utm_campaign=an-ambicolonial-war)**
   Russia’s ambicolonial war of cultural erasure; the democratisation of Ukrainian national defence; the imagined Orient of...
 
-### 📰 The New European
-
-![Is Matt Goodwin’s book really the country’s biggest-selling paperback?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/goodwin-1-e1774871232140.jpg)
-
-- **[Is Matt Goodwin’s book really the country’s biggest-selling paperback?](https://www.thenewworld.co.uk/rats-in-a-sack-is-matt-goodwins-book-really-the-countrys-biggest-selling-paperback/)**
-  The hard right rabble-rouser keeps boasting Suicide of a Nation is the number one paperback in the country. Except it is...
-
-![Sarah Vine gets to the nub of the Southport inquiry](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/09/GettyImages-1144901010-e1756999904677.jpg)
-
-- **[Sarah Vine gets to the nub of the Southport inquiry](https://www.thenewworld.co.uk/rats-in-a-sack-sarah-vine-gets-to-the-nub-of-the-southport-inquiry/)**
-  The highly-paid Daily Mail columnist once again displayed her forensic ability to understand what really matters on the ...
-
-![Martin Rowson’s cartoon: “Wargasm Issues”](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/12/OWENS_WAR.jpg)
-
-- **[Martin Rowson’s cartoon: “Wargasm Issues”](https://www.thenewworld.co.uk/martin-rowsons-cartoon-wargasm-issues/)**
-  ...
-
-![Modern Toss’s Tossary: Oppenheimer’s Nugget](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2024/07/NIC-POEM_HOLDER.jpg)
-
-- **[Modern Toss’s Tossary: Oppenheimer’s Nugget](https://www.thenewworld.co.uk/modern-tosss-tossary-oppenheimers-nugget/)**
-  ...
-
-![Jenrick’s day out at the races in the Sun](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2266526481-e1776267618358.jpg)
-
-- **[Jenrick’s day out at the races in the Sun](https://www.thenewworld.co.uk/rats-in-a-sack-jenricks-day-out-at-the-races-in-the-sun/)**
-  Reform's Treasury spokesman accepted a day out at the races from the betting-mad newspaper after opposing plans to hike ...
-
 
 ## 🌍 美洲
+
+### 📰 Experimental Philosophy
+
+- **[Call: “Law Observed”](https://xphi.net/2026/04/16/call-law-observed/)**
+  Marco Mazzocca and Miriam Ferraro organize a workshop on “Law Observed – Sociological Methods and Empirical Research on ...
+  *关键词: workshop, logic*
+
+### 📰 APA Blog
+
+- **[The Paradox of China’s Crypto Regulation and Capital Going Global (Part 2)](https://blog.apaonline.org/2026/04/16/the-paradox-of-chinas-crypto-regulation-and-capital-going-global-part-2/)**
+  The Global Expansion of Chinese Crypto Capital and the Systemic Collapse of Community Culture In Part 1, I examined how ...
+
+- **[When Jokes Won’t Do: Affective Shifts in U.S. Late-Night Comedy](https://blog.apaonline.org/2026/04/16/when-jokes-wont-do-affective-shifts-in-u-s-late-night-comedy/)**
+  The news these days seems dire, so much so that people are opting out. News avoidance is a rapidly increasing phenomenon...
+
+### 📰 Daily Nous
+
+![Dale Dorsey (1976-2026)](https://dailynous.com/wp-content/uploads/2024/06/dorsey-dale-photo.jpg)
+
+- **[Dale Dorsey (1976-2026)](https://dailynous.com/2026/04/16/dale-dorsey-1976-2026/)**
+  Dale Dorsey, professor of philosophy at the University of Oxford, has died. Professor Dorsey was highly regarded for his...
+  *关键词: philosophy, discussion, ethics*
 
 ### 📰 3:AM Magazine
 
@@ -58,13 +75,17 @@
 - **[Hesitantly Surfing the Looming AI Tsunami (Part Two)](https://www.3ammagazine.com/3am/hesitantly-surfing-the-looming-ai-tsunami-part-two/)**
   This is not my voice, it’s a choppy kind of montage voice, with sales pitch style meets reddit. And, of course that is b...
 
-### 📰 APA Blog
+![Dear Father, Who May Not Be In Heaven](https://www.3ammagazine.com/wp-content/uploads/2026/04/berg-banner.jpg)
 
-![What Do We Really Know About “Obesity”?](https://i0.wp.com/blog.apaonline.org/wp-content/uploads/2018/03/Women-in-philosophy.png?resize=696%2C283&#038;ssl=1)
+- **[Dear Father, Who May Not Be In Heaven](https://www.3ammagazine.com/3am/dear-father-who-may-not-be-in-heaven/)**
+  In Homolovi, surrounded by storm clouds, faced with a hissing bull snake, I decided—like a fool—to pray to my father for...
 
-- **[What Do We Really Know About “Obesity”?](https://blog.apaonline.org/2026/04/15/what-do-we-really-know-about-obesity/)**
-  In 1864, the scientist Benjamin Apthorp Gould was appointed to conduct a survey of the physical characteristics of thous...
-  *关键词: philosophy*
+![Slaughterhouse 666: Kicking and A-gouging in the Pus and the Gore and the Fear](https://www.3ammagazine.com/wp-content/uploads/2026/04/Image-1-768x1024.png)
+
+- **[Slaughterhouse 666: Kicking and A-gouging in the Pus and the Gore and the Fear](https://www.3ammagazine.com/3am/slaughterhouse-666-kicking-and-a-gouging-in-the-pus-and-the-gore-and-the-fear/)**
+  Imagine all those sentences, those paragraphs – the birth of a novel now lost among New Year’s resolutions in discarded ...
+
+*📚 以上为近期内容*
 
 ### 📰 Stanford Encyclopedia of Philosophy
 
@@ -74,19 +95,15 @@ Changes to: Main text, Bibliography]
  Koreans have played a pivota...
   *关键词: philosophical*
 
-### 📰 Daily Nous
+- **[Gershom Scholem](https://plato.stanford.edu/entries/scholem/)**
+  [New Entry by Daniel Weidner on April 14, 2026.]
+ [Editor's Note: The following new entry by Daniel Weidner replaces the...
 
-![Who Wins Fellowships in the Arts & Humanities?](https://dailynous.com/wp-content/uploads/2026/04/baker-bennett-who-gets-guggenheims.png)
+- **[Discrimination](https://plato.stanford.edu/entries/discrimination/)**
+  [New Entry by Anthony Sangiuliano on April 14, 2026.]
+ [Editor's Note: The following new entry by Anthony Sangiuliano re...
 
-- **[Who Wins Fellowships in the Arts & Humanities?](https://dailynous.com/2026/04/15/who-wins-fellowships-in-the-arts-humanities/)**
-  &#8220;Unfortunately, the types of people for whom such fellowships might represent the greatest departure from their ev...
-  *关键词: logic*
-
-![Chemero from Cincinnati to Vanderbilt](https://dailynous.com/wp-content/uploads/2026/04/chemero-anthony.jpeg)
-
-- **[Chemero from Cincinnati to Vanderbilt](https://dailynous.com/2026/04/15/chemero-from-cincinnati-to-vanderbilt/)**
-  Anthony Chemero, currently professor of philosophy at the University of Cincinnati, will be moving to Vanderbilt Univers...
-  *关键词: philosophy, philosophy of mind, philosophy of science*
+*📚 以上为近期内容*
 
 ### 📰 The Partially Examined Life
 
@@ -120,8 +137,14 @@ We get into some of ...
 - **[Academic Freedom in the Global South: Social and Institutional Lessons Learned from Latin America, the Caribbean and Africa](https://codesria.org/academic-freedom-in-the-global-south-social-and-institutional-lessons-learned-from-latin-america-the-caribbean-and-africa/)**
   Presentation Since 2021, the Knowledge Network on the Right to Higher Education from the Global South (REGS) has been wo...
 
+- **[2026 Julius Nyerere Leadership lecture](https://codesria.org/2026-julius-nyerere-leadership-lecture/)**
+  The one-day event on Mwalimu Nyerere&#8217;s birthday reflecting on leadership, sustainability and change is inspired by...
+  *关键词: lecture*
+
+*📚 以上为近期内容*
+
 
 ---
 
-*报告生成时间: 2026-04-16 03:09*  
+*报告生成时间: 2026-04-16 16:06*  
 *Atlas Intelligence System*
