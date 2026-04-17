@@ -1,7 +1,7 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-04-17  
-**来源**: 全球 2 个地区 · 6 个信源
+**来源**: 全球 2 个地区 · 5 个信源
 
 ---
 
@@ -16,30 +16,30 @@
 
 ### 📰 The New European
 
-![Matt Kelly’s picks of the week: The fall of Orbán, OnlyFans and how to stop the next Trump](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/web-images-23.png)
+![Ozzy Osbourne wouldn’t have marched with Tommy Robinson. Why is Sharon doing so?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/WINWOOD-osbourne.jpg)
 
-- **[Matt Kelly’s picks of the week: The fall of Orbán, OnlyFans and how to stop the next Trump](https://www.thenewworld.co.uk/matt-kellys-picks-of-the-week-the-fall-of-orban-onlyfans-and-how-to-stop-the-next-trump/)**
-  Our founder and editor-in-chief’s weekly highlights from the magazine...
+- **[Ozzy Osbourne wouldn’t have marched with Tommy Robinson. Why is Sharon doing so?](https://www.thenewworld.co.uk/ian-winwood-ozzy-osbourne-wouldnt-have-marched-with-tommy-robinson-why-is-sharon-doing-so/)**
+  Sharon Osbourne plans to join a far right protest in London next month...
 
-![The next sacking is going to be Starmer](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/BALL-starmer-mandy.jpg)
+![Under-fire Palantir goes on a pricey PR push](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2268834002-e1776424973866.jpg)
 
-- **[The next sacking is going to be Starmer](https://www.thenewworld.co.uk/james-ball-the-next-sacking-is-going-to-be-starmer/)**
-  If he knew Mandelson had failed vetting, he should resign. If he didn't, he looks fatally incompetent...
+- **[Under-fire Palantir goes on a pricey PR push](https://www.thenewworld.co.uk/rats-in-a-sack-under-fire-palantir-goes-on-a-pricey-pr-push/)**
+  The controversial US data firm is paying north of £50,000 to sponsor the UK’s most influential political newsletter...
 
-![The biggest losers of Trump’s Iran fiasco: Israel and the US](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/ARMS-trump-iran-fiasco.jpg)
+![Andrew Neil goes the full Monte Carlo](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/01/GettyImages-1402287423-1-e1736781743311.jpg)
 
-- **[The biggest losers of Trump’s Iran fiasco: Israel and the US](https://www.thenewworld.co.uk/tom-arms-the-biggest-losers-of-trumps-iran-fiasco-israel-and-the-us/)**
-  After Iran, and Venezuela, the US has destroyed its reputation and the world has learned a new lesson. That the US is no...
+- **[Andrew Neil goes the full Monte Carlo](https://www.thenewworld.co.uk/rats-in-a-sack-andrew-neil-goes-the-full-monte-carlo/)**
+  The veteran pundit has moved to Monaco, according to new filings at Companies House...
 
-![From Orbán fan to Orbán foe: will Péter Magyar change Hungary?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/LASTOVYRIA-magyar-orban.jpg)
+![How the Aussie media got Harry and Meghan’s visit all wrong](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/Harry-meghan-australia.jpg)
 
-- **[From Orbán fan to Orbán foe: will Péter Magyar change Hungary?](https://www.thenewworld.co.uk/mariana-lastovyria-from-orban-fan-to-orban-foe-will-peter-magyar-change-hungary/)**
-  Viktor Orbán’s authoritarian rule is over, but Magyar once had a poster of him on his bedroom wall. When the celebration...
+- **[How the Aussie media got Harry and Meghan’s visit all wrong](https://www.thenewworld.co.uk/lynne-odonnell-how-the-aussie-media-got-harry-and-meghans-visit-all-wrong/)**
+  The media here has picked up on the UK press’s dislike of Harry and Meghan, but the papers are way out of step with the ...
 
-![Bill Cash is back. Have I gone back in time?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-956662034-e1776354192273.jpg)
+![Why is everyone trying to kill Sam Altman?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2224155588-e1776437944893.jpg)
 
-- **[Bill Cash is back. Have I gone back in time?](https://www.thenewworld.co.uk/matt-withers-bill-cash-is-back-have-i-gone-back-in-time/)**
-  The veteran Brexiteer is in the Daily Telegraph railing against the government kowtowing to the European Union. Is it 19...
+- **[Why is everyone trying to kill Sam Altman?](https://www.thenewworld.co.uk/matt-muir-why-is-everyone-trying-to-kill-sam-altman/)**
+  Governments, critics and AI executives themselves have been saying for years that AI could completely overturn western s...
 
 ### 📰 Eurozine
 
@@ -51,6 +51,18 @@
 
 ## 🌍 美洲
 
+### 📰 Stanford Encyclopedia of Philosophy
+
+- **[Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)**
+  [Revised entry by Graham Priest, Koji Tanaka, and Zach Weber on April 17, 2026. 
+Changes to: Main text, Bibliography]
+ A...
+  *关键词: logic*
+
+- **[Early Modern Rationalism](https://plato.stanford.edu/entries/rationalism-early-modern/)**
+  [New Entry by Peter West, Kevin Lower, Natalia Strok, Pedro Pricladnitzky, Fabio Malfara, Manuel Fasko, and Christopher ...
+  *关键词: logic*
+
 ### 📰 Experimental Philosophy
 
 - **[Call: “New Methods in Semantics of Artefacts”](https://xphi.net/2026/04/17/call-new-methods-in-semantics-of-artefacts/)**
@@ -59,16 +71,6 @@
 
 - **[Summer School: “Advanced Methods in Eye Tracking”](https://xphi.net/2026/04/17/summer-school-advanced-methods-in-eye-tracking/)**
   From June 22 to 23, 2026, the summer school “Advanced Methods in Eye Tracking” will take place at the University of East...
-
-- **[Call: “Law Observed”](https://xphi.net/2026/04/16/call-law-observed/)**
-  Marco Mazzocca and Miriam Ferraro organize a workshop on “Law Observed – Sociological Methods and Empirical Research on ...
-  *关键词: workshop, logic*
-
-### 📰 Stanford Encyclopedia of Philosophy
-
-- **[Early Modern Rationalism](https://plato.stanford.edu/entries/rationalism-early-modern/)**
-  [New Entry by Peter West, Kevin Lower, Natalia Strok, Pedro Pricladnitzky, Fabio Malfara, Manuel Fasko, and Christopher ...
-  *关键词: logic*
 
 ### 📰 Daily Nous
 
@@ -84,12 +86,6 @@
   The American Council of Learned Societies (ACLS) has announced its 2026 class of fellows, and two philosophers are among...
   *关键词: philosophy, debate, philosophical*
 
-![Dale Dorsey (1976-2026)](https://dailynous.com/wp-content/uploads/2024/06/dorsey-dale-photo.jpg)
-
-- **[Dale Dorsey (1976-2026)](https://dailynous.com/2026/04/16/dale-dorsey-1976-2026/)**
-  Dale Dorsey, professor of philosophy at the University of Oxford, has died. Professor Dorsey was highly regarded for his...
-  *关键词: philosophy, discussion, ethics*
-
 ### 📰 APA Blog
 
 - **[The Paradox of China’s Crypto Regulation and Capital Going Global (Part 2)](https://blog.apaonline.org/2026/04/16/the-paradox-of-chinas-crypto-regulation-and-capital-going-global-part-2/)**
@@ -97,6 +93,14 @@
 
 - **[When Jokes Won’t Do: Affective Shifts in U.S. Late-Night Comedy](https://blog.apaonline.org/2026/04/16/when-jokes-wont-do-affective-shifts-in-u-s-late-night-comedy/)**
   The news these days seems dire, so much so that people are opting out. News avoidance is a rapidly increasing phenomenon...
+
+![What Do We Really Know About “Obesity”?](https://i0.wp.com/blog.apaonline.org/wp-content/uploads/2018/03/Women-in-philosophy.png?resize=696%2C283&#038;ssl=1)
+
+- **[What Do We Really Know About “Obesity”?](https://blog.apaonline.org/2026/04/15/what-do-we-really-know-about-obesity/)**
+  In 1864, the scientist Benjamin Apthorp Gould was appointed to conduct a survey of the physical characteristics of thous...
+  *关键词: philosophy*
+
+*📚 以上为近期内容*
 
 ### 📰 3:AM Magazine
 
@@ -109,11 +113,6 @@
 
 - **[Dear Father, Who May Not Be In Heaven](https://www.3ammagazine.com/3am/dear-father-who-may-not-be-in-heaven/)**
   In Homolovi, surrounded by storm clouds, faced with a hissing bull snake, I decided—like a fool—to pray to my father for...
-
-![Slaughterhouse 666: Kicking and A-gouging in the Pus and the Gore and the Fear](https://www.3ammagazine.com/wp-content/uploads/2026/04/Image-1-768x1024.png)
-
-- **[Slaughterhouse 666: Kicking and A-gouging in the Pus and the Gore and the Fear](https://www.3ammagazine.com/3am/slaughterhouse-666-kicking-and-a-gouging-in-the-pus-and-the-gore-and-the-fear/)**
-  Imagine all those sentences, those paragraphs – the birth of a novel now lost among New Year’s resolutions in discarded ...
 
 *📚 以上为近期内容*
 
@@ -154,5 +153,5 @@ We get into some of ...
 
 ---
 
-*报告生成时间: 2026-04-17 03:07*  
+*报告生成时间: 2026-04-17 16:05*  
 *Atlas Intelligence System*
