@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-04-17  
-**来源**: 全球 2 个地区 · 5 个信源
+**日期**: 2026-04-18  
+**来源**: 全球 2 个地区 · 2 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 16 条
+- **新增资讯**: 8 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -48,6 +48,16 @@
 - **[Western alignment without looking East](https://www.eurozine.com/western-alignment-without-looking-east/?utm_source=rss&utm_medium=rss&utm_campaign=western-alignment-without-looking-east)**
   Habermas’s insistence on negotiation with the Putin regime stemmed from a failure to comprehend the eastern European exp...
 
+![An ambicolonial war](https://www.eurozine.com/wp-content/uploads/2026/03/Krytyka_11_12_2025-copy-300x225.jpg)
+
+- **[An ambicolonial war](https://www.eurozine.com/an-ambicolonial-war/?utm_source=rss&utm_medium=rss&utm_campaign=an-ambicolonial-war)**
+  Russia’s ambicolonial war of cultural erasure; the democratisation of Ukrainian national defence; the imagined Orient of...
+
+- **[Recuperarea identității moldovene](https://www.eurozine.com/recuperarea-identitatii-moldovene-cum-trateaza-scriitorii-contemporani-din-r-moldova-amintirile-din-comunism/?utm_source=rss&utm_medium=rss&utm_campaign=recuperarea-identitatii-moldovene-cum-trateaza-scriitorii-contemporani-din-r-moldova-amintirile-din-comunism)**
+  ...
+
+*📚 以上为近期内容*
+
 
 ## 🌍 美洲
 
@@ -59,10 +69,6 @@ Changes to: Main text, Bibliography]
  A...
   *关键词: logic*
 
-- **[Early Modern Rationalism](https://plato.stanford.edu/entries/rationalism-early-modern/)**
-  [New Entry by Peter West, Kevin Lower, Natalia Strok, Pedro Pricladnitzky, Fabio Malfara, Manuel Fasko, and Christopher ...
-  *关键词: logic*
-
 ### 📰 Experimental Philosophy
 
 - **[Call: “New Methods in Semantics of Artefacts”](https://xphi.net/2026/04/17/call-new-methods-in-semantics-of-artefacts/)**
@@ -71,6 +77,12 @@ Changes to: Main text, Bibliography]
 
 - **[Summer School: “Advanced Methods in Eye Tracking”](https://xphi.net/2026/04/17/summer-school-advanced-methods-in-eye-tracking/)**
   From June 22 to 23, 2026, the summer school “Advanced Methods in Eye Tracking” will take place at the University of East...
+
+- **[Call: “Law Observed”](https://xphi.net/2026/04/16/call-law-observed/)**
+  Marco Mazzocca and Miriam Ferraro organize a workshop on “Law Observed – Sociological Methods and Empirical Research on ...
+  *关键词: workshop, logic*
+
+*📚 以上为近期内容*
 
 ### 📰 Daily Nous
 
@@ -85,6 +97,14 @@ Changes to: Main text, Bibliography]
 - **[Philosophers Among New ACLS Fellows](https://dailynous.com/2026/04/17/philosophers-among-new-acls-fellows-4/)**
   The American Council of Learned Societies (ACLS) has announced its 2026 class of fellows, and two philosophers are among...
   *关键词: philosophy, debate, philosophical*
+
+![Dale Dorsey (1976-2026)](https://dailynous.com/wp-content/uploads/2024/06/dorsey-dale-photo.jpg)
+
+- **[Dale Dorsey (1976-2026)](https://dailynous.com/2026/04/16/dale-dorsey-1976-2026/)**
+  Dale Dorsey, professor of philosophy at the University of Oxford, has died. Professor Dorsey was highly regarded for his...
+  *关键词: philosophy, discussion, ethics*
+
+*📚 以上为近期内容*
 
 ### 📰 APA Blog
 
@@ -153,5 +173,5 @@ We get into some of ...
 
 ---
 
-*报告生成时间: 2026-04-17 16:05*  
+*报告生成时间: 2026-04-18 03:06*  
 *Atlas Intelligence System*
