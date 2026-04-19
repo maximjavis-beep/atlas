@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-04-18  
-**来源**: 全球 2 个地区 · 2 个信源
+**日期**: 2026-04-19  
+**来源**: 全球 1 个地区 · 1 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 8 条
+- **新增资讯**: 1 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -31,15 +31,7 @@
 - **[Andrew Neil goes the full Monte Carlo](https://www.thenewworld.co.uk/rats-in-a-sack-andrew-neil-goes-the-full-monte-carlo/)**
   The veteran pundit has moved to Monaco, according to new filings at Companies House...
 
-![How the Aussie media got Harry and Meghan’s visit all wrong](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/Harry-meghan-australia.jpg)
-
-- **[How the Aussie media got Harry and Meghan’s visit all wrong](https://www.thenewworld.co.uk/lynne-odonnell-how-the-aussie-media-got-harry-and-meghans-visit-all-wrong/)**
-  The media here has picked up on the UK press’s dislike of Harry and Meghan, but the papers are way out of step with the ...
-
-![Why is everyone trying to kill Sam Altman?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2224155588-e1776437944893.jpg)
-
-- **[Why is everyone trying to kill Sam Altman?](https://www.thenewworld.co.uk/matt-muir-why-is-everyone-trying-to-kill-sam-altman/)**
-  Governments, critics and AI executives themselves have been saying for years that AI could completely overturn western s...
+*📚 以上为近期内容*
 
 ### 📰 Eurozine
 
@@ -63,11 +55,9 @@
 
 ### 📰 Stanford Encyclopedia of Philosophy
 
-- **[Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)**
-  [Revised entry by Graham Priest, Koji Tanaka, and Zach Weber on April 17, 2026. 
-Changes to: Main text, Bibliography]
- A...
-  *关键词: logic*
+- **[Aristotle’s Biology](https://plato.stanford.edu/entries/aristotle-biology/)**
+  [Revised entry by James Lennox and Mariska Leunissen on April 19, 2026. 
+Changes to: Main text, Bibliography, notes.html...
 
 ### 📰 Experimental Philosophy
 
@@ -173,5 +163,5 @@ We get into some of ...
 
 ---
 
-*报告生成时间: 2026-04-18 03:06*  
+*报告生成时间: 2026-04-19 16:06*  
 *Atlas Intelligence System*
