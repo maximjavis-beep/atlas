@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-04-20  
-**来源**: 全球 1 个地区 · 4 个信源
+**来源**: 全球 2 个地区 · 7 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 5 条
+- **新增资讯**: 17 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -16,42 +16,57 @@
 
 ### 📰 The New European
 
-![Ozzy Osbourne wouldn’t have marched with Tommy Robinson. Why is Sharon doing so?](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/WINWOOD-osbourne.jpg)
+![The Iran war has taught Australia a new, brutal truth about itself](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/479_LYNNE_AUSFUEL.jpg)
 
-- **[Ozzy Osbourne wouldn’t have marched with Tommy Robinson. Why is Sharon doing so?](https://www.thenewworld.co.uk/ian-winwood-ozzy-osbourne-wouldnt-have-marched-with-tommy-robinson-why-is-sharon-doing-so/)**
-  Sharon Osbourne plans to join a far right protest in London next month...
+- **[The Iran war has taught Australia a new, brutal truth about itself](https://www.thenewworld.co.uk/lynne-odonnell-the-iran-war-has-taught-australia-a-new-brutal-truth-about-itself/)**
+  The fuel price shock has destroyed Australia’s most fundamental strategic assumption – that geographical isolation means...
 
-![Under-fire Palantir goes on a pricey PR push](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2268834002-e1776424973866.jpg)
+![The AI candidate running for the White House](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/479_MUIR_PRESAI-1.jpg)
 
-- **[Under-fire Palantir goes on a pricey PR push](https://www.thenewworld.co.uk/rats-in-a-sack-under-fire-palantir-goes-on-a-pricey-pr-push/)**
-  The controversial US data firm is paying north of £50,000 to sponsor the UK’s most influential political newsletter...
+- **[The AI candidate running for the White House](https://www.thenewworld.co.uk/matt-muir-the-ai-candidate-running-for-the-white-house/)**
+  Well, it couldn’t be any worse. Could it?...
 
-![Andrew Neil goes the full Monte Carlo](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/01/GettyImages-1402287423-1-e1736781743311.jpg)
+![The horrors of the online “Rape Academy”](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/479_KLINGLER_RAPACAD.jpg)
 
-- **[Andrew Neil goes the full Monte Carlo](https://www.thenewworld.co.uk/rats-in-a-sack-andrew-neil-goes-the-full-monte-carlo/)**
-  The veteran pundit has moved to Monaco, according to new filings at Companies House...
+- **[The horrors of the online “Rape Academy”](https://www.thenewworld.co.uk/jamie-klingler-the-horrors-of-the-online-rape-academy/)**
+  If you thought the rape of Gisèle Pelicot was a unique story, you were wrong...
 
-*📚 以上为近期内容*
+![Reform’s energy cost stunt hits yet another snag](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/HFfHb7lWMAEyIdv-e1775818888774.jpg)
+
+- **[Reform’s energy cost stunt hits yet another snag](https://www.thenewworld.co.uk/rats-in-a-sack-reforms-energy-cost-stunt-hits-yet-another-snag/)**
+  The party promised to pay the energy bills for a year of a competition winner and their entire street - but plenty seem ...
+
+![Inside the White House “Holy War” Signal chat group](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/479_MORRIS_SIGNAL-1.jpg)
+
+- **[Inside the White House “Holy War” Signal chat group](https://www.thenewworld.co.uk/henry-morris-inside-the-white-house-holy-war-signal-chat-group/)**
+  According to JD Vance, Pete Hegseth and Russell Brand, the Bible is clear that war is a good thing. Why doesn’t the Pope...
 
 ### 📰 Eurozine
 
-![Western alignment without looking East](https://www.eurozine.com/wp-content/uploads/2026/04/Friedensdemonstration_Bonn_am_10ten_Juni_1982_-_Auftakt_und_Demonstration_01_s-w-300x202.jpg)
+![Social experiments without experimentalism](https://www.eurozine.com/wp-content/uploads/2026/04/master-pnp-cph-3g00000-3g09000-3g09400-3g09413u_crop-300x114.jpg)
 
-- **[Western alignment without looking East](https://www.eurozine.com/western-alignment-without-looking-east/?utm_source=rss&utm_medium=rss&utm_campaign=western-alignment-without-looking-east)**
-  Habermas’s insistence on negotiation with the Putin regime stemmed from a failure to comprehend the eastern European exp...
+- **[Social experiments without experimentalism](https://www.eurozine.com/social-experiments-without-experimentalism/?utm_source=rss&utm_medium=rss&utm_campaign=social-experiments-without-experimentalism)**
+  Modernism promised a bright future. But adventure soon became routine – the early Crystal Palace experiment since reflec...
 
-![An ambicolonial war](https://www.eurozine.com/wp-content/uploads/2026/03/Krytyka_11_12_2025-copy-300x225.jpg)
-
-- **[An ambicolonial war](https://www.eurozine.com/an-ambicolonial-war/?utm_source=rss&utm_medium=rss&utm_campaign=an-ambicolonial-war)**
-  Russia’s ambicolonial war of cultural erasure; the democratisation of Ukrainian national defence; the imagined Orient of...
-
-- **[Recuperarea identității moldovene](https://www.eurozine.com/recuperarea-identitatii-moldovene-cum-trateaza-scriitorii-contemporani-din-r-moldova-amintirile-din-comunism/?utm_source=rss&utm_medium=rss&utm_campaign=recuperarea-identitatii-moldovene-cum-trateaza-scriitorii-contemporani-din-r-moldova-amintirile-din-comunism)**
-  ...
-
-*📚 以上为近期内容*
+- **[Naujasis Nenormalumas](https://www.eurozine.com/naujasis-nenormalumas/?utm_source=rss&utm_medium=rss&utm_campaign=naujasis-nenormalumas)**
+  Po ketverius neatlėgstančio aliarmo metus nuolatinė aukšto lygio parengtis, ginantis nuo plataus masto invazijos, tapo v...
 
 
 ## 🌍 美洲
+
+### 📰 APA Blog
+
+- **[Towards a Conception of Systemic Discrimination](https://blog.apaonline.org/2026/04/20/towards-a-conception-of-systemic-discrimination/)**
+  What is involved in seeing discrimination as systemic and structural, and how could such an approach help us identify in...
+  *关键词: philosophy*
+
+### 📰 Daily Nous
+
+![14 Takeaways from the Virtual Pacific APA (guest post)](https://dailynous.com/wp-content/uploads/2025/05/apa-phi-color-pixels.png)
+
+- **[14 Takeaways from the Virtual Pacific APA (guest post)](https://dailynous.com/2026/04/20/14-takeaways-from-the-virtual-pacific-apa-guest-post/)**
+  As reported in January, the American Philosophical Association (APA) recently began&#8212;and halted&#8212;an experiment...
+  *关键词: conference, discussion, philosophical*
 
 ### 📰 Experimental Philosophy
 
@@ -87,41 +102,15 @@ Concluding on "Culture and its Realm...
   [Revised entry by James Lennox and Mariska Leunissen on April 19, 2026. 
 Changes to: Main text, Bibliography, notes.html...
 
-### 📰 Daily Nous
+- **[Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)**
+  [Revised entry by Graham Priest, Koji Tanaka, and Zach Weber on April 17, 2026. 
+Changes to: Main text, Bibliography]
+ A...
+  *关键词: logic*
 
-![Schwenkler from Illinois to UT Austin](https://dailynous.com/wp-content/uploads/2026/04/schwenkler-john-photo.jpg)
-
-- **[Schwenkler from Illinois to UT Austin](https://dailynous.com/2026/04/17/schwenkler-from-illinois-to-ut-austin/)**
-  John Schwenkler, currently professor of philosophy at the University of Illinois Urbana-Champaign will be moving to the ...
-  *关键词: philosophy, ethics*
-
-![Philosophers Among New ACLS Fellows](https://dailynous.com/wp-content/uploads/2026/04/barnes-zambrana.png)
-
-- **[Philosophers Among New ACLS Fellows](https://dailynous.com/2026/04/17/philosophers-among-new-acls-fellows-4/)**
-  The American Council of Learned Societies (ACLS) has announced its 2026 class of fellows, and two philosophers are among...
-  *关键词: philosophy, debate, philosophical*
-
-![Dale Dorsey (1976-2026)](https://dailynous.com/wp-content/uploads/2024/06/dorsey-dale-photo.jpg)
-
-- **[Dale Dorsey (1976-2026)](https://dailynous.com/2026/04/16/dale-dorsey-1976-2026/)**
-  Dale Dorsey, professor of philosophy at the University of Oxford, has died. Professor Dorsey was highly regarded for his...
-  *关键词: philosophy, discussion, ethics*
-
-*📚 以上为近期内容*
-
-### 📰 APA Blog
-
-- **[The Paradox of China’s Crypto Regulation and Capital Going Global (Part 2)](https://blog.apaonline.org/2026/04/16/the-paradox-of-chinas-crypto-regulation-and-capital-going-global-part-2/)**
-  The Global Expansion of Chinese Crypto Capital and the Systemic Collapse of Community Culture In Part 1, I examined how ...
-
-- **[When Jokes Won’t Do: Affective Shifts in U.S. Late-Night Comedy](https://blog.apaonline.org/2026/04/16/when-jokes-wont-do-affective-shifts-in-u-s-late-night-comedy/)**
-  The news these days seems dire, so much so that people are opting out. News avoidance is a rapidly increasing phenomenon...
-
-![What Do We Really Know About “Obesity”?](https://i0.wp.com/blog.apaonline.org/wp-content/uploads/2018/03/Women-in-philosophy.png?resize=696%2C283&#038;ssl=1)
-
-- **[What Do We Really Know About “Obesity”?](https://blog.apaonline.org/2026/04/15/what-do-we-really-know-about-obesity/)**
-  In 1864, the scientist Benjamin Apthorp Gould was appointed to conduct a survey of the physical characteristics of thous...
-  *关键词: philosophy*
+- **[Early Modern Rationalism](https://plato.stanford.edu/entries/rationalism-early-modern/)**
+  [New Entry by Peter West, Kevin Lower, Natalia Strok, Pedro Pricladnitzky, Fabio Malfara, Manuel Fasko, and Christopher ...
+  *关键词: logic*
 
 *📚 以上为近期内容*
 
@@ -138,5 +127,5 @@ Changes to: Main text, Bibliography, notes.html...
 
 ---
 
-*报告生成时间: 2026-04-20 03:06*  
+*报告生成时间: 2026-04-20 16:06*  
 *Atlas Intelligence System*
