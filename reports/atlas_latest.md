@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-04-19  
-**来源**: 全球 1 个地区 · 1 个信源
+**日期**: 2026-04-20  
+**来源**: 全球 1 个地区 · 4 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 1 条
+- **新增资讯**: 5 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -53,26 +53,39 @@
 
 ## 🌍 美洲
 
+### 📰 Experimental Philosophy
+
+- **[Call: “The New Measurement Heretics”](https://xphi.net/2026/04/20/call-the-new-measurement-heretics/)**
+  Following the “Measurement Heretics Workshop – Being, Meaning, and Measuring Well,” Rebecca Jackson, Michele Luchetti, M...
+  *关键词: workshop*
+
+### 📰 The Partially Examined Life
+
+![Ep. 389: Hegel on Wealth and Power (Part Two)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-1-300x300.jpg)
+
+- **[Ep. 389: Hegel on Wealth and Power (Part Two)](https://partiallyexaminedlife.com/2026/04/19/ep-389-2-hegel-wealth-power/)**
+  Subscribe to get parts 1 and 2 of this now, ad-free, plus tons of bonus content.
+Concluding on "Culture and its Realm...
+  *关键词: philosophy*
+
+![Pretty Much Pop #219: Weir-ed Sci Fi: Hail Mary and The Martian](https://partiallyexaminedlife.com/wp-content/uploads/PMP-Hail-Mary-400-x-800-300x150.jpg)
+
+- **[Pretty Much Pop #219: Weir-ed Sci Fi: Hail Mary and The Martian](https://partiallyexaminedlife.com/2026/04/19/pmp219-project-hail-mary/)**
+  We discuss the hard sci-fi film Project Hail Mary, which along with The Martian (2015) was based on a novel by Andy Weir...
+  *关键词: philosophy*
+
+### 📰 3:AM Magazine
+
+![Silly Dance, No Mercy](https://www.3ammagazine.com/wp-content/uploads/2026/02/featherman-banner.jpg)
+
+- **[Silly Dance, No Mercy](https://www.3ammagazine.com/3am/silly-dance-no-mercy/)**
+  He did a silly dance in a bar, a dance so silly that it had no regard for choreography, ego, or social order. At the aft...
+
 ### 📰 Stanford Encyclopedia of Philosophy
 
 - **[Aristotle’s Biology](https://plato.stanford.edu/entries/aristotle-biology/)**
   [Revised entry by James Lennox and Mariska Leunissen on April 19, 2026. 
 Changes to: Main text, Bibliography, notes.html...
-
-### 📰 Experimental Philosophy
-
-- **[Call: “New Methods in Semantics of Artefacts”](https://xphi.net/2026/04/17/call-new-methods-in-semantics-of-artefacts/)**
-  From September 15 to 16, 2026, the conference “New Methods in Semantics of Artefacts – Meaning Beyond Linguistic Signs” ...
-  *关键词: conference*
-
-- **[Summer School: “Advanced Methods in Eye Tracking”](https://xphi.net/2026/04/17/summer-school-advanced-methods-in-eye-tracking/)**
-  From June 22 to 23, 2026, the summer school “Advanced Methods in Eye Tracking” will take place at the University of East...
-
-- **[Call: “Law Observed”](https://xphi.net/2026/04/16/call-law-observed/)**
-  Marco Mazzocca and Miriam Ferraro organize a workshop on “Law Observed – Sociological Methods and Empirical Research on ...
-  *关键词: workshop, logic*
-
-*📚 以上为近期内容*
 
 ### 📰 Daily Nous
 
@@ -112,44 +125,6 @@ Changes to: Main text, Bibliography, notes.html...
 
 *📚 以上为近期内容*
 
-### 📰 3:AM Magazine
-
-![Hesitantly Surfing the Looming AI Tsunami (Part Two)](https://www.3ammagazine.com/wp-content/uploads/2026/03/1765817729-900-640x1024.jpg)
-
-- **[Hesitantly Surfing the Looming AI Tsunami (Part Two)](https://www.3ammagazine.com/3am/hesitantly-surfing-the-looming-ai-tsunami-part-two/)**
-  This is not my voice, it’s a choppy kind of montage voice, with sales pitch style meets reddit. And, of course that is b...
-
-![Dear Father, Who May Not Be In Heaven](https://www.3ammagazine.com/wp-content/uploads/2026/04/berg-banner.jpg)
-
-- **[Dear Father, Who May Not Be In Heaven](https://www.3ammagazine.com/3am/dear-father-who-may-not-be-in-heaven/)**
-  In Homolovi, surrounded by storm clouds, faced with a hissing bull snake, I decided—like a fool—to pray to my father for...
-
-*📚 以上为近期内容*
-
-### 📰 The Partially Examined Life
-
-![Ep. 389: Hegel on Wealth and Power (Part One)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-1-300x300.jpg)
-
-- **[Ep. 389: Hegel on Wealth and Power (Part One)](https://partiallyexaminedlife.com/2026/04/13/ep-389-1-hegel-wealth-power/)**
-  Subscribe to get parts 1 and 2 of this now, ad-free, plus tons of bonus content.
-Continuing on Hegel's Phenomenolo...
-  *关键词: philosophy, discussion*
-
-![Ep. 389: Hegel on Wealth and Power (Part One for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-1-300x300.jpg)
-
-- **[Ep. 389: Hegel on Wealth and Power (Part One for Supporters)](https://partiallyexaminedlife.com/2026/04/12/ep-389-1-hegel-wealth-power-citizen/)**
-  Continuing on Hegel's Phenomenology, "Spirit" chapter, now up to sections 511-526, which finishes off the sub-section of...
-  *关键词: philosophy, discussion*
-
-![Ep. 389: Hegel on Wealth and Power (Part Two for Supporters)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-1-300x300.jpg)
-
-- **[Ep. 389: Hegel on Wealth and Power (Part Two for Supporters)](https://partiallyexaminedlife.com/2026/04/12/ep-389-2-hegel-wealth-power-citizen/)**
-  Concluding on "Culture and its Realm of Actuality," in Hegel's Phenomenology via sections 519-526. 
-We get into some of ...
-  *关键词: philosophy*
-
-*📚 以上为近期内容*
-
 
 ## 🌍 非洲
 
@@ -163,5 +138,5 @@ We get into some of ...
 
 ---
 
-*报告生成时间: 2026-04-19 16:06*  
+*报告生成时间: 2026-04-20 03:06*  
 *Atlas Intelligence System*
