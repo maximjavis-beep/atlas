@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-04-20  
-**来源**: 全球 2 个地区 · 7 个信源
+**日期**: 2026-04-21  
+**来源**: 全球 2 个地区 · 4 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 17 条
+- **新增资讯**: 14 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -15,6 +15,11 @@
 ## 🌍 欧洲
 
 ### 📰 The New European
+
+![Alastair Campbell’s diary: The bizarre truth about my own vetting for No 10](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/479_CAMPBELL_INTERVIEW.jpg)
+
+- **[Alastair Campbell’s diary: The bizarre truth about my own vetting for No 10](https://www.thenewworld.co.uk/alastair-campbells-diary-the-bizarre-truth-about-my-own-vetting-for-no-10/)**
+  Hours after being grilled by an ex-military man, I ran into him again - in very strange circumstances...
 
 ![The Iran war has taught Australia a new, brutal truth about itself](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/479_LYNNE_AUSFUEL.jpg)
 
@@ -35,11 +40,6 @@
 
 - **[Reform’s energy cost stunt hits yet another snag](https://www.thenewworld.co.uk/rats-in-a-sack-reforms-energy-cost-stunt-hits-yet-another-snag/)**
   The party promised to pay the energy bills for a year of a competition winner and their entire street - but plenty seem ...
-
-![Inside the White House “Holy War” Signal chat group](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/479_MORRIS_SIGNAL-1.jpg)
-
-- **[Inside the White House “Holy War” Signal chat group](https://www.thenewworld.co.uk/henry-morris-inside-the-white-house-holy-war-signal-chat-group/)**
-  According to JD Vance, Pete Hegseth and Russell Brand, the Bible is clear that war is a good thing. Why doesn’t the Pope...
 
 ### 📰 Eurozine
 
@@ -74,6 +74,15 @@
   Following the “Measurement Heretics Workshop – Being, Meaning, and Measuring Well,” Rebecca Jackson, Michele Luchetti, M...
   *关键词: workshop*
 
+- **[Call: “New Methods in Semantics of Artefacts”](https://xphi.net/2026/04/17/call-new-methods-in-semantics-of-artefacts/)**
+  From September 15 to 16, 2026, the conference “New Methods in Semantics of Artefacts – Meaning Beyond Linguistic Signs” ...
+  *关键词: conference*
+
+- **[Summer School: “Advanced Methods in Eye Tracking”](https://xphi.net/2026/04/17/summer-school-advanced-methods-in-eye-tracking/)**
+  From June 22 to 23, 2026, the summer school “Advanced Methods in Eye Tracking” will take place at the University of East...
+
+*📚 以上为近期内容*
+
 ### 📰 The Partially Examined Life
 
 ![Ep. 389: Hegel on Wealth and Power (Part Two)](https://partiallyexaminedlife.com/wp-content/uploads/hegel-1-300x300.jpg)
@@ -89,12 +98,21 @@ Concluding on "Culture and its Realm...
   We discuss the hard sci-fi film Project Hail Mary, which along with The Martian (2015) was based on a novel by Andy Weir...
   *关键词: philosophy*
 
+*📚 以上为近期内容*
+
 ### 📰 3:AM Magazine
 
 ![Silly Dance, No Mercy](https://www.3ammagazine.com/wp-content/uploads/2026/02/featherman-banner.jpg)
 
 - **[Silly Dance, No Mercy](https://www.3ammagazine.com/3am/silly-dance-no-mercy/)**
   He did a silly dance in a bar, a dance so silly that it had no regard for choreography, ego, or social order. At the aft...
+
+![Hesitantly Surfing the Looming AI Tsunami (Part Two)](https://www.3ammagazine.com/wp-content/uploads/2026/03/1765817729-900-640x1024.jpg)
+
+- **[Hesitantly Surfing the Looming AI Tsunami (Part Two)](https://www.3ammagazine.com/3am/hesitantly-surfing-the-looming-ai-tsunami-part-two/)**
+  This is not my voice, it’s a choppy kind of montage voice, with sales pitch style meets reddit. And, of course that is b...
+
+*📚 以上为近期内容*
 
 ### 📰 Stanford Encyclopedia of Philosophy
 
@@ -127,5 +145,5 @@ Changes to: Main text, Bibliography]
 
 ---
 
-*报告生成时间: 2026-04-20 16:06*  
+*报告生成时间: 2026-04-21 03:07*  
 *Atlas Intelligence System*
