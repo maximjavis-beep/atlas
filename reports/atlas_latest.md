@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-04-21  
-**来源**: 全球 2 个地区 · 4 个信源
+**来源**: 全球 2 个地区 · 3 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 14 条
+- **新增资讯**: 4 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -21,26 +21,6 @@
 - **[Alastair Campbell’s diary: The bizarre truth about my own vetting for No 10](https://www.thenewworld.co.uk/alastair-campbells-diary-the-bizarre-truth-about-my-own-vetting-for-no-10/)**
   Hours after being grilled by an ex-military man, I ran into him again - in very strange circumstances...
 
-![The Iran war has taught Australia a new, brutal truth about itself](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/479_LYNNE_AUSFUEL.jpg)
-
-- **[The Iran war has taught Australia a new, brutal truth about itself](https://www.thenewworld.co.uk/lynne-odonnell-the-iran-war-has-taught-australia-a-new-brutal-truth-about-itself/)**
-  The fuel price shock has destroyed Australia’s most fundamental strategic assumption – that geographical isolation means...
-
-![The AI candidate running for the White House](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/479_MUIR_PRESAI-1.jpg)
-
-- **[The AI candidate running for the White House](https://www.thenewworld.co.uk/matt-muir-the-ai-candidate-running-for-the-white-house/)**
-  Well, it couldn’t be any worse. Could it?...
-
-![The horrors of the online “Rape Academy”](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/479_KLINGLER_RAPACAD.jpg)
-
-- **[The horrors of the online “Rape Academy”](https://www.thenewworld.co.uk/jamie-klingler-the-horrors-of-the-online-rape-academy/)**
-  If you thought the rape of Gisèle Pelicot was a unique story, you were wrong...
-
-![Reform’s energy cost stunt hits yet another snag](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/HFfHb7lWMAEyIdv-e1775818888774.jpg)
-
-- **[Reform’s energy cost stunt hits yet another snag](https://www.thenewworld.co.uk/rats-in-a-sack-reforms-energy-cost-stunt-hits-yet-another-snag/)**
-  The party promised to pay the energy bills for a year of a competition winner and their entire street - but plenty seem ...
-
 ### 📰 Eurozine
 
 ![Social experiments without experimentalism](https://www.eurozine.com/wp-content/uploads/2026/04/master-pnp-cph-3g00000-3g09000-3g09400-3g09413u_crop-300x114.jpg)
@@ -51,8 +31,37 @@
 - **[Naujasis Nenormalumas](https://www.eurozine.com/naujasis-nenormalumas/?utm_source=rss&utm_medium=rss&utm_campaign=naujasis-nenormalumas)**
   Po ketverius neatlėgstančio aliarmo metus nuolatinė aukšto lygio parengtis, ginantis nuo plataus masto invazijos, tapo v...
 
+![Western alignment without looking East](https://www.eurozine.com/wp-content/uploads/2026/04/Friedensdemonstration_Bonn_am_10ten_Juni_1982_-_Auftakt_und_Demonstration_01_s-w-300x202.jpg)
+
+- **[Western alignment without looking East](https://www.eurozine.com/western-alignment-without-looking-east/?utm_source=rss&utm_medium=rss&utm_campaign=western-alignment-without-looking-east)**
+  Habermas’s insistence on negotiation with the Putin regime stemmed from a failure to comprehend the eastern European exp...
+
+*📚 以上为近期内容*
+
 
 ## 🌍 美洲
+
+### 📰 Stanford Encyclopedia of Philosophy
+
+- **[Michel Foucault](https://plato.stanford.edu/entries/foucault/)**
+  [Revised entry by Gary Gutting and Johanna Oksala on April 21, 2026. 
+Changes to: Main text, Bibliography]
+ Michel Fouca...
+  *关键词: philosophy*
+
+### 📰 Daily Nous
+
+![New: The Journal of Natural Law](https://dailynous.com/wp-content/uploads/2026/04/journal-of-natural-law.jpg)
+
+- **[New: The Journal of Natural Law](https://dailynous.com/2026/04/21/new-the-journal-of-natural-law/)**
+  The Journal of Natural Law is a new peer-reviewed journal &#8220;committed to publishing the best interdisciplinary rese...
+  *关键词: philosophy, discussion, ethics*
+
+![Prospective Student Visits: Lodging, Transportation, etc.](https://dailynous.com/wp-content/uploads/2026/04/welcome-to-philosophy-grad-school.jpg)
+
+- **[Prospective Student Visits: Lodging, Transportation, etc.](https://dailynous.com/2026/04/21/prospective-student-visits-lodging-transportation-etc/)**
+  A professor writes in with some questions that arose during the recent season of graduate admissions. They write: How ar...
+  *关键词: philosophy*
 
 ### 📰 APA Blog
 
@@ -60,13 +69,13 @@
   What is involved in seeing discrimination as systemic and structural, and how could such an approach help us identify in...
   *关键词: philosophy*
 
-### 📰 Daily Nous
+- **[The Paradox of China’s Crypto Regulation and Capital Going Global (Part 2)](https://blog.apaonline.org/2026/04/16/the-paradox-of-chinas-crypto-regulation-and-capital-going-global-part-2/)**
+  The Global Expansion of Chinese Crypto Capital and the Systemic Collapse of Community Culture In Part 1, I examined how ...
 
-![14 Takeaways from the Virtual Pacific APA (guest post)](https://dailynous.com/wp-content/uploads/2025/05/apa-phi-color-pixels.png)
+- **[When Jokes Won’t Do: Affective Shifts in U.S. Late-Night Comedy](https://blog.apaonline.org/2026/04/16/when-jokes-wont-do-affective-shifts-in-u-s-late-night-comedy/)**
+  The news these days seems dire, so much so that people are opting out. News avoidance is a rapidly increasing phenomenon...
 
-- **[14 Takeaways from the Virtual Pacific APA (guest post)](https://dailynous.com/2026/04/20/14-takeaways-from-the-virtual-pacific-apa-guest-post/)**
-  As reported in January, the American Philosophical Association (APA) recently began&#8212;and halted&#8212;an experiment...
-  *关键词: conference, discussion, philosophical*
+*📚 以上为近期内容*
 
 ### 📰 Experimental Philosophy
 
@@ -114,24 +123,6 @@ Concluding on "Culture and its Realm...
 
 *📚 以上为近期内容*
 
-### 📰 Stanford Encyclopedia of Philosophy
-
-- **[Aristotle’s Biology](https://plato.stanford.edu/entries/aristotle-biology/)**
-  [Revised entry by James Lennox and Mariska Leunissen on April 19, 2026. 
-Changes to: Main text, Bibliography, notes.html...
-
-- **[Paraconsistent Logic](https://plato.stanford.edu/entries/logic-paraconsistent/)**
-  [Revised entry by Graham Priest, Koji Tanaka, and Zach Weber on April 17, 2026. 
-Changes to: Main text, Bibliography]
- A...
-  *关键词: logic*
-
-- **[Early Modern Rationalism](https://plato.stanford.edu/entries/rationalism-early-modern/)**
-  [New Entry by Peter West, Kevin Lower, Natalia Strok, Pedro Pricladnitzky, Fabio Malfara, Manuel Fasko, and Christopher ...
-  *关键词: logic*
-
-*📚 以上为近期内容*
-
 
 ## 🌍 非洲
 
@@ -145,5 +136,5 @@ Changes to: Main text, Bibliography]
 
 ---
 
-*报告生成时间: 2026-04-21 03:07*  
+*报告生成时间: 2026-04-21 16:09*  
 *Atlas Intelligence System*
