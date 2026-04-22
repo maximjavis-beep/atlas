@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 16 条
+- **新增资讯**: 21 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -15,6 +15,21 @@
 ## 🌍 欧洲
 
 ### 📰 The New European
+
+![Starmer’s rolling disaster is pushing Britain closer to the Faragist abyss](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/05/437_kelly-starmer.jpg)
+
+- **[Starmer’s rolling disaster is pushing Britain closer to the Faragist abyss](https://www.thenewworld.co.uk/francis-beckett-starmers-rolling-disaster-is-pushing-britain-closer-to-the-faragist-abyss/)**
+  He’s doing huge damage to his party, but the PM shows no sign of loosening his grip on power. And that’s a problem – bec...
+
+![Farage finally sees the light on ‘cool’ Elon Musk’s X](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2272180395-e1776862251297.jpg)
+
+- **[Farage finally sees the light on ‘cool’ Elon Musk’s X](https://www.thenewworld.co.uk/rats-in-a-sack-farage-finally-sees-the-light-on-cool-elon-musks-x/)**
+  The penny has dropped for the Reform leader that the social media platform is “becoming a very unpleasant and dangerous ...
+
+![Britain’s new class-based divide is here – and it starts with the children](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/01/467_KLINGLER_DETOX.jpg)
+
+- **[Britain’s new class-based divide is here – and it starts with the children](https://www.thenewworld.co.uk/lucy-reade-britains-new-class-based-divide-is-here-and-it-starts-with-the-children/)**
+  The difference between those who depend on their screen-time and those who can do without it represents a deep social di...
 
 ![Konrad Mägi, the controversial painter who though Paris was full of ‘sloppy rubbish’](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/Magi1.jpg)
 
@@ -26,22 +41,17 @@
 - **[These unseen Basquiats show why he broke big – and broke down](https://www.thenewworld.co.uk/dale-shaw-these-unseen-basquiats-show-why-the-artist-broke-big-and-broke-down/)**
   A mesmerising set of drawings never exhibited during the artist’s life show his genius in its rawest form...
 
-![Relooted, the heist game that tells the dirty truth about tomb raiding](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/Relooted.jpg)
-
-- **[Relooted, the heist game that tells the dirty truth about tomb raiding](https://www.thenewworld.co.uk/chris-sutcliffe-relooted-the-heist-game-that-tells-the-dirty-truth-about-tomb-raiding/)**
-  A new crop of video games is educating players about cultural looting and the pain inflicted by western colonialism...
-
-![A book that understands the ache from a missing mother](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/479_KLINGLER_KIN.jpg)
-
-- **[A book that understands the ache from a missing mother](https://www.thenewworld.co.uk/jamie-klingler-a-book-that-understands-the-ache-from-a-missing-mother/)**
-  Tayari Jones’s Kin builds a messy, funny, tragic world of female friendship and fate...
-
-![‘I hate shit’: Inside the Sex Pistols interview that invented punk](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/Lydon.jpg)
-
-- **[‘I hate shit’: Inside the Sex Pistols interview that invented punk](https://www.thenewworld.co.uk/matthew-worley-i-hate-shit-inside-the-sex-pistols-interview-that-invented-punk/)**
-  Fifty years ago, writer John Ingham was chatting to three musicians. Then their singer Johnny Rotten opened his mouth, a...
-
 ### 📰 Eurozine
+
+![Which histories?](https://www.eurozine.com/wp-content/uploads/2026/04/il-Mulino_1_2026-300x225.jpg)
+
+- **[Which histories?](https://www.eurozine.com/which-histories/?utm_source=rss&utm_medium=rss&utm_campaign=which-histories)**
+  Learning from the past in the age of singularity; teaching history without lecturing; the uses of history of science; th...
+
+![The new infinity](https://www.eurozine.com/wp-content/uploads/2026/04/Merkur_923_2026-300x225.jpg)
+
+- **[The new infinity](https://www.eurozine.com/the-new-infinity/?utm_source=rss&utm_medium=rss&utm_campaign=the-new-infinity)**
+  The challenge of regulating AI when it cannot be defined; AI and the devaluation of work; AI and the future of productiv...
 
 ![Mao’s legacy](https://www.eurozine.com/wp-content/uploads/2026/04/毛泽东红军八角帽-e1776851068595-300x212.jpg)
 
@@ -52,7 +62,22 @@
 
 ## 🌍 美洲
 
+### 📰 Experimental Philosophy
+
+![Where should I publish my X-Phi? A new resource](https://xphi.net/wordpress/wp-content/uploads/2026/04/ahmadardity-books-2463779-1024x721.jpg)
+
+- **[Where should I publish my X-Phi? A new resource](https://xphi.net/2026/04/22/where-should-i-publish-my-x-phi-a-new-resource/)**
+  We are excited to announce a new community resource to help experimental philosophers choose journals for their work....
+
 ### 📰 APA Blog
+
+- **[Ethics in Business, James Murphy](https://blog.apaonline.org/2026/04/22/ethics-in-business-james-murphy/)**
+  Several years ago, I took over teaching an interdisciplinary elective in the Management Department at Loyola’s Quinlan S...
+  *关键词: ethics*
+
+- **[Writing Matters](https://blog.apaonline.org/2026/04/22/writing-matters/)**
+  Does writing have a future? This eerily prophetic question was posed by media theorist and phenomenologist Vilém Flusser...
+  *关键词: scholar*
 
 - **[Why We Should Be Reading Paul Churchland Right Now: Neurophilosophy and AI](https://blog.apaonline.org/2026/04/21/why-we-should-be-reading-paul-churchland-right-now-neurophilosophy-and-ai/)**
   The more I get into philosophical and philosophy-adjacent discussions of current-generation “artificial intelligence” (l...
@@ -65,12 +90,6 @@
 Changes to: Main text, Bibliography]
  Spinoza's epistemology and p...
   *关键词: philosophy, epistemology, logic*
-
-- **[Michel Foucault](https://plato.stanford.edu/entries/foucault/)**
-  [Revised entry by Gary Gutting and Johanna Oksala on April 21, 2026. 
-Changes to: Main text, Bibliography]
- Michel Fouca...
-  *关键词: philosophy*
 
 ### 📰 Daily Nous
 
@@ -86,18 +105,11 @@ Changes to: Main text, Bibliography]
   A professor writes in with some questions that arose during the recent season of graduate admissions. They write: How ar...
   *关键词: philosophy*
 
-### 📰 Experimental Philosophy
+![14 Takeaways from the Virtual Pacific APA (guest post)](https://dailynous.com/wp-content/uploads/2025/05/apa-phi-color-pixels.png)
 
-- **[Call: “The New Measurement Heretics”](https://xphi.net/2026/04/20/call-the-new-measurement-heretics/)**
-  Following the “Measurement Heretics Workshop – Being, Meaning, and Measuring Well,” Rebecca Jackson, Michele Luchetti, M...
-  *关键词: workshop*
-
-- **[Call: “New Methods in Semantics of Artefacts”](https://xphi.net/2026/04/17/call-new-methods-in-semantics-of-artefacts/)**
-  From September 15 to 16, 2026, the conference “New Methods in Semantics of Artefacts – Meaning Beyond Linguistic Signs” ...
-  *关键词: conference*
-
-- **[Summer School: “Advanced Methods in Eye Tracking”](https://xphi.net/2026/04/17/summer-school-advanced-methods-in-eye-tracking/)**
-  From June 22 to 23, 2026, the summer school “Advanced Methods in Eye Tracking” will take place at the University of East...
+- **[14 Takeaways from the Virtual Pacific APA (guest post)](https://dailynous.com/2026/04/20/14-takeaways-from-the-virtual-pacific-apa-guest-post/)**
+  As reported in January, the American Philosophical Association (APA) recently began&#8212;and halted&#8212;an experiment...
+  *关键词: conference, discussion, philosophical*
 
 *📚 以上为近期内容*
 
@@ -125,25 +137,10 @@ Concluding on "Culture and its Realm...
 - **[Silly Dance, No Mercy](https://www.3ammagazine.com/3am/silly-dance-no-mercy/)**
   He did a silly dance in a bar, a dance so silly that it had no regard for choreography, ego, or social order. At the aft...
 
-![Hesitantly Surfing the Looming AI Tsunami (Part Two)](https://www.3ammagazine.com/wp-content/uploads/2026/03/1765817729-900-640x1024.jpg)
-
-- **[Hesitantly Surfing the Looming AI Tsunami (Part Two)](https://www.3ammagazine.com/3am/hesitantly-surfing-the-looming-ai-tsunami-part-two/)**
-  This is not my voice, it’s a choppy kind of montage voice, with sales pitch style meets reddit. And, of course that is b...
-
-*📚 以上为近期内容*
-
-
-## 🌍 非洲
-
-### 📰 CODESRIA
-
-- **[Academic Freedom in the Global South: Social and Institutional Lessons Learned from Latin America, the Caribbean and Africa](https://codesria.org/academic-freedom-in-the-global-south-social-and-institutional-lessons-learned-from-latin-america-the-caribbean-and-africa/)**
-  Presentation Since 2021, the Knowledge Network on the Right to Higher Education from the Global South (REGS) has been wo...
-
 *📚 以上为近期内容*
 
 
 ---
 
-*报告生成时间: 2026-04-22 03:06*  
+*报告生成时间: 2026-04-22 16:05*  
 *Atlas Intelligence System*
