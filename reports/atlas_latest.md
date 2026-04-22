@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-04-21  
-**来源**: 全球 2 个地区 · 3 个信源
+**日期**: 2026-04-22  
+**来源**: 全球 2 个地区 · 5 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 4 条
+- **新增资讯**: 16 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -16,32 +16,55 @@
 
 ### 📰 The New European
 
-![Alastair Campbell’s diary: The bizarre truth about my own vetting for No 10](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/479_CAMPBELL_INTERVIEW.jpg)
+![Konrad Mägi, the controversial painter who though Paris was full of ‘sloppy rubbish’](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/Magi1.jpg)
 
-- **[Alastair Campbell’s diary: The bizarre truth about my own vetting for No 10](https://www.thenewworld.co.uk/alastair-campbells-diary-the-bizarre-truth-about-my-own-vetting-for-no-10/)**
-  Hours after being grilled by an ex-military man, I ran into him again - in very strange circumstances...
+- **[Konrad Mägi, the controversial painter who though Paris was full of ‘sloppy rubbish’](https://www.thenewworld.co.uk/florence-hallett-konrad-magi-the-controversial-painter-who-though-paris-was-full-of-sloppy-rubbish/)**
+  The Estonian artist thought the French masters were ‘hideous’ and ‘boring’. How does his own work measure up?...
+
+![These unseen Basquiats show why he broke big – and broke down](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/Basquiat.jpg)
+
+- **[These unseen Basquiats show why he broke big – and broke down](https://www.thenewworld.co.uk/dale-shaw-these-unseen-basquiats-show-why-the-artist-broke-big-and-broke-down/)**
+  A mesmerising set of drawings never exhibited during the artist’s life show his genius in its rawest form...
+
+![Relooted, the heist game that tells the dirty truth about tomb raiding](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/Relooted.jpg)
+
+- **[Relooted, the heist game that tells the dirty truth about tomb raiding](https://www.thenewworld.co.uk/chris-sutcliffe-relooted-the-heist-game-that-tells-the-dirty-truth-about-tomb-raiding/)**
+  A new crop of video games is educating players about cultural looting and the pain inflicted by western colonialism...
+
+![A book that understands the ache from a missing mother](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/479_KLINGLER_KIN.jpg)
+
+- **[A book that understands the ache from a missing mother](https://www.thenewworld.co.uk/jamie-klingler-a-book-that-understands-the-ache-from-a-missing-mother/)**
+  Tayari Jones’s Kin builds a messy, funny, tragic world of female friendship and fate...
+
+![‘I hate shit’: Inside the Sex Pistols interview that invented punk](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/Lydon.jpg)
+
+- **[‘I hate shit’: Inside the Sex Pistols interview that invented punk](https://www.thenewworld.co.uk/matthew-worley-i-hate-shit-inside-the-sex-pistols-interview-that-invented-punk/)**
+  Fifty years ago, writer John Ingham was chatting to three musicians. Then their singer Johnny Rotten opened his mouth, a...
 
 ### 📰 Eurozine
 
-![Social experiments without experimentalism](https://www.eurozine.com/wp-content/uploads/2026/04/master-pnp-cph-3g00000-3g09000-3g09400-3g09413u_crop-300x114.jpg)
+![Mao’s legacy](https://www.eurozine.com/wp-content/uploads/2026/04/毛泽东红军八角帽-e1776851068595-300x212.jpg)
 
-- **[Social experiments without experimentalism](https://www.eurozine.com/social-experiments-without-experimentalism/?utm_source=rss&utm_medium=rss&utm_campaign=social-experiments-without-experimentalism)**
-  Modernism promised a bright future. But adventure soon became routine – the early Crystal Palace experiment since reflec...
-
-- **[Naujasis Nenormalumas](https://www.eurozine.com/naujasis-nenormalumas/?utm_source=rss&utm_medium=rss&utm_campaign=naujasis-nenormalumas)**
-  Po ketverius neatlėgstančio aliarmo metus nuolatinė aukšto lygio parengtis, ginantis nuo plataus masto invazijos, tapo v...
-
-![Western alignment without looking East](https://www.eurozine.com/wp-content/uploads/2026/04/Friedensdemonstration_Bonn_am_10ten_Juni_1982_-_Auftakt_und_Demonstration_01_s-w-300x202.jpg)
-
-- **[Western alignment without looking East](https://www.eurozine.com/western-alignment-without-looking-east/?utm_source=rss&utm_medium=rss&utm_campaign=western-alignment-without-looking-east)**
-  Habermas’s insistence on negotiation with the Putin regime stemmed from a failure to comprehend the eastern European exp...
-
-*📚 以上为近期内容*
+- **[Mao’s legacy](https://www.eurozine.com/maos-legacy/?utm_source=rss&utm_medium=rss&utm_campaign=maos-legacy)**
+  Under Xi Jinping the Chinese Communist Party has closed down the debate about the Cultural Revolution. However, its lega...
+  *关键词: debate*
 
 
 ## 🌍 美洲
 
+### 📰 APA Blog
+
+- **[Why We Should Be Reading Paul Churchland Right Now: Neurophilosophy and AI](https://blog.apaonline.org/2026/04/21/why-we-should-be-reading-paul-churchland-right-now-neurophilosophy-and-ai/)**
+  The more I get into philosophical and philosophy-adjacent discussions of current-generation “artificial intelligence” (l...
+  *关键词: philosophy, discussion, philosophical*
+
 ### 📰 Stanford Encyclopedia of Philosophy
+
+- **[Spinoza’s Epistemology and Philosophy of Mind](https://plato.stanford.edu/entries/spinoza-epistemology-mind/)**
+  [Revised entry by Karolina Hübner on April 22, 2026. 
+Changes to: Main text, Bibliography]
+ Spinoza's epistemology and p...
+  *关键词: philosophy, epistemology, logic*
 
 - **[Michel Foucault](https://plato.stanford.edu/entries/foucault/)**
   [Revised entry by Gary Gutting and Johanna Oksala on April 21, 2026. 
@@ -62,20 +85,6 @@ Changes to: Main text, Bibliography]
 - **[Prospective Student Visits: Lodging, Transportation, etc.](https://dailynous.com/2026/04/21/prospective-student-visits-lodging-transportation-etc/)**
   A professor writes in with some questions that arose during the recent season of graduate admissions. They write: How ar...
   *关键词: philosophy*
-
-### 📰 APA Blog
-
-- **[Towards a Conception of Systemic Discrimination](https://blog.apaonline.org/2026/04/20/towards-a-conception-of-systemic-discrimination/)**
-  What is involved in seeing discrimination as systemic and structural, and how could such an approach help us identify in...
-  *关键词: philosophy*
-
-- **[The Paradox of China’s Crypto Regulation and Capital Going Global (Part 2)](https://blog.apaonline.org/2026/04/16/the-paradox-of-chinas-crypto-regulation-and-capital-going-global-part-2/)**
-  The Global Expansion of Chinese Crypto Capital and the Systemic Collapse of Community Culture In Part 1, I examined how ...
-
-- **[When Jokes Won’t Do: Affective Shifts in U.S. Late-Night Comedy](https://blog.apaonline.org/2026/04/16/when-jokes-wont-do-affective-shifts-in-u-s-late-night-comedy/)**
-  The news these days seems dire, so much so that people are opting out. News avoidance is a rapidly increasing phenomenon...
-
-*📚 以上为近期内容*
 
 ### 📰 Experimental Philosophy
 
@@ -136,5 +145,5 @@ Concluding on "Culture and its Realm...
 
 ---
 
-*报告生成时间: 2026-04-21 16:09*  
+*报告生成时间: 2026-04-22 03:06*  
 *Atlas Intelligence System*
