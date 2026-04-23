@@ -1,20 +1,45 @@
 # 🧠 Atlas 哲学研讨情报日报
 
-**日期**: 2026-04-22  
-**来源**: 全球 2 个地区 · 5 个信源
+**日期**: 2026-04-23  
+**来源**: 全球 3 个地区 · 5 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 21 条
+- **新增资讯**: 16 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
 
+## 🌍 亚洲
+
+### 📰 Asian Philosophy
+
+- **[The development of the terms māyā, īśvara, and saccidānanda in the early Advaita Vedānta](https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2526232?af=R)**
+  ....
+
+- **[Gwon Geun’s defence of Zhu Xi’s ‘Supplementary Chapter’: Methodology of early Joseon Korean Neo-Confucianism](https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2520022?af=R)**
+  ....
+
+- **[Modernity as alienation – Nishitani Keiji on the problems of modernity](https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2520044?af=R)**
+  ....
+
+- **[Confucian Moral Impression Management: Moderating Zhong 忠 with Shu 恕 and Shu with Zhong](https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2520051?af=R)**
+  ....
+
+- **[From emotion regulation to the cultivation of existential feelings: A Zhuangzi-inspired perspective on flourishing as an affective being](https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2515718?af=R)**
+  Volume 36, Issue 2, May 2026, Page 209-224....
+
+
 ## 🌍 欧洲
 
 ### 📰 The New European
+
+![Starmer has to step up and tell the truth about the Brexit disaster](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/TOWNS-starmer-EU.jpg)
+
+- **[Starmer has to step up and tell the truth about the Brexit disaster](https://www.thenewworld.co.uk/denis-macshane-starmer-has-to-step-up-and-tell-the-truth-about-the-brexit-disaster/)**
+  If he did he’d have public opinion firmly on his side. Nowadays, even a majority of Daily Mail readers can see that leav...
 
 ![Starmer’s rolling disaster is pushing Britain closer to the Faragist abyss](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/05/437_kelly-starmer.jpg)
 
@@ -31,16 +56,6 @@
 - **[Britain’s new class-based divide is here – and it starts with the children](https://www.thenewworld.co.uk/lucy-reade-britains-new-class-based-divide-is-here-and-it-starts-with-the-children/)**
   The difference between those who depend on their screen-time and those who can do without it represents a deep social di...
 
-![Konrad Mägi, the controversial painter who though Paris was full of ‘sloppy rubbish’](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/Magi1.jpg)
-
-- **[Konrad Mägi, the controversial painter who though Paris was full of ‘sloppy rubbish’](https://www.thenewworld.co.uk/florence-hallett-konrad-magi-the-controversial-painter-who-though-paris-was-full-of-sloppy-rubbish/)**
-  The Estonian artist thought the French masters were ‘hideous’ and ‘boring’. How does his own work measure up?...
-
-![These unseen Basquiats show why he broke big – and broke down](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/Basquiat.jpg)
-
-- **[These unseen Basquiats show why he broke big – and broke down](https://www.thenewworld.co.uk/dale-shaw-these-unseen-basquiats-show-why-the-artist-broke-big-and-broke-down/)**
-  A mesmerising set of drawings never exhibited during the artist’s life show his genius in its rawest form...
-
 ### 📰 Eurozine
 
 ![Which histories?](https://www.eurozine.com/wp-content/uploads/2026/04/il-Mulino_1_2026-300x225.jpg)
@@ -52,12 +67,6 @@
 
 - **[The new infinity](https://www.eurozine.com/the-new-infinity/?utm_source=rss&utm_medium=rss&utm_campaign=the-new-infinity)**
   The challenge of regulating AI when it cannot be defined; AI and the devaluation of work; AI and the future of productiv...
-
-![Mao’s legacy](https://www.eurozine.com/wp-content/uploads/2026/04/毛泽东红军八角帽-e1776851068595-300x212.jpg)
-
-- **[Mao’s legacy](https://www.eurozine.com/maos-legacy/?utm_source=rss&utm_medium=rss&utm_campaign=maos-legacy)**
-  Under Xi Jinping the Chinese Communist Party has closed down the debate about the Cultural Revolution. However, its lega...
-  *关键词: debate*
 
 
 ## 🌍 美洲
@@ -79,10 +88,6 @@
   Does writing have a future? This eerily prophetic question was posed by media theorist and phenomenologist Vilém Flusser...
   *关键词: scholar*
 
-- **[Why We Should Be Reading Paul Churchland Right Now: Neurophilosophy and AI](https://blog.apaonline.org/2026/04/21/why-we-should-be-reading-paul-churchland-right-now-neurophilosophy-and-ai/)**
-  The more I get into philosophical and philosophy-adjacent discussions of current-generation “artificial intelligence” (l...
-  *关键词: philosophy, discussion, philosophical*
-
 ### 📰 Stanford Encyclopedia of Philosophy
 
 - **[Spinoza’s Epistemology and Philosophy of Mind](https://plato.stanford.edu/entries/spinoza-epistemology-mind/)**
@@ -90,6 +95,18 @@
 Changes to: Main text, Bibliography]
  Spinoza's epistemology and p...
   *关键词: philosophy, epistemology, logic*
+
+- **[Michel Foucault](https://plato.stanford.edu/entries/foucault/)**
+  [Revised entry by Gary Gutting and Johanna Oksala on April 21, 2026. 
+Changes to: Main text, Bibliography]
+ Michel Fouca...
+  *关键词: philosophy*
+
+- **[Aristotle’s Biology](https://plato.stanford.edu/entries/aristotle-biology/)**
+  [Revised entry by James Lennox and Mariska Leunissen on April 19, 2026. 
+Changes to: Main text, Bibliography, notes.html...
+
+*📚 以上为近期内容*
 
 ### 📰 Daily Nous
 
@@ -142,5 +159,5 @@ Concluding on "Culture and its Realm...
 
 ---
 
-*报告生成时间: 2026-04-22 16:05*  
+*报告生成时间: 2026-04-23 03:05*  
 *Atlas Intelligence System*
