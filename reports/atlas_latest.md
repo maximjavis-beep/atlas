@@ -7,7 +7,7 @@
 
 ## 📊 今日概览
 
-- **新增资讯**: 16 条
+- **新增资讯**: 17 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -36,40 +36,64 @@
 
 ### 📰 The New European
 
+![Joanna Cherry, the woman who escaped the political nightmare](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/JOANNA-CHERRY_INTERVIEW.jpg)
+
+- **[Joanna Cherry, the woman who escaped the political nightmare](https://www.thenewworld.co.uk/eleanor-longman-rood-joanna-cherry-the-woman-who-escaped-the-political-nightmare/)**
+  In a new book, the former SNP politician recalls the in-fighting, the vendettas and the back-stabbing in Scottish politi...
+
+![When politicians talk about tasering and deporting their opponents, it’s no joke](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/11/MARIE_SHABANA.jpg)
+
+- **[When politicians talk about tasering and deporting their opponents, it’s no joke](https://www.thenewworld.co.uk/marie-le-conte-when-politicians-talk-about-tasering-and-deporting-their-opponents-its-no-joke/)**
+  Shabana Mahmood’s quip wasn’t funny. The danger is the signal it sends to Britain’s extremists – that if the home secret...
+
+![Trump’s global hypershambles – the Iraq War and 2008 crisis rolled into one](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/Elwes-hypershambles.jpg)
+
+- **[Trump’s global hypershambles – the Iraq War and 2008 crisis rolled into one](https://www.thenewworld.co.uk/jay-elwes-trumps-global-hypershambles-the-iraq-war-and-2008-crisis-rolled-into-one/)**
+  A man like Trump was always going to do it bigger and badder than any of his predecessors. The catastrophe he has create...
+
+![Brexit Unleashed, a festival of the most consistently wrong people in Britain](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2021/08/import/8178068_image_0-dc6012ced77cb799f1519a5e5d606d1c.jpg)
+
+- **[Brexit Unleashed, a festival of the most consistently wrong people in Britain](https://www.thenewworld.co.uk/matt-withers-brexit-unleashed-a-festival-of-the-most-consistently-wrong-people-in-britain/)**
+  A gathering of the most hopeless Brexit soothsayers is set to take place in London...
+
 ![Starmer has to step up and tell the truth about the Brexit disaster](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/TOWNS-starmer-EU.jpg)
 
 - **[Starmer has to step up and tell the truth about the Brexit disaster](https://www.thenewworld.co.uk/denis-macshane-starmer-has-to-step-up-and-tell-the-truth-about-the-brexit-disaster/)**
   If he did he’d have public opinion firmly on his side. Nowadays, even a majority of Daily Mail readers can see that leav...
 
-![Starmer’s rolling disaster is pushing Britain closer to the Faragist abyss](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2025/05/437_kelly-starmer.jpg)
-
-- **[Starmer’s rolling disaster is pushing Britain closer to the Faragist abyss](https://www.thenewworld.co.uk/francis-beckett-starmers-rolling-disaster-is-pushing-britain-closer-to-the-faragist-abyss/)**
-  He’s doing huge damage to his party, but the PM shows no sign of loosening his grip on power. And that’s a problem – bec...
-
-![Farage finally sees the light on ‘cool’ Elon Musk’s X](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2272180395-e1776862251297.jpg)
-
-- **[Farage finally sees the light on ‘cool’ Elon Musk’s X](https://www.thenewworld.co.uk/rats-in-a-sack-farage-finally-sees-the-light-on-cool-elon-musks-x/)**
-  The penny has dropped for the Reform leader that the social media platform is “becoming a very unpleasant and dangerous ...
-
-![Britain’s new class-based divide is here – and it starts with the children](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/01/467_KLINGLER_DETOX.jpg)
-
-- **[Britain’s new class-based divide is here – and it starts with the children](https://www.thenewworld.co.uk/lucy-reade-britains-new-class-based-divide-is-here-and-it-starts-with-the-children/)**
-  The difference between those who depend on their screen-time and those who can do without it represents a deep social di...
-
 ### 📰 Eurozine
 
-![Which histories?](https://www.eurozine.com/wp-content/uploads/2026/04/il-Mulino_1_2026-300x225.jpg)
-
-- **[Which histories?](https://www.eurozine.com/which-histories/?utm_source=rss&utm_medium=rss&utm_campaign=which-histories)**
-  Learning from the past in the age of singularity; teaching history without lecturing; the uses of history of science; th...
-
-![The new infinity](https://www.eurozine.com/wp-content/uploads/2026/04/Merkur_923_2026-300x225.jpg)
-
-- **[The new infinity](https://www.eurozine.com/the-new-infinity/?utm_source=rss&utm_medium=rss&utm_campaign=the-new-infinity)**
-  The challenge of regulating AI when it cannot be defined; AI and the devaluation of work; AI and the future of productiv...
+- **[Samhällsexperiment utan experimentalism](https://www.eurozine.com/samhallsexperiment-utan-experimentalism/?utm_source=rss&utm_medium=rss&utm_campaign=samhallsexperiment-utan-experimentalism)**
+  Framtiden är tillbaka. Men varför är det så svårt att föreställa sig en som inte är formulerad av tech-oligarker eller a...
 
 
 ## 🌍 美洲
+
+### 📰 APA Blog
+
+![A Black Detective in the White House: The Residence](https://i0.wp.com/blog.apaonline.org/wp-content/uploads/2026/02/Gingerbread-White-House.png?resize=696%2C464&#038;ssl=1)
+
+- **[A Black Detective in the White House: The Residence](https://blog.apaonline.org/2026/04/23/a-black-detective-in-the-white-house-the-residence/)**
+  [Spoiler alert: Netflix’s The Residence is, in one respect, a mystery about a murderer. Toward the end of this post, the...
+
+### 📰 Daily Nous
+
+![New: Bhimrao Ambedkar Prize in Global Pragmatism](https://dailynous.com/wp-content/uploads/2026/04/bhimrao-ambedkar.jpg)
+
+- **[New: Bhimrao Ambedkar Prize in Global Pragmatism](https://dailynous.com/2026/04/23/new-bhimrao-ambedkar-prize-in-global-pragmatism/)**
+  The Society for the Advancement of American Philosophy (SAAP) has established the Bhimrao Ambedkar Prize in Global Pragm...
+  *关键词: philosophy, conference, thinker*
+
+![Letter Supporting Fired Texas State Philosophy Professor and Boycott of University](https://dailynous.com/wp-content/uploads/2026/04/robinson-idris-letter.png)
+
+- **[Letter Supporting Fired Texas State Philosophy Professor and Boycott of University](https://dailynous.com/2026/04/23/letter-supporting-fired-texas-state-philosophy-professor-and-boycott-of-university/)**
+  Last month it was reported that Idris Robinson, a tenure-track assistant professor of philosophy at Texas State Universi...
+  *关键词: philosophy*
+
+![Philosophers Elected to the American Academy of Arts & Sciences](https://dailynous.com/wp-content/uploads/2023/04/american-academy-seal-cutout.png)
+
+- **[Philosophers Elected to the American Academy of Arts & Sciences](https://dailynous.com/2026/04/23/philosophers-elected-to-the-american-academy-of-arts-sciences/)**
+  The American Academy of Arts &#38; Sciences has announced its latest class of members, and several philosophers are a pa...
 
 ### 📰 Experimental Philosophy
 
@@ -78,15 +102,15 @@
 - **[Where should I publish my X-Phi? A new resource](https://xphi.net/2026/04/22/where-should-i-publish-my-x-phi-a-new-resource/)**
   We are excited to announce a new community resource to help experimental philosophers choose journals for their work....
 
-### 📰 APA Blog
+- **[Call: “The New Measurement Heretics”](https://xphi.net/2026/04/20/call-the-new-measurement-heretics/)**
+  Following the “Measurement Heretics Workshop – Being, Meaning, and Measuring Well,” Rebecca Jackson, Michele Luchetti, M...
+  *关键词: workshop*
 
-- **[Ethics in Business, James Murphy](https://blog.apaonline.org/2026/04/22/ethics-in-business-james-murphy/)**
-  Several years ago, I took over teaching an interdisciplinary elective in the Management Department at Loyola’s Quinlan S...
-  *关键词: ethics*
+- **[Call: “New Methods in Semantics of Artefacts”](https://xphi.net/2026/04/17/call-new-methods-in-semantics-of-artefacts/)**
+  From September 15 to 16, 2026, the conference “New Methods in Semantics of Artefacts – Meaning Beyond Linguistic Signs” ...
+  *关键词: conference*
 
-- **[Writing Matters](https://blog.apaonline.org/2026/04/22/writing-matters/)**
-  Does writing have a future? This eerily prophetic question was posed by media theorist and phenomenologist Vilém Flusser...
-  *关键词: scholar*
+*📚 以上为近期内容*
 
 ### 📰 Stanford Encyclopedia of Philosophy
 
@@ -105,28 +129,6 @@ Changes to: Main text, Bibliography]
 - **[Aristotle’s Biology](https://plato.stanford.edu/entries/aristotle-biology/)**
   [Revised entry by James Lennox and Mariska Leunissen on April 19, 2026. 
 Changes to: Main text, Bibliography, notes.html...
-
-*📚 以上为近期内容*
-
-### 📰 Daily Nous
-
-![New: The Journal of Natural Law](https://dailynous.com/wp-content/uploads/2026/04/journal-of-natural-law.jpg)
-
-- **[New: The Journal of Natural Law](https://dailynous.com/2026/04/21/new-the-journal-of-natural-law/)**
-  The Journal of Natural Law is a new peer-reviewed journal &#8220;committed to publishing the best interdisciplinary rese...
-  *关键词: philosophy, discussion, ethics*
-
-![Prospective Student Visits: Lodging, Transportation, etc.](https://dailynous.com/wp-content/uploads/2026/04/welcome-to-philosophy-grad-school.jpg)
-
-- **[Prospective Student Visits: Lodging, Transportation, etc.](https://dailynous.com/2026/04/21/prospective-student-visits-lodging-transportation-etc/)**
-  A professor writes in with some questions that arose during the recent season of graduate admissions. They write: How ar...
-  *关键词: philosophy*
-
-![14 Takeaways from the Virtual Pacific APA (guest post)](https://dailynous.com/wp-content/uploads/2025/05/apa-phi-color-pixels.png)
-
-- **[14 Takeaways from the Virtual Pacific APA (guest post)](https://dailynous.com/2026/04/20/14-takeaways-from-the-virtual-pacific-apa-guest-post/)**
-  As reported in January, the American Philosophical Association (APA) recently began&#8212;and halted&#8212;an experiment...
-  *关键词: conference, discussion, philosophical*
 
 *📚 以上为近期内容*
 
@@ -159,5 +161,5 @@ Concluding on "Culture and its Realm...
 
 ---
 
-*报告生成时间: 2026-04-23 03:05*  
+*报告生成时间: 2026-04-23 16:05*  
 *Atlas Intelligence System*
