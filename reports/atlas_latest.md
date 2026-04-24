@@ -1,13 +1,13 @@
 # 🧠 Atlas 哲学研讨情报日报
 
 **日期**: 2026-04-24  
-**来源**: 全球 3 个地区 · 5 个信源
+**来源**: 全球 2 个地区 · 4 个信源
 
 ---
 
 ## 📊 今日概览
 
-- **新增资讯**: 17 条
+- **新增资讯**: 9 条
 - **重点关键词**: 研讨会、讲座、论坛、学术会议
 
 ---
@@ -25,11 +25,7 @@
 - **[Modernity as alienation – Nishitani Keiji on the problems of modernity](https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2520044?af=R)**
   ....
 
-- **[Confucian Moral Impression Management: Moderating Zhong 忠 with Shu 恕 and Shu with Zhong](https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2520051?af=R)**
-  ....
-
-- **[From emotion regulation to the cultivation of existential feelings: A Zhuangzi-inspired perspective on flourishing as an affective being](https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2515718?af=R)**
-  Volume 36, Issue 2, May 2026, Page 209-224....
+*📚 以上为近期内容*
 
 
 ## 🌍 欧洲
@@ -55,11 +51,6 @@
 
 - **[Brexit Unleashed, a festival of the most consistently wrong people in Britain](https://www.thenewworld.co.uk/matt-withers-brexit-unleashed-a-festival-of-the-most-consistently-wrong-people-in-britain/)**
   A gathering of the most hopeless Brexit soothsayers is set to take place in London...
-
-![Starmer has to step up and tell the truth about the Brexit disaster](https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/03/TOWNS-starmer-EU.jpg)
-
-- **[Starmer has to step up and tell the truth about the Brexit disaster](https://www.thenewworld.co.uk/denis-macshane-starmer-has-to-step-up-and-tell-the-truth-about-the-brexit-disaster/)**
-  If he did he’d have public opinion firmly on his side. Nowadays, even a majority of Daily Mail readers can see that leav...
 
 ### 📰 Eurozine
 
@@ -105,10 +96,6 @@
 - **[Call: “The New Measurement Heretics”](https://xphi.net/2026/04/20/call-the-new-measurement-heretics/)**
   Following the “Measurement Heretics Workshop – Being, Meaning, and Measuring Well,” Rebecca Jackson, Michele Luchetti, M...
   *关键词: workshop*
-
-- **[Call: “New Methods in Semantics of Artefacts”](https://xphi.net/2026/04/17/call-new-methods-in-semantics-of-artefacts/)**
-  From September 15 to 16, 2026, the conference “New Methods in Semantics of Artefacts – Meaning Beyond Linguistic Signs” ...
-  *关键词: conference*
 
 *📚 以上为近期内容*
 
@@ -161,5 +148,5 @@ Concluding on "Culture and its Realm...
 
 ---
 
-*报告生成时间: 2026-04-24 03:03*  
+*报告生成时间: 2026-04-24 16:03*  
 *Atlas Intelligence System*
