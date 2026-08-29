@@ -25,13 +25,20 @@ header .time { display:inline-block; background:rgba(255,255,255,.18); padding:6
 .article .sum { color:#555; font-size:.92em; margin-top:3px; }
 footer { text-align:center; color:rgba(255,255,255,.9); padding:24px; font-size:.85em; }
 @media(max-width:600px) { .article { flex-direction:column; } .article img { width:100%; height:auto; } }
+@media print {
+  body { background:none; padding:0; }
+  .region { box-shadow:none; border:1px solid #ddd; }
+  header { color:#333; padding:20px; }
+  header .time, footer { color:#666; }
+  .article img { width:110px !important; height:80px !important; }
+}
 </style>
 </head>
 <body>
 <div class="container">
 <header>
 <h1>📘 📘 Atlas 哲学与思想日报 - 2026年08月29日</h1>
-<div class="time">生成于 2026-08-29 14:36</div>
+<div class="time">生成于 2026-08-29 15:00</div>
 </header>
 <section class="region"><h2>🗞️ 哲学动态</h2>
 <div class="source"><h3>Daily Nous</h3>
@@ -58,5 +65,5 @@ footer { text-align:center; color:rgba(255,255,255,.9); padding:24px; font-size:
 <div class="article"><div class="body"><a href="https://www.eurozine.com/tvoje-lice-zvuci-odvratno/?utm_source=rss&utm_medium=rss&utm_campaign=tvoje-lice-zvuci-odvratno" target="_blank" rel="noopener">Tvoje lice zvuči odvratno</a><div class="sum"></div></div></div>
 </div>
 </section>
-<footer>📘 由 rss-pipeline 自动生成 · 2026-08-29 14:36</footer>
+<footer>📘 由 rss-pipeline 自动生成 · 2026-08-29 15:00</footer>
 </div></body></html>
