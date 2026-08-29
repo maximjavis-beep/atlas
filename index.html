@@ -1,562 +1,62 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Atlas 哲学研讨情报日报</title>
-    <meta name="description" content="全球哲学研讨情报追踪系统 - 覆盖美洲、欧洲、非洲、亚洲的哲学学术动态">
-    <!-- Open Graph 元标签 -->
-    <meta property="og:title" content="🧠 Atlas 哲学研讨情报日报">
-    <meta property="og:description" content="全球哲学研讨情报追踪系统 - 每日更新哲学学术资讯">
-    <meta property="og:image" content="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop">
-    <meta property="og:url" content="https://atlas-philosophy.vercel.app/">
-    <meta property="og:type" content="website">
-    <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="🧠 Atlas 哲学研讨情报日报">
-    <meta name="twitter:description" content="全球哲学研讨情报追踪系统">
-    <meta name="twitter:image" content="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop">
-    <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
-            min-height: 100vh;
-            padding: 20px;
-            line-height: 1.6;
-        }
-        .container { max-width: 1200px; margin: 0 auto; }
-        header {
-            text-align: center;
-            padding: 40px 20px;
-            color: white;
-        }
-        header h1 { font-size: 2.5em; margin-bottom: 10px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3); }
-        header p { font-size: 1.1em; opacity: 0.9; }
-        .update-time {
-            background: rgba(255,255,255,0.2);
-            display: inline-block;
-            padding: 8px 20px;
-            border-radius: 20px;
-            margin-top: 15px;
-            font-size: 0.9em;
-        }
-        .card {
-            background: white;
-            border-radius: 16px;
-            padding: 30px;
-            margin-bottom: 20px;
-            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
-        }
-        .card h2 {
-            color: #1a1a2e;
-            margin: 30px 0 20px 0;
-            padding-bottom: 10px;
-            border-bottom: 3px solid #0f3460;
-            font-size: 1.5em;
-        }
-        .card h2:first-child { margin-top: 0; }
-        
-        /* 信源区块样式 */
-        .source-section {
-            background: #fafafa;
-            border-radius: 12px;
-            padding: 20px;
-            margin-bottom: 20px;
-            border-left: 4px solid #0f3460;
-        }
-        .source-name {
-            color: #16213e;
-            font-size: 1.2em;
-            margin-bottom: 15px;
-            padding-left: 10px;
-            border-left: 3px solid #16213e;
-        }
-        
-        /* 图片响应式 - 确保在各种设备上都能正常显示 */
-        .card img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 8px;
-            margin: 10px 0;
-            display: block;
-        }
-
-        /* ===== 图片容器和自适应样式 ===== */
-        .img-container {
-            position: relative;
-            width: 100%;
-            max-width: 100%;
-            margin: 12px 0;
-            border-radius: 12px;
-            overflow: hidden;
-            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%);
-            min-height: 120px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-        
-        .img-container.img-loaded {
-            background: transparent;
-            min-height: auto;
-        }
-        
-        .img-container.img-error {
-            background: #f0f0f0;
-            min-height: 80px;
-        }
-        
-        .content-img {
-            width: 100%;
-            max-width: 100%;
-            height: auto;
-            max-height: 400px;
-            object-fit: cover;
-            object-position: center;
-            border-radius: 12px;
-            display: block;
-            opacity: 0;
-            transition: opacity 0.3s ease;
-        }
-        
-        .img-container.img-loaded .content-img {
-            opacity: 1;
-        }
-        
-        .img-container.img-error .content-img {
-            display: none;
-        }
-        
-        .img-placeholder {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            font-size: 2em;
-            opacity: 0.5;
-            transition: opacity 0.3s ease;
-        }
-        
-        .img-container.img-loaded .img-placeholder {
-            opacity: 0;
-            pointer-events: none;
-        }
-        
-        .img-container.img-error .img-placeholder {
-            opacity: 0.3;
-            font-size: 1.5em;
-        }
-        
-        /* 信源图片容器 */
-        .source-image {
-            margin: 15px 0;
-        }
-        
-        .source-image .img-container {
-            min-height: 150px;
-        }
-        
-        .source-image .content-img {
-            max-height: 300px;
-        }
-        
-        /* 文章列表 */
-        .article-list {
-            list-style: none;
-            padding: 0;
-            margin: 15px 0 0 0;
-        }
-        .article-list li {
-            padding: 10px 0;
-            border-bottom: 1px solid #eee;
-            color: #555;
-            font-size: 0.95em;
-        }
-        .article-list li:last-child {
-            border-bottom: none;
-        }
-        .article-title {
-            color: #0f3460;
-            text-decoration: none;
-            font-weight: 600;
-            display: block;
-            margin-bottom: 5px;
-        }
-        .article-title:hover {
-            color: #16213e;
-            text-decoration: underline;
-        }
-        .article-desc {
-            color: #666;
-            font-size: 0.9em;
-            margin: 5px 0;
-        }
-        
-        hr {
-            border: none;
-            border-top: 2px solid #e0e0e0;
-            margin: 30px 0;
-        }
-        footer {
-            text-align: center;
-            padding: 30px;
-            color: rgba(255,255,255,0.8);
-            font-size: 0.9em;
-        }
-        
-        /* 移动端优化 */
-        @media (max-width: 768px) {
-            body { padding: 10px; }
-            header { padding: 20px 10px; }
-            header h1 { font-size: 1.5em; margin-bottom: 5px; }
-            header p { font-size: 0.9em; }
-            .update-time { padding: 5px 12px; font-size: 0.8em; margin-top: 10px; }
-            .card { padding: 15px; border-radius: 12px; }
-            .card h2 { font-size: 1.2em; margin: 20px 0 15px 0; padding-bottom: 8px; }
-            
-            .source-section { padding: 12px; margin-bottom: 15px; }
-            .source-name { font-size: 1em; margin-bottom: 10px; padding-left: 8px; }
-            
-            /* 移动端图片 - 自适应 */
-            .source-image {
-                margin: 10px 0;
-                border-radius: 6px;
-            }
-            .source-image img {
-                max-height: 200px;
-                width: 100%;
-            }
-            .article-image {
-                margin: 8px 0;
-            }
-            /* 移动端图片 - 自适应 */
-            .content-img { max-height: 300px; }
-            .img-container { min-height: 100px; border-radius: 8px; }
-            .source-image .img-container { min-height: 80px; }
-            .source-image .content-img { max-height: 200px; }
-            
-            .article-list { margin-top: 10px; }
-            .article-list li { padding: 8px 0; font-size: 0.9em; }
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+<title>📘 Atlas 哲学与思想日报 - 2026年08月29日</title>
+<meta name="description" content="每日资讯聚合">
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Noto Serif SC',serif; background:linear-gradient(135deg,#2c3e50, #4a6572); min-height:100vh; padding:24px; line-height:1.6; }
+.container { max-width:1100px; margin:0 auto; }
+header { text-align:center; padding:36px 20px; color:#fff; }
+header h1 { font-size:2.2em; text-shadow:2px 2px 4px rgba(0,0,0,.3); }
+header .time { display:inline-block; background:rgba(255,255,255,.18); padding:6px 18px; border-radius:20px; margin-top:12px; font-size:.9em; }
+.region { background:rgba(255,255,255,.95); border-radius:14px; padding:22px; margin:18px 0; box-shadow:0 3px 12px rgba(0,0,0,.12); }
+.region h2 { font-size:1.5em; margin-bottom:16px; border-bottom:3px solid rgba(0,0,0,.08); padding-bottom:10px; }
+.source { margin:16px 0 22px; }
+.source h3 { font-size:1.15em; color:#333; margin-bottom:6px; }
+.article { display:flex; gap:14px; align-items:flex-start; padding:12px 0; border-top:1px solid rgba(0,0,0,.05); }
+.article img { width:120px; height:90px; object-fit:cover; border-radius:8px; flex-shrink:0; }
+.article .body { flex:1; }
+.article a { color:#1a5c8a; font-weight:600; text-decoration:none; font-size:1.02em; }
+.article a:hover { text-decoration:underline; }
+.article .sum { color:#555; font-size:.92em; margin-top:3px; }
+footer { text-align:center; color:rgba(255,255,255,.9); padding:24px; font-size:.85em; }
+@media(max-width:600px) { .article { flex-direction:column; } .article img { width:100%; height:auto; } }
+</style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>🧠 Atlas 哲学研讨情报日报</h1>
-            <p>全球哲学研讨情报追踪系统</p>
-            <div class="update-time">更新时间: 2026年04月26日 03:06</div>
-        </header>
-        
-        <div class="card">
-            <p class="meta-info">日期: 2026-04-26</p>
-<p class="meta-info">来源: 全球 3 个地区 · 8 个信源</p>
-<hr>
-<h2>📊 今日概览</h2>
-<ul class="article-list">
-<li><strong>新增资讯</strong>: 27 条</li>
-<li><strong>重点关键词</strong>: 研讨会、讲座、论坛、学术会议</li>
-</ul>
-<hr>
-<h2>🌍 亚洲</h2>
-<div class="source-section">
-<h3 class="source-name">📰 Asian Philosophy</h3>
-<ul class="article-list">
-<li><a href="https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2526232?af=R" target="_blank" class="article-title">The development of the terms māyā, īśvara, and saccidānanda in the early Advaita Vedānta</a></li>
-</ul>
-<p class="article-desc">....</p>
-<ul class="article-list">
-<li><a href="https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2520022?af=R" target="_blank" class="article-title">Gwon Geun’s defence of Zhu Xi’s ‘Supplementary Chapter’: Methodology of early Joseon Korean Neo-Confucianism</a></li>
-</ul>
-<p class="article-desc">....</p>
-<ul class="article-list">
-<li><a href="https://www.tandfonline.com/doi/full/10.1080/09552367.2025.2520044?af=R" target="_blank" class="article-title">Modernity as alienation – Nishitani Keiji on the problems of modernity</a></li>
-</ul>
-<p class="article-desc">....</p>
-<p class="article-desc">*📚 以上为近期内容*</p>
+<div class="container">
+<header>
+<h1>📘 📘 Atlas 哲学与思想日报 - 2026年08月29日</h1>
+<div class="time">生成于 2026-08-29 14:36</div>
+</header>
+<section class="region"><h2>🗞️ 哲学动态</h2>
+<div class="source"><h3>Daily Nous</h3>
+<div class="article"><div class="body"><a href="https://dailynous.com/2026/08/28/philosophy-at-dundee-saved-in-part-for-now-guest-post/" target="_blank" rel="noopener">Philosophy at Dundee Saved—In Part, For Now (guest post)</a><div class="sum">&#8220;A small programme with a large international reach has bucked the trend of closures across the arts and humanities.&#8221; Over the summer, administration of the University of Dundee announced a plan to cut costs by, among other things, no longer offering students the option of majoring in philosophy. A campaign was launched to save the philosophy program there, and a petition in support of it garnered close to 6000 signatories. As a result of the petition, statements from academic org...</div></div></div>
+<div class="article"><div class="body"><a href="https://dailynous.com/2026/08/28/bettcher-from-cal-state-la-to-waterloo/" target="_blank" rel="noopener">Bettcher from Cal State LA to Waterloo</a><div class="sum">Talia Mae Bettcher, previously professor of philosophy at California State University, Los Angeles, has accepted a position at the University of Waterloo. Professor Bettcher is well-known for her work in trans philosophy and feminist philosophy. She is the author of Beyond Personhood: An Essay in Trans Philosophy (2024), among other works, which you can learn about here and here. At Waterloo, Bettcher will be the Eddie Goldenberg Research Chair in Gender-Based Violence Prevention and Trans Co...</div></div></div>
+<div class="article"><div class="body"><a href="https://dailynous.com/2026/08/27/careful-with-those-accusations/" target="_blank" rel="noopener">Careful with those Accusations</a><div class="sum">Academia is in turmoil regarding partially or wholly AI-written research. AI-written work is being submitted to journals, but it isn&#8217;t clear how much. Publisher, journal, university, and department policies are emerging and fluctuating. Technology develops, rendering recently enacted policies ambiguous, vague, or subject to unintended loopholes. With everything in flux, it&#8217;s impossible for norms to develop. There is no general sense of whether and what kind and what degree of AI u...</div></div></div>
+<div class="article"><div class="body"><a href="https://dailynous.com/2026/08/27/the-publics-opinion-about-philosophy-in-universities/" target="_blank" rel="noopener">The Public’s Opinion about Philosophy in Universities</a><div class="sum">&#8220;How important is it for a typical university to maintain a department in each of the following fields?&#8221; A survey by Polarization Research Lab asked people that question. Fifteen fields were listed, and respondents were given four options: Essential &#8212; a university should always have this department Important, but could be cut if necessary Not very important This department should be cut. The field with the most public support, according to this survey, is English, with 86% o...</div></div></div>
+<div class="article"><div class="body"><a href="https://dailynous.com/2026/08/26/creel-from-northeastern-to-michigan/" target="_blank" rel="noopener">Creel from Northeastern to Michigan</a><div class="sum">Kathleen Creel, recently assistant professor of philosophy and computer science at Northeastern University, has moved to the University of Michigan, where she is now associate professor of philosophy. Professor Creel&#8217;s work focuses on the moral, political, and epistemic implications of machine learning, and on other topics in philosophy of science and the history of early modern philosophy. You can learn more about her work here and here. She took up her new position at Michigan on Augu...</div></div></div>
 </div>
-<h2>🌍 欧洲</h2>
-<div class="source-section">
-<h3 class="source-name">📰 Philosophy in Review</h3>
-<ul class="article-list">
-<li><a href="https://journals.uvic.ca/index.php/pir/article/view/22648" target="_blank" class="article-title">Krista Lawlor, 'Being Reasonable: The Case for Misunderstood Virtue'.</a></li>
-</ul>
-<p class="article-desc">...</p>
+<div class="source"><h3>APA Blog</h3>
+<div class="article"><div class="body"><a href="https://blog.apaonline.org/2026/08/28/when-ai-escapes-the-sandbox/" target="_blank" rel="noopener">When AI Escapes the Sandbox</a><div class="sum">OpenAI, Hugging Face, and Why A Kill Switch Is Not Enough A few weeks ago, OpenAI reported that, during a cybersecurity training exercise, several of its artificial intelligence (AI) models had escaped containment and breached the security of another AI platform, gaining access to its infrastructure. This news exploded into the mainstream media, becoming one [&#8230;]</div></div></div>
+<div class="article"><div class="body"><a href="https://blog.apaonline.org/2026/08/28/recently-published-book-spotlight-death-in-a-shallow-pond/" target="_blank" rel="noopener">Recently Published Book Spotlight: Death in a Shallow Pond</a><div class="sum">David Edmonds is a Distinguished Research Fellow at the Uehiro Centre for Practical Ethics at the University of Oxford. He is the author or co-author of eighteen books translated into twenty-five languages, including Parfit, Would You Kill the Fat Man?, and, with John Eidinow, the bestseller Wittgenstein’s Poker. With Nigel Warburton, he co-hosts the podcast [&#8230;]</div></div></div>
+<div class="article"><div class="body"><a href="https://blog.apaonline.org/2026/08/28/apa-member-interview-graham-curtiss-rowlands/" target="_blank" rel="noopener">APA Member Interview: Graham Curtiss-Rowlands</a><div class="sum">Graham Curtiss-Rowlands is a philosophy PhD student at Washington University in St. Louis, who works primarily on social, political, and moral epistemology. His first published philosophy paper, “A Permissivism You Can Rely On,” is forthcoming in Synthese. What excites you about philosophy? I’m excited by the notion that philosophy is a sort of conceptual plumbing, [&#8230;]</div></div></div>
+<div class="article"><div class="body"><a href="https://blog.apaonline.org/2026/08/27/how-widows-bay-supports-a-mystic-epistemology/" target="_blank" rel="noopener">How Widow’s Bay Supports a Mystic Epistemology</a><div class="sum">Nathan Eckstrand is an editor at the Blog of the APA. The views expressed here are solely those of the author and do not necessarily represent the views of the American Philosophical Association or the Blog of the APA. Mystical experiences, or non-sensory awarenesses of situations that can’t be accessed normally, are incredibly diverse. They [&#8230;]</div></div></div>
+<div class="article"><div class="body"><a href="https://blog.apaonline.org/2026/08/26/on-exploring-the-space-of-ideas-why-offloading-to-ai-obscures-the-landscape/" target="_blank" rel="noopener">Offloading to AI Means Not Doing Philosophy: on the importance of exploring the space of ideas</a><div class="sum">When I write philosophy, my task is not merely to generate the most persuasive argument for some target claim. Rather, my task is to figure out what I ought to say. I often have the experience of setting out to write a paper with a conclusion in view, only to find that spelling out the [&#8230;]</div></div></div>
 </div>
-<div class="source-section">
-<h3 class="source-name">📰 The New European</h3>
-<div class="source-image">
-                <div class="img-container">
-                    <img src="https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/GettyImages-2155278161-e1777039569139.jpg" alt="Caroline Lucas: No10 ignored MI5 and MI6 warnings on climate change" class="content-img" loading="lazy" referrerpolicy="no-referrer"
-                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
-                         onload="this.parentElement.classList.add('img-loaded');">
-                    <div class="img-placeholder">📷</div>
-                </div>
-            </div>
-<ul class="article-list">
-<li><a href="https://www.thenewworld.co.uk/eleanor-longman-rood-caroline-lucas-no10-ignored-mi5-and-mi6-warnings-on-climate-change/" target="_blank" class="article-title">Caroline Lucas: No10 ignored MI5 and MI6 warnings on climate change</a></li>
-</ul>
-<p class="article-desc">The former Green Party leader says that the government wants to ignore the climate crisis and if Nigel Farage gets into ...</p>
-<div class="source-image">
-                <div class="img-container">
-                    <img src="https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/480_MARIE_ARTS-e1777026268458.jpg" alt="The state should subsidise creatives – it works in Ireland, and kept me going in lockdown" class="content-img" loading="lazy" referrerpolicy="no-referrer"
-                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
-                         onload="this.parentElement.classList.add('img-loaded');">
-                    <div class="img-placeholder">📷</div>
-                </div>
-            </div>
-<ul class="article-list">
-<li><a href="https://www.thenewworld.co.uk/marie-le-conte-the-state-should-subsidise-creatives-it-works-in-ireland-and-kept-me-going-in-lockdown/" target="_blank" class="article-title">The state should subsidise creatives – it works in Ireland, and kept me going in lockdown</a></li>
-</ul>
-<p class="article-desc">The Irish gave 2000 artists £283 a week, and more than recouped the cost of the scheme. Why not try it here?...</p>
-<div class="source-image">
-                <div class="img-container">
-                    <img src="https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/SHUKMAN_FARRIGHT-e1777024425292.jpg" alt="I spent a year infiltrating right wing extremist groups. This is what I found" class="content-img" loading="lazy" referrerpolicy="no-referrer"
-                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
-                         onload="this.parentElement.classList.add('img-loaded');">
-                    <div class="img-placeholder">📷</div>
-                </div>
-            </div>
-<ul class="article-list">
-<li><a href="https://www.thenewworld.co.uk/harry-shukman-i-spent-a-year-infiltrating-right-wing-extremist-groups-this-is-what-i-found/" target="_blank" class="article-title">I spent a year infiltrating right wing extremist groups. This is what I found</a></li>
-</ul>
-<p class="article-desc">The hard right in Britain has never been so influential and its influence is starting to encroach on the political mains...</p>
-<div class="source-image">
-                <div class="img-container">
-                    <img src="https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/480_TAYLOR_FARAGE.jpg" alt="Nigel Farage’s Trump problem" class="content-img" loading="lazy" referrerpolicy="no-referrer"
-                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
-                         onload="this.parentElement.classList.add('img-loaded');">
-                    <div class="img-placeholder">📷</div>
-                </div>
-            </div>
-<ul class="article-list">
-<li><a href="https://www.thenewworld.co.uk/ros-taylor-nigel-farages-trump-problem/" target="_blank" class="article-title">Nigel Farage’s Trump problem</a></li>
-</ul>
-<p class="article-desc">He was once a slavish devotee of the US president. But now Trump’s war on Iran has descended into catastrophic farce, th...</p>
-<div class="source-image">
-                <div class="img-container">
-                    <img src="https://www.thenewworld.co.uk/wp-content/uploads/sites/2/2026/04/PATIENCE-starmer.jpg" alt="Keir Starmer: his fatal character flaws" class="content-img" loading="lazy" referrerpolicy="no-referrer"
-                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
-                         onload="this.parentElement.classList.add('img-loaded');">
-                    <div class="img-placeholder">📷</div>
-                </div>
-            </div>
-<ul class="article-list">
-<li><a href="https://www.thenewworld.co.uk/patience-wheatcroft-keir-starmer-his-fatal-character-flaws/" target="_blank" class="article-title">Keir Starmer: his fatal character flaws</a></li>
-</ul>
-<p class="article-desc">The reason Starmer has been such a terrible prime minister is that he’s the wrong type of person for the role. To be PM,...</p>
+</section>
+<section class="region"><h2>💭 思想随笔</h2>
+<div class="source"><h3>Eurozine</h3>
+<div class="article"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="162" src="https://www.eurozine.com/wp-content/uploads/2026/08/Forced_Displacement_of_Gaza_Strip_Residents_During_the_Gaza-Israel_War_23-25-e1787752443496-300x162.jpg" style="float: right; margin-left: 5px;" width="300" /><div class="body"><a href="https://www.eurozine.com/israels-road-to-genocide/?utm_source=rss&utm_medium=rss&utm_campaign=israels-road-to-genocide" target="_blank" rel="noopener">Israel’s road to genocide</a><div class="sum">In inflicting overwhelming force on Gaza’s civilian population with the intention of expelling it abroad, Israel’s devastating response to the Hamas massacre on 7 October 2023 was consonant with, and rooted in, decades of state practice and ideology.</div></div></div>
+<div class="article"><div class="body"><a href="https://www.eurozine.com/der-geopolitische-kommunikationsmodus/?utm_source=rss&utm_medium=rss&utm_campaign=der-geopolitische-kommunikationsmodus" target="_blank" rel="noopener">Der geopolitische Kommunikationsmodus</a><div class="sum"></div></div></div>
+<div class="article"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="82" src="https://www.eurozine.com/wp-content/uploads/2026/08/Russian_bombardment_of_telecommunications_antennas_in_Kiev_3to4-300x82.jpg" style="float: right; margin-left: 5px;" width="300" /><div class="body"><a href="https://www.eurozine.com/the-geopolitical-mode-of-communication/?utm_source=rss&utm_medium=rss&utm_campaign=the-geopolitical-mode-of-communication" target="_blank" rel="noopener">The geopolitical mode of communication</a><div class="sum">Messages sent between friends reveal the experiential distance from inside and outside Ukraine. Can language – recorded sound or words on a screen – make the despicable legible? What is the personal impact of mediating these trials in communication? And is bodily presence the only true means of realizing what has become existential?</div></div></div>
+<div class="article"><img alt="" class="webfeedsFeaturedVisual wp-post-image" height="139" src="https://www.eurozine.com/wp-content/uploads/2026/08/Panda_crossing_animation_still_family_crossing-300x139.png" style="float: right; margin-left: 5px;" width="300" /><div class="body"><a href="https://www.eurozine.com/feminist-cities/?utm_source=rss&utm_medium=rss&utm_campaign=feminist-cities" target="_blank" rel="noopener">Feminist cities</a><div class="sum">Metropolitan public infrastructure has long been designed with getting from A to B in mind. This male-dominated approach negates layered activity and locations, or ‘trip chaining’, describing how many women navigate cities. Initiatives from across the Balkans redress the imbalance, putting women’s safety and working patterns first.</div></div></div>
+<div class="article"><div class="body"><a href="https://www.eurozine.com/tvoje-lice-zvuci-odvratno/?utm_source=rss&utm_medium=rss&utm_campaign=tvoje-lice-zvuci-odvratno" target="_blank" rel="noopener">Tvoje lice zvuči odvratno</a><div class="sum"></div></div></div>
 </div>
-<div class="source-section">
-<h3 class="source-name">📰 Eurozine</h3>
-<ul class="article-list">
-<li><a href="https://www.eurozine.com/samhallsexperiment-utan-experimentalism/?utm_source=rss&utm_medium=rss&utm_campaign=samhallsexperiment-utan-experimentalism" target="_blank" class="article-title">Samhällsexperiment utan experimentalism</a></li>
-</ul>
-<p class="article-desc">Framtiden är tillbaka. Men varför är det så svårt att föreställa sig en som inte är formulerad av tech-oligarker eller a...</p>
-<div class="source-image">
-                <div class="img-container">
-                    <img src="https://www.eurozine.com/wp-content/uploads/2026/04/il-Mulino_1_2026-300x225.jpg" alt="Which histories?" class="content-img" loading="lazy" referrerpolicy="no-referrer"
-                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
-                         onload="this.parentElement.classList.add('img-loaded');">
-                    <div class="img-placeholder">📷</div>
-                </div>
-            </div>
-<ul class="article-list">
-<li><a href="https://www.eurozine.com/which-histories/?utm_source=rss&utm_medium=rss&utm_campaign=which-histories" target="_blank" class="article-title">Which histories?</a></li>
-</ul>
-<p class="article-desc">Learning from the past in the age of singularity; teaching history without lecturing; the uses of history of science; th...</p>
-<div class="source-image">
-                <div class="img-container">
-                    <img src="https://www.eurozine.com/wp-content/uploads/2026/04/Merkur_923_2026-300x225.jpg" alt="The new infinity" class="content-img" loading="lazy" referrerpolicy="no-referrer"
-                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
-                         onload="this.parentElement.classList.add('img-loaded');">
-                    <div class="img-placeholder">📷</div>
-                </div>
-            </div>
-<ul class="article-list">
-<li><a href="https://www.eurozine.com/the-new-infinity/?utm_source=rss&utm_medium=rss&utm_campaign=the-new-infinity" target="_blank" class="article-title">The new infinity</a></li>
-</ul>
-<p class="article-desc">The challenge of regulating AI when it cannot be defined; AI and the devaluation of work; AI and the future of productiv...</p>
-<p class="article-desc">*📚 以上为近期内容*</p>
-</div>
-<h2>🌍 美洲</h2>
-<div class="source-section">
-<h3 class="source-name">📰 The Brains Blog</h3>
-<ul class="article-list">
-<li><a href="https://philosophyofbrains.com/2026/04/24/gilbert-ryle-1900-1976.aspx" target="_blank" class="article-title">Gilbert Ryle 1900–1976</a></li>
-</ul>
-<p class="article-desc">Mindcraft is a series of opinion posts on current issues in cognitive science by Brains Blog founder Gualtiero Piccinini...</p>
-<p class="article-desc">*关键词: discussion*</p>
-</div>
-<div class="source-section">
-<h3 class="source-name">📰 The Partially Examined Life</h3>
-<div class="source-image">
-                <div class="img-container">
-                    <img src="https://partiallyexaminedlife.com/wp-content/uploads/PvI116_Birds-300x256.jpg" alt="PvI#116: Full Bird Mode w/ BJ Lange" class="content-img" loading="lazy" referrerpolicy="no-referrer"
-                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
-                         onload="this.parentElement.classList.add('img-loaded');">
-                    <div class="img-placeholder">📷</div>
-                </div>
-            </div>
-<ul class="article-list">
-<li><a href="https://partiallyexaminedlife.com/2026/04/22/pvi116-birds-bj-lange/" target="_blank" class="article-title">PvI#116: Full Bird Mode w/ BJ Lange</a></li>
-</ul>
-<p class="article-desc">BJ is an LA improviser/actor/TV host (who teaches wounded warriors among others), and he chats with Mark and Mary about ...</p>
-<p class="article-desc">*关键词: philosophy*</p>
-<div class="source-image">
-                <div class="img-container">
-                    <img src="https://partiallyexaminedlife.com/wp-content/uploads/Bill_Pritchard__Credit_Luke_Hodgkinson_-17-300x200.jpg" alt="NEM#250: Bill Pritchard the Tourist" class="content-img" loading="lazy" referrerpolicy="no-referrer"
-                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
-                         onload="this.parentElement.classList.add('img-loaded');">
-                    <div class="img-placeholder">📷</div>
-                </div>
-            </div>
-<ul class="article-list">
-<li><a href="https://partiallyexaminedlife.com/2026/04/22/nem250-bill-pritchard/" target="_blank" class="article-title">NEM#250: Bill Pritchard the Tourist</a></li>
-</ul>
-<p class="article-desc">Bill is a singer/songwriter who recorded five albums of catchy tunes between 1989 and 1991, then retired but came back a...</p>
-<p class="article-desc">*关键词: philosophy*</p>
-</div>
-<div class="source-section">
-<h3 class="source-name">📰 APA Blog</h3>
-<ul class="article-list">
-<li><a href="https://blog.apaonline.org/2026/04/24/apa-member-interview-shaun-gallagher/" target="_blank" class="article-title">APA Member Interview: Shaun Gallagher</a></li>
-</ul>
-<p class="article-desc">The APA Blog is publishing excerpts from Cliff Sosis&#8217;s long-form interviews with philosophers, which appear at his...</p>
-<ul class="article-list">
-<li><a href="https://blog.apaonline.org/2026/04/24/recently-published-book-spotlight-why-plato-matters-now/" target="_blank" class="article-title">Recently Published Book Spotlight: Why Plato Matters Now</a></li>
-</ul>
-<p class="article-desc">Angie Hobbs is Professor of the Public Understanding of Philosophy Emerita at the University of Sheffield. A leading sch...</p>
-<p class="article-desc">*关键词: philosophy, ancient philosophy, scholar*</p>
-</div>
-<div class="source-section">
-<h3 class="source-name">📰 Stanford Encyclopedia of Philosophy</h3>
-<ul class="article-list">
-<li><a href="https://plato.stanford.edu/entries/plato/" target="_blank" class="article-title">Plato</a></li>
-</ul>
-<p class="article-desc">[Revised entry by Richard Kraut on April 24, 2026.</p>
-<p class="article-desc">Changes to: Main text, Bibliography]</p>
-<p class="article-desc">Plato (429? - 347 B.C.E.) is, ...</p>
-<p class="article-desc">*关键词: philosophy*</p>
-<ul class="article-list">
-<li><a href="https://plato.stanford.edu/entries/inheritance-systems/" target="_blank" class="article-title">Inheritance Systems</a></li>
-</ul>
-<p class="article-desc">[Revised entry by Ehud Lamm on April 26, 2026.</p>
-<p class="article-desc">Changes to: Main text, Bibliography, notes.html]</p>
-<p class="article-desc">Organisms inherit vari...</p>
-<p class="article-desc">*关键词: logic*</p>
-</div>
-<div class="source-section">
-<h3 class="source-name">📰 Daily Nous</h3>
-<div class="source-image">
-                <div class="img-container">
-                    <img src="https://dailynous.com/wp-content/uploads/2026/04/shootdatahere.png" alt="Where Should I Publish My X-Phi? A New Resource (guest post)" class="content-img" loading="lazy" referrerpolicy="no-referrer"
-                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
-                         onload="this.parentElement.classList.add('img-loaded');">
-                    <div class="img-placeholder">📷</div>
-                </div>
-            </div>
-<ul class="article-list">
-<li><a href="https://dailynous.com/2026/04/24/where-should-i-publish-my-x-phi-a-new-resource-guest-post/" target="_blank" class="article-title">Where Should I Publish My X-Phi? A New Resource (guest post)</a></li>
-</ul>
-<p class="article-desc">Some philosophy journals seem friendlier to work in experimental philosophy (x-phi) than others. You may have a sense ab...</p>
-<p class="article-desc">*关键词: philosophy, scholar*</p>
-<div class="source-image">
-                <div class="img-container">
-                    <img src="https://dailynous.com/wp-content/uploads/2026/04/socrates-hand-tattoo.jpg" alt="Philosophical Tattoos?" class="content-img" loading="lazy" referrerpolicy="no-referrer"
-                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
-                         onload="this.parentElement.classList.add('img-loaded');">
-                    <div class="img-placeholder">📷</div>
-                </div>
-            </div>
-<ul class="article-list">
-<li><a href="https://dailynous.com/2026/04/24/philosophical-tattoos/" target="_blank" class="article-title">Philosophical Tattoos?</a></li>
-</ul>
-<p class="article-desc">Plenty of philosophers have tattoos, but how many philosophers have philosophy tattoos? And what are they of? A graduate...</p>
-<p class="article-desc">*关键词: philosophy, philosophical*</p>
-<div class="source-image">
-                <div class="img-container">
-                    <img src="https://dailynous.com/wp-content/uploads/2026/04/kern-nebel.png" alt="Kern & Nebel Win Sanders Political Philosophy Prize" class="content-img" loading="lazy" referrerpolicy="no-referrer"
-                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
-                         onload="this.parentElement.classList.add('img-loaded');">
-                    <div class="img-placeholder">📷</div>
-                </div>
-            </div>
-<ul class="article-list">
-<li><a href="https://dailynous.com/2026/04/24/kern-nebel-win-sanders-political-philosophy-prize/" target="_blank" class="article-title">Kern & Nebel Win Sanders Political Philosophy Prize</a></li>
-</ul>
-<p class="article-desc">The Marc Sanders Foundation has announced that its 2026 Prize in Political Philosophy has been awarded to Adam Kern (Uni...</p>
-<p class="article-desc">*关键词: philosophy, ethics, political philosophy*</p>
-</div>
-<div class="source-section">
-<h3 class="source-name">📰 Experimental Philosophy</h3>
-<div class="source-image">
-                <div class="img-container">
-                    <img src="https://xphi.net/wordpress/wp-content/uploads/2026/04/ahmadardity-books-2463779-1024x721.jpg" alt="Where should I publish my X-Phi? A new resource" class="content-img" loading="lazy" referrerpolicy="no-referrer"
-                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
-                         onload="this.parentElement.classList.add('img-loaded');">
-                    <div class="img-placeholder">📷</div>
-                </div>
-            </div>
-<ul class="article-list">
-<li><a href="https://xphi.net/2026/04/22/where-should-i-publish-my-x-phi-a-new-resource/" target="_blank" class="article-title">Where should I publish my X-Phi? A new resource</a></li>
-</ul>
-<p class="article-desc">We are excited to announce a new community resource to help experimental philosophers choose journals for their work....</p>
-<ul class="article-list">
-<li><a href="https://xphi.net/2026/04/20/call-the-new-measurement-heretics/" target="_blank" class="article-title">Call: “The New Measurement Heretics”</a></li>
-</ul>
-<p class="article-desc">Following the “Measurement Heretics Workshop – Being, Meaning, and Measuring Well,” Rebecca Jackson, Michele Luchetti, M...</p>
-<p class="article-desc">*关键词: workshop*</p>
-<p class="article-desc">*📚 以上为近期内容*</p>
-</div>
-<div class="source-section">
-<h3 class="source-name">📰 3:AM Magazine</h3>
-<div class="source-image">
-                <div class="img-container">
-                    <img src="https://www.3ammagazine.com/wp-content/uploads/2026/02/featherman-banner.jpg" alt="Silly Dance, No Mercy" class="content-img" loading="lazy" referrerpolicy="no-referrer"
-                         onerror="this.style.display='none'; this.parentElement.classList.add('img-error');"
-                         onload="this.parentElement.classList.add('img-loaded');">
-                    <div class="img-placeholder">📷</div>
-                </div>
-            </div>
-<ul class="article-list">
-<li><a href="https://www.3ammagazine.com/3am/silly-dance-no-mercy/" target="_blank" class="article-title">Silly Dance, No Mercy</a></li>
-</ul>
-<p class="article-desc">He did a silly dance in a bar, a dance so silly that it had no regard for choreography, ego, or social order. At the aft...</p>
-<p class="article-desc">*📚 以上为近期内容*</p>
-</div>
-<h2>🌍 非洲</h2>
-<div class="source-section">
-<h3 class="source-name">📰 South African Journal of Philosophy</h3>
-<ul class="article-list">
-<li><a href="https://www.tandfonline.com/doi/full/10.1080/02580136.2026.2645251?af=R" target="_blank" class="article-title">Ubuntu, generative AI and machine-mediated relationships in South Africa</a></li>
-</ul>
-<p class="article-desc">Volume 45, Issue 1, April 2026, Page 90-101....</p>
-<ul class="article-list">
-<li><a href="https://www.tandfonline.com/doi/full/10.1080/02580136.2026.2638052?af=R" target="_blank" class="article-title">Research on the moral status of social robots based on relational continuity</a></li>
-</ul>
-<p class="article-desc">Volume 45, Issue 1, April 2026, Page 78-89....</p>
-<ul class="article-list">
-<li><a href="https://www.tandfonline.com/doi/full/10.1080/02580136.2026.2638050?af=R" target="_blank" class="article-title">Camus and the question of suicide: Addressing some misconceptions</a></li>
-</ul>
-<p class="article-desc">Volume 45, Issue 1, April 2026, Page 67-77....</p>
-<ul class="article-list">
-<li><a href="https://www.tandfonline.com/doi/full/10.1080/02580136.2026.2638049?af=R" target="_blank" class="article-title">Conceptualising environmental justice through epistemic justice in Africa</a></li>
-</ul>
-<p class="article-desc">Volume 45, Issue 1, April 2026, Page 53-66....</p>
-<ul class="article-list">
-<li><a href="https://www.tandfonline.com/doi/full/10.1080/02580136.2026.2636390?af=R" target="_blank" class="article-title">Community, violence and the passerby: Nancy and Mbembe on our being-in-common in a globalised world</a></li>
-</ul>
-<p class="article-desc">Volume 45, Issue 1, April 2026, Page 39-52....</p>
-</div>
-<hr>
-<p class="article-desc">*报告生成时间: 2026-04-26 03:06*</p>
-<p class="article-desc">*Atlas Intelligence System*</p>
-        </div>
-        
-        <footer>
-            <p>Atlas Intelligence System</p>
-        </footer>
-    </div>
-</body>
-</html>
+</section>
+<footer>📘 由 rss-pipeline 自动生成 · 2026-08-29 14:36</footer>
+</div></body></html>
